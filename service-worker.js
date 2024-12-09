@@ -5,7 +5,7 @@ const urlsToCache = [
     '/index.html',
     '/styles.css',
     '/scripts.js',
-    '/images/logo.png',
+    '/cursos/14.01-fall-2018/index.html',
     // Add more assets as needed
 ];
 
