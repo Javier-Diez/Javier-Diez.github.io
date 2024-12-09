@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Assignments on MIT OpenCourseWare</title>
+    <link>/resources/assignments/</link>
+    <description>Recent content in Assignments on MIT OpenCourseWare</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language><atom:link href="/resources/assignments/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Assignments</title>
+      <link>/pages/assignments/data.json</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/pages/assignments/data.json</guid>
+      <description>Problem sets are due on the day of the lecture listed and must be submitted before the start of class. They can be completed individually or in study groups.
+SES # ASSIGNMENTS L4 Problem Set 1 (PDF) L6 Problem Set 2 (PDF) L10 Problem Set 3 (PDF) L16 Problem Set 4 (PDF) Two days after L18 Problem Set 5 (PDF) </description>
+    </item>
+    
+    <item>
+      <title>pset1.pdf</title>
+      <link>/resources/pset1/data.json</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/resources/pset1/data.json</guid>
+      <description>Problems related to the use of the Balance Sheet Equation to record transactions and for the preparation of financial statements</description>
+    </item>
+    
+    <item>
+      <title>pset2.pdf</title>
+      <link>/resources/pset2/data.json</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/resources/pset2/data.json</guid>
+      <description>The following questions refer to the Chemalite, Inc case in the course pack (Wilson, David A. ?Chemalite,Inc.? Boston,,MA: Harvard Business School, 2003. Case No. 9-177-078). You should ignore the 5 questions at the end of the case and answer the following in their place.</description>
+    </item>
+    
+    <item>
+      <title>pset3.pdf</title>
+      <link>/resources/pset3/data.json</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/resources/pset3/data.json</guid>
+      <description>Problems related to revenue recognition and accounting for account receivables.</description>
+    </item>
+    
+    <item>
+      <title>pset4.pdf</title>
+      <link>/resources/pset4/data.json</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/resources/pset4/data.json</guid>
+      <description>Problems related to accounting for depreciation, delta-pan am airlines case write-up, depreciation calculation, and inferring cash flows from depreciation disclosures.</description>
+    </item>
+    
+    <item>
+      <title>pset5.pdf</title>
+      <link>/resources/pset5/data.json</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/resources/pset5/data.json</guid>
+      <description>Problems related to deferred taxes and marketable securities.</description>
+    </item>
+    
+  </channel>
+</rss>

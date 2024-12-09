@@ -1,0 +1,226 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Lecture Notes on MIT OpenCourseWare</title>
+    <link>/resources/lecture-notes/</link>
+    <description>Recent content in Lecture Notes on MIT OpenCourseWare</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language><atom:link href="/resources/lecture-notes/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>lec_final_review.pdf</title>
+      <link>/resources/lec_final_review/data.json</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/resources/lec_final_review/data.json</guid>
+      <description>Lecture presentation.</description>
+    </item>
+    
+    <item>
+      <title>lec19cost_acc.pdf</title>
+      <link>/resources/lec19cost_acc/data.json</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/resources/lec19cost_acc/data.json</guid>
+      <description>Lecture presentation covering the following topics: Overview of managerial accounting issues, Cost accounting terminology, Cost behavior, Product costing: traditional method, Product costing: activity based costing.</description>
+    </item>
+    
+    <item>
+      <title>lec20cost_alloca.pdf</title>
+      <link>/resources/lec20cost_alloca/data.json</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/resources/lec20cost_alloca/data.json</guid>
+      <description>Lecture presentation covering the following topics: cost allocation and Destin Brass.</description>
+    </item>
+    
+    <item>
+      <title>lec21cost_alloii.pdf</title>
+      <link>/resources/lec21cost_alloii/data.json</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/resources/lec21cost_alloii/data.json</guid>
+      <description>Lecture presentation covering the following topics: cost allocation and death spirals.</description>
+    </item>
+    
+    <item>
+      <title>Lecture Notes</title>
+      <link>/pages/lecture-notes/data.json</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/pages/lecture-notes/data.json</guid>
+      <description> LEC # TOPICS 1 Overview of the course, Administrative matters, Discussion of Accounting Framework (PDF) 2 The Balance Sheet and the Recording of Transactions (PDF) 3 The Income Statement and Principles of Accrual Accounting (PDF) 4 The Income Statement and Principles of Accrual Accounting (cont.) (PDF) 5 The Accounting Process (PDF) 6 Revenue Recognition (PDF) 7 Revenue Recognition (cont.) (PDF) 8 Inventory/Cost of Goods Sold (PDF) 9 Statement of Cash Flow (PDF) 10 More on the Statement of Cash Flows/Exam Review (PDF) 11 First Exam 12 Long-term Assets/Depreciation (Deferred Taxes) (PDF) 13 Matching Principle for PP&amp;amp;E (PDF) 14 Marketable Securities (Deferred Taxes) (PDF) 15 Marketable Securities, Time Value of Money (PDF) 16 Long Term Debt (PDF) 17 Leases and Off-Balance Sheet Financing (PDF) 18 Current Liabilities and Contingencies 19 Midterm 2 Review (PDF) 20 Second Exam 21 Intangibles and Business Combinations (PDF) 22 Introduction to Cost Concepts (PDF) 23 Indirect Allocation of Costs, Destin Brass (PDF) 24 ABC, Destin Brass (PDF) 25 Managerial Accounting Wrap-up, Seligram Discussion 26 Course Review/Wrap-up (PDF) Final Exam </description>
+    </item>
+    
+    <item>
+      <title>lecture1.pdf</title>
+      <link>/resources/lecture1/data.json</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/resources/lecture1/data.json</guid>
+      <description>Lecture presentation covering the following topics: basic accounting and an overview of information in financial statements.</description>
+    </item>
+    
+    <item>
+      <title>lecture10.pdf</title>
+      <link>/resources/lecture10/data.json</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/resources/lecture10/data.json</guid>
+      <description>Lecture presentation containing a discussion of the structure and topics of the midterm exam.</description>
+    </item>
+    
+    <item>
+      <title>lecture11_mar15.pdf</title>
+      <link>/resources/lecture11_mar15/data.json</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/resources/lecture11_mar15/data.json</guid>
+      <description>Lecture presentation covering the following topics: matching principle assets, difference between book vs. tax accounting.</description>
+    </item>
+    
+    <item>
+      <title>lecture12.pdf</title>
+      <link>/resources/lecture12/data.json</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/resources/lecture12/data.json</guid>
+      <description>Lecture presentation covering the following topic: Changes in Depriciation Estimates caused by the change in asset life or Salvage value.</description>
+    </item>
+    
+    <item>
+      <title>lecture13market.pdf</title>
+      <link>/resources/lecture13market/data.json</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/resources/lecture13market/data.json</guid>
+      <description>Lecture presentation covering the following topics: Marketable Securities and Deferred Taxes, and understand the Income Statement effects of valuation adjustments.</description>
+    </item>
+    
+    <item>
+      <title>lecture14.pdf</title>
+      <link>/resources/lecture14/data.json</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/resources/lecture14/data.json</guid>
+      <description>Lecture presentation covering the following topics: Marketable Securities and Time Value of Money.</description>
+    </item>
+    
+    <item>
+      <title>lecture15long.pdf</title>
+      <link>/resources/lecture15long/data.json</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/resources/lecture15long/data.json</guid>
+      <description>Lecture presentation.</description>
+    </item>
+    
+    <item>
+      <title>lecture16le_acc.pdf</title>
+      <link>/resources/lecture16le_acc/data.json</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/resources/lecture16le_acc/data.json</guid>
+      <description>Lecture presentation.</description>
+    </item>
+    
+    <item>
+      <title>lecture17sec_mid.pdf</title>
+      <link>/resources/lecture17sec_mid/data.json</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/resources/lecture17sec_mid/data.json</guid>
+      <description>Exam structure of Midterm II Spring 2004.</description>
+    </item>
+    
+    <item>
+      <title>lecture18bu_comb.pdf</title>
+      <link>/resources/lecture18bu_comb/data.json</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/resources/lecture18bu_comb/data.json</guid>
+      <description>Lecture presentation.</description>
+    </item>
+    
+    <item>
+      <title>lecture22seligra.pdf</title>
+      <link>/resources/lecture22seligra/data.json</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/resources/lecture22seligra/data.json</guid>
+      <description>Lecture presentation.</description>
+    </item>
+    
+    <item>
+      <title>lecture2resaved.pdf</title>
+      <link>/resources/lecture2resaved/data.json</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/resources/lecture2resaved/data.json</guid>
+      <description>Lecture presentation.</description>
+    </item>
+    
+    <item>
+      <title>lecture3.pdf</title>
+      <link>/resources/lecture3/data.json</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/resources/lecture3/data.json</guid>
+      <description>Lecture presentation covering the following topics: Results of Operating Performanceand a discussion on assets.</description>
+    </item>
+    
+    <item>
+      <title>lecture4.pdf</title>
+      <link>/resources/lecture4/data.json</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/resources/lecture4/data.json</guid>
+      <description>Lecture presentation.</description>
+    </item>
+    
+    <item>
+      <title>lecture5_feb18.pdf</title>
+      <link>/resources/lecture5_feb18/data.json</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/resources/lecture5_feb18/data.json</guid>
+      <description>Lecture presentation.</description>
+    </item>
+    
+    <item>
+      <title>lecture6.pdf</title>
+      <link>/resources/lecture6/data.json</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/resources/lecture6/data.json</guid>
+      <description>Lecture presentation covering the following topics: receivables and revenue recognition.</description>
+    </item>
+    
+    <item>
+      <title>lecture7.pdf</title>
+      <link>/resources/lecture7/data.json</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/resources/lecture7/data.json</guid>
+      <description>Lecture presentation.</description>
+    </item>
+    
+    <item>
+      <title>lecture8.pdf</title>
+      <link>/resources/lecture8/data.json</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/resources/lecture8/data.json</guid>
+      <description>Lecture presentation covering the following topics: Inventory and the cost of goods sold.</description>
+    </item>
+    
+    <item>
+      <title>lecture9.pdf</title>
+      <link>/resources/lecture9/data.json</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/resources/lecture9/data.json</guid>
+      <description>Lecture presentation covering the following topics: Reports operating cash flow as well as other cash flow information.</description>
+    </item>
+    
+  </channel>
+</rss>

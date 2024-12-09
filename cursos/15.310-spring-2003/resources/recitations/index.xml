@@ -1,0 +1,101 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Recitations on MIT OpenCourseWare</title>
+    <link>/resources/recitations/</link>
+    <description>Recent content in Recitations on MIT OpenCourseWare</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language><atom:link href="/resources/recitations/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>recitation04_feb_28_03_experimental_designI.pdf</title>
+      <link>/resources/recitation04_feb_28_03_experimental_designi/data.json</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/resources/recitation04_feb_28_03_experimental_designi/data.json</guid>
+      <description>This resource contains information related to good experiment, first experiment, art of setting experiments, single cell designs, random assignment, the importance of manipulations and interactions.</description>
+    </item>
+    
+    <item>
+      <title>recitation05march0703ideas.pdf</title>
+      <link>/resources/recitation05march0703ideas/data.json</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/resources/recitation05march0703ideas/data.json</guid>
+      <description>Ideas</description>
+    </item>
+    
+    <item>
+      <title>recitation06march1403hypothesistesting.pdf</title>
+      <link>/resources/recitation06march1403hypothesistesting/data.json</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/resources/recitation06march1403hypothesistesting/data.json</guid>
+      <description>Hypothesis testing I</description>
+    </item>
+    
+    <item>
+      <title>recitation07april0403probability.pdf</title>
+      <link>/resources/recitation07april0403probability/data.json</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/resources/recitation07april0403probability/data.json</guid>
+      <description>Probability</description>
+    </item>
+    
+    <item>
+      <title>recitation08april1103simplestatistics1.pdf</title>
+      <link>/resources/recitation08april1103simplestatistics1/data.json</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/resources/recitation08april1103simplestatistics1/data.json</guid>
+      <description>Simple statistics</description>
+    </item>
+    
+    <item>
+      <title>recitation09april2503_simplestatistics2.pdf</title>
+      <link>/resources/recitation09april2503_simplestatistics2/data.json</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/resources/recitation09april2503_simplestatistics2/data.json</guid>
+      <description>Statistics 2</description>
+    </item>
+    
+    <item>
+      <title>recitation1_feb_07_03_what_are_good_questions_for_your_project.pdf</title>
+      <link>/resources/recitation1_feb_07_03_what_are_good_questions_for_your_project/data.json</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/resources/recitation1_feb_07_03_what_are_good_questions_for_your_project/data.json</guid>
+      <description>This resource contains information related to the good questions for your project, ethcics in research, stanley&amp;rsquo;s milgram electrical shocking, and a few interesting projects.</description>
+    </item>
+    
+    <item>
+      <title>recitation2Feb1403criticalthinking.pdf</title>
+      <link>/resources/recitation2feb1403criticalthinking/data.json</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/resources/recitation2feb1403criticalthinking/data.json</guid>
+      <description>Critical thinking</description>
+    </item>
+    
+    <item>
+      <title>recitation3feb2103takingmeasurements.pdf</title>
+      <link>/resources/recitation3feb2103takingmeasurements/data.json</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/resources/recitation3feb2103takingmeasurements/data.json</guid>
+      <description>Taking Measurements</description>
+    </item>
+    
+    <item>
+      <title>Recitations</title>
+      <link>/pages/recitations/data.json</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/pages/recitations/data.json</guid>
+      <description>The following recitation notes are from the undergraduate version of the course.
+REC # Topics Files 1 Introduction: What are good questions for your project? (PDF) 2 Critical Thinking (PDF) 3 Taking Measurements (PDF) 4 Experimental Design I (PDF) 5 Feedback about Projects (PDF) 6 Probablility Theory, Sampling and Randomness (PDF) 7 Probability (PDF - 1.0MB) 8 Simple Statistics I (PDF - 1.7MB) 9 Statistics Homework (PDF - 1.3MB) </description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,23 @@
+{
+  "course_title":"Taxes and Business Strategy",
+  "course_description":"Traditional finance and other business courses analyze a broad spectrum of factors affecting business decision-making but typically give little systematic consideration to the role of taxes. In contrast, traditional tax accounting courses concentrate on administrative issues while ignoring the richness of the context in which tax factors operate. The objective of the course is to bridge this gap by providing a framework for recognizing tax planning opportunities and applying basic principles of tax strategy.\n",
+  "course_description_html":"Traditional finance and other business courses analyze a broad spectrum of factors affecting business decision-making but typically give little systematic consideration to the role of taxes. In contrast, traditional tax accounting courses concentrate on administrative issues while ignoring the richness of the context in which tax factors operate. The objective of the course is to bridge this gap by providing a framework for recognizing tax planning opportunities and applying basic principles of tax strategy.",
+  "site_uid":"c3f9d8e0-4e29-4c9a-b615-6d33fc0e2992",
+  "legacy_uid":"d7004779-65e8-9f93-4b86-9364cefe2052","instructors": [{
+    "first_name":"George",
+    "last_name":"Plesko",
+    "middle_initial":"",
+    "salutation":"Prof.",
+    "title":"Prof. George Plesko"}],"department_numbers":["15"],
+  "learning_resource_types":["Lecture Notes","Problem Sets"],
+  "topics":[["Social Science","Economics","Industrial Organization"],["Business","Finance"],["Business","Management"]],
+  "mit_learn_topics":null,
+  "primary_course_number":"15.518",
+  "extra_course_numbers":"",
+  "term":"Fall",
+  "year":"2002",
+  "level":["Graduate"],
+  "hide_download":null,
+  "image_src":"./static_resources/cff5dc4d0545e629a5268d9d510be65a_15-518f02.jpg",
+  "course_image_metadata":{"content_type":"resource","description":"","draft":false,"file":"/courses/15-518-taxes-and-business-strategy-fall-2002/cff5dc4d0545e629a5268d9d510be65a_15-518f02.jpg","file_size":96068,"file_type":"image/jpeg","image_metadata":{"caption":"Skyscrapers in Chicago. (Photo courtesy of Sandra Mallalieu.)","credit":"","image-alt":"A photo of modern skyscrapers in Chicago."},"iscjklanguage":false,"learning_resource_types":[],"license":"https://creativecommons.org/licenses/by-nc-sa/4.0/","ocw_type":"OCWImage","resourcetype":"Image","title":"15-518f02.jpg","uid":"cff5dc4d-0545-e629-a526-8d9d510be65a"}}
+

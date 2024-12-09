@@ -1,0 +1,23 @@
+{
+  "course_title":"FinTech: Shaping the Financial World ",
+  "course_description":"This course about financial technology, or FinTech, is for students wishing to explore the ways in which new technologies are disrupting the financial services industry—driving material change in business models, products, applications and customer user interface. Amongst the significant technological trends affecting financial services into the 2020’s, the class will explore AI, deep learning, blockchain technology and open APIs. Students will gain an understanding of the key technologies, market structure, participants, regulation and the dynamics of change being brought about by FinTech.\n",
+  "course_description_html":"This course about financial technology, or FinTech, is for students wishing to explore the ways in which new technologies are disrupting the financial services industry—driving material change in business models, products, applications and customer user interface. Amongst the significant technological trends affecting financial services into the 2020’s, the class will explore AI, deep learning, blockchain technology and open APIs. Students will gain an understanding of the key technologies, market structure, participants, regulation and the dynamics of change being brought about by FinTech.",
+  "site_uid":"7ebfec8b-b6d6-4240-b7cd-7f2bda1fc7d8",
+  "legacy_uid":"1cae17b3-3423-d61c-ef46-10157b8d6c94","instructors": [{
+    "first_name":"Gary",
+    "last_name":"Gensler",
+    "middle_initial":"",
+    "salutation":"Prof.",
+    "title":"Prof. Gary Gensler"}],"department_numbers":["15"],
+  "learning_resource_types":["Lecture Videos","Lecture Notes","Written Assignments","Instructor Insights"],
+  "topics":[["Business","Finance"],["Business","Information Technology"],["Business","Innovation"],["Engineering","Computer Science"],["Engineering","Computer Science","Artificial Intelligence"]],
+  "mit_learn_topics":null,
+  "primary_course_number":"15.S08",
+  "extra_course_numbers":"",
+  "term":"Spring",
+  "year":"2020",
+  "level":["Graduate"],
+  "hide_download":null,
+  "image_src":"./static_resources/b6d26d8a1afdc660d742c93abcba73e1_15-s08s20.jpg",
+  "course_image_metadata":{"content_type":"resource","description":"","draft":false,"file":"/courses/15-s08-fintech-shaping-the-financial-world-spring-2020/b6d26d8a1afdc660d742c93abcba73e1_15-s08s20.jpg","file_size":42571,"file_type":"image/jpeg","image_metadata":{"caption":"Mobile payment apps for smartphones have become increasingly popular among consumers and are replacing cash, checks, and credit cards. Payments are covered in Class #6. (Image by [Jason Howie](https://www.flickr.com/photos/jasonahowie/8583948123/in/photolist-e5wYHz-itkdqu-gqHwjz-frvfwj-j1uJvY-odWsjs-nRAk3Z-gCy7us-hBL7iE-hBLTVv-oAG3Zk-ozmZfM-oA8yjf-e5wYQP-e5wZsg-e5wZiR-dfrA1r-e5wYBB-fBMfWg-fXZdfG-frfYxX-ftHr4p-gpnKEj-hz4gKQ-jh6WQX-gZmzyq-fMLwTU-g3urqq-g3uejH-fPf5Qe-fAbgNK-g3tS18-fMDFMy-cM2P8S-bw4pa2-bvLvBV-bL1bk6-eBaySs-eBayn3-bVTr1b-d2Uvas-e1S7LM-dfrEJi-oSCaXH-frfY3i-eHmjai-f3WKrk-ca4hEG-bLouSe-bu5dkA) on Flickr. License: CC BY.)","credit":"Image by Jason Howie. Flickr CC BY","image-alt":"A close-up of the screen of a smartphone  that has many colorful shopping apps open. "},"iscjklanguage":false,"learning_resource_types":[],"license":"https://creativecommons.org/licenses/by-nc-sa/4.0/","ocw_type":"OCWImage","resourcetype":"Image","title":"15-s08s20.jpg","uid":"b6d26d8a-1afd-c660-d742-c93abcba73e1"}}
+

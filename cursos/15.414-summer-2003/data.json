@@ -1,0 +1,23 @@
+{
+  "course_title":"Financial Management",
+  "course_description":"Financial Management studies corporate finance and capital markets, emphasizing the financial aspects of managerial decisions. It touches on all areas of finance, including the valuation of real and financial assets, risk management and financial derivatives, the trade-off between risk and expected return, and corporate financing and dividend policy. The course draws heavily on empirical research to help guide managerial decisions.\n",
+  "course_description_html":"Financial Management studies corporate finance and capital markets, emphasizing the financial aspects of managerial decisions. It touches on all areas of finance, including the valuation of real and financial assets, risk management and financial derivatives, the trade-off between risk and expected return, and corporate financing and dividend policy. The course draws heavily on empirical research to help guide managerial decisions.",
+  "site_uid":"f95c0309-a4df-426c-a515-5ff6b57d2ab4",
+  "legacy_uid":"0bafb88e-4f95-7dc9-b920-557840b0a18c","instructors": [{
+    "first_name":"Jonathan",
+    "last_name":"Lewellen",
+    "middle_initial":"",
+    "salutation":"Prof.",
+    "title":"Prof. Jonathan Lewellen"}],"department_numbers":["15"],
+  "learning_resource_types":["Problem Sets","Exams","Lecture Notes","Written Assignments"],
+  "topics":[["Business","Finance"],["Business","Management"],["Social Science","Economics","Financial Economics"]],
+  "mit_learn_topics":null,
+  "primary_course_number":"15.414",
+  "extra_course_numbers":"",
+  "term":"Summer",
+  "year":"2003",
+  "level":["Graduate"],
+  "hide_download":null,
+  "image_src":"./static_resources/c9cc72af3aa4c28321f09fbeedb02051_15-414su03.jpg",
+  "course_image_metadata":{"content_type":"resource","description":"","draft":false,"file":"/courses/15-414-financial-management-summer-2003/c9cc72af3aa4c28321f09fbeedb02051_15-414su03.jpg","file_size":137318,"file_type":"image/jpeg","image_metadata":{"caption":"Stock ticker. (Photo courtesy of [openphoto.net](http://openphoto.net).)","credit":"","image-alt":"Phot of a billboard displaying a stock ticker."},"iscjklanguage":false,"learning_resource_types":[],"license":"https://creativecommons.org/licenses/by-nc-sa/4.0/","ocw_type":"OCWImage","resourcetype":"Image","title":"15-414su03.jpg","uid":"c9cc72af-3aa4-c283-21f0-9fbeedb02051"}}
+

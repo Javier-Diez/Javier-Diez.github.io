@@ -1,0 +1,178 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Exams on MIT OpenCourseWare</title>
+    <link>/resources/exams/</link>
+    <description>Recent content in Exams on MIT OpenCourseWare</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language><atom:link href="/resources/exams/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>15433_spring03_final_solution.pdf</title>
+      <link>/resources/15433_spring03_final_solution/data.json</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/resources/15433_spring03_final_solution/data.json</guid>
+      <description>Final Exam Spring 2003</description>
+    </item>
+    
+    <item>
+      <title>15433spring03_mid_term_solution.pdf</title>
+      <link>/resources/15433spring03_mid_term_solution/data.json</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/resources/15433spring03_mid_term_solution/data.json</guid>
+      <description>Mid-Term Spring 2003</description>
+    </item>
+    
+    <item>
+      <title>Exams</title>
+      <link>/pages/exams/data.json</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/pages/exams/data.json</guid>
+      <description>Quizzes Quiz 1 (PDF)
+Quiz 2 (PDF)
+Quiz 3 (PDF)
+Quiz 4 (PDF)
+Quiz 5 (PDF)
+Quiz 6 (PDF)
+Quiz 7 (PDF)
+Quizzes with Solutions Mid-term solution (PDF)
+Final solution (PDF)
+Quiz 1 solution (PDF)
+Quiz 2 solution (PDF)
+Quiz 3 solution (PDF)
+Quiz 4 solution (PDF)
+Quiz 5 solution (PDF)
+Quiz 6 solution (PDF)
+Quiz 7 solution (PDF)</description>
+    </item>
+    
+    <item>
+      <title>quizapril_1_solutions.pdf</title>
+      <link>/resources/quizapril_1_solutions/data.json</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/resources/quizapril_1_solutions/data.json</guid>
+      <description>Quiz For Lecture # 13</description>
+    </item>
+    
+    <item>
+      <title>quizapril_1.pdf</title>
+      <link>/resources/quizapril_1/data.json</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/resources/quizapril_1/data.json</guid>
+      <description>Quiz For Lecture # 13</description>
+    </item>
+    
+    <item>
+      <title>quizfebruary_25_solutions.pdf</title>
+      <link>/resources/quizfebruary_25_solutions/data.json</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/resources/quizfebruary_25_solutions/data.json</guid>
+      <description>Quiz For Lecture # 6</description>
+    </item>
+    
+    <item>
+      <title>quizfebruary_25.pdf</title>
+      <link>/resources/quizfebruary_25/data.json</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/resources/quizfebruary_25/data.json</guid>
+      <description>Quiz For Lecture # 6</description>
+    </item>
+    
+    <item>
+      <title>quizfebruary_27_solutions.pdf</title>
+      <link>/resources/quizfebruary_27_solutions/data.json</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/resources/quizfebruary_27_solutions/data.json</guid>
+      <description>Quiz For Lecture # 7</description>
+    </item>
+    
+    <item>
+      <title>quizfebruary_27.pdf</title>
+      <link>/resources/quizfebruary_27/data.json</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/resources/quizfebruary_27/data.json</guid>
+      <description>Quiz For Lecture # 7</description>
+    </item>
+    
+    <item>
+      <title>quizmarch_11_solutions.pdf</title>
+      <link>/resources/quizmarch_11_solutions/data.json</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/resources/quizmarch_11_solutions/data.json</guid>
+      <description>Quiz For Lecture # 10</description>
+    </item>
+    
+    <item>
+      <title>quizmarch_11.pdf</title>
+      <link>/resources/quizmarch_11/data.json</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/resources/quizmarch_11/data.json</guid>
+      <description>Quiz For Lecture # 10</description>
+    </item>
+    
+    <item>
+      <title>quizMarch_13_solutions.pdf</title>
+      <link>/resources/quizmarch_13_solutions/data.json</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/resources/quizmarch_13_solutions/data.json</guid>
+      <description>Quiz For Lecture # 11</description>
+    </item>
+    
+    <item>
+      <title>quizMarch_13.pdf</title>
+      <link>/resources/quizmarch_13/data.json</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/resources/quizmarch_13/data.json</guid>
+      <description>Quiz for Lecture #11</description>
+    </item>
+    
+    <item>
+      <title>QuizMarch_5_solutions.pdf</title>
+      <link>/resources/quizmarch_5_solutions/data.json</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/resources/quizmarch_5_solutions/data.json</guid>
+      <description>Quiz On The Day After Lecture # 9</description>
+    </item>
+    
+    <item>
+      <title>QuizMarch_5.pdf</title>
+      <link>/resources/quizmarch_5/data.json</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/resources/quizmarch_5/data.json</guid>
+      <description>Quiz On The Day Before Lecture # 9</description>
+    </item>
+    
+    <item>
+      <title>QuizMarch_7_solutions.pdf</title>
+      <link>/resources/quizmarch_7_solutions/data.json</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/resources/quizmarch_7_solutions/data.json</guid>
+      <description>Quiz On The Day Before Lecture # 9</description>
+    </item>
+    
+    <item>
+      <title>QuizMarch_7.pdf</title>
+      <link>/resources/quizmarch_7/data.json</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/resources/quizmarch_7/data.json</guid>
+      <description>Quiz On The Day After Lecture # 9</description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Assignments on MIT OpenCourseWare</title>
+    <link>/resources/assignments/</link>
+    <description>Recent content in Assignments on MIT OpenCourseWare</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language><atom:link href="/resources/assignments/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Assignments</title>
+      <link>/pages/assignments/data.json</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/pages/assignments/data.json</guid>
+      <description>Problems listed as prep represents suggested problems to help you better understand the material. Unless otherwise noted, the problems are from the same chapter as assigned for that day. DQ represents discussion questions, E represents end of chapter exercises, TPP represents &amp;ldquo;tax planning problems.&amp;rdquo; (CP) denotes the reading is in the course pack.
+LEC # Topics Assignments 1 Introduction, Overview of the Course and the Role of Taxes in Business Read: 1, 2</description>
+    </item>
+    
+    <item>
+      <title>problemset1.pdf</title>
+      <link>/resources/problemset1/data.json</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/resources/problemset1/data.json</guid>
+      <description>Problem Set 1</description>
+    </item>
+    
+    <item>
+      <title>problemset2.pdf</title>
+      <link>/resources/problemset2/data.json</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/resources/problemset2/data.json</guid>
+      <description>Problem Set 2</description>
+    </item>
+    
+    <item>
+      <title>problemset3.pdf</title>
+      <link>/resources/problemset3/data.json</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/resources/problemset3/data.json</guid>
+      <description>Problem Set 3</description>
+    </item>
+    
+    <item>
+      <title>problemset4.pdf</title>
+      <link>/resources/problemset4/data.json</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/resources/problemset4/data.json</guid>
+      <description>Problem Set 4</description>
+    </item>
+    
+    <item>
+      <title>problemset5.pdf</title>
+      <link>/resources/problemset5/data.json</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/resources/problemset5/data.json</guid>
+      <description>Problem Set 5</description>
+    </item>
+    
+  </channel>
+</rss>

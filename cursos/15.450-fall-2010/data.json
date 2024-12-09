@@ -1,0 +1,23 @@
+{
+  "course_title":"Analytics of Finance",
+  "course_description":"This course covers the key quantitative methods of finance: financial econometrics and statistical inference for financial applications; dynamic optimization; Monte Carlo simulation; stochastic (Itô) calculus. These techniques, along with their computer implementation, are covered in depth. Application areas include portfolio management, risk management, derivatives, and proprietary trading.\n",
+  "course_description_html":"This course covers the key quantitative methods of finance: financial econometrics and statistical inference for financial applications; dynamic optimization; Monte Carlo simulation; stochastic (Itô) calculus. These techniques, along with their computer implementation, are covered in depth. Application areas include portfolio management, risk management, derivatives, and proprietary trading.",
+  "site_uid":"5b4e9881-e68f-438f-aaa7-23a6c95424c4",
+  "legacy_uid":"cc32694d-c34f-b89e-6b71-85f7f51c562a","instructors": [{
+    "first_name":"Leonid",
+    "last_name":"Kogan",
+    "middle_initial":"",
+    "salutation":"Prof.",
+    "title":"Prof. Leonid Kogan"}],"department_numbers":["15"],
+  "learning_resource_types":["Problem Sets","Lecture Notes","Exams"],
+  "topics":[["Social Science","Economics","Financial Economics"],["Business","Finance"],["Social Science","Economics","Econometrics"],["Mathematics","Probability and Statistics"]],
+  "mit_learn_topics":null,
+  "primary_course_number":"15.450",
+  "extra_course_numbers":"",
+  "term":"Fall",
+  "year":"2010",
+  "level":["Graduate"],
+  "hide_download":null,
+  "image_src":"./static_resources/45ef6e83d4fca4e1774e5ab314481824_15-450f10.jpg",
+  "course_image_metadata":{"content_type":"resource","description":"Bootstrap, discussed in Lecture 9, is a re-sampling method which can be used to evaluate properties of statistical estimators. This course covers Bootstrap and other methods used in financial analysis. (Image by MIT OpenCourseWare.)\r\n","draft":false,"file":"/courses/15-450-analytics-of-finance-fall-2010/45ef6e83d4fca4e1774e5ab314481824_15-450f10.jpg","file_size":40739,"file_type":"image/jpeg","image_metadata":{"caption":"Bootstrap, discussed in [Lecture 9,](/courses/15-450-analytics-of-finance-fall-2010/pages/lecture-notes) is a re-sampling method which can be used to evaluate properties of statistical estimators. This course covers Bootstrap and other methods used in financial analysis. (Image by MIT OpenCourseWare.)","credit":"","image-alt":"Translation from the real world to the bootstrap world. "},"iscjklanguage":false,"learning_resource_types":[],"license":"https://creativecommons.org/licenses/by-nc-sa/4.0/","ocw_type":"OCWImage","resourcetype":"Image","title":"15-450f10.jpg","uid":"45ef6e83-d4fc-a4e1-774e-5ab314481824"}}
+

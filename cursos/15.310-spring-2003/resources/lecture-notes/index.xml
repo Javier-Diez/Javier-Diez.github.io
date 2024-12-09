@@ -1,0 +1,308 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Lecture Notes on MIT OpenCourseWare</title>
+    <link>/resources/lecture-notes/</link>
+    <description>Recent content in Lecture Notes on MIT OpenCourseWare</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language><atom:link href="/resources/lecture-notes/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Lecture Notes</title>
+      <link>/pages/lecture-notes/data.json</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/pages/lecture-notes/data.json</guid>
+      <description>Selected lecture notes are provided below.
+LEC # Topics Files 1 Introduction and Group Formation 2 Overview of Organizations 3 Attitudes and Attitude Change (PDF) 4 Motivation and Reward Systems (PDF) 5 Group Norms and Conformity I 6 Group Norms and Conformity II (PDF) 7 Group Decision-Making I 8 Group Decision-Making II 9 Leadership I 10 Leadership II 11 Career Development I (PDF) 12 Career Development II 13 Organization Structure and Design I (PDF 1)</description>
+    </item>
+    
+    <item>
+      <title>lecture12.pdf</title>
+      <link>/resources/lecture12/data.json</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/resources/lecture12/data.json</guid>
+      <description>Communication by New Hires Compared with Veteran Employees</description>
+    </item>
+    
+    <item>
+      <title>lecture14a.pdf</title>
+      <link>/resources/lecture14a/data.json</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/resources/lecture14a/data.json</guid>
+      <description>One Way of Organizing</description>
+    </item>
+    
+    <item>
+      <title>lecture14b.pdf</title>
+      <link>/resources/lecture14b/data.json</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/resources/lecture14b/data.json</guid>
+      <description>Knowledge Management</description>
+    </item>
+    
+    <item>
+      <title>lecture14c.pdf</title>
+      <link>/resources/lecture14c/data.json</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/resources/lecture14c/data.json</guid>
+      <description>People as Sources of Technology</description>
+    </item>
+    
+    <item>
+      <title>lecture14d.pdf</title>
+      <link>/resources/lecture14d/data.json</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/resources/lecture14d/data.json</guid>
+      <description>Partial Layout of the BMW Forschung und Ingenieurung Zentrum</description>
+    </item>
+    
+    <item>
+      <title>lecture15a.pdf</title>
+      <link>/resources/lecture15a/data.json</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/resources/lecture15a/data.json</guid>
+      <description>Communication Mapping</description>
+    </item>
+    
+    <item>
+      <title>lecture15b.pdf</title>
+      <link>/resources/lecture15b/data.json</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/resources/lecture15b/data.json</guid>
+      <description>Communication Network in a Small Laboratory</description>
+    </item>
+    
+    <item>
+      <title>lecture15c.pdf</title>
+      <link>/resources/lecture15c/data.json</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/resources/lecture15c/data.json</guid>
+      <description>The Process of Innovation</description>
+    </item>
+    
+    <item>
+      <title>lecture17.pdf</title>
+      <link>/resources/lecture17/data.json</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/resources/lecture17/data.json</guid>
+      <description>The Basic Tradeoff and Dilemma in Product Development Organization</description>
+    </item>
+    
+    <item>
+      <title>lecture18.pdf</title>
+      <link>/resources/lecture18/data.json</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/resources/lecture18/data.json</guid>
+      <description>Management of Transitions</description>
+    </item>
+    
+    <item>
+      <title>lecture20apr26066d1c.pdf</title>
+      <link>/resources/lecture20apr26066d1c/data.json</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/resources/lecture20apr26066d1c/data.json</guid>
+      <description>The Process of Innovation</description>
+    </item>
+    
+    <item>
+      <title>lecture21a.pdf</title>
+      <link>/resources/lecture21a/data.json</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/resources/lecture21a/data.json</guid>
+      <description>We Shape Our Buildings</description>
+    </item>
+    
+    <item>
+      <title>lecture21b.pdf</title>
+      <link>/resources/lecture21b/data.json</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/resources/lecture21b/data.json</guid>
+      <description>The Effect of Organization II</description>
+    </item>
+    
+    <item>
+      <title>lecture21c.pdf</title>
+      <link>/resources/lecture21c/data.json</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/resources/lecture21c/data.json</guid>
+      <description>Effect of New Building on Breadth of Communication</description>
+    </item>
+    
+    <item>
+      <title>lecture21d.pdf</title>
+      <link>/resources/lecture21d/data.json</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/resources/lecture21d/data.json</guid>
+      <description>Office Layout of the Management of Technological Innovation Group</description>
+    </item>
+    
+    <item>
+      <title>lecture21e.pdf</title>
+      <link>/resources/lecture21e/data.json</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/resources/lecture21e/data.json</guid>
+      <description>The Effects and Organizational Separation as Measured in One Organization</description>
+    </item>
+    
+    <item>
+      <title>lecture2feb1003overviewoforganizations.pdf</title>
+      <link>/resources/lecture2feb1003overviewoforganizations/data.json</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/resources/lecture2feb1003overviewoforganizations/data.json</guid>
+      <description>Overview of Organizations</description>
+    </item>
+    
+    <item>
+      <title>lecture3.pdf</title>
+      <link>/resources/lecture3/data.json</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/resources/lecture3/data.json</guid>
+      <description>Components of an Attitude</description>
+    </item>
+    
+    <item>
+      <title>lecture3feb1203socialperceptionandattitudes.pdf</title>
+      <link>/resources/lecture3feb1203socialperceptionandattitudes/data.json</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/resources/lecture3feb1203socialperceptionandattitudes/data.json</guid>
+      <description>Social perception and attitudes</description>
+    </item>
+    
+    <item>
+      <title>lecture5.pdf</title>
+      <link>/resources/lecture5/data.json</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/resources/lecture5/data.json</guid>
+      <description>A Managerial Career</description>
+    </item>
+    
+    <item>
+      <title>lecture7.pdf</title>
+      <link>/resources/lecture7/data.json</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/resources/lecture7/data.json</guid>
+      <description>Project Performance as a Function of Team Age</description>
+    </item>
+    
+    <item>
+      <title>ocwlecture05feb1903changingattitudes.pdf</title>
+      <link>/resources/ocwlecture05feb1903changingattitudes/data.json</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/resources/ocwlecture05feb1903changingattitudes/data.json</guid>
+      <description>Changing attitudes</description>
+    </item>
+    
+    <item>
+      <title>ocwlecture07feb2603individualdecisionmaking.pdf</title>
+      <link>/resources/ocwlecture07feb2603individualdecisionmaking/data.json</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/resources/ocwlecture07feb2603individualdecisionmaking/data.json</guid>
+      <description>Individual decision making</description>
+    </item>
+    
+    <item>
+      <title>ocwlecture11amar1203thedualladdersystempart1.pdf</title>
+      <link>/resources/ocwlecture11amar1203thedualladdersystempart1/data.json</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/resources/ocwlecture11amar1203thedualladdersystempart1/data.json</guid>
+      <description>The Dual Ladder System Part 1</description>
+    </item>
+    
+    <item>
+      <title>ocwlecture11bmar1703thedualladdersystempart2.pdf</title>
+      <link>/resources/ocwlecture11bmar1703thedualladdersystempart2/data.json</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/resources/ocwlecture11bmar1703thedualladdersystempart2/data.json</guid>
+      <description>The Dual Ladder System Part 2</description>
+    </item>
+    
+    <item>
+      <title>ocwlecture13mar3103communication.pdf</title>
+      <link>/resources/ocwlecture13mar3103communication/data.json</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/resources/ocwlecture13mar3103communication/data.json</guid>
+      <description>Communication</description>
+    </item>
+    
+    <item>
+      <title>ocwlecture14apr0203phasesofacareerorsubcareer.pdf</title>
+      <link>/resources/ocwlecture14apr0203phasesofacareerorsubcareer/data.json</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/resources/ocwlecture14apr0203phasesofacareerorsubcareer/data.json</guid>
+      <description>Phases of a Career or Sub Career</description>
+    </item>
+    
+    <item>
+      <title>ocwlecture15aapr0703bureaucracypart1.pdf</title>
+      <link>/resources/ocwlecture15aapr0703bureaucracypart1/data.json</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/resources/ocwlecture15aapr0703bureaucracypart1/data.json</guid>
+      <description>Bureaucracy part1</description>
+    </item>
+    
+    <item>
+      <title>ocwlecture15bapr0703knowledgemanagementpart2.pdf</title>
+      <link>/resources/ocwlecture15bapr0703knowledgemanagementpart2/data.json</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/resources/ocwlecture15bapr0703knowledgemanagementpart2/data.json</guid>
+      <description>Knowledge Management part 2</description>
+    </item>
+    
+    <item>
+      <title>ocwlecture17apr1403communicationinorganizations.pdf</title>
+      <link>/resources/ocwlecture17apr1403communicationinorganizations/data.json</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/resources/ocwlecture17apr1403communicationinorganizations/data.json</guid>
+      <description>Communication in organizations</description>
+    </item>
+    
+    <item>
+      <title>ocwlecture18apr1603knowledgetransfer.pdf</title>
+      <link>/resources/ocwlecture18apr1603knowledgetransfer/data.json</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/resources/ocwlecture18apr1603knowledgetransfer/data.json</guid>
+      <description>Knowledge transfer</description>
+    </item>
+    
+    <item>
+      <title>ocwlecture19apr2303thegatekeeper.pdf</title>
+      <link>/resources/ocwlecture19apr2303thegatekeeper/data.json</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/resources/ocwlecture19apr2303thegatekeeper/data.json</guid>
+      <description>The Gatekeeper</description>
+    </item>
+    
+  </channel>
+</rss>

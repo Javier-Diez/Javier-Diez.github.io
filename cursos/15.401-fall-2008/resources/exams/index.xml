@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Exams on MIT OpenCourseWare</title>
+    <link>/resources/exams/</link>
+    <description>Recent content in Exams on MIT OpenCourseWare</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language><atom:link href="/resources/exams/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Exams</title>
+      <link>/pages/exams/data.json</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/pages/exams/data.json</guid>
+      <description>Review slides are provided courtesy of course TA Amir Khandani, and are used with permission.
+EXAMS FILES **Midterm Exam
+** Review slides (PDF) Sample exam (PDF) Sample solutions (PDF) Final Exam Review slides (PDF) Sample exam (PDF) Sample solutions (PDF) </description>
+    </item>
+    
+    <item>
+      <title>MIT15_401F08_final_sol.pdf</title>
+      <link>/resources/mit15_401f08_final_sol/data.json</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/resources/mit15_401f08_final_sol/data.json</guid>
+      <description>This resource contains solutions for the final exam questions.</description>
+    </item>
+    
+    <item>
+      <title>MIT15_401F08_final.pdf</title>
+      <link>/resources/mit15_401f08_final/data.json</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/resources/mit15_401f08_final/data.json</guid>
+      <description>This resource contains 10 questions related to bond maturing, annual membership, US treasury bonds, and fiber optic switches.</description>
+    </item>
+    
+    <item>
+      <title>MIT15_401F08_midterm_sol.pdf</title>
+      <link>/resources/mit15_401f08_midterm_sol/data.json</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/resources/mit15_401f08_midterm_sol/data.json</guid>
+      <description>This resource contains solutions for the questions of the midterm exams.</description>
+    </item>
+    
+    <item>
+      <title>MIT15_401F08_midterm.pdf</title>
+      <link>/resources/mit15_401f08_midterm/data.json</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/resources/mit15_401f08_midterm/data.json</guid>
+      <description>This resource contains 7 questions related to annual interest, annual percentage rate, and discount.</description>
+    </item>
+    
+    <item>
+      <title>MIT15_401F08_review_fin.pdf</title>
+      <link>/resources/mit15_401f08_review_fin/data.json</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/resources/mit15_401f08_review_fin/data.json</guid>
+      <description>This resource contains questions and answers related to bond maturing, market price, growth stocks, commercial airline, american call option, fixed income, CAPM, common stock, forwards and futures, capital budgeting, and portfolio theory.</description>
+    </item>
+    
+    <item>
+      <title>MIT15_401F08_review_mid.pdf</title>
+      <link>/resources/mit15_401f08_review_mid/data.json</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/resources/mit15_401f08_review_mid/data.json</guid>
+      <description>This resource contains questions related to compounding, APR-EAR conversion, common stocks, fixed income securities, present value, forwards and futures.</description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,6 @@
+
+{
+  "title":"Assignment 7",
+  "content":"This is a group assignment. One copy can be turned in for a team of up to four students.\nAssignment 7: Household Debt Products The Readings section includes four readings on Collateralized Debt Obligations. They are complimentary to the talk by our guest speaker, Joe Naggar, but you do not need to read them all. Use the CLO Assignment Sheet (XLSX) to ﬁll in your answers.\nComplete the following tasks:\n1. Design a simple 1 period model of a CLO with the following attributes:\nAssets (Loans) Liabilities and Equity Par 500 Par Coupon Coupon 6% AAA 325 2.00% Default Rate 0% Mezzanine 125 5.00% Recovery Rate 70% Equity 20 IRR Management Fees and Expenses 1% Solve for the Asset Return, Debt Return and Equity Return.\n2. Using your simple 1 period model, solve for the expected return of the equity using the following assumptions:\nThe portfolio contains 20 assets (loans) of equal weight Each loan has a probability of default of 5% Each loan has a recovery rate of 70% Each asset is identically and independently distributed 3. What return on the assets is needed to generate a positive return on the Equity? What return on the assets would completely wipe out the Equity? (Equity gets no cash ﬂow paid to it). Describe the Equity in the form of an option on the asset return.\n"}
+
+

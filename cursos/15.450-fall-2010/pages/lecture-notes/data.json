@@ -1,0 +1,6 @@
+
+{
+  "title":"Lecture Notes",
+  "content":"Code for related simulations and models are available with the lecture notes, some of which may be useful on the Problem Sets.\nLEC # TOPICS LECTURE NOTES 1 Arbitrage-free pricing models (PDF - 1.1MB) 2 Stochastic calculus and option pricing\nCode: Quadratic variation simulation\n(PDF)\n(M)\n3 Simulation methods\nCode: Black-Scholes model Monte Carlo illustration\nCode: Black-Scholes with a jump Monte Carlo (PS1, Q2)\nCode: Monte Carlo with control variates, stochastic volatility model\n(PDF)\n(M)\n(M)\n(M)\n4 Dynamic portfolio choice I: Static approach to dynamic portfolio choice (PDF) 5 Dynamic portfolio choice II: Dynamic programming (PDF) 6 Dynamic portfolio choice III: Numerical approximations in dynamic programming\nCode: Numerical DP solution\n(PDF)\n(M)\n7 Parameter estimation (PDF) 8 Standard errors and tests (PDF) 9 Small-sample inference and bootstrap (PDF) 10 Volatility models (PDF) 11 Review: Arbitrage-free pricing and stochastic calculus (PDF) 12 Review: DP and econometrics (PDF) The following handouts and slides were used to supplement lecture materials.\nCrossing probabilities of the Brownian motion (PDF)\nKey points: Derivatives and Monte Carlo (PDF)\nDynamic programming: Justification of the principle of optimality (PDF)\nExamples of dynamic programming problems (PDF)\n"}
+
+

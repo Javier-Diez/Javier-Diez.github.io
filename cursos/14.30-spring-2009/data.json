@@ -1,0 +1,23 @@
+{
+  "course_title":"Introduction to Statistical Methods in Economics",
+  "course_description":"This course will provide a solid foundation in probability and statistics for economists and other social scientists. We will emphasize topics needed for further study of econometrics and provide basic preparation for _14.32 Econometrics_. Topics include elements of probability theory, sampling theory, statistical estimation, and hypothesis testing.",
+  "course_description_html":"This course will provide a solid foundation in probability and statistics for economists and other social scientists. We will emphasize topics needed for further study of econometrics and provide basic preparation for <em>14.32 Econometrics</em>. Topics include elements of probability theory, sampling theory, statistical estimation, and hypothesis testing.",
+  "site_uid":"491bf66e-d3fc-4dfc-bdc5-8dab99aef3a1",
+  "legacy_uid":"9d2bab98-c627-8a44-9302-e1dfc2af246d","instructors": [{
+    "first_name":"Konrad",
+    "last_name":"Menzel",
+    "middle_initial":"",
+    "salutation":"",
+    "title":"Konrad Menzel"}],"department_numbers":["14"],
+  "learning_resource_types":["Exams","Lecture Notes","Problem Sets with Solutions"],
+  "topics":[["Mathematics","Probability and Statistics"],["Social Science","Economics","Econometrics"]],
+  "mit_learn_topics":null,
+  "primary_course_number":"14.30",
+  "extra_course_numbers":"",
+  "term":"Spring",
+  "year":"2009",
+  "level":["Undergraduate"],
+  "hide_download":null,
+  "image_src":"./static_resources/955ef7f6a4c64a0a05b039b159fd5bcc_14-30s09.jpg",
+  "course_image_metadata":{"content_type":"resource","description":"Shapes of three probability distribution functions: normal, Student's t, and chi-squared. (Image by MIT OpenCourseWare.)","draft":false,"file":"/courses/14-30-introduction-to-statistical-methods-in-economics-spring-2009/955ef7f6a4c64a0a05b039b159fd5bcc_14-30s09.jpg","file_size":27213,"file_type":"image/jpeg","image_metadata":{"caption":"Shapes of three probability distribution functions: normal, Student's t, and chi-squared. (Image by MIT OpenCourseWare.)","credit":"","image-alt":"Shapes of three probability distribution functions: normal, Student's t, and chi-squared. The normal and Student's t are bell-shaped and symmetric; chi-squared is asymmetric and has a longer tail."},"iscjklanguage":false,"learning_resource_types":[],"license":"https://creativecommons.org/licenses/by-nc-sa/4.0/","ocw_type":"OCWImage","resourcetype":"Image","title":"Shapes of three probability distribution functions","uid":"955ef7f6-a4c6-4a0a-05b0-39b159fd5bcc"}}
+

@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Readings on MIT OpenCourseWare</title>
+    <link>/resources/readings/</link>
+    <description>Recent content in Readings on MIT OpenCourseWare</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language><atom:link href="/resources/readings/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Case: Media Relations: The Wildebeest</title>
+      <link>/resources/mit15_279f12_wldbstcase/data.json</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/resources/mit15_279f12_wldbstcase/data.json</guid>
+      <description>This resource contains information regarding case: media relations: the wildebeest.</description>
+    </item>
+    
+    <item>
+      <title>Case: Sunk in Sacramento</title>
+      <link>/resources/mit15_279f12_sacrmntocase/data.json</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/resources/mit15_279f12_sacrmntocase/data.json</guid>
+      <description>This resource contains information regarding case: sunk in sacramento.</description>
+    </item>
+    
+    <item>
+      <title>Readings</title>
+      <link>/pages/readings/data.json</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/pages/readings/data.json</guid>
+      <description>The following text is required for the course:
+Phillips, Donald T. Lincoln on Leadership: Executive Strategies for Tough Times. Warner Books, 1993. ISBN: 9780446394598.
+The following texts are recommended references and optional for the course:
+Munter, Mary M. Guide to Managerial Communication. 9th ed. Prentice Hall, 2012. ISBN: 9780132147712.
+Williams, Joseph. Style: Ten Lessons in Clarity and Grace. 10th ed. Longman, 2010. ISBN: 9780205747467.
+Kessler, Lauren, and Duncan McDonald. When Words Collide.</description>
+    </item>
+    
+  </channel>
+</rss>

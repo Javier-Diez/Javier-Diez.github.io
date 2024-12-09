@@ -1,0 +1,93 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Assignments on MIT OpenCourseWare</title>
+    <link>/resources/assignments/</link>
+    <description>Recent content in Assignments on MIT OpenCourseWare</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language><atom:link href="/resources/assignments/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>15433_assignment_1_solution.PDF</title>
+      <link>/resources/15433_assignment_1_solution/data.json</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/resources/15433_assignment_1_solution/data.json</guid>
+      <description>Assignment 1: Securities, Markets &amp;amp; Capital Market Theory</description>
+    </item>
+    
+    <item>
+      <title>15433_assignment_1.PDF</title>
+      <link>/resources/15433_assignment_1/data.json</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/resources/15433_assignment_1/data.json</guid>
+      <description>Assignment 1: Securities, Markets &amp;amp; Capital Market Theory</description>
+    </item>
+    
+    <item>
+      <title>15433_assignment_2.PDF</title>
+      <link>/resources/15433_assignment_2/data.json</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/resources/15433_assignment_2/data.json</guid>
+      <description>Assignment 2: Security Analysis</description>
+    </item>
+    
+    <item>
+      <title>15433_assignment_3_solution.pdf</title>
+      <link>/resources/15433_assignment_3_solution/data.json</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/resources/15433_assignment_3_solution/data.json</guid>
+      <description>Assignment 3: Futures</description>
+    </item>
+    
+    <item>
+      <title>15433_assignment_3.pdf</title>
+      <link>/resources/15433_assignment_3/data.json</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/resources/15433_assignment_3/data.json</guid>
+      <description>Assignment 3: Futures</description>
+    </item>
+    
+    <item>
+      <title>15433_assignment_4.pdf</title>
+      <link>/resources/15433_assignment_4/data.json</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/resources/15433_assignment_4/data.json</guid>
+      <description>Assignment 4: Option Simulation</description>
+    </item>
+    
+    <item>
+      <title>15433_assignment_5_solution.pdf</title>
+      <link>/resources/15433_assignment_5_solution/data.json</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/resources/15433_assignment_5_solution/data.json</guid>
+      <description>Assignment 5: Performance Attribution</description>
+    </item>
+    
+    <item>
+      <title>15433_assignment_5.pdf</title>
+      <link>/resources/15433_assignment_5/data.json</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/resources/15433_assignment_5/data.json</guid>
+      <description>Assignment 5: Performance Attribution</description>
+    </item>
+    
+    <item>
+      <title>Assignments</title>
+      <link>/pages/assignments/data.json</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/pages/assignments/data.json</guid>
+      <description>LEC # ASSIGNMENTS POINTS 1 Capital Market Theory (PDF) 3 2 Security Analysis (PDF) 5 3 Futures Problem (PDF) 4 4 Simulation Based Option Problem (PDF) 5 5 Performance Attribution (PDF) 3 Total 20 Solutions Assignment 1 solution (PDF)
+Assignment 3 solution (PDF)
+Assignment 5 solution (PDF)</description>
+    </item>
+    
+  </channel>
+</rss>

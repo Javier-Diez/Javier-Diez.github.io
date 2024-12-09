@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Exams on MIT OpenCourseWare</title>
+    <link>/resources/exams/</link>
+    <description>Recent content in Exams on MIT OpenCourseWare</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language><atom:link href="/resources/exams/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Exams</title>
+      <link>/pages/exams/data.json</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/pages/exams/data.json</guid>
+      <description>Students have 80 minutes to complete the mid-term exam, which is worth 30 percent of their grade. The final exam takes 120 minutes and counts for 45 percent of the term grade. Solutions are provided for both exams.
+SES # EXAMS SOLUTIONS E1 Mid-term Exam (PDF) Mid-term Exam Solutions (PDF) E2 Final Exam (PDF) Final Exam Solutions (PDF) </description>
+    </item>
+    
+    <item>
+      <title>final_2004.pdf</title>
+      <link>/resources/final_2004/data.json</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/resources/final_2004/data.json</guid>
+      <description>Final exam.</description>
+    </item>
+    
+    <item>
+      <title>final_soln.pdf</title>
+      <link>/resources/final_soln/data.json</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/resources/final_soln/data.json</guid>
+      <description>Final exam with solution.</description>
+    </item>
+    
+    <item>
+      <title>midterm_2004.pdf</title>
+      <link>/resources/midterm_2004/data.json</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/resources/midterm_2004/data.json</guid>
+      <description>Midterm exam.</description>
+    </item>
+    
+    <item>
+      <title>midterm_soln.pdf</title>
+      <link>/resources/midterm_soln/data.json</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/resources/midterm_soln/data.json</guid>
+      <description>Midterm exam with solution.</description>
+    </item>
+    
+  </channel>
+</rss>

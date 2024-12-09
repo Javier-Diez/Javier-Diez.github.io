@@ -1,0 +1,163 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Lecture Notes on MIT OpenCourseWare</title>
+    <link>/resources/lecture-notes/</link>
+    <description>Recent content in Lecture Notes on MIT OpenCourseWare</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language><atom:link href="/resources/lecture-notes/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>lec1_intro.pdf</title>
+      <link>/resources/lec1_intro/data.json</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/resources/lec1_intro/data.json</guid>
+      <description>Introduction and Overview of the course.</description>
+    </item>
+    
+    <item>
+      <title>lec10_portfolio.pdf</title>
+      <link>/resources/lec10_portfolio/data.json</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/resources/lec10_portfolio/data.json</guid>
+      <description>Portfolio Theory</description>
+    </item>
+    
+    <item>
+      <title>lec11_capm.pdf</title>
+      <link>/resources/lec11_capm/data.json</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/resources/lec11_capm/data.json</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>lec12_discount_rates.pdf</title>
+      <link>/resources/lec12_discount_rates/data.json</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/resources/lec12_discount_rates/data.json</guid>
+      <description>Discount Rates in Practice</description>
+    </item>
+    
+    <item>
+      <title>lec14_raising_capital.pdf</title>
+      <link>/resources/lec14_raising_capital/data.json</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/resources/lec14_raising_capital/data.json</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>lec15_capital_structure1.pdf</title>
+      <link>/resources/lec15_capital_structure1/data.json</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/resources/lec15_capital_structure1/data.json</guid>
+      <description>Capital Structure (1)</description>
+    </item>
+    
+    <item>
+      <title>lec16_capital_structure2.pdf</title>
+      <link>/resources/lec16_capital_structure2/data.json</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/resources/lec16_capital_structure2/data.json</guid>
+      <description>Capital structure (2), including M&amp;amp;M theorem, Leverage, risk, and WACC.</description>
+    </item>
+    
+    <item>
+      <title>lec18_market_efficiency.pdf</title>
+      <link>/resources/lec18_market_efficiency/data.json</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/resources/lec18_market_efficiency/data.json</guid>
+      <description>Market Efficiency</description>
+    </item>
+    
+    <item>
+      <title>lec19_options.pdf</title>
+      <link>/resources/lec19_options/data.json</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/resources/lec19_options/data.json</guid>
+      <description>This file contains information about Risk management and Option payoffs.</description>
+    </item>
+    
+    <item>
+      <title>lec2_valuation.pdf</title>
+      <link>/resources/lec2_valuation/data.json</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/resources/lec2_valuation/data.json</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>lec20_options2.pdf</title>
+      <link>/resources/lec20_options2/data.json</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/resources/lec20_options2/data.json</guid>
+      <description>This file contains information on the topics Option pricing and Applications: Currency risk and convertible bonds.</description>
+    </item>
+    
+    <item>
+      <title>lec3_capital_budgeting.pdf</title>
+      <link>/resources/lec3_capital_budgeting/data.json</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/resources/lec3_capital_budgeting/data.json</guid>
+      <description>This file covers the topics, Measuring cashflows, Taxes, depreciation, and working capital.</description>
+    </item>
+    
+    <item>
+      <title>lec5_real_options.pdf</title>
+      <link>/resources/lec5_real_options/data.json</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/resources/lec5_real_options/data.json</guid>
+      <description>This file contain information on the topics Real options and Alternative investment criteria.</description>
+    </item>
+    
+    <item>
+      <title>lec6_firm_valuation1.pdf</title>
+      <link>/resources/lec6_firm_valuation1/data.json</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/resources/lec6_firm_valuation1/data.json</guid>
+      <description>This file contains the information on the topics like Dividend discount model and Cashflows, profitability, and growth.</description>
+    </item>
+    
+    <item>
+      <title>lec7_firm_valuation2.pdf</title>
+      <link>/resources/lec7_firm_valuation2/data.json</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/resources/lec7_firm_valuation2/data.json</guid>
+      <description>This file contains the information on the topics like Free cashflows, Profitability, financial ratios, and terminal value.</description>
+    </item>
+    
+    <item>
+      <title>lec9_risk_return.pdf</title>
+      <link>/resources/lec9_risk_return/data.json</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/resources/lec9_risk_return/data.json</guid>
+      <description>Introduction to Risk and Return</description>
+    </item>
+    
+    <item>
+      <title>Lecture Notes</title>
+      <link>/pages/lecture-notes/data.json</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/pages/lecture-notes/data.json</guid>
+      <description>WEEK # SES # TOPICS Part 1 - Introduction 1 1 Introduction (PDF) 2 Principles of Valuation (PDF) Part 2 - Project and Firm Valuation 3 Evaluating Projects (1) (PDF) 2 4 Case: Acid Rain: The Southern Co. 5 Evaluating Projects (2) (PDF) 6 Firm Valuation (1) (PDF) 3 7 Firm Valuation (2) (PDF) 8 Case: Cooper Industries, Inc. Part 3 - Risk and Return 4 9 Introduction to Risk and Return (PDF) 10 Portfolio Theory (PDF) 11 CAPM (PDF) 12 Discount Rates in Practice (PDF) 13 Case: Cost of Capital at Ameritrade Part 4 - Financing Policy 14 Raising Capital (PDF) 15 Capital Structure (1) (PDF) 16 Capital Structure (2) (PDF) 5 17 Two Cases: Debt Policy at UST, Inc.</description>
+    </item>
+    
+  </channel>
+</rss>

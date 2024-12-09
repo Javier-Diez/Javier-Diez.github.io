@@ -1,0 +1,119 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Assignments on MIT OpenCourseWare</title>
+    <link>/resources/assignments/</link>
+    <description>Recent content in Assignments on MIT OpenCourseWare</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language><atom:link href="/resources/assignments/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Assignments</title>
+      <link>/pages/assignments/data.json</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/pages/assignments/data.json</guid>
+      <description>Written Assignments You should use standard business formats, and please proofread as spelling, grammar, and punctuation will figure into your grade.
+Memos Baseline Self-Evaluation (PDF) Final Self-Evaluation (PDF) Meeting Maker Case (PDF) Problem Sets Problem Set 1: Clear, Concise Writing in E-Mail (PDF) Problem Set 2: Should MacGregor Dining Be Re-Opened? (PDF) Problem Set 3: Mid-Semester Self-Evaluation (PDF) Problem Set 4 &amp;amp; 5: Analysis of Individual Behavior and Team Dynamics (PDF) Other Cover Letter (PDF) Team Report (PDF) Oral Presentations You will give five different types of presentations of varying lengths during the term.</description>
+    </item>
+    
+    <item>
+      <title>Baseline Self-Evaluation</title>
+      <link>/resources/mit15_279f12_eval_baseline/data.json</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/resources/mit15_279f12_eval_baseline/data.json</guid>
+      <description>This resource contains information regarding baseline self-evaluation.</description>
+    </item>
+    
+    <item>
+      <title>Cover Letter</title>
+      <link>/resources/mit15_279f12_cover_letter/data.json</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/resources/mit15_279f12_cover_letter/data.json</guid>
+      <description>This resource contains information regarding cover letter.</description>
+    </item>
+    
+    <item>
+      <title>Final Self-Evaluation</title>
+      <link>/resources/mit15_279f12_eval_final/data.json</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/resources/mit15_279f12_eval_final/data.json</guid>
+      <description>This resource contains information regarding final self-evaluation.</description>
+    </item>
+    
+    <item>
+      <title>Interactive Presentation</title>
+      <link>/resources/mit15_279f12_pres_intrctve/data.json</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/resources/mit15_279f12_pres_intrctve/data.json</guid>
+      <description>This resource contains information regarding interactive presentation.</description>
+    </item>
+    
+    <item>
+      <title>Meeting Maker Case</title>
+      <link>/resources/mit15_279f12_case_mtg_makr/data.json</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/resources/mit15_279f12_case_mtg_makr/data.json</guid>
+      <description>This resource contains information regarding meeting maker case.</description>
+    </item>
+    
+    <item>
+      <title>Presentation with Q&amp;A</title>
+      <link>/resources/mit15_279f12_pres_qa/data.json</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/resources/mit15_279f12_pres_qa/data.json</guid>
+      <description>This resource contains information regarding presentation with q&amp;amp;a.</description>
+    </item>
+    
+    <item>
+      <title>Problem Set 1: Clear, Concise Writing in E-Mail</title>
+      <link>/resources/mit15_279f12_pset1/data.json</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/resources/mit15_279f12_pset1/data.json</guid>
+      <description>This resource contains information regarding clear, concise writing in e-mail.</description>
+    </item>
+    
+    <item>
+      <title>Problem Set 2: Should MacGregor Dining Be Re-Opened?</title>
+      <link>/resources/mit15_279f12_pset2/data.json</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/resources/mit15_279f12_pset2/data.json</guid>
+      <description>This resource contains information regarding should MacGregor dining Be re-opened?</description>
+    </item>
+    
+    <item>
+      <title>Problem Set 3: Mid-Semester Self-Evaluation</title>
+      <link>/resources/mit15_279f12_pset3/data.json</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/resources/mit15_279f12_pset3/data.json</guid>
+      <description>This resource contains information regarding mid-semester self-evaluation.</description>
+    </item>
+    
+    <item>
+      <title>Problem Set 4 &amp; 5: Analysis of Individual Behavior and Team Dynamics</title>
+      <link>/resources/mit15_279f12_pset4and5/data.json</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/resources/mit15_279f12_pset4and5/data.json</guid>
+      <description>This resource contains information regarding analysis of individual behavior and team dynamics.</description>
+    </item>
+    
+    <item>
+      <title>Team Report</title>
+      <link>/resources/mit15_279f12_team_report/data.json</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/resources/mit15_279f12_team_report/data.json</guid>
+      <description>This resource contains information regarding team report.</description>
+    </item>
+    
+  </channel>
+</rss>

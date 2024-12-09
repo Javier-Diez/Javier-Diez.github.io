@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Projects on MIT OpenCourseWare</title>
+    <link>/resources/projects/</link>
+    <description>Recent content in Projects on MIT OpenCourseWare</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language><atom:link href="/resources/projects/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>groupprojectproposaltemplate.pdf</title>
+      <link>/resources/groupprojectproposaltemplate/data.json</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/resources/groupprojectproposaltemplate/data.json</guid>
+      <description>Group Project Proposal Template</description>
+    </item>
+    
+    <item>
+      <title>Projects</title>
+      <link>/pages/projects/data.json</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/pages/projects/data.json</guid>
+      <description>Undergraduate students enrolled in 15.301 are required to complete a group project. The following was used as the project topic in Spring 2003.
+No Parking or Frayed Tempers in the Sloan Lot Organizations must often provide services for multiple constituencies with conflicting objectives. Parking is a good example. Devise (or find) a general approach to solving such problems. Apply it to this example. Critique the applicability of the approach to other settings.</description>
+    </item>
+    
+  </channel>
+</rss>

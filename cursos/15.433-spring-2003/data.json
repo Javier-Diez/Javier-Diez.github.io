@@ -1,0 +1,23 @@
+{
+  "course_title":"Investments",
+  "course_description":"The focus of this course is on financial theory and empirical evidence for making investment decisions. Topics include: portfolio theory; equilibrium models of security prices (including the capital asset pricing model and the arbitrage pricing theory); the empirical behavior of security prices; market efficiency; performance evaluation; and behavioral finance.\n",
+  "course_description_html":"The focus of this course is on financial theory and empirical evidence for making investment decisions. Topics include: portfolio theory; equilibrium models of security prices (including the capital asset pricing model and the arbitrage pricing theory); the empirical behavior of security prices; market efficiency; performance evaluation; and behavioral finance.",
+  "site_uid":"151c9dfd-75eb-4a87-b608-77b5ba1349a6",
+  "legacy_uid":"dcc25b0a-d361-0b71-d75d-2ccd0d286304","instructors": [{
+    "first_name":"Reto",
+    "last_name":"Gallati",
+    "middle_initial":"",
+    "salutation":"Prof.",
+    "title":"Prof. Reto Gallati"}],"department_numbers":["15"],
+  "learning_resource_types":["Problem Sets with Solutions","Exams with Solutions","Lecture Notes"],
+  "topics":[["Business","Finance"],["Social Science","Economics","Financial Economics"]],
+  "mit_learn_topics":null,
+  "primary_course_number":"15.433",
+  "extra_course_numbers":"",
+  "term":"Spring",
+  "year":"2003",
+  "level":["Graduate"],
+  "hide_download":null,
+  "image_src":"./static_resources/a0ae275afebab36900de08b215df78dc_15-433s03.jpg",
+  "course_image_metadata":{"content_type":"resource","description":"","draft":false,"file":"/courses/15-433-investments-spring-2003/a0ae275afebab36900de08b215df78dc_15-433s03.jpg","file_size":59381,"file_type":"image/jpeg","image_metadata":{"caption":"Graph of utility function. (Graph by Prof. Reto Gallati.)","credit":"","image-alt":"A graph of utility function.  The graph indicates risk aversion points."},"iscjklanguage":false,"learning_resource_types":[],"license":"https://creativecommons.org/licenses/by-nc-sa/4.0/","ocw_type":"OCWImage","resourcetype":"Image","title":"15-433s03.jpg","uid":"a0ae275a-feba-b369-00de-08b215df78dc"}}
+

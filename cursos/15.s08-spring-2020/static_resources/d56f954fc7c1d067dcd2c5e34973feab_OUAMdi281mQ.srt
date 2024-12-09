@@ -1,0 +1,6485 @@
+1
+00:00:00,500 --> 00:00:02,976
+[SQUEAKING]
+
+2
+00:00:02,976 --> 00:00:04,464
+[RUSTLING]
+
+3
+00:00:04,464 --> 00:00:05,952
+[CLICKING]
+
+4
+00:00:10,657 --> 00:00:12,490
+GARY GENSLER: I'm going
+to talk a little bit
+
+5
+00:00:12,490 --> 00:00:16,239
+about how I see financial
+technology in a stack.
+
+6
+00:00:16,239 --> 00:00:19,210
+We did a little bit of this
+in our last two classes,
+
+7
+00:00:19,210 --> 00:00:23,890
+but just really thinking about
+the finance technology stack
+
+8
+00:00:23,890 --> 00:00:26,770
+and then turn back into
+AI and machine learning.
+
+9
+00:00:26,770 --> 00:00:29,620
+In finance, we reviewed this
+a bit in the last class,
+
+10
+00:00:29,620 --> 00:00:32,560
+but I just want to go back to
+it and talk a little bit more
+
+11
+00:00:32,560 --> 00:00:37,000
+about it, a little bit more
+granular this time around.
+
+12
+00:00:37,000 --> 00:00:42,160
+And then take the bulk of the
+class around public policy
+
+13
+00:00:42,160 --> 00:00:45,520
+frameworks and how
+AI fits into that,
+
+14
+00:00:45,520 --> 00:00:47,660
+Artificial Intelligence,
+machine learning, chat
+
+15
+00:00:47,660 --> 00:00:48,800
+box, and the like.
+
+16
+00:00:48,800 --> 00:00:50,740
+So that's sort of
+the run of show.
+
+17
+00:00:50,740 --> 00:00:52,780
+And Romain, you let me
+know when we have either
+
+18
+00:00:52,780 --> 00:00:55,930
+15 or 10 minutes to go because
+I don't have a clock here
+
+19
+00:00:55,930 --> 00:00:59,110
+on this Zoom.
+
+20
+00:00:59,110 --> 00:01:03,460
+So the three readings really
+built upon last class's
+
+21
+00:01:03,460 --> 00:01:07,180
+readings, but they
+had a little bit
+
+22
+00:01:07,180 --> 00:01:10,990
+of a tone towards
+the regulatory side.
+
+23
+00:01:10,990 --> 00:01:15,700
+And Oliver Wyman and
+the Mayer Brown--
+
+24
+00:01:15,700 --> 00:01:17,140
+Mayer Brown is a law firm.
+
+25
+00:01:17,140 --> 00:01:21,880
+Oliver Wyman thinks about risk
+management and consultant risk.
+
+26
+00:01:21,880 --> 00:01:24,260
+But each were with a
+little bit of a gloss
+
+27
+00:01:24,260 --> 00:01:28,040
+on how to manage if
+you're at a board level.
+
+28
+00:01:28,040 --> 00:01:32,940
+And the Oliver Wyman really went
+through the lines of business,
+
+29
+00:01:32,940 --> 00:01:35,490
+how machine learning and
+artificial intelligence
+
+30
+00:01:35,490 --> 00:01:37,050
+is being used.
+
+31
+00:01:37,050 --> 00:01:39,690
+And the Mayer Brown went
+through sort of the laws.
+
+32
+00:01:39,690 --> 00:01:41,070
+And we'll come back to that.
+
+33
+00:01:41,070 --> 00:01:44,730
+But that's why I sort of
+reached out and had that.
+
+34
+00:01:44,730 --> 00:01:48,270
+Now, the short 1- or 2-pager
+from Julie Stack from
+
+35
+00:01:48,270 --> 00:01:51,460
+the Federal Reserve, I thought
+it was just interesting to say,
+
+36
+00:01:51,460 --> 00:01:53,220
+all right, here's a senior--
+
+37
+00:01:53,220 --> 00:01:55,950
+and Julie's very well-respected
+in the community--
+
+38
+00:01:55,950 --> 00:01:58,890
+a senior career person
+at the US Federal
+
+39
+00:01:58,890 --> 00:02:00,660
+Reserve writing about fintech.
+
+40
+00:02:00,660 --> 00:02:02,070
+What are they thinking?
+
+41
+00:02:02,070 --> 00:02:05,880
+And just like I did earlier,
+and we shared sometimes,
+
+42
+00:02:05,880 --> 00:02:09,600
+what is the official sector
+thinking, as we shared
+
+43
+00:02:09,600 --> 00:02:14,160
+the chair of the
+FDIC's speech earlier,
+
+44
+00:02:14,160 --> 00:02:16,410
+and I will throughout
+this semester,
+
+45
+00:02:16,410 --> 00:02:18,150
+I think it's helpful
+if you're thinking
+
+46
+00:02:18,150 --> 00:02:20,370
+about this to sometimes
+think, all right,
+
+47
+00:02:20,370 --> 00:02:22,890
+what's the official sector
+saying in their speeches
+
+48
+00:02:22,890 --> 00:02:25,450
+and so forth?
+
+49
+00:02:25,450 --> 00:02:28,930
+But that was kind of why I
+put those readings out there.
+
+50
+00:02:28,930 --> 00:02:32,280
+I'm looking at Romain to see if
+there's anything, but probably
+
+51
+00:02:32,280 --> 00:02:35,050
+not yet.
+
+52
+00:02:35,050 --> 00:02:36,758
+And then the study questions.
+
+53
+00:02:36,758 --> 00:02:38,550
+This is where it gets
+a little bit more fun
+
+54
+00:02:38,550 --> 00:02:40,910
+and I see if we can get
+a little engagement.
+
+55
+00:02:40,910 --> 00:02:45,540
+And again, we spoke a great
+deal about this already.
+
+56
+00:02:45,540 --> 00:02:48,885
+But if anybody just really
+quickly want to give
+
+57
+00:02:48,885 --> 00:02:51,060
+an articulation
+of this question--
+
+58
+00:02:51,060 --> 00:02:55,920
+why are these new forms of
+AI enabled data analytics,
+
+59
+00:02:55,920 --> 00:02:59,040
+pattern recognition, speech
+recognition, and so forth--
+
+60
+00:03:01,890 --> 00:03:05,160
+how do they fit into the
+other trends, as you see it,
+
+61
+00:03:05,160 --> 00:03:08,080
+as we've talked about
+in financial technology?
+
+62
+00:03:08,080 --> 00:03:08,970
+GUEST SPEAKER: Luke?
+
+63
+00:03:08,970 --> 00:03:10,428
+GARY GENSLER: This
+is your fun time
+
+64
+00:03:10,428 --> 00:03:13,500
+to either call on people
+as they've volunteered
+
+65
+00:03:13,500 --> 00:03:14,130
+or otherwise.
+
+66
+00:03:14,130 --> 00:03:15,400
+But we've discussed this.
+
+67
+00:03:15,400 --> 00:03:17,527
+I'm just trying to get
+it a little going here.
+
+68
+00:03:17,527 --> 00:03:19,110
+GUEST SPEAKER: We
+can start with Luke.
+
+69
+00:03:19,110 --> 00:03:22,890
+AUDIENCE: So the commonality
+among the industries, so
+
+70
+00:03:22,890 --> 00:03:27,990
+sector agnostically, is the
+fact that all the companies who
+
+71
+00:03:27,990 --> 00:03:32,520
+can deploy this AI to
+their operation system
+
+72
+00:03:32,520 --> 00:03:38,400
+is to save money, save costs, so
+that the bottom line is better.
+
+73
+00:03:38,400 --> 00:03:42,180
+GARY GENSLER: So one thing that
+Luke's raising is saving costs.
+
+74
+00:03:42,180 --> 00:03:45,240
+Others want to sort of chime in.
+
+75
+00:03:45,240 --> 00:03:48,270
+And I'm kind of also
+curious as others
+
+76
+00:03:48,270 --> 00:03:52,410
+chime in how you see it fitting
+in with other emerging trends.
+
+77
+00:03:52,410 --> 00:03:55,390
+We had the trends that
+we've already lived through,
+
+78
+00:03:55,390 --> 00:03:58,140
+but we're building upon,
+like the internet and mobile
+
+79
+00:03:58,140 --> 00:03:59,340
+and cloud.
+
+80
+00:03:59,340 --> 00:04:01,110
+We have some other
+trends that we'll
+
+81
+00:04:01,110 --> 00:04:04,830
+get to in future
+classes like open API.
+
+82
+00:04:04,830 --> 00:04:08,220
+Just kind of curious
+to see if somebody
+
+83
+00:04:08,220 --> 00:04:10,630
+wants to take a
+crack at connecting
+
+84
+00:04:10,630 --> 00:04:12,900
+this piece of the
+technology with some
+
+85
+00:04:12,900 --> 00:04:14,390
+of these other trends.
+
+86
+00:04:14,390 --> 00:04:15,902
+GUEST SPEAKER: Laira?
+
+87
+00:04:15,902 --> 00:04:18,110
+AUDIENCE: Yeah, I think what
+we discussed extensively
+
+88
+00:04:18,110 --> 00:04:22,400
+in the last lecture
+was Erica being
+
+89
+00:04:22,400 --> 00:04:27,560
+one of really good examples
+of how the new forms of AI
+
+90
+00:04:27,560 --> 00:04:29,570
+is emerging with
+what's already existing
+
+91
+00:04:29,570 --> 00:04:31,970
+and making it not just
+cheaper for the firms
+
+92
+00:04:31,970 --> 00:04:35,030
+to answer mundane questions
+that customers have,
+
+93
+00:04:35,030 --> 00:04:38,040
+but also making it
+more user friendly.
+
+94
+00:04:38,040 --> 00:04:39,560
+So I think in terms
+of Erica, it's
+
+95
+00:04:39,560 --> 00:04:44,110
+just a great example to show
+how this question kind of goes
+
+96
+00:04:44,110 --> 00:04:45,530
+through.
+
+97
+00:04:45,530 --> 00:04:49,050
+GARY GENSLER: So
+Laira's just raising--
+
+98
+00:04:49,050 --> 00:04:52,010
+and sometimes I just break
+these down simplistically.
+
+99
+00:04:52,010 --> 00:04:54,120
+In the artificial
+intelligence world,
+
+100
+00:04:54,120 --> 00:04:57,260
+there's the
+consumer-customer interface.
+
+101
+00:04:57,260 --> 00:04:59,240
+Erica at Bank America
+is an example,
+
+102
+00:04:59,240 --> 00:05:02,330
+and chat bots, and
+the various ways
+
+103
+00:05:02,330 --> 00:05:05,450
+we communicate with customers,
+tying into customers,
+
+104
+00:05:05,450 --> 00:05:08,900
+builds what technology?
+
+105
+00:05:08,900 --> 00:05:11,810
+What is it that you
+use and might even
+
+106
+00:05:11,810 --> 00:05:15,430
+be using right now when
+you're watching this course?
+
+107
+00:05:18,522 --> 00:05:20,480
+GUEST SPEAKER: Eric, you
+also had your hand up.
+
+108
+00:05:23,440 --> 00:05:26,050
+AUDIENCE: I was going to
+talk about something else.
+
+109
+00:05:26,050 --> 00:05:27,378
+I was going to say that--
+
+110
+00:05:27,378 --> 00:05:28,170
+GARY GENSLER: Sure.
+
+111
+00:05:28,170 --> 00:05:30,140
+[INAUDIBLE] and I'll
+tie them all together.
+
+112
+00:05:30,140 --> 00:05:30,720
+Don't worry.
+
+113
+00:05:30,720 --> 00:05:33,645
+I'll answer [INAUDIBLE]
+questions, too.
+
+114
+00:05:33,645 --> 00:05:34,270
+AUDIENCE: Sure.
+
+115
+00:05:34,270 --> 00:05:39,690
+I was saying that AI is being
+used by fintechs for better
+
+116
+00:05:39,690 --> 00:05:41,700
+underwriting
+purposes, like using
+
+117
+00:05:41,700 --> 00:05:47,398
+alternative data to better
+assess people's credit.
+
+118
+00:05:47,398 --> 00:05:48,440
+GARY GENSLER: Absolutely.
+
+119
+00:05:48,440 --> 00:05:50,480
+So it's the data analytics.
+
+120
+00:05:50,480 --> 00:05:51,920
+It's the customer interface.
+
+121
+00:05:51,920 --> 00:05:55,760
+That data analytics of
+predictive underwriting,
+
+122
+00:05:55,760 --> 00:05:57,680
+whether it's in
+insurance, whether it's
+
+123
+00:05:57,680 --> 00:06:00,560
+in lending, predictive
+underwriting.
+
+124
+00:06:00,560 --> 00:06:02,510
+It's also on the
+customer side where
+
+125
+00:06:02,510 --> 00:06:04,370
+we use natural
+language processing
+
+126
+00:06:04,370 --> 00:06:06,660
+and we interface
+with the customers.
+
+127
+00:06:06,660 --> 00:06:08,810
+Romain why don't we
+take one or two more?
+
+128
+00:06:08,810 --> 00:06:10,400
+I'm looking for
+somebody who wants
+
+129
+00:06:10,400 --> 00:06:13,700
+to tie it to the other
+technological trends
+
+130
+00:06:13,700 --> 00:06:14,520
+that we see.
+
+131
+00:06:14,520 --> 00:06:18,310
+GUEST SPEAKER: So let's go
+with Nikhil and then with Wei.
+
+132
+00:06:18,310 --> 00:06:21,040
+GARY GENSLER: All right,
+and then we'll move on.
+
+133
+00:06:21,040 --> 00:06:23,680
+AUDIENCE: I think the
+Oliver Wyman reading talks
+
+134
+00:06:23,680 --> 00:06:27,487
+about how companies that have
+been using AI and machine
+
+135
+00:06:27,487 --> 00:06:28,570
+learning have done better.
+
+136
+00:06:28,570 --> 00:06:30,028
+I think it was
+asset management was
+
+137
+00:06:30,028 --> 00:06:31,630
+a specific example they took.
+
+138
+00:06:31,630 --> 00:06:35,230
+I think it also ties to,
+like another class I'm
+
+139
+00:06:35,230 --> 00:06:37,360
+taking with Simon
+Johnson on AI talks
+
+140
+00:06:37,360 --> 00:06:40,720
+about David Autor's report
+that says there's a superstar
+
+141
+00:06:40,720 --> 00:06:43,730
+effect where firms that
+have access to this data
+
+142
+00:06:43,730 --> 00:06:46,780
+and are using AI tend to
+perform better in the market.
+
+143
+00:06:46,780 --> 00:06:48,910
+And I think that's a
+significant tie-in.
+
+144
+00:06:48,910 --> 00:06:50,620
+And it's probably
+even more exaggerated
+
+145
+00:06:50,620 --> 00:06:52,670
+in fintech specifically.
+
+146
+00:06:52,670 --> 00:06:54,790
+GARY GENSLER: So let's
+just pause for a second.
+
+147
+00:06:54,790 --> 00:06:56,410
+It's data, data.
+
+148
+00:06:56,410 --> 00:07:00,220
+What we've had is this
+remarkable advancement
+
+149
+00:07:00,220 --> 00:07:03,740
+in data analytic tools,
+artificial intelligence.
+
+150
+00:07:03,740 --> 00:07:06,610
+But we've also had a remarkable
+advancement of the ability
+
+151
+00:07:06,610 --> 00:07:11,140
+to store and process
+data through the cloud
+
+152
+00:07:11,140 --> 00:07:15,190
+and just through the emergence
+of much faster computers
+
+153
+00:07:15,190 --> 00:07:18,550
+and much more connected
+communications.
+
+154
+00:07:18,550 --> 00:07:22,450
+So that data piece, the
+artificial intelligence
+
+155
+00:07:22,450 --> 00:07:24,545
+and machine learning
+trend might not
+
+156
+00:07:24,545 --> 00:07:26,920
+have been able to do as well
+if it weren't for everything
+
+157
+00:07:26,920 --> 00:07:29,240
+that's going on,
+broadly speaking,
+
+158
+00:07:29,240 --> 00:07:32,050
+whether it's in
+cloud or computing.
+
+159
+00:07:32,050 --> 00:07:35,324
+And Romain the last
+person that was--
+
+160
+00:07:35,324 --> 00:07:36,260
+AUDIENCE: Yep.
+
+161
+00:07:36,260 --> 00:07:40,960
+So I also want to maybe make
+a mention that in also help
+
+162
+00:07:40,960 --> 00:07:44,340
+was a lot of times either
+collecting data analytics
+
+163
+00:07:44,340 --> 00:07:46,300
+or cleaning the data analytics.
+
+164
+00:07:46,300 --> 00:07:51,100
+Because a lot of time
+that in the old world
+
+165
+00:07:51,100 --> 00:07:54,100
+there's a lot of data
+you potentially collect.
+
+166
+00:07:54,100 --> 00:07:56,770
+First of all, I can
+help to better collect
+
+167
+00:07:56,770 --> 00:07:58,090
+unstructured data.
+
+168
+00:07:58,090 --> 00:08:00,520
+And the second found
+that it helps to clean
+
+169
+00:08:00,520 --> 00:08:03,340
+a lot of data you collected.
+
+170
+00:08:03,340 --> 00:08:05,650
+GARY GENSLER: So
+absolutely agreed.
+
+171
+00:08:05,650 --> 00:08:11,080
+And often it's 80%, sometimes
+90% more of a computer science
+
+172
+00:08:11,080 --> 00:08:15,630
+group is in the cleaning up of
+data and standardizing data.
+
+173
+00:08:15,630 --> 00:08:18,100
+And we'll come back
+to this, but a lot
+
+174
+00:08:18,100 --> 00:08:21,550
+of fintech disruptors,
+a lot of startups
+
+175
+00:08:21,550 --> 00:08:27,580
+have actually created value more
+around data than anything else.
+
+176
+00:08:27,580 --> 00:08:32,530
+And I will say not just about
+data, but standardizing data.
+
+177
+00:08:32,530 --> 00:08:35,309
+And later in this class, we're
+going to talk about Plaid
+
+178
+00:08:35,309 --> 00:08:39,070
+and Credit Karma, both of
+which were earlier this year
+
+179
+00:08:39,070 --> 00:08:42,520
+acquired, Plaid by
+Visa, Credit Karma
+
+180
+00:08:42,520 --> 00:08:48,730
+by Intuit for $5 to $7
+billion-- big, big acquisitions.
+
+181
+00:08:48,730 --> 00:08:53,340
+And we're going to talk about
+what was the value proposition
+
+182
+00:08:53,340 --> 00:08:54,810
+for Visa and Intuit?
+
+183
+00:08:54,810 --> 00:08:57,240
+Why were they paying
+$5 or $7 billion?
+
+184
+00:08:57,240 --> 00:08:58,710
+A lot of it--
+
+185
+00:08:58,710 --> 00:09:01,680
+not all of it, but a lot
+of it relates to data,
+
+186
+00:09:01,680 --> 00:09:06,750
+but also having standardized
+that data, particularly
+
+187
+00:09:06,750 --> 00:09:07,740
+in the case of Plaid.
+
+188
+00:09:12,530 --> 00:09:15,420
+How it's affecting the
+competitive landscape.
+
+189
+00:09:15,420 --> 00:09:16,570
+We've talked a great deal.
+
+190
+00:09:16,570 --> 00:09:18,410
+Hopefully this
+will continue to be
+
+191
+00:09:18,410 --> 00:09:23,360
+a theme throughout the semester
+about big incumbents, big tech,
+
+192
+00:09:23,360 --> 00:09:25,550
+and fintech startups.
+
+193
+00:09:25,550 --> 00:09:29,510
+I will contend in this
+and throughout this course
+
+194
+00:09:29,510 --> 00:09:33,590
+that AI and machine learning is
+now moving into the technology
+
+195
+00:09:33,590 --> 00:09:35,250
+stack.
+
+196
+00:09:35,250 --> 00:09:38,700
+If we think of this stack
+as layers of technology
+
+197
+00:09:38,700 --> 00:09:43,680
+that incumbents incorporate,
+and frankly will not
+
+198
+00:09:43,680 --> 00:09:47,030
+survive if they
+don't incorporate,
+
+199
+00:09:47,030 --> 00:09:50,550
+that AI and machine learning
+is being incorporated quickly
+
+200
+00:09:50,550 --> 00:09:53,910
+into the financial
+incumbent technology stack.
+
+201
+00:09:53,910 --> 00:09:55,150
+We're not fully there yet.
+
+202
+00:09:57,940 --> 00:10:00,640
+And that the competitive
+landscape is such
+
+203
+00:10:00,640 --> 00:10:03,580
+that the fintech startups
+and disruptors have
+
+204
+00:10:03,580 --> 00:10:07,150
+been able to find cracks
+in the old business models.
+
+205
+00:10:07,150 --> 00:10:09,720
+And using machine learning,
+they've been able to break in.
+
+206
+00:10:09,720 --> 00:10:11,620
+And we'll talk a bit about that.
+
+207
+00:10:11,620 --> 00:10:13,240
+The big tech firms,
+of course we've
+
+208
+00:10:13,240 --> 00:10:17,020
+already talked about that they
+are really about networks.
+
+209
+00:10:17,020 --> 00:10:20,540
+Networks that they then
+layer more activities upon,
+
+210
+00:10:20,540 --> 00:10:22,660
+and those more activities
+bring them more data.
+
+211
+00:10:26,780 --> 00:10:29,360
+And then we're going
+to talk a fair amount
+
+212
+00:10:29,360 --> 00:10:30,530
+about public policy.
+
+213
+00:10:30,530 --> 00:10:34,370
+But anybody who's sort of dug
+into the Mayer Brown reading
+
+214
+00:10:34,370 --> 00:10:38,090
+want to just give two or
+three thoughts on the broad--
+
+215
+00:10:38,090 --> 00:10:39,240
+what are the--
+
+216
+00:10:39,240 --> 00:10:41,840
+I'll later call
+them the big three?
+
+217
+00:10:41,840 --> 00:10:45,930
+But it's almost written right
+in the question for you,
+
+218
+00:10:45,930 --> 00:10:48,311
+but Romain, you want
+to call anybody?
+
+219
+00:10:51,072 --> 00:10:52,030
+GUEST SPEAKER: Michael?
+
+220
+00:10:56,530 --> 00:10:59,050
+AUDIENCE: Yeah, so
+the reading kind of
+
+221
+00:10:59,050 --> 00:11:04,970
+did touch upon bias a lot
+and its potential, just
+
+222
+00:11:04,970 --> 00:11:09,180
+on the natural factors
+that a machine learning
+
+223
+00:11:09,180 --> 00:11:11,460
+algorithm would trace.
+
+224
+00:11:11,460 --> 00:11:14,760
+GARY GENSLER: So one of the
+things about machine learning
+
+225
+00:11:14,760 --> 00:11:17,160
+and deep learning is
+that it's remarkably
+
+226
+00:11:17,160 --> 00:11:21,330
+successful at
+extracting correlations.
+
+227
+00:11:21,330 --> 00:11:24,960
+Correlations from data sometimes
+that we didn't see before,
+
+228
+00:11:24,960 --> 00:11:29,870
+that didn't come just from
+a linear relationship,
+
+229
+00:11:29,870 --> 00:11:32,940
+a linear relationship that we
+might be able to identify just
+
+230
+00:11:32,940 --> 00:11:36,210
+in classical statistics.
+
+231
+00:11:36,210 --> 00:11:38,910
+But in those
+remarkable abilities
+
+232
+00:11:38,910 --> 00:11:42,300
+to extract correlations,
+you might see biases.
+
+233
+00:11:42,300 --> 00:11:45,930
+If the data itself has
+a bias in it that people
+
+234
+00:11:45,930 --> 00:11:49,050
+of certain gender, certain race,
+certain ethnic backgrounds,
+
+235
+00:11:49,050 --> 00:11:56,160
+certain geographies are more
+likely to, in the data's mind--
+
+236
+00:11:56,160 --> 00:11:57,560
+in the data's mind--
+
+237
+00:11:57,560 --> 00:11:59,760
+are more likely to
+have lower income
+
+238
+00:11:59,760 --> 00:12:04,380
+and in the data might have more
+likely to be a lower credit
+
+239
+00:12:04,380 --> 00:12:07,440
+quality, then you
+might be embedding
+
+240
+00:12:07,440 --> 00:12:11,070
+certain biases inside the data.
+
+241
+00:12:11,070 --> 00:12:14,540
+And many nations around
+the globe, not just the US,
+
+242
+00:12:14,540 --> 00:12:17,640
+have said to the
+credit card companies
+
+243
+00:12:17,640 --> 00:12:21,540
+and the other financial firms
+that you shouldn't have biases
+
+244
+00:12:21,540 --> 00:12:25,130
+around race, gender, ethnic
+background, geography,
+
+245
+00:12:25,130 --> 00:12:26,820
+sometimes, and the like.
+
+246
+00:12:26,820 --> 00:12:28,980
+So one is biases.
+
+247
+00:12:28,980 --> 00:12:32,340
+When I consider the
+three big buckets
+
+248
+00:12:32,340 --> 00:12:35,460
+here-- anybody want to just
+talk about the other two?
+
+249
+00:12:35,460 --> 00:12:36,520
+Romain?
+
+250
+00:12:36,520 --> 00:12:38,218
+GUEST SPEAKER: Alicia.
+
+251
+00:12:38,218 --> 00:12:38,760
+AUDIENCE: Hi.
+
+252
+00:12:38,760 --> 00:12:40,710
+I think we talked
+this last class.
+
+253
+00:12:40,710 --> 00:12:45,180
+I think AI derives
+conclusions or correlations
+
+254
+00:12:45,180 --> 00:12:46,860
+without explaining the why.
+
+255
+00:12:46,860 --> 00:12:51,180
+So humans cannot understand why
+some guy has a better credit
+
+256
+00:12:51,180 --> 00:12:54,768
+rating than another and has an
+issue with the law, basically.
+
+257
+00:12:54,768 --> 00:12:55,560
+GARY GENSLER: Yeah.
+
+258
+00:12:55,560 --> 00:13:01,130
+And why as societies have
+we embedded in laws--
+
+259
+00:13:01,130 --> 00:13:02,425
+and we'll talk about this.
+
+260
+00:13:02,425 --> 00:13:04,050
+But if you have a
+point of view, why as
+
+261
+00:13:04,050 --> 00:13:06,510
+societies have we
+embedded in laws
+
+262
+00:13:06,510 --> 00:13:09,210
+that you need to be able
+to explain the why when
+
+263
+00:13:09,210 --> 00:13:13,590
+you deny somebody credit or deny
+somebody a financial product?
+
+264
+00:13:13,590 --> 00:13:16,650
+We did this in the United
+States 50 years ago
+
+265
+00:13:16,650 --> 00:13:22,560
+in something called the
+Fair Credit Reporting Act.
+
+266
+00:13:22,560 --> 00:13:27,670
+Data analytics was a big wave
+in the 1960s, believe it or not,
+
+267
+00:13:27,670 --> 00:13:31,410
+when credit cards were
+invented in the 1940s and '50s.
+
+268
+00:13:31,410 --> 00:13:33,945
+By the 1960s, data
+analytics were going,
+
+269
+00:13:33,945 --> 00:13:39,450
+and the Fair Isaac Company,
+which became FICO, had started.
+
+270
+00:13:39,450 --> 00:13:42,570
+And we embedded in law that you
+had to answer this question.
+
+271
+00:13:42,570 --> 00:13:44,700
+Explain why you denied credit.
+
+272
+00:13:44,700 --> 00:13:47,310
+But why do you think we
+embed that in country
+
+273
+00:13:47,310 --> 00:13:49,720
+after country in our laws?
+
+274
+00:13:49,720 --> 00:13:52,580
+GUEST SPEAKER: Danielle?
+
+275
+00:13:52,580 --> 00:13:56,150
+AUDIENCE: So I think it's,
+going back to the bias question,
+
+276
+00:13:56,150 --> 00:14:00,080
+to prevent bias in people
+who are extending credit.
+
+277
+00:14:00,080 --> 00:14:01,562
+GARY GENSLER: I
+think you're right.
+
+278
+00:14:01,562 --> 00:14:03,020
+I don't think it's
+the only reason,
+
+279
+00:14:03,020 --> 00:14:04,820
+but I think it's
+a dominant reason.
+
+280
+00:14:04,820 --> 00:14:07,100
+We also in the US passed
+something called the Equal
+
+281
+00:14:07,100 --> 00:14:10,640
+Credit Opportunity
+Act, or it generally
+
+282
+00:14:10,640 --> 00:14:13,560
+goes by the terms ECOA.
+
+283
+00:14:13,560 --> 00:14:17,180
+But those two laws and
+another law in the US,
+
+284
+00:14:17,180 --> 00:14:19,580
+Truth in Lending Act
+for transparency,
+
+285
+00:14:19,580 --> 00:14:23,990
+were kind of this bedrock out of
+the 1960s data analytic credit
+
+286
+00:14:23,990 --> 00:14:25,370
+card boom.
+
+287
+00:14:25,370 --> 00:14:29,490
+By the early '70s,
+we had those three.
+
+288
+00:14:29,490 --> 00:14:34,280
+Anti-bias, fairness, you
+might say, explainability.
+
+289
+00:14:34,280 --> 00:14:38,450
+These are two bedrocks
+in finance in Europe
+
+290
+00:14:38,450 --> 00:14:40,580
+and the US, country
+after country.
+
+291
+00:14:40,580 --> 00:14:43,910
+What's the third
+challenge that comes up
+
+292
+00:14:43,910 --> 00:14:50,270
+with data analytics or AI
+that often we find ourselves,
+
+293
+00:14:50,270 --> 00:14:52,250
+and if you're starting
+a fintech startup
+
+294
+00:14:52,250 --> 00:14:53,630
+you have to be aware of?
+
+295
+00:14:56,450 --> 00:14:59,410
+Romain, any hands?
+
+296
+00:14:59,410 --> 00:15:00,490
+GUEST SPEAKER: Not yet.
+
+297
+00:15:00,490 --> 00:15:02,170
+We have Luke again.
+
+298
+00:15:02,170 --> 00:15:06,117
+GARY GENSLER: We'll pass on
+Luke unless somebody else.
+
+299
+00:15:06,117 --> 00:15:07,700
+GUEST SPEAKER: We
+have Danielle again.
+
+300
+00:15:10,410 --> 00:15:12,240
+GARY GENSLER: All
+right, either one,
+
+301
+00:15:12,240 --> 00:15:15,890
+whoever's got their mic off.
+
+302
+00:15:15,890 --> 00:15:18,280
+AUDIENCE: So privacy
+is the last one.
+
+303
+00:15:18,280 --> 00:15:19,360
+GARY GENSLER: Sure.
+
+304
+00:15:19,360 --> 00:15:22,090
+AUDIENCE: For example, companies
+have demonstrated the ability
+
+305
+00:15:22,090 --> 00:15:25,750
+to predict when consumers
+have certain health conditions
+
+306
+00:15:25,750 --> 00:15:29,330
+or pregnancy, for example.
+
+307
+00:15:29,330 --> 00:15:32,470
+There is a really famous
+case where a company knew
+
+308
+00:15:32,470 --> 00:15:36,010
+that a consumer was pregnant
+based on how their shopping
+
+309
+00:15:36,010 --> 00:15:38,200
+patterns changed,
+and there are reasons
+
+310
+00:15:38,200 --> 00:15:41,860
+we've precluded
+employers or credit
+
+311
+00:15:41,860 --> 00:15:44,680
+extenders from asking about
+certain parts of people's
+
+312
+00:15:44,680 --> 00:15:45,260
+lives.
+
+313
+00:15:45,260 --> 00:15:48,940
+But we may be unexpectedly
+exposed to parts of those lives
+
+314
+00:15:48,940 --> 00:15:51,050
+if we're capturing
+data and using it.
+
+315
+00:15:51,050 --> 00:15:53,860
+GARY GENSLER: So this
+trade-off of privacy
+
+316
+00:15:53,860 --> 00:15:58,300
+versus financial
+services, thought
+
+317
+00:15:58,300 --> 00:16:00,810
+it's not as old as
+sort of the fairness
+
+318
+00:16:00,810 --> 00:16:03,675
+and the explainability,
+which in the US
+
+319
+00:16:03,675 --> 00:16:05,050
+and then later in
+other countries
+
+320
+00:16:05,050 --> 00:16:08,130
+was embedded in many
+laws 30 to 50 years ago,
+
+321
+00:16:08,130 --> 00:16:10,980
+privacy has picked up a
+little bit more of a stream.
+
+322
+00:16:10,980 --> 00:16:13,240
+By the late 1990s
+in the US, there
+
+323
+00:16:13,240 --> 00:16:16,800
+was modest financial
+privacy protections that
+
+324
+00:16:16,800 --> 00:16:20,490
+were embedded into law in 1999.
+
+325
+00:16:20,490 --> 00:16:24,150
+I actually helped work on
+that with then-Congressman Ed
+
+326
+00:16:24,150 --> 00:16:29,060
+Markey, now Senator Ed
+Markey of Massachusetts.
+
+327
+00:16:29,060 --> 00:16:31,710
+But in Europe, they
+went quite a bit
+
+328
+00:16:31,710 --> 00:16:36,090
+further in something called
+the GDPR, which we'll
+
+329
+00:16:36,090 --> 00:16:38,680
+talk about a little later.
+
+330
+00:16:38,680 --> 00:16:43,560
+But the General Directive--
+
+331
+00:16:43,560 --> 00:16:47,640
+P doesn't stand for
+privacy, but I think
+
+332
+00:16:47,640 --> 00:16:51,010
+it's Protection of Regulation.
+
+333
+00:16:51,010 --> 00:16:52,800
+So those three buckets--
+
+334
+00:16:52,800 --> 00:16:54,870
+those three buckets
+are the important ones.
+
+335
+00:16:54,870 --> 00:16:59,340
+So again, AI machine learning
+fits into these other trends
+
+336
+00:16:59,340 --> 00:17:00,653
+that we think about.
+
+337
+00:17:00,653 --> 00:17:02,070
+And I'm going to
+walk through that
+
+338
+00:17:02,070 --> 00:17:06,780
+in this class of cloud and
+internet and mobile and data.
+
+339
+00:17:06,780 --> 00:17:12,839
+Fintech startups, big tech,
+and incumbents, I believe,
+
+340
+00:17:12,839 --> 00:17:16,660
+are all embedding it in
+their technology stack.
+
+341
+00:17:16,660 --> 00:17:19,680
+And you're really
+challenged if you don't.
+
+342
+00:17:19,680 --> 00:17:22,680
+And then the big three
+challenges in public policy,
+
+343
+00:17:22,680 --> 00:17:26,151
+explainability,
+bias, and privacy.
+
+344
+00:17:26,151 --> 00:17:27,609
+There are other
+challenges as well,
+
+345
+00:17:27,609 --> 00:17:30,430
+but those are the big
+three, in a sense.
+
+346
+00:17:30,430 --> 00:17:32,280
+So what do I mean
+by technology stack?
+
+347
+00:17:32,280 --> 00:17:34,560
+Well, I think that
+three things are already
+
+348
+00:17:34,560 --> 00:17:38,190
+embedded, the internet,
+mobile, and the cloud.
+
+349
+00:17:38,190 --> 00:17:41,250
+And if this class were being
+taught at MIT in the 1980s,
+
+350
+00:17:41,250 --> 00:17:44,040
+none of them would be
+there, and by the 1990s,
+
+351
+00:17:44,040 --> 00:17:47,220
+we would have said,
+wow, that internet.
+
+352
+00:17:47,220 --> 00:17:51,480
+The word "fintech" didn't
+really come about in the 1990s.
+
+353
+00:17:51,480 --> 00:17:54,300
+But if we had applied
+it to the 1990s,
+
+354
+00:17:54,300 --> 00:17:57,840
+the internet was
+dramatically changing.
+
+355
+00:17:57,840 --> 00:18:01,590
+Mobile into the naughts
+in the cloud and so forth.
+
+356
+00:18:01,590 --> 00:18:06,000
+I would contend you cannot
+really survive in the finance
+
+357
+00:18:06,000 --> 00:18:08,940
+space giving customers
+what they need,
+
+358
+00:18:08,940 --> 00:18:12,570
+whether it's in the wholesale
+markets of capital markets
+
+359
+00:18:12,570 --> 00:18:18,740
+and payments, or in the retail
+markets if you haven't yet
+
+360
+00:18:18,740 --> 00:18:21,210
+embedded in your
+technology stack.
+
+361
+00:18:21,210 --> 00:18:25,200
+Now, I will note that many
+large financial companies
+
+362
+00:18:25,200 --> 00:18:29,110
+are slow to use the cloud.
+
+363
+00:18:29,110 --> 00:18:32,110
+The largest amongst them
+tend to want to still have
+
+364
+00:18:32,110 --> 00:18:34,180
+their own data centers.
+
+365
+00:18:34,180 --> 00:18:36,430
+I think you're going to
+see that shift dramatically
+
+366
+00:18:36,430 --> 00:18:38,440
+in the 2020s.
+
+367
+00:18:38,440 --> 00:18:42,160
+But I'm certainly telling you
+that if you start a startup,
+
+368
+00:18:42,160 --> 00:18:44,710
+you cannot survive if you're
+trying to do your own data
+
+369
+00:18:44,710 --> 00:18:47,890
+center, if you're going
+to already embed these
+
+370
+00:18:47,890 --> 00:18:51,610
+in your what I'll
+call financial stack.
+
+371
+00:18:51,610 --> 00:18:57,550
+The internet for connectivity,
+mobile in a sense for ubiquity,
+
+372
+00:18:57,550 --> 00:18:59,740
+meaning that folks
+can be out there.
+
+373
+00:18:59,740 --> 00:19:03,730
+Cloud, you're sort of renting
+somebody else's storage
+
+374
+00:19:03,730 --> 00:19:06,380
+and often their software.
+
+375
+00:19:06,380 --> 00:19:10,490
+But then the things that we're
+talking about in this time,
+
+376
+00:19:10,490 --> 00:19:13,520
+in the 2020s that
+are being embedded
+
+377
+00:19:13,520 --> 00:19:19,370
+into the classic standard
+company stack is AI, machine
+
+378
+00:19:19,370 --> 00:19:21,200
+learning, and natural
+language processing,
+
+379
+00:19:21,200 --> 00:19:23,300
+and what we'll talk about
+in the next class a lot
+
+380
+00:19:23,300 --> 00:19:26,310
+about open API.
+
+381
+00:19:26,310 --> 00:19:27,660
+Now, we're in a transition mode.
+
+382
+00:19:27,660 --> 00:19:31,080
+Not every company has really
+embedded it in their stack.
+
+383
+00:19:31,080 --> 00:19:33,810
+And these are where the
+opportunities really
+
+384
+00:19:33,810 --> 00:19:38,090
+existed in the last
+dozen years in fintech.
+
+385
+00:19:38,090 --> 00:19:40,140
+Fintech startups that
+were savvy enough
+
+386
+00:19:40,140 --> 00:19:44,220
+to really build this into
+their product offerings
+
+387
+00:19:44,220 --> 00:19:48,810
+faster than the
+incumbents, or, better yet,
+
+388
+00:19:48,810 --> 00:19:51,103
+in a more refined, targeted way.
+
+389
+00:19:51,103 --> 00:19:52,770
+And we'll talk a fair
+amount about that.
+
+390
+00:19:52,770 --> 00:19:55,290
+Now, of course, there's
+other things in the stack.
+
+391
+00:19:55,290 --> 00:19:57,420
+And this is not
+what this class is.
+
+392
+00:19:57,420 --> 00:20:00,960
+Even money itself in accounting
+and ledgers and joint stock
+
+393
+00:20:00,960 --> 00:20:03,090
+companies were all in a sense.
+
+394
+00:20:03,090 --> 00:20:05,160
+We just take them
+completely for granted.
+
+395
+00:20:05,160 --> 00:20:09,240
+By the time you're in a
+master's program at MIT,
+
+396
+00:20:09,240 --> 00:20:12,830
+master's of finance or MBA
+or other graduate program,
+
+397
+00:20:12,830 --> 00:20:14,580
+you're quite familiar,
+and you almost just
+
+398
+00:20:14,580 --> 00:20:16,080
+take these for granted.
+
+399
+00:20:16,080 --> 00:20:20,480
+But I can assure you
+at earlier decades,
+
+400
+00:20:20,480 --> 00:20:22,040
+they couldn't be
+taken for granted.
+
+401
+00:20:22,040 --> 00:20:25,580
+And some of them, like
+securitization and derivatives,
+
+402
+00:20:25,580 --> 00:20:28,580
+will dramatically
+shift your ability
+
+403
+00:20:28,580 --> 00:20:31,370
+if you're doing a
+startup to compete.
+
+404
+00:20:31,370 --> 00:20:32,870
+I see some things in the chat.
+
+405
+00:20:32,870 --> 00:20:34,160
+Romain, are there questions?
+
+406
+00:20:38,090 --> 00:20:39,410
+GUEST SPEAKER: All good, Gary.
+
+407
+00:20:39,410 --> 00:20:40,410
+GARY GENSLER: All right.
+
+408
+00:20:40,410 --> 00:20:42,240
+And then the question
+I sort of still
+
+409
+00:20:42,240 --> 00:20:45,450
+have, and I teach this
+quite a bit at MIT,
+
+410
+00:20:45,450 --> 00:20:47,310
+is blockchain technology.
+
+411
+00:20:47,310 --> 00:20:49,020
+Will that move into the stack?
+
+412
+00:20:49,020 --> 00:20:51,670
+I would contend it's
+not really yet there.
+
+413
+00:20:51,670 --> 00:20:53,710
+You can be an incumbent.
+
+414
+00:20:53,710 --> 00:20:59,950
+You can be a big finance firm, a
+big tech, or a startup and say,
+
+415
+00:20:59,950 --> 00:21:01,800
+I'm not going to
+compete right there.
+
+416
+00:21:01,800 --> 00:21:03,210
+I'm not quite sure.
+
+417
+00:21:03,210 --> 00:21:06,400
+Though, again, we
+look at Facebook.
+
+418
+00:21:06,400 --> 00:21:11,290
+We look at Telegram, big tech
+companies, messaging companies,
+
+419
+00:21:11,290 --> 00:21:14,560
+[INAUDIBLE] in
+Korea who are sort
+
+420
+00:21:14,560 --> 00:21:20,270
+of pulling in some blockchain
+technology and looking at it.
+
+421
+00:21:20,270 --> 00:21:22,360
+We see trade
+finance consortiums.
+
+422
+00:21:22,360 --> 00:21:24,850
+And we'll talk more
+about this next week.
+
+423
+00:21:24,850 --> 00:21:27,040
+But I would say
+that you will not
+
+424
+00:21:27,040 --> 00:21:29,800
+survive if you're not
+bringing machine learning
+
+425
+00:21:29,800 --> 00:21:32,620
+into your technology stack.
+
+426
+00:21:32,620 --> 00:21:34,960
+You probably won't
+survive that long
+
+427
+00:21:34,960 --> 00:21:39,280
+if you don't really have
+a strategy around open API
+
+428
+00:21:39,280 --> 00:21:39,790
+and data.
+
+429
+00:21:42,390 --> 00:21:45,360
+Romain, I pause a little bit.
+
+430
+00:21:45,360 --> 00:21:48,220
+We talked last session about
+artificial intelligence
+
+431
+00:21:48,220 --> 00:21:49,170
+and machine learning.
+
+432
+00:21:49,170 --> 00:21:50,760
+We're not going to dive back in.
+
+433
+00:21:50,760 --> 00:21:52,260
+I'm just going to
+open it if there's
+
+434
+00:21:52,260 --> 00:21:54,990
+any questions about
+what we talked about.
+
+435
+00:21:54,990 --> 00:21:56,880
+That, of course,
+machine learning
+
+436
+00:21:56,880 --> 00:21:59,430
+is just a part of
+artificial intelligence.
+
+437
+00:21:59,430 --> 00:22:02,740
+You narrow it down
+to deep learning.
+
+438
+00:22:02,740 --> 00:22:04,750
+Fundamentally as
+a business school,
+
+439
+00:22:04,750 --> 00:22:10,030
+I'm not asking each of you to be
+able to program with TensorFlow
+
+440
+00:22:10,030 --> 00:22:12,805
+and run a TensorFlow project,
+even though many of you
+
+441
+00:22:12,805 --> 00:22:14,990
+know how to.
+
+442
+00:22:14,990 --> 00:22:19,030
+I'm sort of just saying to think
+about, from a business side,
+
+443
+00:22:19,030 --> 00:22:23,230
+it's about extracting from
+data, cleaning up that data,
+
+444
+00:22:23,230 --> 00:22:27,570
+standardizing that data,
+and often labeling it.
+
+445
+00:22:27,570 --> 00:22:30,480
+Labeling it because
+you can learn faster.
+
+446
+00:22:30,480 --> 00:22:31,980
+That's called
+structured learning
+
+447
+00:22:31,980 --> 00:22:35,060
+rather than unstructured.
+
+448
+00:22:35,060 --> 00:22:37,550
+But labeling that data
+and then extracting
+
+449
+00:22:37,550 --> 00:22:42,940
+correlations and decision
+algorithms that come out of it.
+
+450
+00:22:42,940 --> 00:22:43,810
+Romain, any?
+
+451
+00:22:46,610 --> 00:22:48,740
+GUEST SPEAKER: Luke has
+raised his hand again.
+
+452
+00:22:48,740 --> 00:22:49,355
+GARY GENSLER: I'm
+going to pause.
+
+453
+00:22:49,355 --> 00:22:50,680
+AUDIENCE: Just a quick question.
+
+454
+00:22:50,680 --> 00:22:51,400
+GARY GENSLER: Oh, a question.
+
+455
+00:22:51,400 --> 00:22:52,035
+Yeah.
+
+456
+00:22:52,035 --> 00:22:53,160
+AUDIENCE: Yeah, a question.
+
+457
+00:22:53,160 --> 00:22:57,200
+So how can a country
+that is developing
+
+458
+00:22:57,200 --> 00:22:59,330
+fintech out of
+not because it was
+
+459
+00:22:59,330 --> 00:23:02,150
+underbanked, but
+rather overbanked,
+
+460
+00:23:02,150 --> 00:23:05,220
+but looking for
+alternative investment--
+
+461
+00:23:05,220 --> 00:23:07,190
+so the likes of South Korea--
+
+462
+00:23:07,190 --> 00:23:11,600
+develop a bunch
+of coders or those
+
+463
+00:23:11,600 --> 00:23:14,330
+with-- actually, better
+yet, those people who
+
+464
+00:23:14,330 --> 00:23:19,430
+can draw a conclusion and
+extract hypotheses and build up
+
+465
+00:23:19,430 --> 00:23:23,210
+better ways to
+build an open API,
+
+466
+00:23:23,210 --> 00:23:25,880
+how can a government
+really step in
+
+467
+00:23:25,880 --> 00:23:28,880
+to encourage that and
+make an ecosystem?
+
+468
+00:23:28,880 --> 00:23:30,860
+Somebody's got to do something.
+
+469
+00:23:30,860 --> 00:23:33,060
+And I'm not sure
+America have a bunch
+
+470
+00:23:33,060 --> 00:23:36,085
+of great coders and great
+minds, and it's a melting pot.
+
+471
+00:23:36,085 --> 00:23:38,448
+So [INAUDIBLE] bunch
+of geniuses here.
+
+472
+00:23:38,448 --> 00:23:40,740
+GARY GENSLER: Yeah, I'm not
+sure I follow the question,
+
+473
+00:23:40,740 --> 00:23:43,830
+but I'm going to take
+it and then move on.
+
+474
+00:23:43,830 --> 00:23:46,070
+I think what you're
+saying is in a country
+
+475
+00:23:46,070 --> 00:23:49,820
+that has a very
+advanced banking system,
+
+476
+00:23:49,820 --> 00:23:52,490
+how can a government
+encourage this?
+
+477
+00:23:52,490 --> 00:23:54,680
+You do it through
+the education system.
+
+478
+00:23:54,680 --> 00:23:57,080
+You do it through, just
+as we do in the US,
+
+479
+00:23:57,080 --> 00:24:01,340
+promoting STEM education
+and programs like at MIT.
+
+480
+00:24:01,340 --> 00:24:06,610
+I think over time,
+there is a challenge
+
+481
+00:24:06,610 --> 00:24:10,300
+of how you adjust
+laws and regulations.
+
+482
+00:24:10,300 --> 00:24:14,260
+Finance is a highly regulated
+space in every country.
+
+483
+00:24:14,260 --> 00:24:15,410
+We're dealing with trust.
+
+484
+00:24:15,410 --> 00:24:17,740
+We're dealing with
+people's money.
+
+485
+00:24:17,740 --> 00:24:20,140
+We're dealing with inherent
+conflicts of interests
+
+486
+00:24:20,140 --> 00:24:23,230
+that you can't escape
+in the world of finance.
+
+487
+00:24:23,230 --> 00:24:26,710
+And so trying to deal
+with that with regulation
+
+488
+00:24:26,710 --> 00:24:32,600
+but how we adjust with these
+new tools that are in place.
+
+489
+00:24:32,600 --> 00:24:35,070
+But that would be
+how I'd answer it.
+
+490
+00:24:35,070 --> 00:24:37,760
+So let's go back to what we
+talked about and just sort of
+
+491
+00:24:37,760 --> 00:24:40,860
+do a little bit more granular.
+
+492
+00:24:40,860 --> 00:24:48,060
+I contend at its core that these
+technologies, machine learning
+
+493
+00:24:48,060 --> 00:24:51,000
+and natural language
+processing and AI,
+
+494
+00:24:51,000 --> 00:24:53,310
+need to be brought
+into the finance
+
+495
+00:24:53,310 --> 00:24:56,530
+stack and the technology stack.
+
+496
+00:24:56,530 --> 00:24:59,080
+And so every type of
+company, whether you're
+
+497
+00:24:59,080 --> 00:25:01,510
+in payments or
+you're in lending,
+
+498
+00:25:01,510 --> 00:25:03,478
+whether you're
+insurance or not, you
+
+499
+00:25:03,478 --> 00:25:05,770
+want to think about how you
+bring it in, whether you're
+
+500
+00:25:05,770 --> 00:25:08,290
+a disruptor or not.
+
+501
+00:25:08,290 --> 00:25:10,420
+And so that's why
+I think about it
+
+502
+00:25:10,420 --> 00:25:14,140
+down the line in each of
+these fields and not just
+
+503
+00:25:14,140 --> 00:25:16,600
+about disruptors.
+
+504
+00:25:16,600 --> 00:25:19,180
+And we talked about each
+of these in the past,
+
+505
+00:25:19,180 --> 00:25:24,010
+but I pause just, again,
+it's a little repetitive.
+
+506
+00:25:24,010 --> 00:25:27,940
+Just if there's any questions
+about some of these slices.
+
+507
+00:25:27,940 --> 00:25:30,340
+And then remember we're
+going to be digging
+
+508
+00:25:30,340 --> 00:25:33,580
+quite a bit into this
+in the next five weeks
+
+509
+00:25:33,580 --> 00:25:36,250
+as well in each of these areas.
+
+510
+00:25:36,250 --> 00:25:38,131
+Romain?
+
+511
+00:25:38,131 --> 00:25:40,640
+GUEST SPEAKER: I
+don't see anyone yet.
+
+512
+00:25:40,640 --> 00:25:42,530
+GARY GENSLER: All right.
+
+513
+00:25:42,530 --> 00:25:46,880
+Well, what I've said is,
+all right, so AI is a tool.
+
+514
+00:25:46,880 --> 00:25:48,980
+And this is really
+an interesting debate
+
+515
+00:25:48,980 --> 00:25:50,720
+that people can have at MIT.
+
+516
+00:25:50,720 --> 00:25:55,130
+And I've been in rooms
+full of five to 10 faculty
+
+517
+00:25:55,130 --> 00:25:57,710
+sometimes, sometimes one
+on one, where we debate.
+
+518
+00:25:57,710 --> 00:26:01,610
+Is AI a service,
+or is AI a tool?
+
+519
+00:26:01,610 --> 00:26:06,050
+And I would say that it's
+an interesting debate.
+
+520
+00:26:06,050 --> 00:26:08,420
+Most of the time we
+land on that it's more
+
+521
+00:26:08,420 --> 00:26:09,770
+a tool than a service.
+
+522
+00:26:09,770 --> 00:26:12,785
+But every new technology,
+every new technology
+
+523
+00:26:12,785 --> 00:26:16,310
+that comes along, whether it
+was the telephone, whether it
+
+524
+00:26:16,310 --> 00:26:20,480
+was the railroads,
+whether it was airplanes,
+
+525
+00:26:20,480 --> 00:26:22,190
+every new technology
+that comes along
+
+526
+00:26:22,190 --> 00:26:26,390
+has some attributes of being
+a new industry, a new tool,
+
+527
+00:26:26,390 --> 00:26:29,670
+the railroad industry,
+for instance.
+
+528
+00:26:29,670 --> 00:26:34,410
+And yet many businesses use the
+railroad to do their shipping.
+
+529
+00:26:34,410 --> 00:26:40,160
+AI and machine learning
+is more like a tool
+
+530
+00:26:40,160 --> 00:26:41,810
+than it is a service.
+
+531
+00:26:41,810 --> 00:26:45,700
+But it doesn't mean
+it's always just a tool.
+
+532
+00:26:45,700 --> 00:26:48,200
+I did some research over the
+last few days, just a list
+
+533
+00:26:48,200 --> 00:26:50,480
+where we could go
+through any one of these.
+
+534
+00:26:50,480 --> 00:26:51,620
+AI as a service.
+
+535
+00:26:51,620 --> 00:26:54,560
+Here I've listed
+10 or 12 companies
+
+536
+00:26:54,560 --> 00:27:00,080
+in finance that are actually
+doing AI sort of as a service.
+
+537
+00:27:00,080 --> 00:27:05,890
+AlphaSense was started in 2011
+before the whole rage of AI,
+
+538
+00:27:05,890 --> 00:27:09,470
+but they were data analytics
+as a search engine for finance
+
+539
+00:27:09,470 --> 00:27:13,580
+firms to search key
+terms and key words
+
+540
+00:27:13,580 --> 00:27:16,820
+in registration statements
+and other statements that
+
+541
+00:27:16,820 --> 00:27:19,310
+are filed with these various
+securities regulators
+
+542
+00:27:19,310 --> 00:27:20,510
+around the globe.
+
+543
+00:27:20,510 --> 00:27:24,860
+Sort of think of it as the
+Google for financial documents.
+
+544
+00:27:24,860 --> 00:27:29,120
+Well, Google certainly has moved
+dramatically into AI space.
+
+545
+00:27:29,120 --> 00:27:31,850
+AlphaSense did as well.
+
+546
+00:27:31,850 --> 00:27:34,760
+There's a number of these
+in the insurance sector
+
+547
+00:27:34,760 --> 00:27:39,050
+who really are around taking
+photographs of automobiles
+
+548
+00:27:39,050 --> 00:27:42,830
+at an accident scene, and then
+based upon those automobile
+
+549
+00:27:42,830 --> 00:27:49,460
+photographs or accident data,
+to use machine learning.
+
+550
+00:27:49,460 --> 00:27:54,890
+And so Cape Analytics,
+Tractable are both firms
+
+551
+00:27:54,890 --> 00:27:57,410
+that are in essence
+providing services
+
+552
+00:27:57,410 --> 00:27:59,300
+to insurance companies.
+
+553
+00:27:59,300 --> 00:28:02,000
+They have not yet, as to the
+best of my knowledge, Cape
+
+554
+00:28:02,000 --> 00:28:05,660
+Analytics or Tractable,
+decided to have direct consumer
+
+555
+00:28:05,660 --> 00:28:06,350
+interface.
+
+556
+00:28:06,350 --> 00:28:08,360
+They're not selling insurance.
+
+557
+00:28:08,360 --> 00:28:12,070
+They're selling a
+software analytics tool
+
+558
+00:28:12,070 --> 00:28:13,930
+to insurance companies.
+
+559
+00:28:13,930 --> 00:28:16,330
+And similarly, like
+ComplyAdvantage
+
+560
+00:28:16,330 --> 00:28:21,250
+in the money laundering space
+or Featurespace in anti-fraud.
+
+561
+00:28:21,250 --> 00:28:25,450
+They're saying, we can build
+something for fraud detection.
+
+562
+00:28:25,450 --> 00:28:28,870
+We can build something
+for this world
+
+563
+00:28:28,870 --> 00:28:30,970
+of anti-money-laundering
+compliance.
+
+564
+00:28:30,970 --> 00:28:35,260
+We can build the software,
+and we'll put our product out
+
+565
+00:28:35,260 --> 00:28:41,710
+there for the banking sector
+to basically rent us rather
+
+566
+00:28:41,710 --> 00:28:43,720
+than building their own system.
+
+567
+00:28:43,720 --> 00:28:47,230
+And you see others, document
+processing and the like.
+
+568
+00:28:47,230 --> 00:28:49,720
+And even Zest AI--
+
+569
+00:28:49,720 --> 00:28:55,480
+Zest AI, founded in 2009,
+before this conceptual framework
+
+570
+00:28:55,480 --> 00:28:59,890
+and the big movement, but
+Zest AI in credit underwriting
+
+571
+00:28:59,890 --> 00:29:02,950
+software, basically providing--
+
+572
+00:29:02,950 --> 00:29:07,600
+broadly speaking, I'm calling
+it AI in finance as a service,
+
+573
+00:29:07,600 --> 00:29:11,430
+rather than building it
+right into the stack.
+
+574
+00:29:11,430 --> 00:29:13,900
+Romain I'm going
+to pause for a bit.
+
+575
+00:29:15,992 --> 00:29:17,700
+GUEST SPEAKER: If you
+have any questions,
+
+576
+00:29:17,700 --> 00:29:19,730
+please rate the
+blue little hand,
+
+577
+00:29:19,730 --> 00:29:21,140
+as you probably know by now.
+
+578
+00:29:25,280 --> 00:29:26,767
+I don't see anything, Gary.
+
+579
+00:29:26,767 --> 00:29:28,850
+GARY GENSLER: And I'd say
+this, that each of these
+
+580
+00:29:28,850 --> 00:29:32,180
+go back to some of
+the sectors back here.
+
+581
+00:29:32,180 --> 00:29:36,290
+So asset management, we
+have sentiment analysis.
+
+582
+00:29:36,290 --> 00:29:41,800
+We have-- I'm not going to
+pronounce the company's name
+
+583
+00:29:41,800 --> 00:29:44,590
+right, but Dataminr.
+
+584
+00:29:44,590 --> 00:29:48,740
+Dataminr, which can actually
+do market sentiment analysis.
+
+585
+00:29:48,740 --> 00:29:50,770
+And if you're a
+hedge fund, you might
+
+586
+00:29:50,770 --> 00:29:57,000
+sort of rent into Dataminr and
+get that sentiment analysis.
+
+587
+00:29:57,000 --> 00:30:00,190
+You have several
+services that are
+
+588
+00:30:00,190 --> 00:30:02,360
+doing fraud detection
+and regulatory,
+
+589
+00:30:02,360 --> 00:30:05,090
+the anti-money-laundering
+slices.
+
+590
+00:30:05,090 --> 00:30:06,620
+Credit and insurance--
+
+591
+00:30:06,620 --> 00:30:11,410
+I picked three that are
+doing insurance underwriting.
+
+592
+00:30:11,410 --> 00:30:13,690
+But if you're Bank
+of America or J.P,
+
+593
+00:30:13,690 --> 00:30:17,770
+Morgan or Cap One in the
+credit card business,
+
+594
+00:30:17,770 --> 00:30:23,130
+you're going to be embedding
+this right into your business,
+
+595
+00:30:23,130 --> 00:30:24,000
+by and large.
+
+596
+00:30:24,000 --> 00:30:26,350
+Not always, not always,
+but by and large,
+
+597
+00:30:26,350 --> 00:30:28,870
+you're embedding it
+right into your business.
+
+598
+00:30:28,870 --> 00:30:30,850
+GUEST SPEAKER: We have
+a question from Geetha.
+
+599
+00:30:30,850 --> 00:30:32,736
+GARY GENSLER: Please.
+
+600
+00:30:32,736 --> 00:30:33,850
+AUDIENCE: Hey, Gary.
+
+601
+00:30:33,850 --> 00:30:34,800
+Geetha here.
+
+602
+00:30:34,800 --> 00:30:36,530
+I work for our Capital One.
+
+603
+00:30:36,530 --> 00:30:40,350
+I'm in the credit lending space.
+
+604
+00:30:40,350 --> 00:30:40,850
+One--
+
+605
+00:30:40,850 --> 00:30:42,392
+GARY GENSLER: You're
+going to correct
+
+606
+00:30:42,392 --> 00:30:43,740
+anything I say about Cap One.
+
+607
+00:30:43,740 --> 00:30:45,610
+Please.
+
+608
+00:30:45,610 --> 00:30:48,370
+AUDIENCE: No.
+
+609
+00:30:48,370 --> 00:30:51,310
+One thing that I find really
+surprising with the regulations
+
+610
+00:30:51,310 --> 00:30:58,280
+is that if we develop our
+own AI models, regulations--
+
+611
+00:30:58,280 --> 00:31:00,760
+anybody, like when
+auditing happens,
+
+612
+00:31:00,760 --> 00:31:03,900
+they are very specific
+about explainability,
+
+613
+00:31:03,900 --> 00:31:05,500
+interpretability.
+
+614
+00:31:05,500 --> 00:31:10,490
+But if you were to use a
+vendor, Shape Security, Akamai,
+
+615
+00:31:10,490 --> 00:31:13,982
+they don't care too much
+about explainability.
+
+616
+00:31:13,982 --> 00:31:16,550
+That I always found surprising.
+
+617
+00:31:16,550 --> 00:31:19,540
+Why is it that within
+the realms of bank,
+
+618
+00:31:19,540 --> 00:31:21,550
+they're so specific
+about regulations,
+
+619
+00:31:21,550 --> 00:31:26,040
+but when we use a vendor,
+the extent to which they
+
+620
+00:31:26,040 --> 00:31:27,670
+care as how you use Akamai.
+
+621
+00:31:27,670 --> 00:31:29,575
+You use Shape, and that's it.
+
+622
+00:31:29,575 --> 00:31:31,910
+GARY GENSLER: Gita, I'm so
+glad that you raised this.
+
+623
+00:31:31,910 --> 00:31:40,390
+I think I earlier had said
+in our introductory class
+
+624
+00:31:40,390 --> 00:31:49,090
+that one of the competitive
+advantages of disruptors
+
+625
+00:31:49,090 --> 00:31:56,070
+is that they have
+certain asymmetries.
+
+626
+00:31:56,070 --> 00:31:59,130
+Incumbents, like
+Cap One-- and if I
+
+627
+00:31:59,130 --> 00:32:01,050
+might say you
+working for Cap One,
+
+628
+00:32:01,050 --> 00:32:04,910
+which is one of the big
+seven firms in credit cards,
+
+629
+00:32:04,910 --> 00:32:07,200
+is truly one of the incumbents.
+
+630
+00:32:07,200 --> 00:32:10,590
+Incumbents tend to need to
+protect their business models.
+
+631
+00:32:10,590 --> 00:32:12,270
+And part of what
+they're protecting
+
+632
+00:32:12,270 --> 00:32:17,590
+is also the reputational
+and regulatory risks.
+
+633
+00:32:17,590 --> 00:32:25,640
+But the disruptors have a little
+bit of a different perspective.
+
+634
+00:32:25,640 --> 00:32:30,470
+They're not generally protecting
+any in inherent or incumbent
+
+635
+00:32:30,470 --> 00:32:31,850
+business model.
+
+636
+00:32:31,850 --> 00:32:34,310
+And yes, they're
+also willing to take
+
+637
+00:32:34,310 --> 00:32:36,500
+more risk with the regulators.
+
+638
+00:32:36,500 --> 00:32:38,570
+I'm not saying whether
+they should or shouldn't.
+
+639
+00:32:38,570 --> 00:32:41,640
+I'm just saying this is kind
+of the facts on the ground
+
+640
+00:32:41,640 --> 00:32:44,420
+that disruptors are
+a little bit more
+
+641
+00:32:44,420 --> 00:32:50,680
+towards the end of basically
+begging for forgiveness
+
+642
+00:32:50,680 --> 00:32:52,720
+rather than asking
+for permission,
+
+643
+00:32:52,720 --> 00:32:54,790
+if you sort of
+remember how you might
+
+644
+00:32:54,790 --> 00:32:57,880
+have been with your parents or
+if any of you have children.
+
+645
+00:32:57,880 --> 00:33:01,300
+And incumbents are
+more into asking
+
+646
+00:33:01,300 --> 00:33:04,750
+for permission of your at
+least internal GC, your General
+
+647
+00:33:04,750 --> 00:33:05,260
+Counsel.
+
+648
+00:33:05,260 --> 00:33:06,100
+Can we do this?
+
+649
+00:33:06,100 --> 00:33:07,610
+Can we do that?
+
+650
+00:33:07,610 --> 00:33:09,010
+And so I think the vendors--
+
+651
+00:33:09,010 --> 00:33:11,560
+in that case, the vendors
+are a little bit more
+
+652
+00:33:11,560 --> 00:33:14,325
+willing to take risks
+when explainability
+
+653
+00:33:14,325 --> 00:33:17,740
+and the explainability
+that's inherent in US law
+
+654
+00:33:17,740 --> 00:33:20,950
+and the Fair Credit
+Reporting Act and the like.
+
+655
+00:33:20,950 --> 00:33:25,260
+And it doesn't mean that it's
+more legal for a disruptor
+
+656
+00:33:25,260 --> 00:33:28,290
+to do it than for
+Cap One to do it.
+
+657
+00:33:28,290 --> 00:33:32,070
+It's just their
+business model tends
+
+658
+00:33:32,070 --> 00:33:35,430
+to be a little
+bit more accepting
+
+659
+00:33:35,430 --> 00:33:38,010
+of that regulatory
+compliance risk.
+
+660
+00:33:38,010 --> 00:33:42,270
+Secondly, and I think
+this is probably
+
+661
+00:33:42,270 --> 00:33:45,810
+a bit of a misreading
+of the risks,
+
+662
+00:33:45,810 --> 00:33:53,760
+but sometimes the thought is
+if the vendor does something,
+
+663
+00:33:53,760 --> 00:33:57,680
+it sort of insulates
+the big firm.
+
+664
+00:33:57,680 --> 00:33:59,640
+Now, my understanding--
+again, I'm not
+
+665
+00:33:59,640 --> 00:34:01,170
+a lawyer-- but my
+understanding, it
+
+666
+00:34:01,170 --> 00:34:04,020
+doesn't really insulate Cap
+One, or it doesn't really
+
+667
+00:34:04,020 --> 00:34:07,350
+insulate Bank of America if
+their vendor does something
+
+668
+00:34:07,350 --> 00:34:10,440
+that's blatantly a violation.
+
+669
+00:34:10,440 --> 00:34:11,760
+I don't think it does.
+
+670
+00:34:11,760 --> 00:34:14,940
+But sometimes there is a
+bit of that mindset as well.
+
+671
+00:34:14,940 --> 00:34:16,835
+Does that help?
+
+672
+00:34:16,835 --> 00:34:17,460
+AUDIENCE: Yeah.
+
+673
+00:34:17,460 --> 00:34:18,000
+Yeah.
+
+674
+00:34:18,000 --> 00:34:20,760
+And the last thing is-- not
+taking too much time, just
+
+675
+00:34:20,760 --> 00:34:23,310
+a comment.
+
+676
+00:34:23,310 --> 00:34:25,620
+One other thing I find very
+intriguing with vendors
+
+677
+00:34:25,620 --> 00:34:29,040
+is that they often get
+the data of incumbents,
+
+678
+00:34:29,040 --> 00:34:31,880
+like maybe Bank of
+America, Capital One,
+
+679
+00:34:31,880 --> 00:34:34,510
+and they charge us
+back for that data.
+
+680
+00:34:34,510 --> 00:34:39,429
+That's the other thing
+I find [INAUDIBLE]..
+
+681
+00:34:39,429 --> 00:34:41,460
+GARY GENSLER: So here,
+this is about how
+
+682
+00:34:41,460 --> 00:34:44,070
+companies can capture data.
+
+683
+00:34:44,070 --> 00:34:47,010
+We're going to talk a lot
+about this one, open API.
+
+684
+00:34:47,010 --> 00:34:51,150
+Just to the intersection,
+this is one of the key things
+
+685
+00:34:51,150 --> 00:34:56,440
+to take from these
+series of classes.
+
+686
+00:34:56,440 --> 00:35:00,520
+Machine learning is nowhere
+if it doesn't have data.
+
+687
+00:35:00,520 --> 00:35:06,280
+Data is facilitated by a lot
+of startups getting access
+
+688
+00:35:06,280 --> 00:35:09,280
+to that which the
+incumbents already have.
+
+689
+00:35:09,280 --> 00:35:13,210
+So around the globe, in
+Europe, in the UK, in Brazil,
+
+690
+00:35:13,210 --> 00:35:17,470
+in Canada, US, Australia,
+there are significant efforts
+
+691
+00:35:17,470 --> 00:35:20,260
+to promote what's
+called open API--
+
+692
+00:35:20,260 --> 00:35:24,100
+Application Program Interface.
+
+693
+00:35:24,100 --> 00:35:29,290
+In essence, that is you or
+I permissioning a company
+
+694
+00:35:29,290 --> 00:35:34,960
+to get my or your data from
+an incumbent financial firm.
+
+695
+00:35:34,960 --> 00:35:39,100
+And so we permission somebody
+to get data, in Gita's example,
+
+696
+00:35:39,100 --> 00:35:41,580
+from Cap One.
+
+697
+00:35:41,580 --> 00:35:43,950
+Then they use that
+data, the startup.
+
+698
+00:35:43,950 --> 00:35:46,110
+And then Gita's saying
+that Cap One then
+
+699
+00:35:46,110 --> 00:35:50,050
+has to pay a fee
+to some startup,
+
+700
+00:35:50,050 --> 00:35:54,060
+even though the data had
+initially come from Cap One.
+
+701
+00:35:54,060 --> 00:35:56,460
+And that's a perfect
+set up to two examples
+
+702
+00:35:56,460 --> 00:35:58,410
+I just want to talk about.
+
+703
+00:35:58,410 --> 00:36:00,690
+I want to talk about
+two large mergers that
+
+704
+00:36:00,690 --> 00:36:03,280
+were announced in 2020.
+
+705
+00:36:03,280 --> 00:36:04,920
+The first one is Credit Karma.
+
+706
+00:36:04,920 --> 00:36:08,710
+Now, I don't know if we
+could do by a show of hands,
+
+707
+00:36:08,710 --> 00:36:14,430
+but how many-- just raising
+the blue hands in the windows--
+
+708
+00:36:14,430 --> 00:36:17,940
+how many people, if you can
+go into participant buttons,
+
+709
+00:36:17,940 --> 00:36:21,060
+have actually used Credit
+Karma, that you would consider
+
+710
+00:36:21,060 --> 00:36:23,190
+yourself one of these members?
+
+711
+00:36:23,190 --> 00:36:26,010
+And Romain you'll tell
+me what it looks like.
+
+712
+00:36:32,730 --> 00:36:35,502
+GUEST SPEAKER: We have at
+least 10 students so far.
+
+713
+00:36:35,502 --> 00:36:37,210
+GARY GENSLER: No, but
+if you scroll down.
+
+714
+00:36:37,210 --> 00:36:40,260
+So all right, so it's not as
+big a percent as I thought.
+
+715
+00:36:43,990 --> 00:36:45,770
+Let me go back.
+
+716
+00:36:45,770 --> 00:36:51,620
+So Credit Karma started in 2007.
+
+717
+00:36:51,620 --> 00:36:55,250
+The entrepreneur who started
+it couldn't get a free credit
+
+718
+00:36:55,250 --> 00:36:55,910
+report.
+
+719
+00:36:55,910 --> 00:37:01,790
+So they say, why don't I start
+a credit report platform?
+
+720
+00:37:01,790 --> 00:37:05,180
+13 years later, they were
+able to sell for $7 billion
+
+721
+00:37:05,180 --> 00:37:07,070
+to Intuit.
+
+722
+00:37:07,070 --> 00:37:09,550
+Now, you might not be
+familiar with Intuit.
+
+723
+00:37:09,550 --> 00:37:14,870
+Their main products at Intuit
+are tax software, TurboTax.
+
+724
+00:37:14,870 --> 00:37:18,080
+They also have something
+called Quicken Books.
+
+725
+00:37:18,080 --> 00:37:20,670
+And I believe it's possible
+they have a third product.
+
+726
+00:37:20,670 --> 00:37:21,860
+They might even have Mint.
+
+727
+00:37:25,030 --> 00:37:28,240
+But Intuit saw they wanted to
+buy Credit Karma that had never
+
+728
+00:37:28,240 --> 00:37:29,620
+gone public.
+
+729
+00:37:29,620 --> 00:37:31,975
+Credit Karma apparently had
+nearly a billion dollars
+
+730
+00:37:31,975 --> 00:37:35,830
+in revenue last year,
+and yet Credit Karma
+
+731
+00:37:35,830 --> 00:37:37,918
+is still a free app.
+
+732
+00:37:37,918 --> 00:37:39,460
+How is it that
+something that doesn't
+
+733
+00:37:39,460 --> 00:37:42,660
+charge anything can have a
+billion dollars in revenue?
+
+734
+00:37:42,660 --> 00:37:46,140
+It's that they're
+commercializing data.
+
+735
+00:37:46,140 --> 00:37:51,740
+And remarkably, 106
+million members--
+
+736
+00:37:51,740 --> 00:37:53,135
+106 million members.
+
+737
+00:37:57,120 --> 00:38:03,230
+8 billion daily decisions,
+credit decisions
+
+738
+00:38:03,230 --> 00:38:07,670
+or other analytic
+decisions that they have.
+
+739
+00:38:07,670 --> 00:38:11,960
+And so Intuit is saying, why
+are they buying Credit Karma?
+
+740
+00:38:11,960 --> 00:38:15,170
+Even at seven times revenue,
+that's a healthy price.
+
+741
+00:38:15,170 --> 00:38:18,710
+They're buying it largely
+around data and data analytics.
+
+742
+00:38:18,710 --> 00:38:23,450
+And credit card has figured out
+how to basically commercialize
+
+743
+00:38:23,450 --> 00:38:28,420
+that flow of data on over
+100 million accounts.
+
+744
+00:38:28,420 --> 00:38:29,540
+And how do they do that?
+
+745
+00:38:29,540 --> 00:38:32,080
+They do it by cross marketing.
+
+746
+00:38:32,080 --> 00:38:35,030
+So they're marketing
+not just to us.
+
+747
+00:38:35,030 --> 00:38:37,610
+But then they're also,
+with many financial firms,
+
+748
+00:38:37,610 --> 00:38:40,450
+they're going back and
+say, this account here,
+
+749
+00:38:40,450 --> 00:38:42,820
+this is a worthy thing.
+
+750
+00:38:42,820 --> 00:38:44,680
+So they make arrangements.
+
+751
+00:38:44,680 --> 00:38:46,630
+They enter into
+contractual arrangements
+
+752
+00:38:46,630 --> 00:38:50,200
+with financial institutions
+and then market to us
+
+753
+00:38:50,200 --> 00:38:52,340
+to take a mortgage,
+to take an auto loan,
+
+754
+00:38:52,340 --> 00:38:53,895
+to take a personal loan.
+
+755
+00:38:57,780 --> 00:38:58,850
+Plaid.
+
+756
+00:38:58,850 --> 00:39:03,100
+Plaid's a company that
+we'll talk a lot about when
+
+757
+00:39:03,100 --> 00:39:05,680
+we talk about open API.
+
+758
+00:39:05,680 --> 00:39:09,420
+This was software that
+started just seven years ago.
+
+759
+00:39:09,420 --> 00:39:14,565
+Two developers, straight kind
+of hard-core computer scientists
+
+760
+00:39:14,565 --> 00:39:17,388
+who had went to work for Bain.
+
+761
+00:39:17,388 --> 00:39:19,930
+And for anybody who's thinking
+about working for a consulting
+
+762
+00:39:19,930 --> 00:39:23,770
+firm, this is not a vote
+against Bain or BCG or others.
+
+763
+00:39:23,770 --> 00:39:26,920
+But they basically decided
+after a year at Bain
+
+764
+00:39:26,920 --> 00:39:29,080
+to go out and do
+their own startup.
+
+765
+00:39:29,080 --> 00:39:35,760
+And it was a startup to
+facilitate financial disruptors
+
+766
+00:39:35,760 --> 00:39:39,810
+or fintech companies
+accessing data at banks.
+
+767
+00:39:39,810 --> 00:39:41,580
+And there was not a standard.
+
+768
+00:39:41,580 --> 00:39:44,010
+There was not a standard
+for this open API.
+
+769
+00:39:44,010 --> 00:39:48,030
+So they created at a hackathon--
+
+770
+00:39:48,030 --> 00:39:51,630
+at a hackathon that
+they actually won back,
+
+771
+00:39:51,630 --> 00:39:55,020
+I think, in 2012 or 2013--
+
+772
+00:39:55,020 --> 00:39:57,410
+they were in their late 20s
+at the time, by the way,
+
+773
+00:39:57,410 --> 00:39:59,280
+if you're just
+trying to figure out.
+
+774
+00:39:59,280 --> 00:40:01,770
+Seven years later, in
+their mid to late 30s,
+
+775
+00:40:01,770 --> 00:40:04,890
+they sell their business
+for $5.3 billion.
+
+776
+00:40:04,890 --> 00:40:09,285
+But it all starts at Bain,
+computer scientists creating
+
+777
+00:40:09,285 --> 00:40:11,990
+open API software.
+
+778
+00:40:11,990 --> 00:40:14,880
+Well, what happened
+over those seven years,
+
+779
+00:40:14,880 --> 00:40:18,240
+11,000 financial
+companies signed up
+
+780
+00:40:18,240 --> 00:40:23,360
+to use that standard
+protocol to do open API.
+
+781
+00:40:23,360 --> 00:40:27,180
+And all the other side,
+2,600 fintech developers.
+
+782
+00:40:27,180 --> 00:40:30,390
+And if anyone here has taken
+Michael Cusumano's class
+
+783
+00:40:30,390 --> 00:40:35,090
+on platforms, this is
+the classic sweet spot
+
+784
+00:40:35,090 --> 00:40:37,640
+of creating a
+platform company, when
+
+785
+00:40:37,640 --> 00:40:41,570
+you have this two-sided
+many-to-many market.
+
+786
+00:40:41,570 --> 00:40:45,830
+Many fintech developers want
+to access financial data
+
+787
+00:40:45,830 --> 00:40:46,940
+at financial firms.
+
+788
+00:40:46,940 --> 00:40:49,820
+Many financial firms don't
+want to deal with thousands
+
+789
+00:40:49,820 --> 00:40:51,800
+of fintech developers.
+
+790
+00:40:51,800 --> 00:40:55,490
+And so inside of this
+many-to-many market,
+
+791
+00:40:55,490 --> 00:40:58,800
+Plaid creates a software,
+a standard software
+
+792
+00:40:58,800 --> 00:41:00,940
+for that to happen.
+
+793
+00:41:00,940 --> 00:41:03,420
+But what did they
+build on top of that?
+
+794
+00:41:03,420 --> 00:41:06,380
+They built data aggregation.
+
+795
+00:41:06,380 --> 00:41:09,002
+They announced a $5.3
+billion merger to Visa.
+
+796
+00:41:09,002 --> 00:41:10,460
+There's a lot of
+people that debate
+
+797
+00:41:10,460 --> 00:41:14,570
+whether it was a good idea
+because the estimate by Forbes
+
+798
+00:41:14,570 --> 00:41:17,910
+is there was only about
+$110 million of revenue.
+
+799
+00:41:17,910 --> 00:41:22,510
+I mean, now we're talking
+40 or 50 times revenue.
+
+800
+00:41:22,510 --> 00:41:27,980
+But 200 million
+accounts are linked.
+
+801
+00:41:27,980 --> 00:41:31,070
+We'll chat about this
+more because those 11,000
+
+802
+00:41:31,070 --> 00:41:34,130
+financial firms could
+all stop using Plaid
+
+803
+00:41:34,130 --> 00:41:35,810
+and go to one of
+Plaid's competitors
+
+804
+00:41:35,810 --> 00:41:38,330
+now that Plaid's bought by Visa.
+
+805
+00:41:38,330 --> 00:41:42,020
+But this gives you the sense
+of the power and the value,
+
+806
+00:41:42,020 --> 00:41:47,930
+the economic value of data,
+machine learning, and the like.
+
+807
+00:41:47,930 --> 00:41:49,010
+Romain questions?
+
+808
+00:41:52,685 --> 00:41:53,810
+GUEST SPEAKER: None so far.
+
+809
+00:41:53,810 --> 00:41:56,560
+It seems like the
+class is quiet today.
+
+810
+00:41:56,560 --> 00:41:58,600
+GARY GENSLER: All right.
+
+811
+00:41:58,600 --> 00:42:02,340
+So I'm going to talk a little
+bit about financial policy.
+
+812
+00:42:02,340 --> 00:42:05,980
+How does this all fit in,
+in the next half hour.
+
+813
+00:42:05,980 --> 00:42:09,925
+Broadly, first, is
+just a sense of--
+
+814
+00:42:09,925 --> 00:42:13,600
+I'm trying to get rid of it
+this participant window here
+
+815
+00:42:13,600 --> 00:42:16,090
+for a minute.
+
+816
+00:42:16,090 --> 00:42:19,450
+So broad public
+policy frameworks
+
+817
+00:42:19,450 --> 00:42:22,990
+have been around for thousands
+of years, since the Hammurabi
+
+818
+00:42:22,990 --> 00:42:26,770
+code, since Roman and
+Greek times, sometimes
+
+819
+00:42:26,770 --> 00:42:30,090
+embedded even in religious law.
+
+820
+00:42:30,090 --> 00:42:32,680
+That's the nature of money.
+
+821
+00:42:32,680 --> 00:42:35,040
+But four slip
+streams, and all four
+
+822
+00:42:35,040 --> 00:42:38,310
+will be relevant for
+fintech as we talk through
+
+823
+00:42:38,310 --> 00:42:41,250
+not just AI, but all sectors.
+
+824
+00:42:41,250 --> 00:42:43,140
+One is money and lending.
+
+825
+00:42:43,140 --> 00:42:47,160
+We've, over centuries,
+often get official sector
+
+826
+00:42:47,160 --> 00:42:49,230
+as a point of view,
+sometimes even
+
+827
+00:42:49,230 --> 00:42:52,620
+limiting interest
+rates and the like.
+
+828
+00:42:52,620 --> 00:42:54,960
+Two is financial stability.
+
+829
+00:42:54,960 --> 00:42:56,490
+We think about a crisis.
+
+830
+00:42:56,490 --> 00:42:59,010
+We're living through this
+corona crisis right now.
+
+831
+00:42:59,010 --> 00:43:02,040
+Central banks around
+the globe are,
+
+832
+00:43:02,040 --> 00:43:06,120
+with an eye towards
+promoting the economy,
+
+833
+00:43:06,120 --> 00:43:10,440
+also thinking about how to
+ensure for financial stability.
+
+834
+00:43:10,440 --> 00:43:12,240
+The reverse of
+financial stability
+
+835
+00:43:12,240 --> 00:43:17,190
+was happening in 2008 crisis,
+that that crisis where banks
+
+836
+00:43:17,190 --> 00:43:19,530
+were faltering and closing up.
+
+837
+00:43:19,530 --> 00:43:23,070
+And then that led to millions
+of people losing their jobs,
+
+838
+00:43:23,070 --> 00:43:27,460
+millions of people losing
+their homes, and the like.
+
+839
+00:43:27,460 --> 00:43:30,150
+So financial stability,
+I grab a couple pictures
+
+840
+00:43:30,150 --> 00:43:35,340
+here out of the
+Great Depression,
+
+841
+00:43:35,340 --> 00:43:38,170
+an earlier period of crisis.
+
+842
+00:43:38,170 --> 00:43:42,010
+But what we'll talk a lot about
+is the third and fourth bucket.
+
+843
+00:43:42,010 --> 00:43:45,550
+The third bucket of protecting
+consumers and investors.
+
+844
+00:43:45,550 --> 00:43:48,460
+Consumer protection we can
+think of even just in terms
+
+845
+00:43:48,460 --> 00:43:53,440
+of ensuring that if we buy
+a crib for our children
+
+846
+00:43:53,440 --> 00:43:54,860
+that it's safe.
+
+847
+00:43:54,860 --> 00:43:59,350
+If we buy a car that it
+actually is safe on the road.
+
+848
+00:43:59,350 --> 00:44:04,090
+So consumer protection
+refers to things much broader
+
+849
+00:44:04,090 --> 00:44:04,810
+than finance.
+
+850
+00:44:04,810 --> 00:44:07,930
+Investor protection is
+the concept that, yes,
+
+851
+00:44:07,930 --> 00:44:10,120
+we can take risk in markets.
+
+852
+00:44:10,120 --> 00:44:13,030
+We're all allowed to
+take risk in markets.
+
+853
+00:44:13,030 --> 00:44:16,600
+But that the markets themselves
+and the issuers, the people
+
+854
+00:44:16,600 --> 00:44:21,960
+raising money, should explain
+to us at least the material
+
+855
+00:44:21,960 --> 00:44:25,920
+pieces of information upon
+which we would take those risks.
+
+856
+00:44:25,920 --> 00:44:29,910
+And that the markets themselves
+have a certain transparency
+
+857
+00:44:29,910 --> 00:44:34,220
+and we protect against fraud
+and manipulation and the like.
+
+858
+00:44:34,220 --> 00:44:36,520
+And then guarding
+against illicit activity.
+
+859
+00:44:36,520 --> 00:44:38,260
+This is one that
+we've really layered
+
+860
+00:44:38,260 --> 00:44:42,710
+over the financial sector
+in the last 40-odd years.
+
+861
+00:44:42,710 --> 00:44:46,730
+In an earlier era, 19th
+century, earlier 20th century,
+
+862
+00:44:46,730 --> 00:44:49,220
+we didn't have as much about
+this, even though, of course,
+
+863
+00:44:49,220 --> 00:44:51,370
+we did guard against
+bank robbers.
+
+864
+00:44:51,370 --> 00:44:53,830
+But I'm talking about
+illicit activity outside
+
+865
+00:44:53,830 --> 00:44:55,420
+of the financial sector--
+
+866
+00:44:55,420 --> 00:44:59,320
+money laundering, terrorism,
+and even sanctions.
+
+867
+00:44:59,320 --> 00:45:02,645
+So these four slip [streams
+in a sense, are there.
+
+868
+00:45:05,530 --> 00:45:10,930
+So how does it fit back to
+AI and policy in finance?
+
+869
+00:45:10,930 --> 00:45:13,450
+So I've talked about
+what I have come
+
+870
+00:45:13,450 --> 00:45:17,740
+to call the big three, biases,
+fairness, and inclusion;
+
+871
+00:45:17,740 --> 00:45:20,640
+explainability; and privacy.
+
+872
+00:45:20,640 --> 00:45:24,730
+And what we mean by that
+is if you take a whole data
+
+873
+00:45:24,730 --> 00:45:28,620
+set, millions or tens of
+millions of pieces of data,
+
+874
+00:45:28,620 --> 00:45:32,920
+and extract correlations,
+and you find patterns,
+
+875
+00:45:32,920 --> 00:45:35,260
+some of those patterns
+might have biases.
+
+876
+00:45:35,260 --> 00:45:38,500
+And those biases
+can exist because we
+
+877
+00:45:38,500 --> 00:45:42,860
+as a society are not perfect.
+
+878
+00:45:42,860 --> 00:45:45,100
+We have biases even in
+what we've already done.
+
+879
+00:45:48,010 --> 00:45:50,150
+And so now you're
+extracting and you might be
+
+880
+00:45:50,150 --> 00:45:53,000
+embedding some of those biases.
+
+881
+00:45:53,000 --> 00:45:55,880
+Secondly, sometimes
+it will happen
+
+882
+00:45:55,880 --> 00:45:58,970
+just out of how you
+build your protocols,
+
+883
+00:45:58,970 --> 00:46:01,400
+how you build your
+actual questions
+
+884
+00:46:01,400 --> 00:46:04,220
+and query on the data.
+
+885
+00:46:04,220 --> 00:46:11,650
+But I assure you that most data
+sets have some biases in them.
+
+886
+00:46:11,650 --> 00:46:14,320
+You just might not
+be aware of them.
+
+887
+00:46:14,320 --> 00:46:16,710
+And even if you have
+a perfect data set,
+
+888
+00:46:16,710 --> 00:46:20,340
+the protocols themselves might
+sort of build some biases
+
+889
+00:46:20,340 --> 00:46:22,350
+on top of them.
+
+890
+00:46:22,350 --> 00:46:25,690
+And we're finding this in AI
+policy not just in finance.
+
+891
+00:46:25,690 --> 00:46:27,420
+It's true in the
+criminal justice system.
+
+892
+00:46:27,420 --> 00:46:31,970
+It's true in hiring, that
+using machine learning,
+
+893
+00:46:31,970 --> 00:46:36,930
+you have to sort of say,
+wait, is there bias?
+
+894
+00:46:36,930 --> 00:46:43,860
+And the laws here in the US that
+are most relevant in finance
+
+895
+00:46:43,860 --> 00:46:46,330
+started with something called
+the Equal Credit Opportunity
+
+896
+00:46:46,330 --> 00:46:47,420
+Act.
+
+897
+00:46:47,420 --> 00:46:51,560
+And we'll talk a little
+bit more about that.
+
+898
+00:46:51,560 --> 00:46:56,390
+Explainability and transparency,
+as we talked about earlier,
+
+899
+00:46:56,390 --> 00:47:00,200
+is sort of like a cousin or
+a sister to the bias issue.
+
+900
+00:47:00,200 --> 00:47:02,330
+And in the US, it
+was 50 years ago
+
+901
+00:47:02,330 --> 00:47:06,050
+that we passed these twin
+laws within four years.
+
+902
+00:47:06,050 --> 00:47:08,790
+The second law was the
+Fair Credit Reporting Act.
+
+903
+00:47:08,790 --> 00:47:12,590
+And this was the concept
+about holding that data,
+
+904
+00:47:12,590 --> 00:47:15,560
+but also being
+able to explain it.
+
+905
+00:47:15,560 --> 00:47:17,810
+Romain I see the chat button.
+
+906
+00:47:17,810 --> 00:47:19,980
+GUEST SPEAKER: We have
+no question from Jorge.
+
+907
+00:47:19,980 --> 00:47:21,890
+GARY GENSLER: Please.
+
+908
+00:47:21,890 --> 00:47:24,950
+AUDIENCE: Yes, professor,
+thank you so much.
+
+909
+00:47:24,950 --> 00:47:27,920
+I just want to have a
+little bit more color
+
+910
+00:47:27,920 --> 00:47:31,110
+on financial inclusion,
+and specifically
+
+911
+00:47:31,110 --> 00:47:34,820
+on what type of data,
+what models are used?
+
+912
+00:47:34,820 --> 00:47:38,240
+What's the forefront
+of data modeling
+
+913
+00:47:38,240 --> 00:47:43,760
+for using AI and to help
+financial inclusion?
+
+914
+00:47:43,760 --> 00:47:45,525
+Thank you.
+
+915
+00:47:45,525 --> 00:47:47,900
+GARY GENSLER: I'm not sure,
+Jorje, I follow the question.
+
+916
+00:47:47,900 --> 00:47:53,270
+Let me see if I do it, but
+please keep your audio on
+
+917
+00:47:53,270 --> 00:47:56,180
+so we can engage here.
+
+918
+00:47:56,180 --> 00:47:59,730
+Biases are sort of the
+reverse of inclusion.
+
+919
+00:47:59,730 --> 00:48:01,940
+So financial
+inclusion is a concept
+
+920
+00:48:01,940 --> 00:48:06,140
+that everyone in
+society has fair access
+
+921
+00:48:06,140 --> 00:48:12,140
+and open, equal access in some
+way to the extension of credit,
+
+922
+00:48:12,140 --> 00:48:14,870
+to insurance, to
+financial advice,
+
+923
+00:48:14,870 --> 00:48:19,110
+to investment products
+and savings products
+
+924
+00:48:19,110 --> 00:48:23,030
+that they wish to, or
+payment products as well.
+
+925
+00:48:23,030 --> 00:48:25,280
+And the reverse of
+inclusion is sometimes
+
+926
+00:48:25,280 --> 00:48:27,110
+that somebody is excluded.
+
+927
+00:48:27,110 --> 00:48:35,320
+And excluding someone
+could be excluding them
+
+928
+00:48:35,320 --> 00:48:37,360
+on something that is allowed.
+
+929
+00:48:37,360 --> 00:48:40,630
+Like I might exclude
+somebody only earning $50,000
+
+930
+00:48:40,630 --> 00:48:43,180
+a year from an
+investment product
+
+931
+00:48:43,180 --> 00:48:47,260
+which is for
+high-risk investors,
+
+932
+00:48:47,260 --> 00:48:51,160
+depending upon how the
+country is arranged.
+
+933
+00:48:51,160 --> 00:48:54,490
+But in the US, we have a
+little bit of this concept
+
+934
+00:48:54,490 --> 00:48:59,230
+that sophisticated
+investors can be investing
+
+935
+00:48:59,230 --> 00:49:02,260
+in products of higher risk.
+
+936
+00:49:02,260 --> 00:49:05,080
+Or at least they
+get less disclosure.
+
+937
+00:49:05,080 --> 00:49:09,140
+But that's how inclusion
+and bias are kind of the--
+
+938
+00:49:09,140 --> 00:49:10,500
+they complement each other.
+
+939
+00:49:10,500 --> 00:49:12,610
+The greater inclusion you have--
+
+940
+00:49:12,610 --> 00:49:16,630
+you can get to greater inclusion
+if you have fewer biases,
+
+941
+00:49:16,630 --> 00:49:18,700
+in a [sense fairness.
+
+942
+00:49:18,700 --> 00:49:19,760
+But [INAUDIBLE].
+
+943
+00:49:19,760 --> 00:49:21,370
+AUDIENCE: No, I was just--
+
+944
+00:49:21,370 --> 00:49:23,100
+I totally get that.
+
+945
+00:49:23,100 --> 00:49:27,070
+I was just trying to
+understand what type of models,
+
+946
+00:49:27,070 --> 00:49:31,890
+what type of data, what is
+the forefront of AI currently?
+
+947
+00:49:31,890 --> 00:49:34,180
+Because I totally get
+it's gathering data
+
+948
+00:49:34,180 --> 00:49:35,480
+and finding patterns.
+
+949
+00:49:35,480 --> 00:49:40,820
+But digging a little bit
+more on that, what type of--
+
+950
+00:49:40,820 --> 00:49:44,110
+GARY GENSLER: So let's
+say that one pattern
+
+951
+00:49:44,110 --> 00:49:46,060
+that we know about already--
+
+952
+00:49:46,060 --> 00:49:51,040
+this is a classic pattern
+in credit extension.
+
+953
+00:49:51,040 --> 00:49:55,870
+I don't know how many of you
+know what retreading a tire is.
+
+954
+00:49:55,870 --> 00:49:59,110
+A retread means that you're
+putting rubber on your tire.
+
+955
+00:49:59,110 --> 00:50:02,230
+Instead of replacing your
+tire on your automobile,
+
+956
+00:50:02,230 --> 00:50:06,020
+you're actually paying to
+put new rubber on the tire--
+
+957
+00:50:06,020 --> 00:50:07,750
+tire retreading.
+
+958
+00:50:07,750 --> 00:50:11,710
+It's been known for decades that
+people who retread their tires
+
+959
+00:50:11,710 --> 00:50:15,080
+are a little lower income,
+generally speaking.
+
+960
+00:50:15,080 --> 00:50:20,860
+And actually there's research--
+
+961
+00:50:20,860 --> 00:50:22,600
+I don't mean academic
+research, but there
+
+962
+00:50:22,600 --> 00:50:27,580
+is research in the
+credit business
+
+963
+00:50:27,580 --> 00:50:31,180
+that retreading tires
+means that you're probably
+
+964
+00:50:31,180 --> 00:50:34,080
+a little higher credit risk.
+
+965
+00:50:34,080 --> 00:50:36,300
+Now bring it forward to now.
+
+966
+00:50:36,300 --> 00:50:39,270
+Bring it forward to
+the 2020 environment.
+
+967
+00:50:39,270 --> 00:50:41,250
+And let's say that
+you can follow
+
+968
+00:50:41,250 --> 00:50:44,370
+that those people who
+bought tire retreading,
+
+969
+00:50:44,370 --> 00:50:49,380
+or even if you went to
+a website on your laptop
+
+970
+00:50:49,380 --> 00:50:52,470
+about tire retreading,
+let's say that's built
+
+971
+00:50:52,470 --> 00:50:55,290
+in to an algorithm
+that's going to give you
+
+972
+00:50:55,290 --> 00:50:59,450
+lower extension of credit.
+
+973
+00:50:59,450 --> 00:51:04,100
+That might be allowed, or it
+might embed a different bias.
+
+974
+00:51:04,100 --> 00:51:08,930
+It might be that tire retreading
+shops are perfectly acceptable
+
+975
+00:51:08,930 --> 00:51:13,730
+in certain communities,
+either ethnic communities,
+
+976
+00:51:13,730 --> 00:51:16,520
+or gender-based, or
+racial communities,
+
+977
+00:51:16,520 --> 00:51:20,090
+that it's just perfectly--
+
+978
+00:51:20,090 --> 00:51:21,990
+it's not about creditworthiness.
+
+979
+00:51:21,990 --> 00:51:27,110
+So it's how you extract
+certain patterns that
+
+980
+00:51:27,110 --> 00:51:34,460
+are about credit extension
+but not about race, ethnicity,
+
+981
+00:51:34,460 --> 00:51:38,290
+cultural backgrounds,
+and the like.
+
+982
+00:51:38,290 --> 00:51:42,070
+And if you hold
+just for a second,
+
+983
+00:51:42,070 --> 00:51:44,070
+we're going to talk a
+little bit more about this
+
+984
+00:51:44,070 --> 00:51:47,100
+because I'm going to talk about
+the Equal Credit Opportunity
+
+985
+00:51:47,100 --> 00:51:48,517
+Act.
+
+986
+00:51:48,517 --> 00:51:49,350
+AUDIENCE: Thank you.
+
+987
+00:51:52,070 --> 00:51:54,280
+GARY GENSLER: Romain we good?
+
+988
+00:51:54,280 --> 00:51:55,530
+GUEST SPEAKER: All good, Gary.
+
+989
+00:51:55,530 --> 00:52:00,820
+GARY GENSLER: So beyond what I'm
+sort of calling the big three,
+
+990
+00:52:00,820 --> 00:52:02,470
+I list four other things.
+
+991
+00:52:02,470 --> 00:52:04,620
+But they're all really relevant.
+
+992
+00:52:04,620 --> 00:52:09,480
+They're relevant to, broadly
+speaking, the official sector.
+
+993
+00:52:09,480 --> 00:52:11,100
+But they're also
+relevant as you think
+
+994
+00:52:11,100 --> 00:52:13,260
+about going into
+these businesses
+
+995
+00:52:13,260 --> 00:52:15,150
+the use of alternative data.
+
+996
+00:52:15,150 --> 00:52:16,710
+And we'll come back to that.
+
+997
+00:52:16,710 --> 00:52:20,190
+Basically, we've had data
+analytics in consumer finance
+
+998
+00:52:20,190 --> 00:52:22,110
+since the 1960s.
+
+999
+00:52:22,110 --> 00:52:27,260
+We have in 30-plus countries
+used these FICO scores.
+
+1000
+00:52:27,260 --> 00:52:32,670
+But beyond what is built
+into the classic data
+
+1001
+00:52:32,670 --> 00:52:36,110
+set, what about new data?
+
+1002
+00:52:36,110 --> 00:52:39,560
+We have issues about whether
+the algorithms themselves will
+
+1003
+00:52:39,560 --> 00:52:42,440
+be correlated or even collude.
+
+1004
+00:52:42,440 --> 00:52:45,680
+And this is absolutely the
+case that one machine learning
+
+1005
+00:52:45,680 --> 00:52:48,800
+algorithm and another
+machine learning algorithm
+
+1006
+00:52:48,800 --> 00:52:52,010
+can actually train
+against each other.
+
+1007
+00:52:52,010 --> 00:52:55,280
+We've already seen this
+in high-frequency trading.
+
+1008
+00:52:55,280 --> 00:52:57,590
+Even if the humans
+aren't talking,
+
+1009
+00:52:57,590 --> 00:53:00,140
+the machines will
+start to actually
+
+1010
+00:53:00,140 --> 00:53:04,340
+have a sense of cooperation.
+
+1011
+00:53:04,340 --> 00:53:06,460
+And when is
+cooperation collusion?
+
+1012
+00:53:06,460 --> 00:53:08,870
+When is it that they're
+spoofing each other
+
+1013
+00:53:08,870 --> 00:53:10,670
+or doing something
+against each other
+
+1014
+00:53:10,670 --> 00:53:13,600
+in a high-frequency world?
+
+1015
+00:53:13,600 --> 00:53:15,640
+I deeply-- and this
+is one of the areas
+
+1016
+00:53:15,640 --> 00:53:18,580
+I want to research
+more with colleagues.
+
+1017
+00:53:18,580 --> 00:53:23,050
+I deeply am concerned
+that a future crisis--
+
+1018
+00:53:23,050 --> 00:53:24,192
+it's remarkable.
+
+1019
+00:53:24,192 --> 00:53:25,900
+We're in the middle
+of the corona crisis,
+
+1020
+00:53:25,900 --> 00:53:30,740
+but a future crisis we'll
+find algorithmic correlation.
+
+1021
+00:53:30,740 --> 00:53:33,310
+And this is certainly the
+case in smaller developing
+
+1022
+00:53:33,310 --> 00:53:37,690
+countries, where a Baidu from
+China or a Google from the US
+
+1023
+00:53:37,690 --> 00:53:41,110
+might come in, and they might
+come in with their approach
+
+1024
+00:53:41,110 --> 00:53:42,940
+to artificial intelligence.
+
+1025
+00:53:42,940 --> 00:53:44,810
+Or a large financial firm--
+
+1026
+00:53:44,810 --> 00:53:48,340
+it could be a European, Asian,
+or US financial firm comes
+
+1027
+00:53:48,340 --> 00:53:50,650
+into that smaller
+country, and they kind of
+
+1028
+00:53:50,650 --> 00:53:54,340
+dominate the thinking about
+how to do underwriting,
+
+1029
+00:53:54,340 --> 00:53:57,460
+and they're the
+big network effect.
+
+1030
+00:53:57,460 --> 00:53:59,500
+And all of a sudden,
+the crisis of 2037
+
+1031
+00:53:59,500 --> 00:54:02,710
+might be that
+everybody is extending
+
+1032
+00:54:02,710 --> 00:54:08,890
+credit kind of consistently
+in the same way.
+
+1033
+00:54:08,890 --> 00:54:12,640
+So it's basically
+less resilient.
+
+1034
+00:54:12,640 --> 00:54:14,460
+We're living through
+a moment of crisis
+
+1035
+00:54:14,460 --> 00:54:17,730
+right now where we're testing
+the resiliency of humankind
+
+1036
+00:54:17,730 --> 00:54:18,870
+through the corona crisis.
+
+1037
+00:54:18,870 --> 00:54:23,960
+But I'm talking one
+in the financial side.
+
+1038
+00:54:23,960 --> 00:54:26,120
+And then the question is,
+how does machine learning
+
+1039
+00:54:26,120 --> 00:54:29,640
+fit into current
+regulatory frameworks?
+
+1040
+00:54:29,640 --> 00:54:31,780
+Around the globe, a
+lot's been written,
+
+1041
+00:54:31,780 --> 00:54:35,910
+but it's all at a very high
+level, and it's non-binding.
+
+1042
+00:54:35,910 --> 00:54:38,340
+But it's these top
+three, as I've mentioned.
+
+1043
+00:54:38,340 --> 00:54:41,130
+So the alternatives-- this
+was a question earlier--
+
+1044
+00:54:41,130 --> 00:54:44,920
+is the official sector can
+stay neutral and say, listen,
+
+1045
+00:54:44,920 --> 00:54:46,650
+this is just a tool.
+
+1046
+00:54:46,650 --> 00:54:48,240
+We're still going
+to regulate lending.
+
+1047
+00:54:48,240 --> 00:54:49,907
+We're going to regulate
+capital markets.
+
+1048
+00:54:49,907 --> 00:54:52,470
+We're going to regulate
+everything the way we did.
+
+1049
+00:54:52,470 --> 00:54:55,320
+And new activities will just
+come into those frameworks.
+
+1050
+00:54:55,320 --> 00:54:58,890
+Maybe we'll clarify a little
+bit around the fringes.
+
+1051
+00:54:58,890 --> 00:55:00,930
+Secondly, you can adjust.
+
+1052
+00:55:00,930 --> 00:55:02,070
+Turn the dial.
+
+1053
+00:55:02,070 --> 00:55:05,070
+When the internet came
+along in the 1990s,
+
+1054
+00:55:05,070 --> 00:55:07,650
+at first it was like
+technology neutral.
+
+1055
+00:55:07,650 --> 00:55:10,350
+And then pretty much every
+regulator around the globe
+
+1056
+00:55:10,350 --> 00:55:13,620
+had to adjust.
+
+1057
+00:55:13,620 --> 00:55:16,150
+What did it mean if there
+was an online bulletin
+
+1058
+00:55:16,150 --> 00:55:19,860
+board that was trading stocks,
+where buyers and sellers can
+
+1059
+00:55:19,860 --> 00:55:21,100
+meet?
+
+1060
+00:55:21,100 --> 00:55:23,470
+Was that what's
+called an exchange?
+
+1061
+00:55:23,470 --> 00:55:25,570
+Should it be regulated
+like the New York Stock
+
+1062
+00:55:25,570 --> 00:55:27,010
+Exchange or London
+Stock Exchange,
+
+1063
+00:55:27,010 --> 00:55:29,860
+or regulated maybe a
+little differently?
+
+1064
+00:55:29,860 --> 00:55:32,920
+Where our securities regulator,
+where the Europeans ended up
+
+1065
+00:55:32,920 --> 00:55:37,560
+in the 1990s was to regulate
+these online platforms
+
+1066
+00:55:37,560 --> 00:55:40,470
+like exchanges
+but not identical.
+
+1067
+00:55:40,470 --> 00:55:45,400
+So then we had a regime of
+fully regulated exchanges
+
+1068
+00:55:45,400 --> 00:55:48,840
+and these online electronic
+trading platforms.
+
+1069
+00:55:48,840 --> 00:55:52,350
+And that was then later
+adopted in Asia as well,
+
+1070
+00:55:52,350 --> 00:55:55,260
+with some variations.
+
+1071
+00:55:55,260 --> 00:55:57,450
+The other thing is that
+the official sector often
+
+1072
+00:55:57,450 --> 00:55:59,940
+tries to promote this--
+promote the innovations,
+
+1073
+00:55:59,940 --> 00:56:03,920
+promote the technologies,
+or promote open banking,
+
+1074
+00:56:03,920 --> 00:56:05,810
+as I've said.
+
+1075
+00:56:05,810 --> 00:56:10,010
+But an interesting piece
+of this all is activities.
+
+1076
+00:56:10,010 --> 00:56:13,550
+Should we think about
+machine learning as a tool,
+
+1077
+00:56:13,550 --> 00:56:15,320
+like a hammer that
+everybody is going
+
+1078
+00:56:15,320 --> 00:56:18,770
+to be using, like electricity,
+like the telephone
+
+1079
+00:56:18,770 --> 00:56:20,250
+that everybody is using?
+
+1080
+00:56:20,250 --> 00:56:23,410
+Or should we think about it, as
+I said earlier, some companies
+
+1081
+00:56:23,410 --> 00:56:26,650
+are providing AI as a service?
+
+1082
+00:56:26,650 --> 00:56:28,960
+Activities, a
+technology, a tool.
+
+1083
+00:56:28,960 --> 00:56:32,950
+And the official sector
+grapples with this sometimes.
+
+1084
+00:56:32,950 --> 00:56:35,800
+To date, mostly they've
+stayed technology
+
+1085
+00:56:35,800 --> 00:56:37,600
+neutral with a little
+bit of promoting
+
+1086
+00:56:37,600 --> 00:56:42,010
+early stage activity and the
+promoting of the open banking.
+
+1087
+00:56:42,010 --> 00:56:43,540
+Romain questions?
+
+1088
+00:56:43,540 --> 00:56:45,500
+GUEST SPEAKER: We
+have 15 minutes left.
+
+1089
+00:56:45,500 --> 00:56:47,620
+GARY GENSLER: OK.
+
+1090
+00:56:47,620 --> 00:56:50,190
+Alternative data.
+
+1091
+00:56:50,190 --> 00:56:52,550
+This is data that
+you can extract,
+
+1092
+00:56:52,550 --> 00:56:55,190
+whether it's banking and
+checking information,
+
+1093
+00:56:55,190 --> 00:56:59,270
+or as Alibaba does in China,
+taking a whole cash flow
+
+1094
+00:56:59,270 --> 00:56:59,840
+approach.
+
+1095
+00:56:59,840 --> 00:57:02,540
+Saying I can see everything
+about your business.
+
+1096
+00:57:02,540 --> 00:57:04,790
+It's called cash
+flow underwriting.
+
+1097
+00:57:04,790 --> 00:57:07,700
+Here in the US, a
+payment company, Toast,
+
+1098
+00:57:07,700 --> 00:57:10,760
+was able to do-- until
+restaurants closed down--
+
+1099
+00:57:10,760 --> 00:57:14,360
+able to cash flow underwriting
+around their restaurants
+
+1100
+00:57:14,360 --> 00:57:17,490
+because they had
+that payment data.
+
+1101
+00:57:17,490 --> 00:57:21,600
+All the way down to your app
+usage and browsing history.
+
+1102
+00:57:21,600 --> 00:57:23,640
+I believe this is
+a trend that we've
+
+1103
+00:57:23,640 --> 00:57:28,020
+been on that will be accelerated
+by the corona crisis.
+
+1104
+00:57:28,020 --> 00:57:32,120
+That this crisis, we're
+finding whether it's
+
+1105
+00:57:32,120 --> 00:57:36,140
+the large firms like Google
+or even smaller ones,
+
+1106
+00:57:36,140 --> 00:57:41,630
+want to contribute to trying to
+thwart the virus by following
+
+1107
+00:57:41,630 --> 00:57:45,610
+us or our location devices.
+
+1108
+00:57:45,610 --> 00:57:48,320
+Our location devices, of
+course, are called cell phones
+
+1109
+00:57:48,320 --> 00:57:50,350
+and smartphones.
+
+1110
+00:57:50,350 --> 00:57:52,720
+But such vast parts
+of the population
+
+1111
+00:57:52,720 --> 00:57:55,840
+have them that with
+location tracking,
+
+1112
+00:57:55,840 --> 00:58:04,510
+we can possibly thwart or even
+contain this virus by watching
+
+1113
+00:58:04,510 --> 00:58:05,950
+how we track ourselves.
+
+1114
+00:58:05,950 --> 00:58:08,410
+I think that we will
+shift a little bit further
+
+1115
+00:58:08,410 --> 00:58:11,800
+into data sharing, and
+that will look back
+
+1116
+00:58:11,800 --> 00:58:16,450
+and 2020 will maybe be,
+and 2021, a pivot point.
+
+1117
+00:58:16,450 --> 00:58:18,550
+But what it does
+mean, even in finance,
+
+1118
+00:58:18,550 --> 00:58:22,180
+that a lot of this data is
+going to be available somewhere,
+
+1119
+00:58:22,180 --> 00:58:26,150
+even more, maybe, than
+currently is available.
+
+1120
+00:58:26,150 --> 00:58:28,870
+So there are actually
+alternative data fintech
+
+1121
+00:58:28,870 --> 00:58:29,440
+companies.
+
+1122
+00:58:29,440 --> 00:58:33,640
+CB Insights, which is a
+leader in tracking fintech,
+
+1123
+00:58:33,640 --> 00:58:35,080
+puts together this chart.
+
+1124
+00:58:35,080 --> 00:58:37,630
+And we don't have time to
+go through these companies,
+
+1125
+00:58:37,630 --> 00:58:41,650
+but these are companies that
+are sort of marketing themselves
+
+1126
+00:58:41,650 --> 00:58:44,290
+in this alternative
+data set, almost
+
+1127
+00:58:44,290 --> 00:58:49,450
+like capturing the data, and
+then data and AI as a service.
+
+1128
+00:58:51,970 --> 00:58:54,510
+I want to just talk about
+Apple Credit Card for a second
+
+1129
+00:58:54,510 --> 00:58:57,390
+because it's where you
+can also stub your toe.
+
+1130
+00:58:57,390 --> 00:59:00,510
+Apple Credit Card with a big
+rollout in conjunction with
+
+1131
+00:59:00,510 --> 00:59:03,720
+Goldman Sachs' Marcus
+and MasterCard--
+
+1132
+00:59:03,720 --> 00:59:09,230
+so it's a really interesting
+combination of big tech,
+
+1133
+00:59:09,230 --> 00:59:11,270
+big finance together--
+
+1134
+00:59:11,270 --> 00:59:13,130
+rolls out a credit card product.
+
+1135
+00:59:13,130 --> 00:59:15,240
+I think it was in November--
+
+1136
+00:59:15,240 --> 00:59:18,620
+yeah, November of
+this past year.
+
+1137
+00:59:18,620 --> 00:59:23,480
+And in rolling it out
+in a very proud rollout,
+
+1138
+00:59:23,480 --> 00:59:29,480
+an entrepreneur, here going by
+the Twitter account DHH, which
+
+1139
+00:59:29,480 --> 00:59:33,710
+you might know of
+this, goes on and finds
+
+1140
+00:59:33,710 --> 00:59:36,740
+that he is provided greater
+credit than his wife,
+
+1141
+00:59:36,740 --> 00:59:39,750
+and he and his wife
+are both billionaires,
+
+1142
+00:59:39,750 --> 00:59:43,110
+like literally worth
+a lot of money.
+
+1143
+00:59:43,110 --> 00:59:46,560
+Maybe it was only they were
+centimillionaires, but worth
+
+1144
+00:59:46,560 --> 00:59:47,820
+a lot of money.
+
+1145
+00:59:47,820 --> 00:59:50,850
+Joint tax account,
+joint assets, and he
+
+1146
+00:59:50,850 --> 00:59:55,650
+was being provided 10
+to 20 times more credit.
+
+1147
+00:59:55,650 --> 00:59:58,960
+So he took to the Twittersphere
+and sort of made this.
+
+1148
+00:59:58,960 --> 01:00:02,850
+And he says his wife had
+spoke to two Apple reps,
+
+1149
+01:00:02,850 --> 01:00:04,990
+both very nice.
+
+1150
+01:00:04,990 --> 01:00:08,020
+But basically saying,
+I don't know why.
+
+1151
+01:00:08,020 --> 01:00:09,220
+It's just the algorithm.
+
+1152
+01:00:09,220 --> 01:00:11,820
+It's just the algorithm.
+
+1153
+01:00:11,820 --> 01:00:15,490
+What really hurt Apple even
+more than that was within days,
+
+1154
+01:00:15,490 --> 01:00:18,970
+the next day, Steve Wozniak,
+one of the co-founders of Apple,
+
+1155
+01:00:18,970 --> 01:00:20,440
+put this Twitter out.
+
+1156
+01:00:20,440 --> 01:00:23,080
+"I'm a current Apple
+employee and the founder,
+
+1157
+01:00:23,080 --> 01:00:25,340
+and the same thing
+happened to us, 10 times."
+
+1158
+01:00:25,340 --> 01:00:29,590
+Meaning Steve got 10 times
+the credit as his wife
+
+1159
+01:00:29,590 --> 01:00:31,480
+in the same algorithm.
+
+1160
+01:00:31,480 --> 01:00:35,120
+"Some say to blame Goldman
+Sachs," et cetera, et cetera.
+
+1161
+01:00:35,120 --> 01:00:36,860
+But Apple shares
+the responsibility.
+
+1162
+01:00:36,860 --> 01:00:39,500
+Not a good rollout.
+
+1163
+01:00:39,500 --> 01:00:42,170
+So for Apple Credit
+Card, they'll survive.
+
+1164
+01:00:42,170 --> 01:00:43,760
+Apple is a big company.
+
+1165
+01:00:43,760 --> 01:00:47,240
+They'll probably fix
+these biases, but not
+
+1166
+01:00:47,240 --> 01:00:50,660
+a particularly good rollout,
+as you can well imagine,
+
+1167
+01:00:50,660 --> 01:00:51,830
+in their models.
+
+1168
+01:00:51,830 --> 01:00:52,928
+Romain.
+
+1169
+01:00:52,928 --> 01:00:54,470
+GUEST SPEAKER: Alida
+has her hand up.
+
+1170
+01:00:54,470 --> 01:00:55,637
+GARY GENSLER: Please, Alida.
+
+1171
+01:00:58,282 --> 01:01:02,140
+AUDIENCE: Yes, you mentioned
+cash flow lending earlier.
+
+1172
+01:01:02,140 --> 01:01:06,100
+And that really falls under the
+merchant cash advance business.
+
+1173
+01:01:06,100 --> 01:01:08,363
+There's been a lot of
+debate about that being--
+
+1174
+01:01:08,363 --> 01:01:09,780
+it's not very
+regulated right now,
+
+1175
+01:01:09,780 --> 01:01:11,940
+but that becoming
+more regulated.
+
+1176
+01:01:11,940 --> 01:01:17,780
+Is an entry point like Toast and
+other companies that have just
+
+1177
+01:01:17,780 --> 01:01:19,090
+launched these new products--
+
+1178
+01:01:19,090 --> 01:01:21,770
+[INAUDIBLE] speed
+up the regulations
+
+1179
+01:01:21,770 --> 01:01:23,340
+around that business?
+
+1180
+01:01:23,340 --> 01:01:28,710
+GARY GENSLER: So Romain
+or Alida I missed a word.
+
+1181
+01:01:28,710 --> 01:01:31,746
+Which company did
+you say in there?
+
+1182
+01:01:31,746 --> 01:01:32,500
+AUDIENCE: Toast.
+
+1183
+01:01:32,500 --> 01:01:33,750
+GARY GENSLER: Oh, Toast, OK.
+
+1184
+01:01:33,750 --> 01:01:36,740
+So Toast-- for people
+to be familiar,
+
+1185
+01:01:36,740 --> 01:01:41,050
+Toast started in the
+restaurant payment space.
+
+1186
+01:01:41,050 --> 01:01:45,740
+And it was basically trying
+to provide hardware, tablets.
+
+1187
+01:01:45,740 --> 01:01:48,060
+They thought that
+the point of sale
+
+1188
+01:01:48,060 --> 01:01:53,215
+would be facilitated if
+servers had a tablet.
+
+1189
+01:01:53,215 --> 01:01:55,590
+And so they were sort of in
+the hardware, software space.
+
+1190
+01:01:55,590 --> 01:01:57,757
+They found themselves getting
+into the payment space
+
+1191
+01:01:57,757 --> 01:02:00,270
+very quickly, and
+then, of course, data.
+
+1192
+01:02:00,270 --> 01:02:03,630
+And with that data, they
+could do a whole cash flow
+
+1193
+01:02:03,630 --> 01:02:04,230
+underwriting.
+
+1194
+01:02:04,230 --> 01:02:06,030
+And then they started
+Toast Capital,
+
+1195
+01:02:06,030 --> 01:02:08,430
+where they would make
+loans, small business loans,
+
+1196
+01:02:08,430 --> 01:02:10,810
+to these restaurants.
+
+1197
+01:02:10,810 --> 01:02:15,150
+And I think they have 25,000
+or 30,000 restaurants that
+
+1198
+01:02:15,150 --> 01:02:16,400
+are in their client list.
+
+1199
+01:02:16,400 --> 01:02:19,530
+And they did a round C
+funding earlier this year
+
+1200
+01:02:19,530 --> 01:02:20,920
+at $4.9 billion.
+
+1201
+01:02:20,920 --> 01:02:25,010
+So this is working, of
+course until the crisis.
+
+1202
+01:02:25,010 --> 01:02:27,480
+And so then the question
+is about regulation
+
+1203
+01:02:27,480 --> 01:02:29,880
+about cash flow underwriting.
+
+1204
+01:02:29,880 --> 01:02:34,290
+I'm not familiar
+enough with how Toast
+
+1205
+01:02:34,290 --> 01:02:37,780
+feels, even though I've met the
+founders and things like that.
+
+1206
+01:02:37,780 --> 01:02:39,720
+They're a Boston company.
+
+1207
+01:02:39,720 --> 01:02:43,620
+But I think they're dealing
+with the same set of regulations
+
+1208
+01:02:43,620 --> 01:02:46,350
+that everyone is, which I'm
+going to turn to right now
+
+1209
+01:02:46,350 --> 01:02:48,750
+in the last eight minutes.
+
+1210
+01:02:48,750 --> 01:02:50,600
+But cash flow
+underwriting, Alida,
+
+1211
+01:02:50,600 --> 01:02:53,100
+are you worried about
+something specifically
+
+1212
+01:02:53,100 --> 01:02:54,570
+about cash flow underwriting?
+
+1213
+01:02:54,570 --> 01:02:59,523
+Because maybe I'll
+learn from your concern.
+
+1214
+01:02:59,523 --> 01:03:01,190
+AUDIENCE: I [INAUDIBLE]
+if you look at--
+
+1215
+01:03:01,190 --> 01:03:05,080
+I would consider that to be
+like a merchant cash advance
+
+1216
+01:03:05,080 --> 01:03:06,720
+product, and those
+are not actually
+
+1217
+01:03:06,720 --> 01:03:10,890
+considered loans
+in the regulations.
+
+1218
+01:03:10,890 --> 01:03:14,370
+Now, there's a lot of
+movement toward having
+
+1219
+01:03:14,370 --> 01:03:16,920
+those products being
+considered loans and then
+
+1220
+01:03:16,920 --> 01:03:22,470
+fall under different regulatory
+standards that [INAUDIBLE]..
+
+1221
+01:03:22,470 --> 01:03:25,110
+GARY GENSLER: So what
+Alida is raising--
+
+1222
+01:03:25,110 --> 01:03:25,770
+I'm sorry.
+
+1223
+01:03:25,770 --> 01:03:31,890
+What Alida raising is, again, in
+every political and regulatory
+
+1224
+01:03:31,890 --> 01:03:33,960
+process, there is
+some definition
+
+1225
+01:03:33,960 --> 01:03:37,050
+of what falls within a
+regulation, what falls out.
+
+1226
+01:03:37,050 --> 01:03:39,600
+You might think, where are
+the borders and boundaries
+
+1227
+01:03:39,600 --> 01:03:41,760
+of a regulatory environment?
+
+1228
+01:03:41,760 --> 01:03:44,790
+What's defined,
+really, as a security
+
+1229
+01:03:44,790 --> 01:03:46,410
+in the cryptocurrency space?
+
+1230
+01:03:46,410 --> 01:03:49,500
+What's defined as an exchange,
+an exchange regulation?
+
+1231
+01:03:49,500 --> 01:03:53,110
+And hear Alida is saying,
+what's defined as a loan?
+
+1232
+01:03:53,110 --> 01:03:56,250
+And in Toast's case, doing
+cash flow underwriting,
+
+1233
+01:03:56,250 --> 01:04:00,930
+it might be considered a cash
+advance rather than a loan.
+
+1234
+01:04:00,930 --> 01:04:03,540
+So let me do a little
+research on that,
+
+1235
+01:04:03,540 --> 01:04:06,030
+and we'll come back to that
+maybe in a future class
+
+1236
+01:04:06,030 --> 01:04:09,180
+when we talk about payments.
+
+1237
+01:04:09,180 --> 01:04:12,330
+But in terms of the consumer
+credit law environment,
+
+1238
+01:04:12,330 --> 01:04:15,120
+we talked about the Equal
+Credit Opportunity Act.
+
+1239
+01:04:15,120 --> 01:04:18,240
+The key thing is
+not only whether you
+
+1240
+01:04:18,240 --> 01:04:19,950
+have disparate treatment,
+but whether you
+
+1241
+01:04:19,950 --> 01:04:22,300
+have disparate impact.
+
+1242
+01:04:22,300 --> 01:04:26,250
+So back to my retreading
+analysis, if for some reason
+
+1243
+01:04:26,250 --> 01:04:29,430
+you've been reviewing and
+your machine algorithms say,
+
+1244
+01:04:29,430 --> 01:04:33,810
+aha, all these folks
+that are getting retreads
+
+1245
+01:04:33,810 --> 01:04:37,710
+should have lower
+credit, that might be OK
+
+1246
+01:04:37,710 --> 01:04:42,430
+unless you find
+that you're treating
+
+1247
+01:04:42,430 --> 01:04:46,030
+different protected
+classes differently.
+
+1248
+01:04:46,030 --> 01:04:48,558
+Are you treating people
+of different backgrounds
+
+1249
+01:04:48,558 --> 01:04:50,350
+differently, different
+genders differently,
+
+1250
+01:04:50,350 --> 01:04:55,390
+as Apple certainly was in
+Steve Wozniak and his wife?
+
+1251
+01:04:55,390 --> 01:04:58,270
+Fair Housing Act, Fair Credit
+Reporting Act-- the Fair
+
+1252
+01:04:58,270 --> 01:05:01,210
+Housing Act has a lot of
+these same protected class
+
+1253
+01:05:01,210 --> 01:05:02,260
+perspectives.
+
+1254
+01:05:02,260 --> 01:05:05,050
+Fair Credit Reporting-- and you
+read this in the Mayer Brown
+
+1255
+01:05:05,050 --> 01:05:06,010
+piece--
+
+1256
+01:05:06,010 --> 01:05:08,140
+the Fair Credit
+Reporting Act, you
+
+1257
+01:05:08,140 --> 01:05:11,770
+can find yourself as a fintech
+company or a data aggregator.
+
+1258
+01:05:11,770 --> 01:05:14,200
+The Plaids and the
+other data aggregators
+
+1259
+01:05:14,200 --> 01:05:17,110
+could find that they were, in
+fact, coming under the Fair
+
+1260
+01:05:17,110 --> 01:05:18,730
+Credit Reporting Act.
+
+1261
+01:05:18,730 --> 01:05:22,840
+They were those vendors
+that Cap One might be using.
+
+1262
+01:05:22,840 --> 01:05:25,840
+And they, the vendor, might
+become Fair Credit Reporting
+
+1263
+01:05:25,840 --> 01:05:27,110
+Act companies.
+
+1264
+01:05:27,110 --> 01:05:28,960
+And there is usually
+a boundary there.
+
+1265
+01:05:28,960 --> 01:05:32,410
+Again, this is not a law class,
+but these are to highlight.
+
+1266
+01:05:32,410 --> 01:05:35,690
+States also have Unfair and
+Deceptive Acts and Practices
+
+1267
+01:05:35,690 --> 01:05:36,190
+Act.
+
+1268
+01:05:36,190 --> 01:05:38,860
+When I was chairman of the
+Maryland Consumer Financial
+
+1269
+01:05:38,860 --> 01:05:41,980
+Protection Commission, we
+went to the state legislature
+
+1270
+01:05:41,980 --> 01:05:42,520
+in Maryland.
+
+1271
+01:05:42,520 --> 01:05:44,350
+This is a year and a half ago.
+
+1272
+01:05:44,350 --> 01:05:48,970
+And said that Maryland's
+Unfair and Deceptive Practices
+
+1273
+01:05:48,970 --> 01:05:53,030
+Act, UDAP, should be
+updated to include abusive.
+
+1274
+01:05:53,030 --> 01:05:57,420
+So we sort of broadened
+it a little bit.
+
+1275
+01:05:57,420 --> 01:06:01,450
+And then privacy laws.
+
+1276
+01:06:01,450 --> 01:06:03,850
+This should say general direct--
+
+1277
+01:06:03,850 --> 01:06:11,110
+general-- I'll correct the
+GDPR, but Protection Regulation,
+
+1278
+01:06:11,110 --> 01:06:12,700
+and then in the US.
+
+1279
+01:06:12,700 --> 01:06:15,710
+And those are the buckets
+that really matter.
+
+1280
+01:06:15,710 --> 01:06:21,022
+Sort of trying to close out,
+AI, finance, and geopolitics.
+
+1281
+01:06:21,022 --> 01:06:24,210
+We've got nearly 200 countries.
+
+1282
+01:06:24,210 --> 01:06:28,170
+And those 200 countries,
+we're interconnected.
+
+1283
+01:06:28,170 --> 01:06:31,540
+We're very
+interconnected globally.
+
+1284
+01:06:31,540 --> 01:06:33,600
+And we've got a lot
+of standards setters,
+
+1285
+01:06:33,600 --> 01:06:35,490
+but those standards
+setters do not
+
+1286
+01:06:35,490 --> 01:06:38,440
+have the authority of lawmakers.
+
+1287
+01:06:38,440 --> 01:06:42,360
+So whether it's the
+Organization of Economic--
+
+1288
+01:06:42,360 --> 01:06:47,400
+OECD, or the guidelines of
+things like the securities
+
+1289
+01:06:47,400 --> 01:06:51,690
+regulators and the anti-crime
+regulators or the banking
+
+1290
+01:06:51,690 --> 01:06:55,500
+regulators, these are not
+enforceable standards.
+
+1291
+01:06:55,500 --> 01:06:58,980
+So what we have is competing
+models for AI, finance,
+
+1292
+01:06:58,980 --> 01:07:01,610
+and policy.
+
+1293
+01:07:01,610 --> 01:07:03,770
+And I note that
+because if you're
+
+1294
+01:07:03,770 --> 01:07:05,330
+thinking about
+starting a company
+
+1295
+01:07:05,330 --> 01:07:08,593
+and you operate globally,
+sometimes the global law
+
+1296
+01:07:08,593 --> 01:07:09,260
+will affect you.
+
+1297
+01:07:09,260 --> 01:07:12,410
+GDPR from Europe has
+already affected how
+
+1298
+01:07:12,410 --> 01:07:14,480
+we deal with privacy in the US.
+
+1299
+01:07:14,480 --> 01:07:18,230
+California institutes the
+California Consumer Protection
+
+1300
+01:07:18,230 --> 01:07:21,830
+Act, it influences
+the whole country.
+
+1301
+01:07:21,830 --> 01:07:23,910
+So sometimes that
+works that way.
+
+1302
+01:07:23,910 --> 01:07:24,873
+Romain.
+
+1303
+01:07:24,873 --> 01:07:26,790
+GUEST SPEAKER: We have
+a question from Akshay.
+
+1304
+01:07:26,790 --> 01:07:28,060
+GARY GENSLER: Please, Akshay.
+
+1305
+01:07:28,060 --> 01:07:29,060
+AUDIENCE: Hi, professor.
+
+1306
+01:07:29,060 --> 01:07:33,130
+So the gender bias
+algorithm that you mentioned
+
+1307
+01:07:33,130 --> 01:07:38,750
+about the Apple Credit Card,
+so the only thing that we
+
+1308
+01:07:38,750 --> 01:07:41,300
+can control here is the
+data that we're using.
+
+1309
+01:07:41,300 --> 01:07:44,570
+If we are not using
+any gender data,
+
+1310
+01:07:44,570 --> 01:07:48,800
+and if algorithm turns
+out and is creating biases
+
+1311
+01:07:48,800 --> 01:07:54,350
+without even using a particular
+data which is considered
+
+1312
+01:07:54,350 --> 01:07:57,410
+racist or sexist,
+so would that be
+
+1313
+01:07:57,410 --> 01:08:02,970
+counted as breaking the laws?
+
+1314
+01:08:02,970 --> 01:08:05,550
+GARY GENSLER: So here-- it's
+a great question, Akshay.
+
+1315
+01:08:05,550 --> 01:08:08,290
+And again, I caution that
+this is not a legal class.
+
+1316
+01:08:08,290 --> 01:08:13,380
+But embedded in the US law
+and often in other laws
+
+1317
+01:08:13,380 --> 01:08:17,920
+is this concept about disparate
+treatment and disparate impact.
+
+1318
+01:08:17,920 --> 01:08:23,130
+And what you're asking is, what
+if you didn't mean to do it?
+
+1319
+01:08:23,130 --> 01:08:26,670
+What if there was no
+intent, and it's just-- wow,
+
+1320
+01:08:26,670 --> 01:08:29,819
+that you've extracted this
+correlation and all of a sudden
+
+1321
+01:08:29,819 --> 01:08:31,979
+there's disparate impact?
+
+1322
+01:08:31,979 --> 01:08:34,580
+You could have a
+problem in a court.
+
+1323
+01:08:34,580 --> 01:08:39,300
+And it's a very
+established 50-year-old--
+
+1324
+01:08:39,300 --> 01:08:41,819
+there's a lot of
+case law around,
+
+1325
+01:08:41,819 --> 01:08:44,189
+when would a disparate
+impact cause you
+
+1326
+01:08:44,189 --> 01:08:46,710
+those headaches and anxiety?
+
+1327
+01:08:46,710 --> 01:08:49,470
+And it relates a lot
+to explainability.
+
+1328
+01:08:49,470 --> 01:08:52,010
+If you can come back
+to explainability
+
+1329
+01:08:52,010 --> 01:08:56,100
+and you can truly
+lay out, this is why,
+
+1330
+01:08:56,100 --> 01:08:57,689
+and it has nothing
+to do with gender,
+
+1331
+01:08:57,689 --> 01:09:01,529
+nothing to do with race, sexual
+orientation, and backgrounds,
+
+1332
+01:09:01,529 --> 01:09:04,667
+and so forth, a
+protected class, you're
+
+1333
+01:09:04,667 --> 01:09:06,250
+going to be better
+in that court case.
+
+1334
+01:09:06,250 --> 01:09:12,899
+But it would be far better
+to have no disparate impact.
+
+1335
+01:09:12,899 --> 01:09:17,800
+Then you're in a much
+broadly more safe area.
+
+1336
+01:09:17,800 --> 01:09:18,590
+AUDIENCE: Got it.
+
+1337
+01:09:18,590 --> 01:09:20,600
+Thank you.
+
+1338
+01:09:20,600 --> 01:09:22,370
+GARY GENSLER: Romain
+other questions?
+
+1339
+01:09:22,370 --> 01:09:25,180
+GUEST SPEAKER: Perhaps one
+last question from Luke.
+
+1340
+01:09:25,180 --> 01:09:28,146
+GARY GENSLER: Oh my God,
+Luke, you're always in there.
+
+1341
+01:09:28,146 --> 01:09:29,479
+AUDIENCE: I just had a question.
+
+1342
+01:09:29,479 --> 01:09:31,300
+GARY GENSLER: Before Luke
+goes, is there anybody else?
+
+1343
+01:09:31,300 --> 01:09:32,604
+Just, I want to make sure.
+
+1344
+01:09:32,604 --> 01:09:33,990
+OK, Luke, you can go.
+
+1345
+01:09:33,990 --> 01:09:35,323
+AUDIENCE: It was not a question.
+
+1346
+01:09:35,323 --> 01:09:37,899
+It was a comment to
+Akshay's question.
+
+1347
+01:09:37,899 --> 01:09:39,910
+I'm sure he doesn't
+support this.
+
+1348
+01:09:39,910 --> 01:09:42,069
+But what he asked is,
+isn't it the same thing
+
+1349
+01:09:42,069 --> 01:09:46,180
+if a person gives a racist or
+a misogynist comment or a hate
+
+1350
+01:09:46,180 --> 01:09:47,500
+crime comment?
+
+1351
+01:09:47,500 --> 01:09:51,399
+And if they didn't know about
+it, is he liable for it?
+
+1352
+01:09:51,399 --> 01:09:53,770
+Should a corporate
+be held responsible
+
+1353
+01:09:53,770 --> 01:09:56,348
+in the same way
+a human would be?
+
+1354
+01:09:56,348 --> 01:09:58,390
+GARY GENSLER: Well, I
+don't know if that's really
+
+1355
+01:09:58,390 --> 01:10:03,430
+where Akshay was going, but
+I see your point is that
+
+1356
+01:10:03,430 --> 01:10:06,208
+basically-- and it depends on
+the country, Akshay and Luke.
+
+1357
+01:10:06,208 --> 01:10:07,750
+It really does depend
+on the country.
+
+1358
+01:10:07,750 --> 01:10:10,240
+But here in the US, we'd have
+this conceptual framework
+
+1359
+01:10:10,240 --> 01:10:14,550
+[? of ?] disparate
+treatment, disparate impact.
+
+1360
+01:10:14,550 --> 01:10:17,010
+And then explainability
+is from another law.
+
+1361
+01:10:17,010 --> 01:10:22,910
+But it really should be based
+on fairness and inclusion.
+
+1362
+01:10:22,910 --> 01:10:27,710
+Everybody's got the same
+fair shot, regardless
+
+1363
+01:10:27,710 --> 01:10:32,970
+of where the data
+comes from at all.
+
+1364
+01:10:32,970 --> 01:10:37,900
+So I think that sort of--
+we're almost out of time.

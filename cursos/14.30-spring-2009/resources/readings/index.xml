@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Readings on MIT OpenCourseWare</title>
+    <link>/resources/readings/</link>
+    <description>Recent content in Readings on MIT OpenCourseWare</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language><atom:link href="/resources/readings/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Readings</title>
+      <link>/pages/readings/data.json</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/pages/readings/data.json</guid>
+      <description>Textbooks Required [LM] = Larsen, R., and M. Marx. Introduction to Mathematical Statistics and Its Applications. 4th ed. Upper Saddle River, NJ: Pearson Prentice Hall, 2005. ISBN: 9780131867932.
+Recommended [DS] = DeGroot, M., and M. Schervish. Probability and Statistics. 3rd ed. Reading, MA: Addison-Wesley, 2001. ISBN: 9780201524888.
+[L] = Lindgren, B. Statistical Theory. 4th ed. New York, NY: Chapman and Hall, 1993. ISBN: 9780412041815.
+SES # TOPICS READINGS Probability distributions and random variables</description>
+    </item>
+    
+  </channel>
+</rss>

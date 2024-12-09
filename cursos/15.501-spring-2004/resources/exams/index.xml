@@ -1,0 +1,155 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Exams on MIT OpenCourseWare</title>
+    <link>/resources/exams/</link>
+    <description>Recent content in Exams on MIT OpenCourseWare</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language><atom:link href="/resources/exams/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Exams</title>
+      <link>/pages/exams/data.json</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/pages/exams/data.json</guid>
+      <description>Exams from the current semester, as well as previous semesters, are provided in the table below. A formula sheet (PDF) for use on exams is also provided.
+EXAMS SOLUTIONS Final Exam Fall 2002 (PDF) (PDF) Midterm I Fall 2003 (PDF) (PDF) Midterm II Fall 2003 (PDF) (PDF) Final Exam Spring 2003 (PDF) (PDF) Midterm I Spring 2004 (PDF) (PDF) Midterm II Spring 2004 (PDF) (PDF) Final Exam Spring 2004 (PDF) (PDF) </description>
+    </item>
+    
+    <item>
+      <title>final_exam_f02.pdf</title>
+      <link>/resources/final_exam_f02/data.json</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/resources/final_exam_f02/data.json</guid>
+      <description>This exam consists of 7 multi-part problems.</description>
+    </item>
+    
+    <item>
+      <title>final_exam_s03.pdf</title>
+      <link>/resources/final_exam_s03/data.json</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/resources/final_exam_s03/data.json</guid>
+      <description>This exam consists of 7 multi-part problems.</description>
+    </item>
+    
+    <item>
+      <title>final_exam_s04.pdf</title>
+      <link>/resources/final_exam_s04/data.json</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/resources/final_exam_s04/data.json</guid>
+      <description>This exam consists of 3 multi-part problems.</description>
+    </item>
+    
+    <item>
+      <title>final_examf02sol.pdf</title>
+      <link>/resources/final_examf02sol/data.json</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/resources/final_examf02sol/data.json</guid>
+      <description>Solutions to the final exam problems.</description>
+    </item>
+    
+    <item>
+      <title>final_exas03_sol.pdf</title>
+      <link>/resources/final_exas03_sol/data.json</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/resources/final_exas03_sol/data.json</guid>
+      <description>Solutions to the final exam problems.</description>
+    </item>
+    
+    <item>
+      <title>final_exas04_ans.pdf</title>
+      <link>/resources/final_exas04_ans/data.json</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/resources/final_exas04_ans/data.json</guid>
+      <description>Solutions to the final exam problems.</description>
+    </item>
+    
+    <item>
+      <title>formula.pdf</title>
+      <link>/resources/formula/data.json</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/resources/formula/data.json</guid>
+      <description>This handout contains all the relevant equations and formulae for the final exam.</description>
+    </item>
+    
+    <item>
+      <title>mid1_f03_sol.pdf</title>
+      <link>/resources/mid1_f03_sol/data.json</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/resources/mid1_f03_sol/data.json</guid>
+      <description>Solutions to the midterm exam problems.</description>
+    </item>
+    
+    <item>
+      <title>mid1_f03.pdf</title>
+      <link>/resources/mid1_f03/data.json</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/resources/mid1_f03/data.json</guid>
+      <description>Midterm exam consisting of 2 multi-part problems.</description>
+    </item>
+    
+    <item>
+      <title>mid1_s04_q.pdf</title>
+      <link>/resources/mid1_s04_q/data.json</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/resources/mid1_s04_q/data.json</guid>
+      <description>Midterm exam consisting of 4 multi-part problems.</description>
+    </item>
+    
+    <item>
+      <title>mid1_s04_sol.pdf</title>
+      <link>/resources/mid1_s04_sol/data.json</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/resources/mid1_s04_sol/data.json</guid>
+      <description>Solutions to the midterm exam problems.</description>
+    </item>
+    
+    <item>
+      <title>mid2_fall03_sol.pdf</title>
+      <link>/resources/mid2_fall03_sol/data.json</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/resources/mid2_fall03_sol/data.json</guid>
+      <description>Solutions to the midterm exam problems.</description>
+    </item>
+    
+    <item>
+      <title>mid2_fall03.pdf</title>
+      <link>/resources/mid2_fall03/data.json</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/resources/mid2_fall03/data.json</guid>
+      <description>Midterm exam consisting of 4 multi-part problems.</description>
+    </item>
+    
+    <item>
+      <title>mid2_s04_q.pdf</title>
+      <link>/resources/mid2_s04_q/data.json</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/resources/mid2_s04_q/data.json</guid>
+      <description>Midterm exam consisting of 4 multi-part problems.</description>
+    </item>
+    
+    <item>
+      <title>mid2_s04_sol.pdf</title>
+      <link>/resources/mid2_s04_sol/data.json</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/resources/mid2_s04_sol/data.json</guid>
+      <description>Solutions to the midterm exam problems.</description>
+    </item>
+    
+  </channel>
+</rss>

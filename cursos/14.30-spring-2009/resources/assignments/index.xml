@@ -1,0 +1,182 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Assignments on MIT OpenCourseWare</title>
+    <link>/resources/assignments/</link>
+    <description>Recent content in Assignments on MIT OpenCourseWare</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language><atom:link href="/resources/assignments/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Assignments</title>
+      <link>/pages/assignments/data.json</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/pages/assignments/data.json</guid>
+      <description>The assignment solutions are courtesy of Randall Lewis and are used with permission.
+ASSIGNMENTS SOLUTIONS Problem set 1 (PDF) (PDF - 1.2MB) Problem set 2 (PDF) (PDF - 1.6MB) Problem set 3 (PDF) (PDF - 1.6MB) Problem set 4 (PDF) (PDF) Problem set 5 (PDF) (PDF - 2.1MB) Problem set 6 (PDF) (PDF - 1.3MB) Problem set 7 (PDF) (PDF - 1.1MB) Problem set 8 (PDF) (PDF - 1.6MB) Problem set 9 (PDF - 2.</description>
+    </item>
+    
+    <item>
+      <title>Problem Set #1</title>
+      <link>/resources/mit14_30s09_pset01/data.json</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/resources/mit14_30s09_pset01/data.json</guid>
+      <description>Problem set on statistical methods for economics.</description>
+    </item>
+    
+    <item>
+      <title>Problem Set #1 — Solutions</title>
+      <link>/resources/mit14_30s09_sol_pset01/data.json</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/resources/mit14_30s09_sol_pset01/data.json</guid>
+      <description>Solutions to a problem set on statistical methods for economics.</description>
+    </item>
+    
+    <item>
+      <title>Problem Set #2</title>
+      <link>/resources/mit14_30s09_pset02/data.json</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/resources/mit14_30s09_pset02/data.json</guid>
+      <description>Problem set on statistical methods for economics.</description>
+    </item>
+    
+    <item>
+      <title>Problem Set #2 — Solutions</title>
+      <link>/resources/mit14_30s09_sol_pset02/data.json</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/resources/mit14_30s09_sol_pset02/data.json</guid>
+      <description>Solutions to a problem set on statistical methods for economics.</description>
+    </item>
+    
+    <item>
+      <title>Problem Set #3</title>
+      <link>/resources/mit14_30s09_pset03/data.json</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/resources/mit14_30s09_pset03/data.json</guid>
+      <description>Problem set on statistical methods for economics.</description>
+    </item>
+    
+    <item>
+      <title>Problem Set #3 — Solutions</title>
+      <link>/resources/mit14_30s09_sol_pset03/data.json</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/resources/mit14_30s09_sol_pset03/data.json</guid>
+      <description>Solutions to a problem set on statistical methods for economics.</description>
+    </item>
+    
+    <item>
+      <title>Problem Set #4</title>
+      <link>/resources/mit14_30s09_pset04/data.json</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/resources/mit14_30s09_pset04/data.json</guid>
+      <description>Problem set on statistical methods for economics.</description>
+    </item>
+    
+    <item>
+      <title>Problem Set #4 — Solutions</title>
+      <link>/resources/mit14_30s09_sol_pset04/data.json</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/resources/mit14_30s09_sol_pset04/data.json</guid>
+      <description>Solutions to a problem set on statistical methods for economics.</description>
+    </item>
+    
+    <item>
+      <title>Problem Set #5</title>
+      <link>/resources/mit14_30s09_pset05/data.json</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/resources/mit14_30s09_pset05/data.json</guid>
+      <description>Problem set on statistical methods for economics.</description>
+    </item>
+    
+    <item>
+      <title>Problem Set #5 — Solutions</title>
+      <link>/resources/mit14_30s09_sol_pset05/data.json</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/resources/mit14_30s09_sol_pset05/data.json</guid>
+      <description>Solutions to a problem set on statistical methods for economics.</description>
+    </item>
+    
+    <item>
+      <title>Problem Set #6</title>
+      <link>/resources/mit14_30s09_pset06/data.json</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/resources/mit14_30s09_pset06/data.json</guid>
+      <description>Problem set on statistical methods for economics.</description>
+    </item>
+    
+    <item>
+      <title>Problem Set #6 — Solution</title>
+      <link>/resources/mit14_30s09_sol_pset06/data.json</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/resources/mit14_30s09_sol_pset06/data.json</guid>
+      <description>Solutions to a problem set on statistical methods for economics.</description>
+    </item>
+    
+    <item>
+      <title>Problem Set #7</title>
+      <link>/resources/mit14_30s09_pset07/data.json</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/resources/mit14_30s09_pset07/data.json</guid>
+      <description>Problem set on statistical methods for economics.</description>
+    </item>
+    
+    <item>
+      <title>Problem Set #7 — Solutions</title>
+      <link>/resources/mit14_30s09_sol_pset07/data.json</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/resources/mit14_30s09_sol_pset07/data.json</guid>
+      <description>Solutions to a problem set on statistical methods for economics.</description>
+    </item>
+    
+    <item>
+      <title>Problem Set #8</title>
+      <link>/resources/mit14_30s09_pset08/data.json</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/resources/mit14_30s09_pset08/data.json</guid>
+      <description>Problem set on statistical methods for economics.</description>
+    </item>
+    
+    <item>
+      <title>Problem Set #8 — Solutions</title>
+      <link>/resources/mit14_30s09_sol_pset08/data.json</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/resources/mit14_30s09_sol_pset08/data.json</guid>
+      <description>Solutions to a problem set on statistical methods for economics.</description>
+    </item>
+    
+    <item>
+      <title>Problem Set #9</title>
+      <link>/resources/mit14_30s09_sol_pset09/data.json</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/resources/mit14_30s09_sol_pset09/data.json</guid>
+      <description>Problem set on statistical methods for economics.</description>
+    </item>
+    
+    <item>
+      <title>Problem Set #9 — Solutions</title>
+      <link>/resources/mit14_30s09_pset09/data.json</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/resources/mit14_30s09_pset09/data.json</guid>
+      <description>Problem set on statistical methods for economics.</description>
+    </item>
+    
+  </channel>
+</rss>

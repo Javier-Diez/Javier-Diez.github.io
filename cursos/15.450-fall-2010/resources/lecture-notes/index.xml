@@ -1,0 +1,216 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Lecture Notes on MIT OpenCourseWare</title>
+    <link>/resources/lecture-notes/</link>
+    <description>Recent content in Lecture Notes on MIT OpenCourseWare</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language><atom:link href="/resources/lecture-notes/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Lecture Notes</title>
+      <link>/pages/lecture-notes/data.json</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/pages/lecture-notes/data.json</guid>
+      <description>Code for related simulations and models are available with the lecture notes, some of which may be useful on the Problem Sets.
+LEC # TOPICS LECTURE NOTES 1 Arbitrage-free pricing models (PDF - 1.1MB) 2 Stochastic calculus and option pricing
+Code: Quadratic variation simulation
+(PDF)
+(M)
+3 Simulation methods
+Code: Black-Scholes model Monte Carlo illustration
+Code: Black-Scholes with a jump Monte Carlo (PS1, Q2)
+Code: Monte Carlo with control variates, stochastic volatility model</description>
+    </item>
+    
+    <item>
+      <title>MIT15_450F10_handout01.pdf</title>
+      <link>/resources/mit15_450f10_handout01/data.json</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/resources/mit15_450f10_handout01/data.json</guid>
+      <description>This resource contains information related to crossing probabilities of the brownian motion.</description>
+    </item>
+    
+    <item>
+      <title>MIT15_450F10_handout02.pdf</title>
+      <link>/resources/mit15_450f10_handout02/data.json</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/resources/mit15_450f10_handout02/data.json</guid>
+      <description>This resource contains information related to derivatives and monte carlo.</description>
+    </item>
+    
+    <item>
+      <title>MIT15_450F10_handout03.pdf</title>
+      <link>/resources/mit15_450f10_handout03/data.json</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/resources/mit15_450f10_handout03/data.json</guid>
+      <description>This resource contains information related to justification of the principle of optimality.</description>
+    </item>
+    
+    <item>
+      <title>MIT15_450F10_handout04.pdf</title>
+      <link>/resources/mit15_450f10_handout04/data.json</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/resources/mit15_450f10_handout04/data.json</guid>
+      <description>This resource contains information related to static approach to dynamic portfolio choice.</description>
+    </item>
+    
+    <item>
+      <title>MIT15_450F10_lec01.pdf</title>
+      <link>/resources/mit15_450f10_lec01/data.json</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/resources/mit15_450f10_lec01/data.json</guid>
+      <description>This resource contains information related to arbitrage-free pricing models.</description>
+    </item>
+    
+    <item>
+      <title>MIT15_450F10_lec02.pdf</title>
+      <link>/resources/mit15_450f10_lec02/data.json</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/resources/mit15_450f10_lec02/data.json</guid>
+      <description>This resource contains information related to stochastic calculus and option pricing.</description>
+    </item>
+    
+    <item>
+      <title>MIT15_450F10_lec03.pdf</title>
+      <link>/resources/mit15_450f10_lec03/data.json</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/resources/mit15_450f10_lec03/data.json</guid>
+      <description>This resource contains information related to simulation methods.</description>
+    </item>
+    
+    <item>
+      <title>MIT15_450F10_lec04.pdf</title>
+      <link>/resources/mit15_450f10_lec04/data.json</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/resources/mit15_450f10_lec04/data.json</guid>
+      <description>New file Upload</description>
+    </item>
+    
+    <item>
+      <title>MIT15_450F10_lec05.pdf</title>
+      <link>/resources/mit15_450f10_lec05/data.json</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/resources/mit15_450f10_lec05/data.json</guid>
+      <description>This resource contains information related to dynamic programming.</description>
+    </item>
+    
+    <item>
+      <title>MIT15_450F10_lec06.pdf</title>
+      <link>/resources/mit15_450f10_lec06/data.json</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/resources/mit15_450f10_lec06/data.json</guid>
+      <description>This resource contains information related to numerical approximations in dynamic programming.</description>
+    </item>
+    
+    <item>
+      <title>MIT15_450F10_lec07.pdf</title>
+      <link>/resources/mit15_450f10_lec07/data.json</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/resources/mit15_450f10_lec07/data.json</guid>
+      <description>This resource contains information related to parameter estimation.</description>
+    </item>
+    
+    <item>
+      <title>MIT15_450F10_lec08.pdf</title>
+      <link>/resources/mit15_450f10_lec08/data.json</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/resources/mit15_450f10_lec08/data.json</guid>
+      <description>This resource contains information related to standard errors and tests.</description>
+    </item>
+    
+    <item>
+      <title>MIT15_450F10_lec09.pdf</title>
+      <link>/resources/mit15_450f10_lec09/data.json</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/resources/mit15_450f10_lec09/data.json</guid>
+      <description>This resource contains information related to small-sample inference and bootstrap.</description>
+    </item>
+    
+    <item>
+      <title>MIT15_450F10_lec10.pdf</title>
+      <link>/resources/mit15_450f10_lec10/data.json</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/resources/mit15_450f10_lec10/data.json</guid>
+      <description>This resource contains information related to volatility models.</description>
+    </item>
+    
+    <item>
+      <title>MIT15_450F10_review01.pdf</title>
+      <link>/resources/mit15_450f10_review01/data.json</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/resources/mit15_450f10_review01/data.json</guid>
+      <description>This resource contains information related to arbitrage-free pricing and stochastic calculus.</description>
+    </item>
+    
+    <item>
+      <title>MIT15_450F10_review02.pdf</title>
+      <link>/resources/mit15_450f10_review02/data.json</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/resources/mit15_450f10_review02/data.json</guid>
+      <description>This resource contains information related to dp and econometrics.</description>
+    </item>
+    
+    <item>
+      <title>supp02.m</title>
+      <link>/resources/supp02/data.json</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/resources/supp02/data.json</guid>
+      <description>This is a supporting file for lecture 2.</description>
+    </item>
+    
+    <item>
+      <title>supp03a.m</title>
+      <link>/resources/supp03a/data.json</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/resources/supp03a/data.json</guid>
+      <description>This is a supporting file for lecture 3.</description>
+    </item>
+    
+    <item>
+      <title>supp03b.m</title>
+      <link>/resources/supp03b/data.json</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/resources/supp03b/data.json</guid>
+      <description>This is a supporting file for lecture 3.</description>
+    </item>
+    
+    <item>
+      <title>supp03c.m</title>
+      <link>/resources/supp03c/data.json</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/resources/supp03c/data.json</guid>
+      <description>This is a supporting file for lecture 3.</description>
+    </item>
+    
+    <item>
+      <title>supp06.m</title>
+      <link>/resources/supp06/data.json</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/resources/supp06/data.json</guid>
+      <description>This is a supporting file for lecture 6.</description>
+    </item>
+    
+  </channel>
+</rss>

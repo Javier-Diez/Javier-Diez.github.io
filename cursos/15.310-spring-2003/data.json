@@ -1,0 +1,28 @@
+{
+  "course_title":"Managerial Psychology Laboratory",
+  "course_description":"Surveys social psychology and organization theory interpreted in the context of the managerial environment. Shares lectures with 15.301, with a separate recitation required. 15.301 is intended primarily for non-Sloan students, both graduate and undergraduate. Deals with a number of diverse subjects, including motivation and reward systems for engineers and scientists in industry; the aging of technical groups; the management of R\u0026D matrix organizations; and the architecture of R\u0026D laboratories and its effect on communication patterns in the organization.\n\n15.301 is a core subject for students majoring in management science. A laboratory is a required element of the course for these students. It involves projects of an applied nature in behavioral science. Emphasizes use of behavioral science research methods to test hypotheses concerning organizational behavior. Instruction and practice in communication include report writing, team decision-making, and oral and visual presentation.\n",
+  "course_description_html":"<p>Surveys social psychology and organization theory interpreted in the context of the managerial environment. Shares lectures with 15.301, with a separate recitation required. 15.301 is intended primarily for non-Sloan students, both graduate and undergraduate. Deals with a number of diverse subjects, including motivation and reward systems for engineers and scientists in industry; the aging of technical groups; the management of R&amp;D matrix organizations; and the architecture of R&amp;D laboratories and its effect on communication patterns in the organization.</p>\n<p>15.301 is a core subject for students majoring in management science. A laboratory is a required element of the course for these students. It involves projects of an applied nature in behavioral science. Emphasizes use of behavioral science research methods to test hypotheses concerning organizational behavior. Instruction and practice in communication include report writing, team decision-making, and oral and visual presentation.</p>\n",
+  "site_uid":"057efc71-043c-4de4-b552-a7f3ae760f4a",
+  "legacy_uid":"53071919-0b62-aca9-c9d4-5a7df9241d4f","instructors": [{
+    "first_name":"Dan",
+    "last_name":"Ariely",
+    "middle_initial":"",
+    "salutation":"Prof.",
+    "title":"Prof. Dan Ariely"},{
+    "first_name":"Tom",
+    "last_name":"Allen",
+    "middle_initial":"",
+    "salutation":"Prof.",
+    "title":"Prof. Tom Allen"}],"department_numbers":["15"],
+  "learning_resource_types":["Lecture Notes","Projects","Written Assignments","Activity Assignments","Presentation Assignments"],
+  "topics":[["Business","Management"],["Business","Organizational Behavior"],["Social Science","Psychology"]],
+  "mit_learn_topics":null,
+  "primary_course_number":"15.310",
+  "extra_course_numbers":"15.301",
+  "term":"Spring",
+  "year":"2003",
+  "level":["Graduate"],
+  "hide_download":null,
+  "image_src":"./static_resources/e06bd15759eae6b9f6a84d108ed2eb79_15-310s03.jpg",
+  "course_image_metadata":{"content_type":"resource","description":"","draft":false,"file":"/courses/15-310-managerial-psychology-laboratory-spring-2003/e06bd15759eae6b9f6a84d108ed2eb79_15-310s03.jpg","file_size":14681,"file_type":"image/jpeg","image_metadata":{"caption":"Three cognitive stages in answering questions. (Image by Prof. Dan Ariely.)","credit":"","image-alt":"A diagram showing a linear progression from 'interpret question' to 'retrive information and form judgement' to 'map judgement onto response scale'."},"iscjklanguage":false,"learning_resource_types":[],"license":"https://creativecommons.org/licenses/by-nc-sa/4.0/","ocw_type":"OCWImage","resourcetype":"Image","title":"15-310s03.jpg","uid":"e06bd157-59ea-e6b9-f6a8-4d108ed2eb79"}}
+

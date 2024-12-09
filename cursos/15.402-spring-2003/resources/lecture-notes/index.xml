@@ -1,0 +1,209 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Lecture Notes on MIT OpenCourseWare</title>
+    <link>/resources/lecture-notes/</link>
+    <description>Recent content in Lecture Notes on MIT OpenCourseWare</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language><atom:link href="/resources/lecture-notes/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>lec10awrapupfinancing.pdf</title>
+      <link>/resources/lec10awrapupfinancing/data.json</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/resources/lec10awrapupfinancing/data.json</guid>
+      <description>Lecture 10 for Section A</description>
+    </item>
+    
+    <item>
+      <title>lec10bwrapupfinancing.pdf</title>
+      <link>/resources/lec10bwrapupfinancing/data.json</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/resources/lec10bwrapupfinancing/data.json</guid>
+      <description>Lecture 10 - Section B</description>
+    </item>
+    
+    <item>
+      <title>lec11apayoutpolicy.pdf</title>
+      <link>/resources/lec11apayoutpolicy/data.json</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/resources/lec11apayoutpolicy/data.json</guid>
+      <description>Lecture 11 - Section A</description>
+    </item>
+    
+    <item>
+      <title>lec12avaluation.pdf</title>
+      <link>/resources/lec12avaluation/data.json</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/resources/lec12avaluation/data.json</guid>
+      <description>Lecture 12 - Section A</description>
+    </item>
+    
+    <item>
+      <title>lec12bvaluation.pdf</title>
+      <link>/resources/lec12bvaluation/data.json</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/resources/lec12bvaluation/data.json</guid>
+      <description>Lecture 12 - Section B</description>
+    </item>
+    
+    <item>
+      <title>lec14awaccapv.pdf</title>
+      <link>/resources/lec14awaccapv/data.json</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/resources/lec14awaccapv/data.json</guid>
+      <description>Lecture 14 - Section A</description>
+    </item>
+    
+    <item>
+      <title>lec14bcostcapital.pdf</title>
+      <link>/resources/lec14bcostcapital/data.json</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/resources/lec14bcostcapital/data.json</guid>
+      <description>Lecture 14 - Section B</description>
+    </item>
+    
+    <item>
+      <title>lec19arealoptions.pdf</title>
+      <link>/resources/lec19arealoptions/data.json</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/resources/lec19arealoptions/data.json</guid>
+      <description>Lecture 19 - Section A</description>
+    </item>
+    
+    <item>
+      <title>lec19brealoptions.pdf</title>
+      <link>/resources/lec19brealoptions/data.json</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/resources/lec19brealoptions/data.json</guid>
+      <description>Lecture 19 - Section B</description>
+    </item>
+    
+    <item>
+      <title>lec1aintro.pdf</title>
+      <link>/resources/lec1aintro/data.json</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/resources/lec1aintro/data.json</guid>
+      <description>Lecture 1 Introduction - Section A</description>
+    </item>
+    
+    <item>
+      <title>lec1bintroduction.pdf</title>
+      <link>/resources/lec1bintroduction/data.json</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/resources/lec1bintroduction/data.json</guid>
+      <description>Lecture 1 - Section B</description>
+    </item>
+    
+    <item>
+      <title>lec21avaluingcompanies.pdf</title>
+      <link>/resources/lec21avaluingcompanies/data.json</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/resources/lec21avaluingcompanies/data.json</guid>
+      <description>Lecture 21 - Section A</description>
+    </item>
+    
+    <item>
+      <title>lec21bvaluingcompanies.pdf</title>
+      <link>/resources/lec21bvaluingcompanies/data.json</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/resources/lec21bvaluingcompanies/data.json</guid>
+      <description>Lecture 21 - Section B</description>
+    </item>
+    
+    <item>
+      <title>lec24awrapup.pdf</title>
+      <link>/resources/lec24awrapup/data.json</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/resources/lec24awrapup/data.json</guid>
+      <description>Lecture 24 - Section A</description>
+    </item>
+    
+    <item>
+      <title>lec24bwrapupvaluation.pdf</title>
+      <link>/resources/lec24bwrapupvaluation/data.json</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/resources/lec24bwrapupvaluation/data.json</guid>
+      <description>Lecture 24 - Section B</description>
+    </item>
+    
+    <item>
+      <title>lec4acapitalstructure1.pdf</title>
+      <link>/resources/lec4acapitalstructure1/data.json</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/resources/lec4acapitalstructure1/data.json</guid>
+      <description>Lecture 4 - Section A</description>
+    </item>
+    
+    <item>
+      <title>lec4bcapitalstructure1.pdf</title>
+      <link>/resources/lec4bcapitalstructure1/data.json</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/resources/lec4bcapitalstructure1/data.json</guid>
+      <description>Lecture 4 - Section B</description>
+    </item>
+    
+    <item>
+      <title>lec5acapitalstructure2.pdf</title>
+      <link>/resources/lec5acapitalstructure2/data.json</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/resources/lec5acapitalstructure2/data.json</guid>
+      <description>Lecture 5 - Section A</description>
+    </item>
+    
+    <item>
+      <title>lec5bcapitalstructure2.pdf</title>
+      <link>/resources/lec5bcapitalstructure2/data.json</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/resources/lec5bcapitalstructure2/data.json</guid>
+      <description>Lecture 5 - Section B</description>
+    </item>
+    
+    <item>
+      <title>lec8acapitalstructure3.pdf</title>
+      <link>/resources/lec8acapitalstructure3/data.json</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/resources/lec8acapitalstructure3/data.json</guid>
+      <description>Lecture 8 Section A</description>
+    </item>
+    
+    <item>
+      <title>lec8bcapitalstructure3.pdf</title>
+      <link>/resources/lec8bcapitalstructure3/data.json</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/resources/lec8bcapitalstructure3/data.json</guid>
+      <description>Lecture 8 Section B</description>
+    </item>
+    
+    <item>
+      <title>Lecture Notes</title>
+      <link>/pages/lecture-notes/data.json</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/pages/lecture-notes/data.json</guid>
+      <description>Prof. Dirk Jenter taught Section A and Prof. Katharina Lewellen taught Section B.
+Part I: Financing LEC # TOPICS SECTION A SECTION B 1 Lecture: Introduction (PDF) (PDF) 4 Lecture: Capital Structure 1 (PDF) (PDF) 5 Lecture: Capital Structure 2 (PDF) (PDF) 8 Lecture: Capital Structure: Informational and Dynamic Considerations (PDF) (PDF) 10 Review of Financing and Capital Structure (PDF) (PDF) 11 Case: Intel Corporation, 1992 (PDF) Part II: Valuation LEC # TOPICS SECTION A SECTION B 12 Lecture: Valuation of Free Cash Flows (PDF) (PDF) 14 Lecture: WACC and APV (PDF) (PDF) 19 Lecture: Real Options (PDF) (PDF) 21 Lecture: Valuing a Company (PDF) (PDF) 24 Wrap-Up of Valuation (PDF) (PDF) </description>
+    </item>
+    
+  </channel>
+</rss>

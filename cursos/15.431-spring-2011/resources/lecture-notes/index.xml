@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Lecture Notes on MIT OpenCourseWare</title>
+    <link>/resources/lecture-notes/</link>
+    <description>Recent content in Lecture Notes on MIT OpenCourseWare</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language><atom:link href="/resources/lecture-notes/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Lecture Notes</title>
+      <link>/pages/lecture-notes/data.json</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/pages/lecture-notes/data.json</guid>
+      <description>Selected lecture notes are available below.
+SES # TOPICS LECTURE NOTES 1 Introduction and overview of entrepreneurial finance 2 DermaCare Business Valuation 3 Discounted cash flow (DCF) and the venture capital method (PDF) 4 Netflix 5 Real option valuation (PDF) 6 Real option valuation (cont.) Deal Structure 7 Genzyme/Geltex 8 Deal structure (PDF) 9 Walnut Venture Associates (A) and (D) 10 Deal structure (cont.) (PDF) 11 Guest: John H. Chory (Partner, WilmerHale Venture Group) 12 Metapath Team Sheet Negotiation 13 BNI Video</description>
+    </item>
+    
+    <item>
+      <title>MIT15_431S11_lec03.pdf</title>
+      <link>/resources/mit15_431s11_lec01/data.json</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/resources/mit15_431s11_lec01/data.json</guid>
+      <description>This resource contains information related to new venture valuation.</description>
+    </item>
+    
+    <item>
+      <title>MIT15_431S11_lec05.pdf</title>
+      <link>/resources/mit15_431s11_lec05/data.json</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/resources/mit15_431s11_lec05/data.json</guid>
+      <description>This resource contains information related to real option valuation.</description>
+    </item>
+    
+    <item>
+      <title>MIT15_431S11_lec08.pdf</title>
+      <link>/resources/mit15_431s11_lec08/data.json</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/resources/mit15_431s11_lec08/data.json</guid>
+      <description>This resource contains information related to venture capital contracts: part I.</description>
+    </item>
+    
+    <item>
+      <title>MIT15_431S11_lec10.pdf</title>
+      <link>/resources/mit15_431s11_lec10/data.json</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/resources/mit15_431s11_lec10/data.json</guid>
+      <description>This resource contains information related to venture capital contracts: part II.</description>
+    </item>
+    
+    <item>
+      <title>MIT15_431S11_lec20.pdf</title>
+      <link>/resources/mit15_431s11_lec20/data.json</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/resources/mit15_431s11_lec20/data.json</guid>
+      <description>This resource contains information related to some thoughts on initial public offerings.</description>
+    </item>
+    
+    <item>
+      <title>MIT15_431S11_lec21.pdf</title>
+      <link>/resources/mit15_431s11_lec21/data.json</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/resources/mit15_431s11_lec21/data.json</guid>
+      <description>This resource contains information related to grand junction lecture notes.</description>
+    </item>
+    
+    <item>
+      <title>MIT15_431S11_lec23.pdf</title>
+      <link>/resources/mit15_431s11_lec23/data.json</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/resources/mit15_431s11_lec23/data.json</guid>
+      <description>This resource contains information related to review session: entrepreneurial finance.</description>
+    </item>
+    
+  </channel>
+</rss>

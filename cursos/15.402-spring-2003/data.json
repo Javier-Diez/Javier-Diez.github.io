@@ -1,0 +1,28 @@
+{
+  "course_title":"Finance Theory II",
+  "course_description":"The objective of this course is to learn the financial tools needed to make good business decisions. The course presents the basic insights of corporate finance theory, but emphasizes the application of theory to real business decisions. Each session involves class discussion, some centered on lectures and others around business cases.\n",
+  "course_description_html":"The objective of this course is to learn the financial tools needed to make good business decisions. The course presents the basic insights of corporate finance theory, but emphasizes the application of theory to real business decisions. Each session involves class discussion, some centered on lectures and others around business cases.",
+  "site_uid":"5bd90e88-0007-4d9d-b299-8ae3a3f52b09",
+  "legacy_uid":"273d91b8-3906-202b-26bd-6000d050a6c4","instructors": [{
+    "first_name":"Dirk",
+    "last_name":"Jenter",
+    "middle_initial":"",
+    "salutation":"Prof.",
+    "title":"Prof. Dirk Jenter"},{
+    "first_name":"Katharina",
+    "last_name":"Lewellen",
+    "middle_initial":"",
+    "salutation":"Prof.",
+    "title":"Prof. Katharina Lewellen"}],"department_numbers":["15"],
+  "learning_resource_types":["Lecture Notes","Exams with Solutions","Written Assignments"],
+  "topics":[["Business","Finance"],["Social Science","Economics","Financial Economics"]],
+  "mit_learn_topics":null,
+  "primary_course_number":"15.402",
+  "extra_course_numbers":"",
+  "term":"Spring",
+  "year":"2003",
+  "level":["Graduate"],
+  "hide_download":null,
+  "image_src":"./static_resources/f8154fc37abd1dcc85131193e9f54ef6_15-402s03.jpg",
+  "course_image_metadata":{"content_type":"resource","description":"","draft":false,"file":"/courses/15-402-finance-theory-ii-spring-2003/f8154fc37abd1dcc85131193e9f54ef6_15-402s03.jpg","file_size":76482,"file_type":"image/jpeg","image_metadata":{"caption":"Using a financial \"tool\" to measure money. (Photograph courtesy of Daniel Bersak.)","credit":"","image-alt":"Calipers around several coins."},"iscjklanguage":false,"learning_resource_types":[],"license":"https://creativecommons.org/licenses/by-nc-sa/4.0/","ocw_type":"OCWImage","resourcetype":"Image","title":"15-402s03.jpg","uid":"f8154fc3-7abd-1dcc-8513-1193e9f54ef6"}}
+

@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Readings on MIT OpenCourseWare</title>
+    <link>/resources/readings/</link>
+    <description>Recent content in Readings on MIT OpenCourseWare</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language><atom:link href="/resources/readings/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Readings</title>
+      <link>/pages/readings/data.json</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/pages/readings/data.json</guid>
+      <description>In addition to the bibliography of readings used in the course, see the readings by session below.
+Required Text Pratt, J. Financial Accounting in an Economic Context. 5th ed. Cincinnati, Ohio: John Wiley &amp;amp; Sons, 2003. ISBN: 0470000465. (Hereafter cited as &amp;ldquo;Pratt&amp;rdquo;)
+Required Case Packet Includes supplemental readings and Harvard Business School cases. (Hereafter cited as &amp;ldquo;CP&amp;rdquo;)
+Required case studies are:
+Wilson, David A. &amp;ldquo;Chemalite, Inc.&amp;rdquo; Boston, MA: Harvard Business School, 1976.</description>
+    </item>
+    
+  </channel>
+</rss>

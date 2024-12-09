@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Readings on MIT OpenCourseWare</title>
+    <link>/resources/readings/</link>
+    <description>Recent content in Readings on MIT OpenCourseWare</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language><atom:link href="/resources/readings/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Readings</title>
+      <link>/pages/readings/data.json</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/pages/readings/data.json</guid>
+      <description>Altman, Edward I., John B. Caouette and Paul Narayanan. Credit-Risk Measurement and Management: The Ironic Challenge in the Next Decade. Financial Analysts Journal (Jan-Feb 1998): 7-11.
+Bernstein, Peter L. Risk as History of Ideas. Financial Analysts Journal (Jan-Feb 1995): 7-11.
+Black, Fischer. Estimating Expected Return. Financial Analysts Journal (Jan- Feb 1995): 168-171.
+Chow, George, and Mark Kritzman. The Journal of Portfolio Management (Winter 2001): 56-60.
+Cochrane, J. New Facts in Finance.</description>
+    </item>
+    
+  </channel>
+</rss>

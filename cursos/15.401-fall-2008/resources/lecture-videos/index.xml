@@ -1,0 +1,283 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Lecture Videos on MIT OpenCourseWare</title>
+    <link>/resources/lecture-videos/</link>
+    <description>Recent content in Lecture Videos on MIT OpenCourseWare</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language><atom:link href="/resources/lecture-videos/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>15.401 Finance Theory I, Course summary</title>
+      <link>/resources/mit15_401f08_summary/data.json</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/resources/mit15_401f08_summary/data.json</guid>
+      <description>This resource contains the slides for the course summary.</description>
+    </item>
+    
+    <item>
+      <title>Capital Budgeting</title>
+      <link>/pages/video-lectures-and-slides/capital-budgeting/data.json</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/pages/video-lectures-and-slides/capital-budgeting/data.json</guid>
+      <description>Video Lectures Capital Budgeting I Part I of Capital Budgeting
+Description: This video lecture focuses on making financial decisions as a manager, including applying the NPV rule and calculating project cash flows. Another example presented incorporates discount rates over time and NPV in the context of project decisions.
+Capital Budgeting II Part II of Capital Budgeting
+Description: This video lecture presents applications of the NPV rule and project financing, as well as alternatives to NPV.</description>
+    </item>
+    
+    <item>
+      <title>Course Summary</title>
+      <link>/pages/video-lectures-and-slides/course-summary/data.json</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/pages/video-lectures-and-slides/course-summary/data.json</guid>
+      <description>Video Lecture Course Summary Course Summary
+Description: This video lecture summarizes the entire course, and serves as a review of the key concepts relevant to each of the topics covered in the course.
+Slides Course Summary Slides 1–16 (PDF)
+Video for Course Summary covers slides 1–16 « Previous</description>
+    </item>
+    
+    <item>
+      <title>Efficient Markets</title>
+      <link>/pages/video-lectures-and-slides/efficient-markets/data.json</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/pages/video-lectures-and-slides/efficient-markets/data.json</guid>
+      <description>Video Lectures Efficient Markets I Part I of Efficient Markets
+Description: This video lecture presents an overview of the theory of market efficiency and an example of the Space Shuttle Challenger disaster.
+Efficient Markets II Part II of Efficient Markets
+Description: This video lecture explores behavioral finance, why people avoid uncertainty, the link between rationality and human emotion, and human preferences for decision-making. Discussion and simulations frame the adaptive markets hypothesis and its implications.</description>
+    </item>
+    
+    <item>
+      <title>Equities</title>
+      <link>/pages/video-lectures-and-slides/equities/data.json</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/pages/video-lectures-and-slides/equities/data.json</guid>
+      <description>Video Lecture Equities Equities
+Description: This video lecture provides an overview of equities and models for pricing equities, with a focus on using the dividend discount model.
+Slides Equities Slides 1–23 (PDF)
+Video for Equities covers slides 1–9 Please note that slides 10–23 are not covered in the video lectures but can be reviewed independently. These slides present examples involving the dividend discount model, earnings-per-share and price-earnings ratios, and growth stocks.</description>
+    </item>
+    
+    <item>
+      <title>Fixed-Income Securities</title>
+      <link>/pages/video-lectures-and-slides/fixed-income-securities/data.json</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/pages/video-lectures-and-slides/fixed-income-securities/data.json</guid>
+      <description>Video Lectures Fixed-Income Securities I Part I of Fixed-Income Securities
+Description: This video lecture introduces fixed-income securities along with examples of securities and market participants, and an industry overview. Trading frequency and the framework for valuation are presented by use of an example involving a coupon bond.
+Fixed-Income Securities II Part II of Fixed-Income Securities
+Description: This video lecture introduces spot rates and forward rates in the context of yield curves and interest rate forecasts, and models for term structure interest rates.</description>
+    </item>
+    
+    <item>
+      <title>Forward and Futures Contracts</title>
+      <link>/pages/video-lectures-and-slides/forward-and-futures-contracts/data.json</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/pages/video-lectures-and-slides/forward-and-futures-contracts/data.json</guid>
+      <description>Video Lectures Forward and Futures Contracts I Part I of Forward and Futures Contracts
+Description: This video lecture covers the motivation, definition, features, and examples of forward and futures contracts in light of the uncertainty of exchange rates, illiquidity, and counterparty risk.
+Forward and Futures Contracts II Part II of Forward and Futures Contracts
+Description: This video lecture includes examples for calculating payoff, and pricing forward and futures contracts. Applications and qualifications for forwards and futures are also given.</description>
+    </item>
+    
+    <item>
+      <title>Introduction and Course Overview</title>
+      <link>/pages/video-lectures-and-slides/introduction-and-course-overview/data.json</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/pages/video-lectures-and-slides/introduction-and-course-overview/data.json</guid>
+      <description>Video Lecture Introduction and Course Overview Introduction and Course Overview
+Description: This video lecture introduces the framework of financial analysis, the flow model of the economy, the factors that affect financial decisions, and the fundamental principles of finance.
+Slides Introduction and Course Overview Slides 1–20 (PDF)
+Video for Introduction and Course Overview covers slides 1–20 « Previous | Next »</description>
+    </item>
+    
+    <item>
+      <title>MIT15_401F08_lec01.pdf</title>
+      <link>/resources/mit15_401f08_lec01/data.json</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/resources/mit15_401f08_lec01/data.json</guid>
+      <description>This resource contains information related to motivation, fundamental challenges of finance, the framework of financial analysis, and six fundamental principles of finance.</description>
+    </item>
+    
+    <item>
+      <title>MIT15_401F08_lec02.pdf</title>
+      <link>/resources/mit15_401f08_lec02/data.json</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/resources/mit15_401f08_lec02/data.json</guid>
+      <description>This resource contains information related to cashflows and assets, the present value operator, the time value of money, special cashflows, compounding, and inflations.</description>
+    </item>
+    
+    <item>
+      <title>MIT15_401F08_lec04.pdf</title>
+      <link>/resources/mit15_401f08_lec04/data.json</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/resources/mit15_401f08_lec04/data.json</guid>
+      <description>This resource contains information related fixed-income securities.</description>
+    </item>
+    
+    <item>
+      <title>MIT15_401F08_lec07.pdf</title>
+      <link>/resources/mit15_401f08_lec07/data.json</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/resources/mit15_401f08_lec07/data.json</guid>
+      <description>This resource contains the information about equities.</description>
+    </item>
+    
+    <item>
+      <title>MIT15_401F08_lec08.pdf</title>
+      <link>/resources/mit15_401f08_lec08/data.json</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/resources/mit15_401f08_lec08/data.json</guid>
+      <description>This resource contains information related to the dividend discount model, DDM with multiple stage growth, growth opportunities and growth stocks.</description>
+    </item>
+    
+    <item>
+      <title>MIT15_401F08_lec10.pdf</title>
+      <link>/resources/mit15_401f08_lec10/data.json</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/resources/mit15_401f08_lec10/data.json</guid>
+      <description>This resource contains the information about the motivation, payoff diagrams, payoff tables and option strategies.</description>
+    </item>
+    
+    <item>
+      <title>MIT15_401F08_lec12.pdf</title>
+      <link>/resources/mit15_401f08_lec12/data.json</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/resources/mit15_401f08_lec12/data.json</guid>
+      <description>This resource contains the information about the introduction to risk and return.</description>
+    </item>
+    
+    <item>
+      <title>MIT15_401F08_lec13.pdf</title>
+      <link>/resources/mit15_401f08_lec13/data.json</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/resources/mit15_401f08_lec13/data.json</guid>
+      <description>This resource contains the information about the Risk analytics and portfolio theory.</description>
+    </item>
+    
+    <item>
+      <title>MIT15_401F08_lec15.pdf</title>
+      <link>/resources/mit15_401f08_lec15/data.json</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/resources/mit15_401f08_lec15/data.json</guid>
+      <description>This resource contains the information about the review of portfolio theory, the capital asset pricing model, the arbitrage pricing theory and implementing the CAPM.</description>
+    </item>
+    
+    <item>
+      <title>MIT15_401F08_lec18.pdf</title>
+      <link>/resources/mit15_401f08_lec18/data.json</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/resources/mit15_401f08_lec18/data.json</guid>
+      <description>This resource contains the information about the practice of capital budgeting.</description>
+    </item>
+    
+    <item>
+      <title>MIT15_401F08_lec21.pdf</title>
+      <link>/resources/mit15_401f08_lec21/data.json</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/resources/mit15_401f08_lec21/data.json</guid>
+      <description>This resource lists about the powers of observation, and efficient markets.</description>
+    </item>
+    
+    <item>
+      <title>Options</title>
+      <link>/pages/video-lectures-and-slides/options/data.json</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/pages/video-lectures-and-slides/options/data.json</guid>
+      <description>Video Lectures Options I Part I of Options
+Description: This video lecture presents options, a derivative, as another kind of security. The two different kinds of options, calls and puts, and key terms used in describing options are defined.
+Options II Part II of Options
+Description: This video lecture covers interpreting payoff diagrams of call and put options and how to use the diagrams in option strategizing and betting on volatility.</description>
+    </item>
+    
+    <item>
+      <title>Portfolio Theory</title>
+      <link>/pages/video-lectures-and-slides/portfolio-theory/data.json</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/pages/video-lectures-and-slides/portfolio-theory/data.json</guid>
+      <description>Video Lectures Portfolio Theory I Part I of Portfolio Theory
+Description: This video lecture introduces the portfolio as a combination of securities and offers guidelines for what constitutes a good portfolio. With regard to measuring risk and reward, a number of assumptions are set forth for the remainder of the course. A brief introduction to mean-variance analysis is presented.
+Portfolio Theory II Part II of Portfolio Theory
+Description: This video lecture walks through calculating properties of mean and variance for portfolio returns.</description>
+    </item>
+    
+    <item>
+      <title>Present Value Relations</title>
+      <link>/pages/video-lectures-and-slides/present-value-relations/data.json</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/pages/video-lectures-and-slides/present-value-relations/data.json</guid>
+      <description>Video Lectures Present Value Relations I Part I of Present Value Relations
+Description: This video lecture presents the definition of an asset as a sequence of current and future cash flows, and the implications of that definition. Valuation of cash flows is presented in the context of time, certainty, and the present value operator.
+Present Value Relations II Part II of Present Value Relations
+Description: This video lecture covers examples on calculating net present value, comparing perpetuities and annuities, and conventions for compounding.</description>
+    </item>
+    
+    <item>
+      <title>Risk and Return</title>
+      <link>/pages/video-lectures-and-slides/risk-and-return/data.json</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/pages/video-lectures-and-slides/risk-and-return/data.json</guid>
+      <description>Video Lectures Risk and Return I Part I of Risk and Return
+Description: This video lecture gives statistical background and context in preparation for dealing with risk and return. The empirical properties of stock returns are briefly introduced.
+Risk and Return II Part II of Risk and Return
+Description: This video lecture covers empirical properties of stocks and bonds, patterns of returns, and statistical measures of risk of a security.</description>
+    </item>
+    
+    <item>
+      <title>The CAPM and APT</title>
+      <link>/pages/video-lectures-and-slides/the-capm-and-apt/data.json</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/pages/video-lectures-and-slides/the-capm-and-apt/data.json</guid>
+      <description>Video Lectures The CAPM and APT I Part I of The CAPM and APT
+Description: This video lecture begins with a review of portfolio theory and presents the expected return of efficient portfolios as in the capital asset pricing model. The significance and implications of the Sharpe-Lintner CAPM are then discussed.
+The CAPM and APT II Part II of The CAPM and APT
+Description: This video lecture covers how to calculate a proper discount rate, the application of CAPM, and performance evaluation using the security market line.</description>
+    </item>
+    
+    <item>
+      <title>Video Lectures and Slides</title>
+      <link>/pages/video-lectures-and-slides/data.json</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/pages/video-lectures-and-slides/data.json</guid>
+      <description>The following is a list of topics covered in the course. Each topic links to a page containing the relevant video lectures and accompanying slides.
+Introduction and Course Overview
+Present Value (PV) Relations
+Fixed-Income Securities
+Equities
+Forward and Futures Contracts
+Options
+Risk and Return
+Portfolio Theory
+The CAPM and APT
+Capital Budgeting
+Efficient Markets
+Course Summary</description>
+    </item>
+    
+  </channel>
+</rss>

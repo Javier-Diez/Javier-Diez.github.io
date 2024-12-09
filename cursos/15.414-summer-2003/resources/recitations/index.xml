@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Recitations on MIT OpenCourseWare</title>
+    <link>/resources/recitations/</link>
+    <description>Recent content in Recitations on MIT OpenCourseWare</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language><atom:link href="/resources/recitations/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>rec1_discounting.pdf</title>
+      <link>/resources/rec1_discounting/data.json</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/resources/rec1_discounting/data.json</guid>
+      <description>Discounting</description>
+    </item>
+    
+    <item>
+      <title>rec2_project_cashflows.pdf</title>
+      <link>/resources/rec2_project_cashflows/data.json</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/resources/rec2_project_cashflows/data.json</guid>
+      <description>Project Cashflows</description>
+    </item>
+    
+    <item>
+      <title>rec3_firm_valuation.pdf</title>
+      <link>/resources/rec3_firm_valuation/data.json</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/resources/rec3_firm_valuation/data.json</guid>
+      <description>Firm Valuation</description>
+    </item>
+    
+    <item>
+      <title>rec4_stat_risk_return.pdf</title>
+      <link>/resources/rec4_stat_risk_return/data.json</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/resources/rec4_stat_risk_return/data.json</guid>
+      <description>Statistics of Risk and Return</description>
+    </item>
+    
+    <item>
+      <title>rec5_capm.pdf</title>
+      <link>/resources/rec5_capm/data.json</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/resources/rec5_capm/data.json</guid>
+      <description>CAPM</description>
+    </item>
+    
+    <item>
+      <title>rec6_cost_capital.pdf</title>
+      <link>/resources/rec6_cost_capital/data.json</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/resources/rec6_cost_capital/data.json</guid>
+      <description>Cost Of Capital</description>
+    </item>
+    
+    <item>
+      <title>rec8_review.pdf</title>
+      <link>/resources/rec8_review/data.json</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/resources/rec8_review/data.json</guid>
+      <description>Review of main ideas of the course.</description>
+    </item>
+    
+    <item>
+      <title>Recitations</title>
+      <link>/pages/recitations/data.json</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/pages/recitations/data.json</guid>
+      <description> WEEK # SES # TOPICS 1 1 Discounting (PDF) 2 2 Project Cashflows (PDF) 3 Firm Valuation (PDF) 3 4 Statistics of Risk and Return (PDF) 5 CAPM (PDF) 4 6 Cost Of Capital (PDF) 7 Leverage and Risk 5 8 Review (PDF) </description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,23 @@
+{
+  "course_title":"Consumer Finance: Markets, Product Design, and FinTech",
+  "course_description":"This course provides a solid understanding of consumer decision-making and how new products and services are developed, especially given the rapid pace of innovation and regulatory change, to help students succeed in consumer finance today. Specific examples will be drawn from retirement saving products, credit cards, peer to peer lending, cryptocurrencies, and financial advising.\n",
+  "course_description_html":"This course provides a solid understanding of consumer decision-making and how new products and services are developed, especially given the rapid pace of innovation and regulatory change, to help students succeed in consumer finance today. Specific examples will be drawn from retirement saving products, credit cards, peer to peer lending, cryptocurrencies, and financial advising.",
+  "site_uid":"7a3e779c-a905-4f73-a2f2-4eb33819bae9",
+  "legacy_uid":"7567aa3e-7ff2-c935-3359-77f5b246a1c5","instructors": [{
+    "first_name":"Jonathan",
+    "last_name":"Parker",
+    "middle_initial":"",
+    "salutation":"Prof.",
+    "title":"Prof. Jonathan Parker"}],"department_numbers":["15"],
+  "learning_resource_types":["Problem Sets","Written Assignments","Lecture Notes"],
+  "topics":[["Business","Finance"],["Business","Innovation"],["Business","Management"]],
+  "mit_learn_topics":null,
+  "primary_course_number":"15.483",
+  "extra_course_numbers":"",
+  "term":"Spring",
+  "year":"2018",
+  "level":["Graduate"],
+  "hide_download":null,
+  "image_src":"./static_resources/dcb3173f062b3f95b7e6dbcc27be0705_15-483S18.jpg",
+  "course_image_metadata":{"content_type":"resource","description":"","draft":false,"file":"/courses/15-483-consumer-finance-markets-product-design-and-fintech-spring-2018/dcb3173f062b3f95b7e6dbcc27be0705_15-483S18.jpg","file_size":626374,"file_type":"image/jpeg","image_metadata":{"caption":"Alternative investing, e.g., Lending Club is the topic of Lecture 8 in this course. Image depicting peer to peer lending. (Courtesy of [InvestmentZen](http://www.investmentzen.com). License: CC BY.)","credit":"","image-alt":"Drawing of two laptops, dollar signs, and handshake."},"iscjklanguage":false,"learning_resource_types":[],"license":"https://creativecommons.org/licenses/by-nc-sa/4.0/","ocw_type":"OCWImage","resourcetype":"Image","title":"15-483S18.jpg","uid":"dcb3173f-062b-3f95-b7e6-dbcc27be0705"}}
+

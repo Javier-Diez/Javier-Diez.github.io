@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Exams on MIT OpenCourseWare</title>
+    <link>/resources/exams/</link>
+    <description>Recent content in Exams on MIT OpenCourseWare</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language><atom:link href="/resources/exams/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Exam I</title>
+      <link>/resources/mit14_30s09_exam01_09/data.json</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/resources/mit14_30s09_exam01_09/data.json</guid>
+      <description>Exam on statistical methods for economics.</description>
+    </item>
+    
+    <item>
+      <title>Exam I, Spring 2008</title>
+      <link>/resources/mit14_30s09_exam01_08/data.json</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/resources/mit14_30s09_exam01_08/data.json</guid>
+      <description>Exam on statistical methods for economics from the Spring 2008 version of the course.</description>
+    </item>
+    
+    <item>
+      <title>Exam II</title>
+      <link>/resources/mit14_30s09_exam02_09/data.json</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/resources/mit14_30s09_exam02_09/data.json</guid>
+      <description>Exam on statistical methods for economics.</description>
+    </item>
+    
+    <item>
+      <title>Exam II, Spring 2008</title>
+      <link>/resources/mit14_30s09_exam02_08/data.json</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/resources/mit14_30s09_exam02_08/data.json</guid>
+      <description>Exam on statistical methods for economics from the Spring 2008 version of the course.</description>
+    </item>
+    
+    <item>
+      <title>Exam III</title>
+      <link>/resources/mit14_30s09_exam03_09/data.json</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/resources/mit14_30s09_exam03_09/data.json</guid>
+      <description>Exam on statistical methods for economics.</description>
+    </item>
+    
+    <item>
+      <title>Exam III, Spring 2008</title>
+      <link>/resources/mit14_30s09_exam03_08/data.json</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/resources/mit14_30s09_exam03_08/data.json</guid>
+      <description>Exam on statistical methods for economics from the Spring 2008 version of the course.</description>
+    </item>
+    
+    <item>
+      <title>Exams</title>
+      <link>/pages/exams/data.json</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/pages/exams/data.json</guid>
+      <description>EXAM # PRACTICE EXAMS 2009 EXAMS 1 (PDF) (PDF) 2 (PDF) (PDF) 3 (PDF) (PDF) Statistical tables for the normal, Student&amp;rsquo;s t, and chi-squared distributions (PDF)</description>
+    </item>
+    
+    <item>
+      <title>Statistical Tables</title>
+      <link>/resources/mit14_30s09_tool01/data.json</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/resources/mit14_30s09_tool01/data.json</guid>
+      <description>Handout containing statistical tables for the normal, student&amp;rsquo;s t, and chi-squared distributions.</description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Recitations on MIT OpenCourseWare</title>
+    <link>/resources/recitations/</link>
+    <description>Recent content in Recitations on MIT OpenCourseWare</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language><atom:link href="/resources/recitations/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>rec1.pdf</title>
+      <link>/resources/rec1/data.json</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/resources/rec1/data.json</guid>
+      <description>Slides for recitation session.</description>
+    </item>
+    
+    <item>
+      <title>rec2.pdf</title>
+      <link>/resources/rec2/data.json</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/resources/rec2/data.json</guid>
+      <description>Slides for recitation session.</description>
+    </item>
+    
+    <item>
+      <title>rec3.pdf</title>
+      <link>/resources/rec3/data.json</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/resources/rec3/data.json</guid>
+      <description>Slides for recitation session.</description>
+    </item>
+    
+    <item>
+      <title>rec4.pdf</title>
+      <link>/resources/rec4/data.json</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/resources/rec4/data.json</guid>
+      <description>Slides for recitation session.</description>
+    </item>
+    
+    <item>
+      <title>rec5.pdf</title>
+      <link>/resources/rec5/data.json</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/resources/rec5/data.json</guid>
+      <description>Slides for recitation session.</description>
+    </item>
+    
+    <item>
+      <title>rec6.pdf</title>
+      <link>/resources/rec6/data.json</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/resources/rec6/data.json</guid>
+      <description>Slides for recitation session.</description>
+    </item>
+    
+    <item>
+      <title>rec7.pdf</title>
+      <link>/resources/rec7/data.json</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/resources/rec7/data.json</guid>
+      <description>Slides for recitation session.</description>
+    </item>
+    
+    <item>
+      <title>Recitations</title>
+      <link>/pages/recitations/data.json</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/pages/recitations/data.json</guid>
+      <description>SES # TOPICS R1 Highlights of Introductory Topics: Financial Accounting, Balance Sheet, Income Statement, etc. (PDF)
+Review of Technical Items R2 Journal Entry and T-account (PDF)
+Cash vs. Accrual Accounting
+Accounting Entry for Sales, Adjusting Entries, and Closing Entries R3 Statement of Cash Flows (PDF)
+Indirect Approach R4 Midterm Review (PDF) R5 Accounting for Inventory (PDF)
+LIFO and FIFO R6 Accounting for Long Lived Assets (PDF)
+Time Value of Money R7 Marketable Securities (PDF)</description>
+    </item>
+    
+  </channel>
+</rss>

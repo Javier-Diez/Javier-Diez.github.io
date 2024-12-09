@@ -1,0 +1,110 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Assignments on MIT OpenCourseWare</title>
+    <link>/resources/assignments/</link>
+    <description>Recent content in Assignments on MIT OpenCourseWare</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language><atom:link href="/resources/assignments/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>assignment1.pdf</title>
+      <link>/resources/assignment1/data.json</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/resources/assignment1/data.json</guid>
+      <description>This file contains questions on the topic Evaluating Projects (1), which discusses Measuring cashflows, Taxes, Depreciation, and working capital.</description>
+    </item>
+    
+    <item>
+      <title>assignment2.pdf</title>
+      <link>/resources/assignment2/data.json</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/resources/assignment2/data.json</guid>
+      <description>This file contains questions on the topic Acid rain: The Southern Company (A).</description>
+    </item>
+    
+    <item>
+      <title>assignment3.pdf</title>
+      <link>/resources/assignment3/data.json</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/resources/assignment3/data.json</guid>
+      <description>This file contains questions on the topic, Cooper Industries, Inc.</description>
+    </item>
+    
+    <item>
+      <title>assignment4.pdf</title>
+      <link>/resources/assignment4/data.json</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/resources/assignment4/data.json</guid>
+      <description>This file contains questions on the topic Discount rates.</description>
+    </item>
+    
+    <item>
+      <title>assignment5.pdf</title>
+      <link>/resources/assignment5/data.json</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/resources/assignment5/data.json</guid>
+      <description>This file contains questions on the topic Cost of Capital at Ameritrade.</description>
+    </item>
+    
+    <item>
+      <title>assignment6.pdf</title>
+      <link>/resources/assignment6/data.json</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/resources/assignment6/data.json</guid>
+      <description>This file contains questions on the topic UST Inc.</description>
+    </item>
+    
+    <item>
+      <title>assignment7.pdf</title>
+      <link>/resources/assignment7/data.json</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/resources/assignment7/data.json</guid>
+      <description>This file contains questions on the topic Massey-Ferguson, 1980.</description>
+    </item>
+    
+    <item>
+      <title>Assignments</title>
+      <link>/pages/assignments/data.json</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/pages/assignments/data.json</guid>
+      <description>As noted in the course syllabus, the written assignments will consist of both problem sets and cases. The problem sets should be fairly straightforward. The cases are more difficult and longer, and we will typically discuss them in class. Students should work together on the assignments in groups of four.
+WEEK # SES # TOPICS ASSIGNMENTS DUE Part 1 - Introduction 1 1 Introduction 2 Principles Of Valuation Part 2 - Project and Firm Valuation 3 Evaluating Projects (1) Problem Set 1 (PDF)</description>
+    </item>
+    
+    <item>
+      <title>financial_functions.xls</title>
+      <link>/resources/financial_functions/data.json</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/resources/financial_functions/data.json</guid>
+      <description>Some useful financial functions</description>
+    </item>
+    
+    <item>
+      <title>hw14spreadsheet.xls</title>
+      <link>/resources/hw14spreadsheet/data.json</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/resources/hw14spreadsheet/data.json</guid>
+      <description>Portfolios of 2, 3, and 4 assets</description>
+    </item>
+    
+    <item>
+      <title>hw4selectronics.xls</title>
+      <link>/resources/hw4selectronics/data.json</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/resources/hw4selectronics/data.json</guid>
+      <description>Monthly returns for Selectroncs, competitors, and the market portfolio</description>
+    </item>
+    
+  </channel>
+</rss>

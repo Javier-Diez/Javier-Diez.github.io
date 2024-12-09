@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Readings on MIT OpenCourseWare</title>
+    <link>/resources/readings/</link>
+    <description>Recent content in Readings on MIT OpenCourseWare</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language><atom:link href="/resources/readings/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Readings</title>
+      <link>/pages/readings/data.json</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/pages/readings/data.json</guid>
+      <description>Ses # Topics Readings 1
+Introduction and overview of consumer financial markets
+Tufano, Peter, Andrea Ryan, and Daniel Schneider, &amp;ldquo;An Introduction to Consumer Credit&amp;rdquo; Harvard Business School Note No. 9-209-107. [Available at SSRN.]
+Zachary Karabell, &amp;ldquo;The Uberization of Money,&amp;rdquo; Wall Street Journal, Nov 6, 2015.
+Randall Smith, &amp;ldquo;Challenged by Upstarts, Lenders Try New Strategy: Cooperation,&amp;rdquo; New York Times, Jan 7, 2016.
+Optional Campbell, John Y. &amp;ldquo;Household Finance.&amp;rdquo; Journal of Finance 61, No.</description>
+    </item>
+    
+  </channel>
+</rss>

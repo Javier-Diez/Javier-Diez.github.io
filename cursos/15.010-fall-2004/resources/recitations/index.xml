@@ -1,0 +1,111 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Recitations on MIT OpenCourseWare</title>
+    <link>/resources/recitations/</link>
+    <description>Recent content in Recitations on MIT OpenCourseWare</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language><atom:link href="/resources/recitations/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>auc_and_cmn_prop.pdf</title>
+      <link>/resources/auc_and_cmn_prop/data.json</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/resources/auc_and_cmn_prop/data.json</guid>
+      <description>Auctions, Common Property Resources.</description>
+    </item>
+    
+    <item>
+      <title>beer_gm_col_cart.pdf</title>
+      <link>/resources/beer_gm_col_cart/data.json</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/resources/beer_gm_col_cart/data.json</guid>
+      <description>The Beer Game, Collusion and Cartels, Numeric Example.</description>
+    </item>
+    
+    <item>
+      <title>inf_asym_tra_prc.pdf</title>
+      <link>/resources/inf_asym_tra_prc/data.json</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/resources/inf_asym_tra_prc/data.json</guid>
+      <description>Asymmetric Information, Numeric Example on Comparative Advantage, Transfer Pricing, Numeric Example on Transfer Pricing.</description>
+    </item>
+    
+    <item>
+      <title>mkt_elstic_srpl.pdf</title>
+      <link>/resources/mkt_elstic_srpl/data.json</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/resources/mkt_elstic_srpl/data.json</guid>
+      <description>Market Definition, Elasticities, Supply and Demand, Surplus, Numeric Example.</description>
+    </item>
+    
+    <item>
+      <title>nw_ext_dmnd_con.pdf</title>
+      <link>/resources/nw_ext_dmnd_con/data.json</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/resources/nw_ext_dmnd_con/data.json</guid>
+      <description>Network Externalities, Dynamic Demand and Elasticities, Numeric Examples.</description>
+    </item>
+    
+    <item>
+      <title>prc_disc_and_tar.pdf</title>
+      <link>/resources/prc_disc_and_tar/data.json</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/resources/prc_disc_and_tar/data.json</guid>
+      <description>Conditions for Applying Price Discrimination, Perfect Price Discrimination, Consumer Self-Selection, Pricing to Observable Market Segments, Two part Tariff: Definition and Calculations, Numeric Examples.</description>
+    </item>
+    
+    <item>
+      <title>pro_and_cost_con.pdf</title>
+      <link>/resources/pro_and_cost_con/data.json</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/resources/pro_and_cost_con/data.json</guid>
+      <description>The Production Function, Economic Cost and User Cost of Capital, Cost concepts, Economies of Scale and Scope, Learning Curve Effects, Numeric Examples.</description>
+    </item>
+    
+    <item>
+      <title>Recitations</title>
+      <link>/pages/recitations/data.json</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/pages/recitations/data.json</guid>
+      <description> ses # TOPICS recitation notes R1 Review of Own- and Cross-price Elasticities, Market Definition, Consumer and Producer Surplus
+Use of Supply and Demand Curves
+Review of Logarithms Market Definition, Elasticities and Surpluses (PDF) R2 Further Review of Supply and Demand Surplus Analysis with Government Intervention (PDF) R3 Review of the Economics of Production and Cost Review of Production and Cost Concepts (PDF) R4 Review of the Economics of Demand Network Externalities and Demand Concepts (PDF) R5 Review of Market Power (Monopoly) Time Uncertainty and Market Power (PDF) R6 Review of Pricing with Market Power Price Discrimination and Two Part Tariff (PDF) R7 Review of Game Theory The Basics of Game Theory (PDF) R8 Review of Game Theory, Collusion and Cartels The Beer Game Collusion and Cartels (PDF) R9 Review of Auctions and Common Property Resources Auctions and Common Property (PDF) R10 Review of Transfer Pricing and Asymmetric Information Information Asymmetry and Transfer Pricing (PDF) </description>
+    </item>
+    
+    <item>
+      <title>surplus_anal_gov.pdf</title>
+      <link>/resources/surplus_anal_gov/data.json</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/resources/surplus_anal_gov/data.json</guid>
+      <description>Review of Consumer and Producer Surplus, Government Intervention, Deadweight Loss and Numeric Examples.</description>
+    </item>
+    
+    <item>
+      <title>the_bsc_game_thy.pdf</title>
+      <link>/resources/the_bsc_game_thy/data.json</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/resources/the_bsc_game_thy/data.json</guid>
+      <description>Game Theory Definitions, The Cournot Model, The Stackelberg Model, The Bertrand Model, Numeric Examples.</description>
+    </item>
+    
+    <item>
+      <title>time_uncrtn_mkt.pdf</title>
+      <link>/resources/time_uncrtn_mkt/data.json</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/resources/time_uncrtn_mkt/data.json</guid>
+      <description>Basics of Present Value, Uncertainty and Risk Aversion, Option Value, Market Power Models, Numeric Examples.</description>
+    </item>
+    
+  </channel>
+</rss>

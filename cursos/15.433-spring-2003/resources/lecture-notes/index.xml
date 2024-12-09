@@ -1,0 +1,224 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Lecture Notes on MIT OpenCourseWare</title>
+    <link>/resources/lecture-notes/</link>
+    <description>Recent content in Lecture Notes on MIT OpenCourseWare</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language><atom:link href="/resources/lecture-notes/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>15433_20a_active_management.pdf</title>
+      <link>/resources/15433_20a_active_management/data.json</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/resources/15433_20a_active_management/data.json</guid>
+      <description>Class 20: Active Portfolio Management</description>
+    </item>
+    
+    <item>
+      <title>15433_21a_hedge_funds.pdf</title>
+      <link>/resources/15433_21a_hedge_funds/data.json</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/resources/15433_21a_hedge_funds/data.json</guid>
+      <description>Class 21: Hedge Funds</description>
+    </item>
+    
+    <item>
+      <title>1543310equityoption1.pdf</title>
+      <link>/resources/1543310equityoption1/data.json</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/resources/1543310equityoption1/data.json</guid>
+      <description>Class 10- Equity Options. Part 1: Pricing</description>
+    </item>
+    
+    <item>
+      <title>1543311equityoption2.pdf</title>
+      <link>/resources/1543311equityoption2/data.json</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/resources/1543311equityoption2/data.json</guid>
+      <description>Class 11: Equity Options. Part 2: Empirical Evidence</description>
+    </item>
+    
+    <item>
+      <title>1543313fixedincome1.pdf</title>
+      <link>/resources/1543313fixedincome1/data.json</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/resources/1543313fixedincome1/data.json</guid>
+      <description>Class 13: The Fixed Income Market. Part 1: Introduction</description>
+    </item>
+    
+    <item>
+      <title>1543314fixedincome2.pdf</title>
+      <link>/resources/1543314fixedincome2/data.json</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/resources/1543314fixedincome2/data.json</guid>
+      <description>Class 14: The Fixed Income Market. Part 2: Time Varying Interest Rates and Yield Curves</description>
+    </item>
+    
+    <item>
+      <title>1543315fixedincome3.pdf</title>
+      <link>/resources/1543315fixedincome3/data.json</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/resources/1543315fixedincome3/data.json</guid>
+      <description>Classe 15: Forwards, Futures &amp;amp; Swaps</description>
+    </item>
+    
+    <item>
+      <title>1543316riskmanagement.pdf</title>
+      <link>/resources/1543316riskmanagement/data.json</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/resources/1543316riskmanagement/data.json</guid>
+      <description>Class 16: Risk Management</description>
+    </item>
+    
+    <item>
+      <title>1543317creditrisk1.pdf</title>
+      <link>/resources/1543317creditrisk1/data.json</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/resources/1543317creditrisk1/data.json</guid>
+      <description>Class 17: The Credit Market. Part 1: Modeling Default Risk</description>
+    </item>
+    
+    <item>
+      <title>1543318creditrisk2.pdf</title>
+      <link>/resources/1543318creditrisk2/data.json</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/resources/1543318creditrisk2/data.json</guid>
+      <description>Class 18: The Credit Market. Part 2: Credit Derivatives</description>
+    </item>
+    
+    <item>
+      <title>1543319securityanalysis.pdf</title>
+      <link>/resources/1543319securityanalysis/data.json</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/resources/1543319securityanalysis/data.json</guid>
+      <description>Class 19: Security Analysis</description>
+    </item>
+    
+    <item>
+      <title>154331introduction.pdf</title>
+      <link>/resources/154331introduction/data.json</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/resources/154331introduction/data.json</guid>
+      <description>Class 1: Introduction</description>
+    </item>
+    
+    <item>
+      <title>1543322marketefficiency.pdf</title>
+      <link>/resources/1543322marketefficiency/data.json</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/resources/1543322marketefficiency/data.json</guid>
+      <description>CLASS 22: MARKET EFFICIENCY</description>
+    </item>
+    
+    <item>
+      <title>1543323Commodities.pdf</title>
+      <link>/resources/1543323commodities/data.json</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/resources/1543323commodities/data.json</guid>
+      <description>Class 23: Commodities</description>
+    </item>
+    
+    <item>
+      <title>154332random_walk.pdf</title>
+      <link>/resources/154332random_walk/data.json</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/resources/154332random_walk/data.json</guid>
+      <description>Class 2: Securities, Random Walk on Wall Street</description>
+    </item>
+    
+    <item>
+      <title>154333portfolio1.pdf</title>
+      <link>/resources/154333portfolio1/data.json</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/resources/154333portfolio1/data.json</guid>
+      <description>Class 3: Portfolio Theory. Part 1: Setting up the Problem</description>
+    </item>
+    
+    <item>
+      <title>154334portfolio2.pdf</title>
+      <link>/resources/154334portfolio2/data.json</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/resources/154334portfolio2/data.json</guid>
+      <description>Class 4: Portfolio Theory. Part 2: Extensions</description>
+    </item>
+    
+    <item>
+      <title>154335portfolio3.pdf</title>
+      <link>/resources/154335portfolio3/data.json</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/resources/154335portfolio3/data.json</guid>
+      <description>Class 5: Portfolio Theory. Part3: Optimal Risky Portfolio</description>
+    </item>
+    
+    <item>
+      <title>154336capm1.pdf</title>
+      <link>/resources/154336capm1/data.json</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/resources/154336capm1/data.json</guid>
+      <description>Classes 6: The CAPM and APT. Part 1: Theory</description>
+    </item>
+    
+    <item>
+      <title>154337capm2.pdf</title>
+      <link>/resources/154337capm2/data.json</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/resources/154337capm2/data.json</guid>
+      <description>Class 7: The CAPM and APT Part 2: Applications and Tests</description>
+    </item>
+    
+    <item>
+      <title>154337capm2A.pdf</title>
+      <link>/resources/154337capm2a/data.json</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/resources/154337capm2a/data.json</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>154338Equity.pdf</title>
+      <link>/resources/154338equity/data.json</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/resources/154338equity/data.json</guid>
+      <description>Classes 8 &amp;amp; 9: The Equity Market: Cross Sectional Variation in Stock Returns</description>
+    </item>
+    
+    <item>
+      <title>Lecture Notes</title>
+      <link>/pages/lecture-notes/data.json</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/pages/lecture-notes/data.json</guid>
+      <description>Lecture 1: Introduction (PDF)
+Lecture 2: Securities, Random Walk on Wall Street (PDF)
+Lecture 3: Portfolio Theory Part 1: Setting up the Problem (PDF)
+Lecture 4: Portfolio Theory Part 2: Extensions (PDF)
+Lecture 5: Portfolio Theory Part 3: Optimal Risky Portfolio (PDF)
+Lecture 6: The CAPM and APT Part 1: Theory (PDF)
+Lecture 7: Applications and Tests (PDF)
+Lecture 8 &amp;amp; 9: The Equity Market: Cross Sectional Variation in Stock Returns (PDF)</description>
+    </item>
+    
+  </channel>
+</rss>

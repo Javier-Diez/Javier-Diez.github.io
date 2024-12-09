@@ -1,0 +1,164 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Assignments on MIT OpenCourseWare</title>
+    <link>/resources/assignments/</link>
+    <description>Recent content in Assignments on MIT OpenCourseWare</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language><atom:link href="/resources/assignments/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Assignments</title>
+      <link>/pages/assignments/data.json</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/pages/assignments/data.json</guid>
+      <description>The problem sets are to be done individually and are intended to help the student learn and practice the mechanics of the course material. Seven of the eight problem sets from the class are presented here.
+ASSIGNMENTS SOLUTIONS Problem Set 1 (PDF) (PDF) Problem Set 2 (PDF) (PDF) Problem Set 3 (PDF) (PDF) Problem Set 4 (PDF) (PDF) Problem Set 5 (PDF) (PDF) Problem Set 6 (PDF) (PDF) Problem Set 7 (PDF) (PDF) </description>
+    </item>
+    
+    <item>
+      <title>ps1_sol.pdf</title>
+      <link>/resources/ps1_sol/data.json</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/resources/ps1_sol/data.json</guid>
+      <description>This resource includes solutions to problems on use of the BSE to record transactions, and preparation of financial statements.</description>
+    </item>
+    
+    <item>
+      <title>ps1.pdf</title>
+      <link>/resources/ps1/data.json</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/resources/ps1/data.json</guid>
+      <description>This resource includes problems on use of the BSE to record transactions, and preparation of financial statements. The problem sets are to be done individually and are intended to help the student learn and practice the mechanics of the course material.</description>
+    </item>
+    
+    <item>
+      <title>ps2_sol.pdf</title>
+      <link>/resources/ps2_sol/data.json</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/resources/ps2_sol/data.json</guid>
+      <description>This resource includes solutions to the Chemalite, Inc. case problems.</description>
+    </item>
+    
+    <item>
+      <title>ps2.pdf</title>
+      <link>/resources/ps2/data.json</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/resources/ps2/data.json</guid>
+      <description>This resource includes 5 problems on Chemalite, Inc. The problem sets are to be done individually and are intended to help the student learn and practice the mechanics of the course material.</description>
+    </item>
+    
+    <item>
+      <title>ps3_sol.pdf</title>
+      <link>/resources/ps3_sol/data.json</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/resources/ps3_sol/data.json</guid>
+      <description>This resource includes solutions to problems on revenue recognition and accounting for account receivables.</description>
+    </item>
+    
+    <item>
+      <title>ps3.pdf</title>
+      <link>/resources/ps3/data.json</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/resources/ps3/data.json</guid>
+      <description>This resources includes problems on revenue recognition and accounting for account receivables. The problem sets are to be done individually and are intended to help the student learn and practice the mechanics of the course material.</description>
+    </item>
+    
+    <item>
+      <title>ps4_sol.pdf</title>
+      <link>/resources/ps4_sol/data.json</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/resources/ps4_sol/data.json</guid>
+      <description>This resource includes solutions to problems on accounting for inventory and the statement of cash flows.</description>
+    </item>
+    
+    <item>
+      <title>ps4.pdf</title>
+      <link>/resources/ps4/data.json</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/resources/ps4/data.json</guid>
+      <description>This resource includes problems on accounting for inventory and the statement of cash flows. The problem sets are to be done individually and are intended to help the student learn and practice the mechanics of the course material.</description>
+    </item>
+    
+    <item>
+      <title>ps5_sol.pdf</title>
+      <link>/resources/ps5_sol/data.json</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/resources/ps5_sol/data.json</guid>
+      <description>This resource includes solutions to problems on accounting for depreciation, Delta-Pan Am airlines case write-up.</description>
+    </item>
+    
+    <item>
+      <title>ps5.pdf</title>
+      <link>/resources/ps5/data.json</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/resources/ps5/data.json</guid>
+      <description>This resource includes problems on accounting for depreciation, Delta-Pan Am airlines case write-up. The problem sets are to be done individually and are intended to help the student learn and practice the mechanics of the course material.</description>
+    </item>
+    
+    <item>
+      <title>ps6_sol.pdf</title>
+      <link>/resources/ps6_sol/data.json</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/resources/ps6_sol/data.json</guid>
+      <description>This resource includes solutions to problems on depreciation, deferred taxes, and marketable securities.</description>
+    </item>
+    
+    <item>
+      <title>ps6.pdf</title>
+      <link>/resources/ps6/data.json</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/resources/ps6/data.json</guid>
+      <description>This resource includes problems on depreciation, deferred taxes, and marketable securities. The problem sets are to be done individually and are intended to help the student learn and practice the mechanics of the course material.</description>
+    </item>
+    
+    <item>
+      <title>ps7_sol.pdf</title>
+      <link>/resources/ps7_sol/data.json</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/resources/ps7_sol/data.json</guid>
+      <description>This resource includes solutions to problems on long-term debt, leases and Off-Balance Sheet financing.</description>
+    </item>
+    
+    <item>
+      <title>ps7.pdf</title>
+      <link>/resources/ps7/data.json</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/resources/ps7/data.json</guid>
+      <description>This resource includes problems on long-term debt, leases and Off-Balance Sheet financing. The problem sets are to be done individually and are intended to help the student learn and practice the mechanics of the course material.</description>
+    </item>
+    
+    <item>
+      <title>ps8_seligram.pdf</title>
+      <link>/resources/ps8_seligram/data.json</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/resources/ps8_seligram/data.json</guid>
+      <description>The problem sets are to be done individually and are intended to help the student learn and practice the mechanics of the course material.</description>
+    </item>
+    
+    <item>
+      <title>ps8_sol.pdf</title>
+      <link>/resources/ps8_sol/data.json</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/resources/ps8_sol/data.json</guid>
+      <description>This resource includes solutions to problems on seligram case write-up.</description>
+    </item>
+    
+  </channel>
+</rss>

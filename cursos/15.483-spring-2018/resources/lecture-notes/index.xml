@@ -1,0 +1,96 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Lecture Notes on MIT OpenCourseWare</title>
+    <link>/resources/lecture-notes/</link>
+    <description>Recent content in Lecture Notes on MIT OpenCourseWare</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language><atom:link href="/resources/lecture-notes/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>15.483 Lecture 1 Introduction</title>
+      <link>/resources/mit15_483s18_l01/data.json</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/resources/mit15_483s18_l01/data.json</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>15.483 Lecture 11 Bitcoin and Payments</title>
+      <link>/resources/mit15_483s18_l11/data.json</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/resources/mit15_483s18_l11/data.json</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>15.483 Lecture 2 Rational Model</title>
+      <link>/resources/mit15_483s18_l02/data.json</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/resources/mit15_483s18_l02/data.json</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>15.483 Lecture 3 Behavioral Models</title>
+      <link>/resources/mit15_483s18_l03/data.json</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/resources/mit15_483s18_l03/data.json</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>15.483 Lecture 5 Hello Wallet</title>
+      <link>/resources/mit15_483s18_l05/data.json</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/resources/mit15_483s18_l05/data.json</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>15.483 Lecture 6 Credit card market</title>
+      <link>/resources/mit15_483s18_l06/data.json</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/resources/mit15_483s18_l06/data.json</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>15.483 Lecture 7 BASIX</title>
+      <link>/resources/mit15_483s18_l07/data.json</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/resources/mit15_483s18_l07/data.json</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>15.483 Lecture 8 Lending Club</title>
+      <link>/resources/mit15_483s18_l08/data.json</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/resources/mit15_483s18_l08/data.json</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Lecture Notes</title>
+      <link>/pages/lecture-notes/data.json</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/pages/lecture-notes/data.json</guid>
+      <description>Ses # Topics Lecture Notes 1
+Introduction and overview of consumer financial markets
+Why take this class? Requirements Substantive plan of the course Overview of consumer finance Lecture 1: Introduction (PDF - 1.2MB)
+2
+How people should behave: economic models of household financial behavior
+Underlying assumptions: diminishing marginal utility, knowledge, optimization, the effects of risk, risk aversion and portfolio choice Central implications: consumption smoothing, CCAPM Financial advising, robo-advising Lecture 2: Rational model (PDF - 2.</description>
+    </item>
+    
+  </channel>
+</rss>

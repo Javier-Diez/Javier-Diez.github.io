@@ -1,0 +1,119 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Assignments on MIT OpenCourseWare</title>
+    <link>/resources/assignments/</link>
+    <description>Recent content in Assignments on MIT OpenCourseWare</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language><atom:link href="/resources/assignments/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Assignment 1</title>
+      <link>/pages/assignments/assignment-1/data.json</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/pages/assignments/assignment-1/data.json</guid>
+      <description>This is a group assignment. One copy can be turned in for a team of up to four students.
+Assignment 1: Retirement Saving and Consumption Smoothing Consider trying to give Katniss advice about how much she should save when young.
+Her life can be split into 3 periods:
+At \( t = 1 , \) her after-tax income is \( Y_1 = $100,000 \) At \( t = 2 , \) her after-tax income is \( Y_2 = $140,000 \) At \( t = 3 , \) she has no income, so \( Y_3 = $0 \) Assume the market interest rate and the utility discount rate are equal to zero, which implies that savings earn no interest in the District that she lives in and she is relatively patient.</description>
+    </item>
+    
+    <item>
+      <title>Assignment 2</title>
+      <link>/pages/assignments/assignment-2/data.json</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/pages/assignments/assignment-2/data.json</guid>
+      <description>This is a group assignment. One copy can be turned in for a team of up to four students.
+Assignment 2: Financial Health Check Case Below, we describe a product idea that we have been testing in the ﬁeld for the last 18 months. While there have been various implementation challenges, the test appears to be working as hoped. Please develop potential strategies and recommendations as well as a plan for scaling up this product as a private or public sector ﬁnancially sustainable solution.</description>
+    </item>
+    
+    <item>
+      <title>Assignment 3</title>
+      <link>/pages/assignments/assignment-3/data.json</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/pages/assignments/assignment-3/data.json</guid>
+      <description>This is an individual assignment.
+Assignment 3: Hello Wallet Case After reading the Hello Wallet case, please write (at most) one page on the following: pick one behavioral bias covered in class or readings and discuss how it creates opportunities for Hello Wallet.</description>
+    </item>
+    
+    <item>
+      <title>Assignment 4</title>
+      <link>/pages/assignments/assignment-4/data.json</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/pages/assignments/assignment-4/data.json</guid>
+      <description>This is an individual assignment.
+Assignment 4: Consumer Credit Provision and the Credit Card Market You may solve this assignment numerically, using a software of your choice (e.g., excel, matlab), or analytically. The point of the problem is not the numeric answers, but rather the understanding of how borrower behavior, lender competition, and regulation interact. That written, this problem captures almost the essence of the complex problems that lenders consider when setting interest rates and competing with other credit providers, as well as how debt-backed securities are priced.</description>
+    </item>
+    
+    <item>
+      <title>Assignment 5</title>
+      <link>/pages/assignments/assignment-5/data.json</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/pages/assignments/assignment-5/data.json</guid>
+      <description>This is a group assignment. One copy can be turned in for a team of up to four students. Include a complete explanation of the calculations and modeling assumptions in the appendix.
+Assignment 5: BASIX Case Answer the following questions:
+Is this BASIX insurance product effective and priced advantageously for the individual farmer? Provide a quantitative answer. Should BASIX roll out this insurance product? </description>
+    </item>
+    
+    <item>
+      <title>Assignment 6</title>
+      <link>/pages/assignments/assignment-6/data.json</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/pages/assignments/assignment-6/data.json</guid>
+      <description>This is an individual assignment. The document should be 2 to 3 pages long.
+Assignment 6: Lending Club Case Answer the following questions:
+How did the idea of P2P lending come up in general? Why do credit cards have to charge high rates for short term loans? How do you compare P2P marketplace lenders to commercial banks? What is Lending Club’s business model? Comparing with other P2P players, what are the similarities and differences?</description>
+    </item>
+    
+    <item>
+      <title>Assignment 7</title>
+      <link>/pages/assignments/assignment-7/data.json</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/pages/assignments/assignment-7/data.json</guid>
+      <description>This is a group assignment. One copy can be turned in for a team of up to four students.
+Assignment 7: Household Debt Products The Readings section includes four readings on Collateralized Debt Obligations. They are complimentary to the talk by our guest speaker, Joe Naggar, but you do not need to read them all. Use the CLO Assignment Sheet (XLSX) to ﬁll in your answers.
+Complete the following tasks:</description>
+    </item>
+    
+    <item>
+      <title>Assignment 8</title>
+      <link>/pages/assignments/assignment-8/data.json</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/pages/assignments/assignment-8/data.json</guid>
+      <description>This is an individual assignment.
+Assignment 8: Bitcoin Your business is considering accepting a cryptocurrency. The strategy seems sound since people are using the currency, but the move is not costless. Costs include the technological outlay, the workforce training, the posting of multiple prices and how to adjust and respond to market movements. In addition, there is the risk that is posed by holding cryptocurrency. What if it becomes worthless? These questions only highlight the risks of getting involved in different currencies when there are already so many simple traditional means of payment from debit cards to credit cards, and so many new and evolving means of payment such as Paypal, Alipay, M-pesa, and Apple pay.</description>
+    </item>
+    
+    <item>
+      <title>Assignments</title>
+      <link>/pages/assignments/data.json</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/pages/assignments/data.json</guid>
+      <description>The following describe the group-based and individual written projects and case analyses in the course. Follow the links for detailed descriptions of each assignment.
+Assignment 1: Retirement Saving and Consumption Smoothing (group assignment)
+Assignment 2: Financial Health Check Case (group assignment)
+Assignment 3: Hello Wallet Case (individual assignment)
+Assignment 4: Consumer Credit Provision and the Credit Card Market (individual assignment)
+Assignment 5: BASIX Case (group assignment)
+Assignment 6: Lending Club Case (individual assignment)</description>
+    </item>
+    
+    <item>
+      <title>CLO_Assignment_Sheet.xlsx</title>
+      <link>/resources/clo_assignment_sheet/data.json</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/resources/clo_assignment_sheet/data.json</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

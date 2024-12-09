@@ -1,0 +1,128 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Assignments on MIT OpenCourseWare</title>
+    <link>/resources/assignments/</link>
+    <description>Recent content in Assignments on MIT OpenCourseWare</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language><atom:link href="/resources/assignments/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>assign10mw.pdf</title>
+      <link>/resources/assign10mw/data.json</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/resources/assign10mw/data.json</guid>
+      <description>Case: MW Petroleum Corporation (A)</description>
+    </item>
+    
+    <item>
+      <title>assign11cooper.pdf</title>
+      <link>/resources/assign11cooper/data.json</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/resources/assign11cooper/data.json</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>assign12southland.pdf</title>
+      <link>/resources/assign12southland/data.json</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/resources/assign12southland/data.json</guid>
+      <description>Case: The Southland Corporation (A)</description>
+    </item>
+    
+    <item>
+      <title>assign1wilson1.pdf</title>
+      <link>/resources/assign1wilson1/data.json</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/resources/assign1wilson1/data.json</guid>
+      <description>Case: Wilson Lumber 1</description>
+    </item>
+    
+    <item>
+      <title>assign2wilson2.pdf</title>
+      <link>/resources/assign2wilson2/data.json</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/resources/assign2wilson2/data.json</guid>
+      <description>Case: Wilson Lumber 2</description>
+    </item>
+    
+    <item>
+      <title>assign3ustdebt.pdf</title>
+      <link>/resources/assign3ustdebt/data.json</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/resources/assign3ustdebt/data.json</guid>
+      <description>Case: Debt Policy at UST Inc.</description>
+    </item>
+    
+    <item>
+      <title>assign4masseyferg.pdf</title>
+      <link>/resources/assign4masseyferg/data.json</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/resources/assign4masseyferg/data.json</guid>
+      <description>Case: Massey Ferguson, 1980</description>
+    </item>
+    
+    <item>
+      <title>assign5mci.pdf</title>
+      <link>/resources/assign5mci/data.json</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/resources/assign5mci/data.json</guid>
+      <description>Case: MCI Communications Corp., 1983</description>
+    </item>
+    
+    <item>
+      <title>assign6intel.pdf</title>
+      <link>/resources/assign6intel/data.json</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/resources/assign6intel/data.json</guid>
+      <description>Case: Intel Corporation, 1992</description>
+    </item>
+    
+    <item>
+      <title>assign7ameritrade.pdf</title>
+      <link>/resources/assign7ameritrade/data.json</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/resources/assign7ameritrade/data.json</guid>
+      <description>Case: Cost of Capital at Ameritrade</description>
+    </item>
+    
+    <item>
+      <title>assign8dixon.pdf</title>
+      <link>/resources/assign8dixon/data.json</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/resources/assign8dixon/data.json</guid>
+      <description>Case: Dixon Corporation 1</description>
+    </item>
+    
+    <item>
+      <title>assign9diamond.pdf</title>
+      <link>/resources/assign9diamond/data.json</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/resources/assign9diamond/data.json</guid>
+      <description>Case: Diamond Chemicals (A)</description>
+    </item>
+    
+    <item>
+      <title>Assignments</title>
+      <link>/pages/assignments/data.json</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/pages/assignments/data.json</guid>
+      <description>Cases marked with a star (*) are required. For full bibliographic citations of the cases, see the readings section.
+Part I: Financing LEC # TOPICS ASSIGNMENTS 2 Case: Wilson Lumber 1* (PDF) 3 Case: Wilson Lumber 2* (PDF) 6 Case: Debt Policy at UST Inc. (PDF) 7 Case: Massey Ferguson, 1980 (PDF) 9 Case: MCI Communications Corp., 1983* (PDF) 11 Case: Intel Corporation, 1992 (PDF) Part II: Valuation LEC # TOPICS ASSIGNMENTS 13 Case: Cost of Capital at Ameritrade* (PDF) 16 Case: Dixon Corporation 1* (PDF) 17 Case: Dixon Corporation 2 (PDF) 18 Case: Diamond Chemicals (A) (PDF) 20 Case: MW Petroleum Corporation (A) (PDF) 22 Case: Cooper Industries, Inc.</description>
+    </item>
+    
+  </channel>
+</rss>

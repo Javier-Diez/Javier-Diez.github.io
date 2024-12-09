@@ -1,0 +1,211 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Lecture Notes on MIT OpenCourseWare</title>
+    <link>/resources/lecture-notes/</link>
+    <description>Recent content in Lecture Notes on MIT OpenCourseWare</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language><atom:link href="/resources/lecture-notes/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Lecture 13: Team Reports and Presentations </title>
+      <link>/resources/mit15_279f12_lec13/data.json</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/resources/mit15_279f12_lec13/data.json</guid>
+      <description>This resource contains information regarding team reports and presentations.</description>
+    </item>
+    
+    <item>
+      <title>Lecture 17 and 18: Cross-Cultural Communication</title>
+      <link>/resources/mit15_279f12_lec17and18/data.json</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/resources/mit15_279f12_lec17and18/data.json</guid>
+      <description>This resource contains information regarding cross-cultural communication.</description>
+    </item>
+    
+    <item>
+      <title>Lecture 5: Listening and Feedback</title>
+      <link>/resources/mit15_279f12_lec05/data.json</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/resources/mit15_279f12_lec05/data.json</guid>
+      <description>This resource contains information regarding listening and feedback.</description>
+    </item>
+    
+    <item>
+      <title>Lecture 9: Guidelines for Effective Teamwork</title>
+      <link>/resources/mit15_279f12_lec09/data.json</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/resources/mit15_279f12_lec09/data.json</guid>
+      <description>This resource contains information regarding guidelines for effective teamwork.</description>
+    </item>
+    
+    <item>
+      <title>Lecture Notes</title>
+      <link>/pages/lecture-notes/data.json</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/pages/lecture-notes/data.json</guid>
+      <description>[T] = Teaching Notes from the Sloan Communication Program, courtesy of JoAnne Yates. Used with permission.
+SES # TOPICS RESOURCES 1 Introduction to the Course; Strategy and Structure
+To define the characteristics of managerial communication To understand how to create a communication strategy Communicating Strategically (PDF) 2 Strategy and Structure (cont.)
+To understand the difference between direct and indirect structure To learn when to use direct structure and when to use indirect structure 3 Oral Presentations</description>
+    </item>
+    
+    <item>
+      <title>Lectures 1 and 2: Communicating Strategically</title>
+      <link>/resources/mit15_279f12_lec01and02/data.json</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/resources/mit15_279f12_lec01and02/data.json</guid>
+      <description>This resource contains information regarding communicating strategically.</description>
+    </item>
+    
+    <item>
+      <title>Lectures 19 and 20: Communication for Leaders</title>
+      <link>/resources/mit15_279f12_lec19and20/data.json</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/resources/mit15_279f12_lec19and20/data.json</guid>
+      <description>This resource contains information regarding communication for leaders.</description>
+    </item>
+    
+    <item>
+      <title>Lectures 3 and 4: Giving Presentations</title>
+      <link>/resources/mit15_279f12_lec03and04/data.json</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/resources/mit15_279f12_lec03and04/data.json</guid>
+      <description>This resource contains information regarding giving presentations.</description>
+    </item>
+    
+    <item>
+      <title>Lectures 7 and 8: Guidelines for Effective Writing</title>
+      <link>/resources/mit15_279f12_lec07and08/data.json</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/resources/mit15_279f12_lec07and08/data.json</guid>
+      <description>This resource contains information regarding guidelines for effective writing.</description>
+    </item>
+    
+    <item>
+      <title>Teaching Note: Active Listening and Reflective Responses</title>
+      <link>/resources/mit15_279f12_actvelistng/data.json</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/resources/mit15_279f12_actvelistng/data.json</guid>
+      <description>This resource contains information regarding teaching note: active listening and reflective responses.</description>
+    </item>
+    
+    <item>
+      <title>Teaching Note: Clear and Concise Writing</title>
+      <link>/resources/mit15_279f12_clrcncswrtng/data.json</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/resources/mit15_279f12_clrcncswrtng/data.json</guid>
+      <description>This resource contains information regarding teaching note: clear and concise writing.</description>
+    </item>
+    
+    <item>
+      <title>Teaching Note: Conceptual Parallelsim</title>
+      <link>/resources/mit15_279f12_cncptprllelsm/data.json</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/resources/mit15_279f12_cncptprllelsm/data.json</guid>
+      <description>This resource contains information regarding teaching note: conceptual parallelsim.</description>
+    </item>
+    
+    <item>
+      <title>Teaching Note: Constructing a Logical Argument</title>
+      <link>/resources/mit15_279f12_cnstrctargmnt/data.json</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/resources/mit15_279f12_cnstrctargmnt/data.json</guid>
+      <description>This resource contains information regarding teaching note: constructing a logical argument.</description>
+    </item>
+    
+    <item>
+      <title>Teaching Note: Difficult Conversations</title>
+      <link>/resources/mit15_279f12_difficultconv/data.json</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/resources/mit15_279f12_difficultconv/data.json</guid>
+      <description>This resource contains information regarding teaching note: difficult conversations.</description>
+    </item>
+    
+    <item>
+      <title>Teaching Note: Intercultural Communication</title>
+      <link>/resources/mit15_279f12_intcltrlcomm/data.json</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/resources/mit15_279f12_intcltrlcomm/data.json</guid>
+      <description>This resource contains information regarding teaching note: intercultural communication.</description>
+    </item>
+    
+    <item>
+      <title>Teaching Note: Media Relations</title>
+      <link>/resources/mit15_279f12_mediarltions/data.json</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/resources/mit15_279f12_mediarltions/data.json</guid>
+      <description>This resource contains information regarding teaching note: media relations.</description>
+    </item>
+    
+    <item>
+      <title>Teaching Note: Persuasion: What Research Tells Us</title>
+      <link>/resources/mit15_279f12_prsuasnrsrch/data.json</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/resources/mit15_279f12_prsuasnrsrch/data.json</guid>
+      <description>This resource contains information regarding what research tells us.</description>
+    </item>
+    
+    <item>
+      <title>Teaching Note: Style in Managerial Writing</title>
+      <link>/resources/mit15_279f12_stylmngrwrtng/data.json</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/resources/mit15_279f12_stylmngrwrtng/data.json</guid>
+      <description>This resource contains information regarding teaching note: style in managerial writing.</description>
+    </item>
+    
+    <item>
+      <title>Teaching Note: Teamwork Basics</title>
+      <link>/resources/mit15_279f12_tmwrkbasics/data.json</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/resources/mit15_279f12_tmwrkbasics/data.json</guid>
+      <description>This resource contains information regarding teaching note: teamwork basics.</description>
+    </item>
+    
+    <item>
+      <title>Teaching Note: Using Tables and Graphs in Text and as Attachments</title>
+      <link>/resources/mit15_279f12_figuresandtxt/data.json</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/resources/mit15_279f12_figuresandtxt/data.json</guid>
+      <description>This resource contains information regarding teaching note: using tables and graphs in text and as attachments.</description>
+    </item>
+    
+    <item>
+      <title>Teaching Note: Writing Cover Letters</title>
+      <link>/resources/mit15_279f12_wrtngcvrlttrs/data.json</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/resources/mit15_279f12_wrtngcvrlttrs/data.json</guid>
+      <description>This resource contains information regarding teaching note: writing cover letters.</description>
+    </item>
+    
+    <item>
+      <title>Teaching Note: Writing Reports</title>
+      <link>/resources/mit15_279f12_wrtngreports/data.json</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/resources/mit15_279f12_wrtngreports/data.json</guid>
+      <description>This resource contains information regarding teaching note: writing reports.</description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Readings on MIT OpenCourseWare</title>
+    <link>/resources/readings/</link>
+    <description>Recent content in Readings on MIT OpenCourseWare</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language><atom:link href="/resources/readings/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Readings</title>
+      <link>/pages/readings/data.json</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/pages/readings/data.json</guid>
+      <description>Chapters refer to Brealey, R., and S. Myers. Principles of Corporate Finance. 7th ed. Irwin/McGraw Hill. ISBN: 0073368695. Articles in the reading packet are referenced using the authors&amp;rsquo; last names. The study questions listed after each class are recommended, not required, and can be found at the end of the chapter under &amp;ldquo;Practice Questions.&amp;rdquo;
+SES # TOPICS KEY DATES Part 1 - Introduction 1 Introduction
+What is Finance? What Types of Questions Will We Answer?</description>
+    </item>
+    
+  </channel>
+</rss>

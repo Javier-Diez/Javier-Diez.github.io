@@ -1,0 +1,23 @@
+{
+  "course_title":"Financial Accounting",
+  "course_description":"This six-week summer course teaches basic concepts of corporate financial accounting and reporting. This information is widely used in making investment decisions, corporate and managerial performance assessment, and valuation of firms. Students perform economics-based analysis of accounting information from the viewpoint of the users of accounting information (especially senior managers) rather than the preparer (the accountant). This course is restricted to MIT Sloan Fellows in Innovation and Global Leadership.\n",
+  "course_description_html":"This six-week summer course teaches basic concepts of corporate financial accounting and reporting. This information is widely used in making investment decisions, corporate and managerial performance assessment, and valuation of firms. Students perform economics-based analysis of accounting information from the viewpoint of the users of accounting information (especially senior managers) rather than the preparer (the accountant). This course is restricted to MIT Sloan Fellows in Innovation and Global Leadership.",
+  "site_uid":"b3e97a21-7994-4625-b00d-0c29e974dcee",
+  "legacy_uid":"79722861-3f0c-f644-f572-5a4f0155127d","instructors": [{
+    "first_name":"S.",
+    "last_name":"Kothari",
+    "middle_initial":"P.",
+    "salutation":"Prof.",
+    "title":"Prof. S. P. Kothari"}],"department_numbers":["15"],
+  "learning_resource_types":["Lecture Notes","Problem Sets","Exams with Solutions"],
+  "topics":[["Business","Accounting"],["Business","Finance"],["Business","Management"]],
+  "mit_learn_topics":null,
+  "primary_course_number":"15.511",
+  "extra_course_numbers":"",
+  "term":"Summer",
+  "year":"2004",
+  "level":["Graduate"],
+  "hide_download":null,
+  "image_src":"./static_resources/f89e7ab180350867739e28c2282599c0_15-511su04.jpg",
+  "course_image_metadata":{"content_type":"resource","description":"","draft":false,"file":"/courses/15-511-financial-accounting-summer-2004/f89e7ab180350867739e28c2282599c0_15-511su04.jpg","file_size":100811,"file_type":"image/jpeg","image_metadata":{"caption":"This diagram explains the necessity of financial accounting: it promotes the exchange of resources. (Diagram by Prof. S. P. Kothari. Background photograph courtesy of OCW.)","credit":"","image-alt":"Diagram showing how information flows from a company to outsiders."},"iscjklanguage":false,"learning_resource_types":[],"license":"https://creativecommons.org/licenses/by-nc-sa/4.0/","ocw_type":"OCWImage","resourcetype":"Image","title":"15-511su04.jpg","uid":"f89e7ab1-8035-0867-739e-28c2282599c0"}}
+

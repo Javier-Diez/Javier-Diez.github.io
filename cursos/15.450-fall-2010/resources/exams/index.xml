@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Exams on MIT OpenCourseWare</title>
+    <link>/resources/exams/</link>
+    <description>Recent content in Exams on MIT OpenCourseWare</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language><atom:link href="/resources/exams/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Exams</title>
+      <link>/pages/exams/data.json</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/pages/exams/data.json</guid>
+      <description> EXAM MATERIALS Exam practice problems (PDF) Exam practice solutions (PDF) (Courtesy of Kan Huang and Brandon Lee. Used with permission.) Spring 2010 final exam (PDF) </description>
+    </item>
+    
+    <item>
+      <title>MIT15_450F10_final2010.pdf</title>
+      <link>/resources/mit15_450f10_final2010/data.json</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/resources/mit15_450f10_final2010/data.json</guid>
+      <description>This resource contains information related to diffusion coefficients.</description>
+    </item>
+    
+    <item>
+      <title>MIT15_450F10_probs_sol.pdf</title>
+      <link>/resources/mit15_450f10_probs_sol/data.json</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/resources/mit15_450f10_probs_sol/data.json</guid>
+      <description>This resource contains information related to risk-neutral probability.</description>
+    </item>
+    
+    <item>
+      <title>MIT15_450F10_probs.pdf</title>
+      <link>/resources/mit15_450f10_probs/data.json</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/resources/mit15_450f10_probs/data.json</guid>
+      <description>This resource contains information related to radon-nikodym derivative.</description>
+    </item>
+    
+  </channel>
+</rss>

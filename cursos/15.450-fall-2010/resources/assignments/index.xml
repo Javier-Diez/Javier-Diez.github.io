@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Assignments on MIT OpenCourseWare</title>
+    <link>/resources/assignments/</link>
+    <description>Recent content in Assignments on MIT OpenCourseWare</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language><atom:link href="/resources/assignments/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Assignments</title>
+      <link>/pages/assignments/data.json</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/pages/assignments/data.json</guid>
+      <description>The assigned problem sets should be completed in groups unless otherwise indicated.
+PROBLEM SETS Problem set 1 (PDF) Problem set 2 (PDF) Problem set 3 (PDF) Problem set 4 (PDF) Problem set 5 (PDF) Problem set 6 (PDF) </description>
+    </item>
+    
+    <item>
+      <title>MIT15_450F10_assn01.pdf</title>
+      <link>/resources/mit15_450f10_assn01/data.json</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/resources/mit15_450f10_assn01/data.json</guid>
+      <description>This resource contains information related to state-price densities.</description>
+    </item>
+    
+    <item>
+      <title>MIT15_450F10_assn02.pdf</title>
+      <link>/resources/mit15_450f10_assn02/data.json</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/resources/mit15_450f10_assn02/data.json</guid>
+      <description>This resource contains information related to state-price density.</description>
+    </item>
+    
+    <item>
+      <title>MIT15_450F10_assn03.pdf</title>
+      <link>/resources/mit15_450f10_assn03/data.json</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/resources/mit15_450f10_assn03/data.json</guid>
+      <description>This resource contains information related to diffusion of stock returns.</description>
+    </item>
+    
+    <item>
+      <title>MIT15_450F10_assn04.pdf</title>
+      <link>/resources/mit15_450f10_assn04/data.json</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/resources/mit15_450f10_assn04/data.json</guid>
+      <description>This resource contains information related to black-scholes model.</description>
+    </item>
+    
+    <item>
+      <title>MIT15_450F10_assn05.pdf</title>
+      <link>/resources/mit15_450f10_assn05/data.json</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/resources/mit15_450f10_assn05/data.json</guid>
+      <description>This resource contains information related to bellman equation.</description>
+    </item>
+    
+    <item>
+      <title>MIT15_450F10_assn06.pdf</title>
+      <link>/resources/mit15_450f10_assn06/data.json</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/resources/mit15_450f10_assn06/data.json</guid>
+      <description>This resource contains information related to var-cov matrix.</description>
+    </item>
+    
+  </channel>
+</rss>

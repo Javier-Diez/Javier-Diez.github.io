@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Assignments on MIT OpenCourseWare</title>
+    <link>/resources/assignments/</link>
+    <description>Recent content in Assignments on MIT OpenCourseWare</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language><atom:link href="/resources/assignments/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Assignments</title>
+      <link>/pages/assignments/data.json</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/pages/assignments/data.json</guid>
+      <description>In Homework 1, students are asked to conduct a survey which is then analyzed for the second homework assignment. The spreadsheet files that accompany the assignments are the survey forms and data used by students for each of the assignments. The writing assignment is an 8-10 pager and is a requirement for the undergraduate students.
+Homework 1, part 1 (PDF)
+Homework 1, part 2 (XLS)
+Homework 2, part 1 (PDF)</description>
+    </item>
+    
+    <item>
+      <title>hw1religionstudentsurvey.pdf</title>
+      <link>/resources/hw1religionstudentsurvey-1/data.json</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/resources/hw1religionstudentsurvey-1/data.json</guid>
+      <description>Religion student survey</description>
+    </item>
+    
+    <item>
+      <title>hw1religionstudentsurvey.xls</title>
+      <link>/resources/hw1religionstudentsurvey/data.json</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/resources/hw1religionstudentsurvey/data.json</guid>
+      <description>Data sheet for student religion survey</description>
+    </item>
+    
+    <item>
+      <title>hw2religionstudentdataset.xls</title>
+      <link>/resources/hw2religionstudentdataset/data.json</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/resources/hw2religionstudentdataset/data.json</guid>
+      <description>Dataset from student religion survey</description>
+    </item>
+    
+    <item>
+      <title>hw2religionstudentinstructions.pdf</title>
+      <link>/resources/hw2religionstudentinstructions/data.json</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/resources/hw2religionstudentinstructions/data.json</guid>
+      <description>Religion student instructions</description>
+    </item>
+    
+    <item>
+      <title>individualwritingassignment.pdf</title>
+      <link>/resources/individualwritingassignment/data.json</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/resources/individualwritingassignment/data.json</guid>
+      <description>Writing Requirement Assignment</description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,237 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Exams on MIT OpenCourseWare</title>
+    <link>/resources/exams/</link>
+    <description>Recent content in Exams on MIT OpenCourseWare</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language><atom:link href="/resources/exams/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Exams</title>
+      <link>/pages/exams/data.json</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/pages/exams/data.json</guid>
+      <description>See the Final Review (PDF) notes to prepare for the final exam.
+Mid Term Review (PDF)
+exams solutions 2004 Midterm Exam (PDF) (PDF) 2003 Midterm Exam (PDF) (PDF) 2003 Final Exam (PDF) (PDF) 2002 Midterm Exam (PDF) (PDF) 2002 Final Exam (PDF) (PDF) 2001 Midterm Exam (PDF) (PDF) 2001 Final Exam (PDF) (PDF) 2000 Midterm Exam (PDF) (PDF) 2000 Final Exam (PDF) (PDF) 1999 Midterm Exam (PDF) (PDF) 1999 Final Exam (PDF) (PDF) </description>
+    </item>
+    
+    <item>
+      <title>final_rev_hndout.pdf</title>
+      <link>/resources/final_rev_hndout/data.json</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/resources/final_rev_hndout/data.json</guid>
+      <description>Two-part Tariffs, Bundling, Pricing, Transfer Pricing, Asymmetric Information, Cartels and Auctions, Externalities/Common Property and Game theory.</description>
+    </item>
+    
+    <item>
+      <title>midterm_2004_ans.pdf</title>
+      <link>/resources/midterm_2004_ans/data.json</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/resources/midterm_2004_ans/data.json</guid>
+      <description>This resource includes answers to mid term exam 2004.</description>
+    </item>
+    
+    <item>
+      <title>midterm_2004.pdf</title>
+      <link>/resources/midterm_2004/data.json</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/resources/midterm_2004/data.json</guid>
+      <description>This resource includes 6 questions.</description>
+    </item>
+    
+    <item>
+      <title>midterm_review.pdf</title>
+      <link>/resources/midterm_review/data.json</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/resources/midterm_review/data.json</guid>
+      <description>Market Definition, Supply/Demand, Elasticities, Government Policies, Production/Cost/Network Externalities, Learning Curve, Dynamic Demand, Time and Uncertainty, Monopolies, Market Power.</description>
+    </item>
+    
+    <item>
+      <title>sample_final2002.pdf</title>
+      <link>/resources/sample_final2002/data.json</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/resources/sample_final2002/data.json</guid>
+      <description>This resource includes 9 questions.</description>
+    </item>
+    
+    <item>
+      <title>sample_mdtrm1999.pdf</title>
+      <link>/resources/sample_mdtrm1999/data.json</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/resources/sample_mdtrm1999/data.json</guid>
+      <description>This resource includes 4 questions.</description>
+    </item>
+    
+    <item>
+      <title>sample_mdtrm2000.pdf</title>
+      <link>/resources/sample_mdtrm2000/data.json</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/resources/sample_mdtrm2000/data.json</guid>
+      <description>This resource includes 4 questions.</description>
+    </item>
+    
+    <item>
+      <title>sample_mdtrm2001.pdf</title>
+      <link>/resources/sample_mdtrm2001/data.json</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/resources/sample_mdtrm2001/data.json</guid>
+      <description>This resource includes 4 questions.</description>
+    </item>
+    
+    <item>
+      <title>sample_mdtrm2002.pdf</title>
+      <link>/resources/sample_mdtrm2002/data.json</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/resources/sample_mdtrm2002/data.json</guid>
+      <description>This resource includes 5 questions.</description>
+    </item>
+    
+    <item>
+      <title>sample_mdtrm2003.pdf</title>
+      <link>/resources/sample_mdtrm2003/data.json</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/resources/sample_mdtrm2003/data.json</guid>
+      <description>This resource includes 4 questions.</description>
+    </item>
+    
+    <item>
+      <title>samplefinal_1999.pdf</title>
+      <link>/resources/samplefinal_1999/data.json</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/resources/samplefinal_1999/data.json</guid>
+      <description>This resource includes 9 questions.</description>
+    </item>
+    
+    <item>
+      <title>samplefinal_2000.pdf</title>
+      <link>/resources/samplefinal_2000/data.json</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/resources/samplefinal_2000/data.json</guid>
+      <description>This resource includes 4 questions.</description>
+    </item>
+    
+    <item>
+      <title>samplefinal_2001.pdf</title>
+      <link>/resources/samplefinal_2001/data.json</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/resources/samplefinal_2001/data.json</guid>
+      <description>This resource includes 9 questions.</description>
+    </item>
+    
+    <item>
+      <title>samplefinal_2003.pdf</title>
+      <link>/resources/samplefinal_2003/data.json</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/resources/samplefinal_2003/data.json</guid>
+      <description>This resource includes 8 questions.</description>
+    </item>
+    
+    <item>
+      <title>smplfnl_1999_ans.pdf</title>
+      <link>/resources/smplfnl_1999_ans/data.json</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/resources/smplfnl_1999_ans/data.json</guid>
+      <description>This resource includes solutions for Final Exam-1999.</description>
+    </item>
+    
+    <item>
+      <title>smplfnl_2000_ans.pdf</title>
+      <link>/resources/smplfnl_2000_ans/data.json</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/resources/smplfnl_2000_ans/data.json</guid>
+      <description>This resource includes solutions for Final Exam-2000.</description>
+    </item>
+    
+    <item>
+      <title>smplfnl_2001_ans.pdf</title>
+      <link>/resources/smplfnl_2001_ans/data.json</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/resources/smplfnl_2001_ans/data.json</guid>
+      <description>This resource includes solutions for Final Exam-2001.</description>
+    </item>
+    
+    <item>
+      <title>smplfnl_2002_ans.pdf</title>
+      <link>/resources/smplfnl_2002_ans/data.json</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/resources/smplfnl_2002_ans/data.json</guid>
+      <description>This resource includes solutions for Final Exam-2002.</description>
+    </item>
+    
+    <item>
+      <title>smplfnl_2003_ans.pdf</title>
+      <link>/resources/smplfnl_2003_ans/data.json</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/resources/smplfnl_2003_ans/data.json</guid>
+      <description>This resource includes solutions for Final Exam-2003.</description>
+    </item>
+    
+    <item>
+      <title>smplmdtrm_99_ans.pdf</title>
+      <link>/resources/smplmdtrm_99_ans/data.json</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/resources/smplmdtrm_99_ans/data.json</guid>
+      <description>This resource includes solutions for Mid Term Exam-1999.</description>
+    </item>
+    
+    <item>
+      <title>smpmdtrm2000_ans.pdf</title>
+      <link>/resources/smpmdtrm2000_ans/data.json</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/resources/smpmdtrm2000_ans/data.json</guid>
+      <description>This resource includes solutions for Mid Term Exam-2000.</description>
+    </item>
+    
+    <item>
+      <title>smpmdtrm2001_ans.pdf</title>
+      <link>/resources/smpmdtrm2001_ans/data.json</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/resources/smpmdtrm2001_ans/data.json</guid>
+      <description>This resource includes solutions for Mid Term Exam-2001.</description>
+    </item>
+    
+    <item>
+      <title>smpmdtrm2002_ans.pdf</title>
+      <link>/resources/smpmdtrm2002_ans/data.json</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/resources/smpmdtrm2002_ans/data.json</guid>
+      <description>This resource includes solutions for Mid Term Exam-2002.</description>
+    </item>
+    
+    <item>
+      <title>smpmdtrm2003_ans.pdf</title>
+      <link>/resources/smpmdtrm2003_ans/data.json</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/resources/smpmdtrm2003_ans/data.json</guid>
+      <description>This resource includes solutions for Mid Term Exam-2003.</description>
+    </item>
+    
+  </channel>
+</rss>

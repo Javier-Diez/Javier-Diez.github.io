@@ -1,0 +1,173 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Lecture Notes on MIT OpenCourseWare</title>
+    <link>/resources/lecture-notes/</link>
+    <description>Recent content in Lecture Notes on MIT OpenCourseWare</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language><atom:link href="/resources/lecture-notes/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Lecture Notes</title>
+      <link>/pages/lecture-notes/data.json</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/pages/lecture-notes/data.json</guid>
+      <description>Selected lecture notes are available below.
+LEC # Topics Files 1 Introduction, Overview of the Course and the Role of Taxes in Business (PDF) 2 A Framework For Tax Planning (PDF) 3 A Framework For Tax Planning (PDF) 4 Implicit Taxes and Clienteles (PDF) 5 Organizational Form (PDF) 6 Arbitrage and Limits to Tax Planning 7 Non-Tax Costs (PDF) 8 Marginal Tax Rates (PDF) 9 Compensation (PDF) 10 Compensation (PDF) 11 Corporate Formation (PDF) 12 Corporate Formation (PDF) 13 Capital Structure (PDF) 14 International (PDF) 15 International 16 International 17 International 18 Taxable Acquisitions (PDF) 19 Taxable Acquisitions (PDF) 20 Taxable Acquisitions (PDF) 21 Tax-Free Acquisitions (PDF) 22 Tax-Free Acquisitions 23 Guest Speaker 24 Divestitures (PDF) 25 Divestitures 26 Miscellaneous Topics and Wrap-up </description>
+    </item>
+    
+    <item>
+      <title>session1.pdf</title>
+      <link>/resources/session1/data.json</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/resources/session1/data.json</guid>
+      <description>Objectives and Game Plan</description>
+    </item>
+    
+    <item>
+      <title>session11.pdf</title>
+      <link>/resources/session11/data.json</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/resources/session11/data.json</guid>
+      <description>Session 11 - Corporate Formation</description>
+    </item>
+    
+    <item>
+      <title>session12.pdf</title>
+      <link>/resources/session12/data.json</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/resources/session12/data.json</guid>
+      <description>Session 12 - Structuring a Start-up Transaction</description>
+    </item>
+    
+    <item>
+      <title>session13.pdf</title>
+      <link>/resources/session13/data.json</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/resources/session13/data.json</guid>
+      <description>Session 13 - Capital Structure</description>
+    </item>
+    
+    <item>
+      <title>session14.pdf</title>
+      <link>/resources/session14/data.json</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/resources/session14/data.json</guid>
+      <description>Session 14 - International Taxation</description>
+    </item>
+    
+    <item>
+      <title>session18.pdf</title>
+      <link>/resources/session18/data.json</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/resources/session18/data.json</guid>
+      <description>Session 18 - Corporate Reorganizations</description>
+    </item>
+    
+    <item>
+      <title>session19.pdf</title>
+      <link>/resources/session19/data.json</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/resources/session19/data.json</guid>
+      <description>Session 19 - Taxable Acquisitions</description>
+    </item>
+    
+    <item>
+      <title>session2.pdf</title>
+      <link>/resources/session2/data.json</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/resources/session2/data.json</guid>
+      <description>Objectives and Game Plan</description>
+    </item>
+    
+    <item>
+      <title>session20.pdf</title>
+      <link>/resources/session20/data.json</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/resources/session20/data.json</guid>
+      <description>Session 20 - Tax-free Acquisitions</description>
+    </item>
+    
+    <item>
+      <title>session21.pdf</title>
+      <link>/resources/session21/data.json</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/resources/session21/data.json</guid>
+      <description>Session 21 - More Tax-Free Reorganizations</description>
+    </item>
+    
+    <item>
+      <title>session23.pdf</title>
+      <link>/resources/session23/data.json</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/resources/session23/data.json</guid>
+      <description>Session 23 - Divestitures</description>
+    </item>
+    
+    <item>
+      <title>session3.pdf</title>
+      <link>/resources/session3/data.json</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/resources/session3/data.json</guid>
+      <description>Session 3 - Objectives and Game Plan</description>
+    </item>
+    
+    <item>
+      <title>session4.pdf</title>
+      <link>/resources/session4/data.json</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/resources/session4/data.json</guid>
+      <description>Session 4</description>
+    </item>
+    
+    <item>
+      <title>session5.pdf</title>
+      <link>/resources/session5/data.json</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/resources/session5/data.json</guid>
+      <description>Session 5 - Types of Organizational Forms</description>
+    </item>
+    
+    <item>
+      <title>session7.pdf</title>
+      <link>/resources/session7/data.json</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/resources/session7/data.json</guid>
+      <description>Session 7 - Nontax costs</description>
+    </item>
+    
+    <item>
+      <title>session8.pdf</title>
+      <link>/resources/session8/data.json</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/resources/session8/data.json</guid>
+      <description>Session 8 - Marginal tax rates</description>
+    </item>
+    
+    <item>
+      <title>Sessions9and10.pdf</title>
+      <link>/resources/sessions9and10/data.json</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/resources/sessions9and10/data.json</guid>
+      <description>Objectives ? Sessions 9 and 10</description>
+    </item>
+    
+  </channel>
+</rss>

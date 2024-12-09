@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Readings on MIT OpenCourseWare</title>
+    <link>/resources/readings/</link>
+    <description>Recent content in Readings on MIT OpenCourseWare</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language><atom:link href="/resources/readings/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>MIT15_431S11_read17.pdf</title>
+      <link>/resources/mit15_431s11_read17/data.json</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/resources/mit15_431s11_read17/data.json</guid>
+      <description>This resource contains information related to description of CEO search situation for a start-up.</description>
+    </item>
+    
+    <item>
+      <title>Readings</title>
+      <link>/pages/readings/data.json</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/pages/readings/data.json</guid>
+      <description>Case Questions are provided to guide your reading of the case studies listed below.
+SES # TOPICS READINGS 1 Introduction and overview of entrepreneurial finance Fenn, George W., Nellie Liang, and Stephen Prowse. &amp;ldquo;The Economics of the Private Equity Market.&amp;rdquo; Board of Governors of the Federal Reserve System, December 1995. 2 DermaCare Hamermesh, Prichard G., and Lauren Barley. &amp;ldquo;DermaCare: Zapping Zits Directly.&amp;rdquo; Harvard Business School Case. Harvard Business School Publishing. Case: 9-808-064, Rev.</description>
+    </item>
+    
+  </channel>
+</rss>

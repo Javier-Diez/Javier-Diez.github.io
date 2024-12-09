@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Readings on MIT OpenCourseWare</title>
+    <link>/resources/readings/</link>
+    <description>Recent content in Readings on MIT OpenCourseWare</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language><atom:link href="/resources/readings/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Readings</title>
+      <link>/pages/readings/data.json</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/pages/readings/data.json</guid>
+      <description>The &amp;ldquo;Do&amp;rdquo; problems will help students prepare for class and do not have to be submitted. Optional problems (&amp;ldquo;Opt&amp;rdquo;) are also included for some topics.
+The chapters are drawn from this text: Stickney, Clyde P., and Roman L. Weil. Financial Accounting: An Introduction to Concepts, Methods, and Uses. 10th ed. Thomson South-Western, 2003. ISBN: 0324183518.
+SES # TOPICS READINGS PROBLEMS L1 Overview and Introduction to Financial Statements
+Administrative Matters, Discussion of Accounting Framework Chapter 1 Do: 1-18, 1-21, 1-23</description>
+    </item>
+    
+  </channel>
+</rss>
