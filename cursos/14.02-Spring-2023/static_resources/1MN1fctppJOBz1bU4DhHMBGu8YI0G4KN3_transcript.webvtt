@@ -1,0 +1,3747 @@
+WEBVTT
+
+00:00:00.000 --> 00:00:02.440 align:middle line:90%
+[SQUEAKING]
+
+00:00:02.440 --> 00:00:03.904 align:middle line:90%
+[RUSTLING]
+
+00:00:03.904 --> 00:00:05.368 align:middle line:90%
+[CLICKING]
+
+00:00:05.368 --> 00:00:16.455 align:middle line:90%
+
+
+00:00:16.455 --> 00:00:18.080 align:middle line:84%
+RICARDEO CABALLERO:
+I couldn't connect.
+
+00:00:18.080 --> 00:00:21.960 align:middle line:84%
+So the Fed just hiked
+by 25 basis points.
+
+00:00:21.960 --> 00:00:25.370 align:middle line:90%
+And as people expected--
+
+00:00:25.370 --> 00:00:26.630 align:middle line:90%
+this is the way it works.
+
+00:00:26.630 --> 00:00:28.005 align:middle line:84%
+When there's lots
+of uncertainty,
+
+00:00:28.005 --> 00:00:31.400 align:middle line:84%
+essentially, the Fed
+starts communicating
+
+00:00:31.400 --> 00:00:33.980 align:middle line:84%
+what it's going to do,
+and the communication
+
+00:00:33.980 --> 00:00:40.100 align:middle line:84%
+was very clear that 25 basis
+points was to be expected.
+
+00:00:40.100 --> 00:00:42.200 align:middle line:84%
+And apparently-- I was
+reading this right now.
+
+00:00:42.200 --> 00:00:46.760 align:middle line:84%
+It was released 3 minutes
+ago, 4 minutes ago--
+
+00:00:46.760 --> 00:00:52.140 align:middle line:84%
+they also said that further
+hikes are no longer guaranteed.
+
+00:00:52.140 --> 00:00:56.570 align:middle line:84%
+So remember that we saw
+that expected hikes--
+
+00:00:56.570 --> 00:00:59.870 align:middle line:84%
+we saw several expected
+hikes for the next few months
+
+00:00:59.870 --> 00:01:02.990 align:middle line:90%
+before the SVB mess.
+
+00:01:02.990 --> 00:01:06.380 align:middle line:84%
+And right after it, we saw
+the whole thing declining.
+
+00:01:06.380 --> 00:01:11.150 align:middle line:84%
+And at least the minutes
+are consistent with that.
+
+00:01:11.150 --> 00:01:12.530 align:middle line:90%
+So there we are.
+
+00:01:12.530 --> 00:01:13.523 align:middle line:90%
+So not big uncertainty.
+
+00:01:13.523 --> 00:01:15.940 align:middle line:84%
+I imagine the markets are
+rallying or something like that,
+
+00:01:15.940 --> 00:01:17.610 align:middle line:84%
+at least for the next
+10 minutes or so.
+
+00:01:17.610 --> 00:01:20.790 align:middle line:90%
+But we shall see.
+
+00:01:20.790 --> 00:01:25.320 align:middle line:84%
+Anyway, but today, we're
+going to really start--
+
+00:01:25.320 --> 00:01:29.700 align:middle line:84%
+I'm going to show you the
+first model of economic growth.
+
+00:01:29.700 --> 00:01:33.915 align:middle line:84%
+And before I do that, who
+knows who that person is?
+
+00:01:33.915 --> 00:01:37.740 align:middle line:90%
+
+
+00:01:37.740 --> 00:01:39.000 align:middle line:90%
+No, no clue?
+
+00:01:39.000 --> 00:01:42.780 align:middle line:90%
+
+
+00:01:42.780 --> 00:01:46.020 align:middle line:90%
+Actually, he's Robert Solow.
+
+00:01:46.020 --> 00:01:48.210 align:middle line:84%
+He's an emeritus
+professor at MIT.
+
+00:01:48.210 --> 00:01:50.310 align:middle line:84%
+Together with Paul
+Samuelson, essentially, he's
+
+00:01:50.310 --> 00:01:53.760 align:middle line:84%
+responsible for building the
+Economics Department at MIT.
+
+00:01:53.760 --> 00:01:57.030 align:middle line:84%
+And he won the Nobel
+Prize in 1987--
+
+00:01:57.030 --> 00:01:58.320 align:middle line:90%
+I was a student then here--
+
+00:01:58.320 --> 00:02:03.990 align:middle line:90%
+
+
+00:02:03.990 --> 00:02:06.370 align:middle line:84%
+primarily for his work
+on economic growth.
+
+00:02:06.370 --> 00:02:10.169 align:middle line:84%
+And so what we're going to do in
+the next two or three lectures
+
+00:02:10.169 --> 00:02:15.570 align:middle line:84%
+are essentially things that Bob
+Solow developed many, many years
+
+00:02:15.570 --> 00:02:17.610 align:middle line:90%
+ago.
+
+00:02:17.610 --> 00:02:20.130 align:middle line:84%
+The basic mechanism--
+you remember
+
+00:02:20.130 --> 00:02:22.050 align:middle line:84%
+that we had this Keynesian
+cross before where
+
+00:02:22.050 --> 00:02:24.265 align:middle line:84%
+we had this multiplier
+in the goods market
+
+00:02:24.265 --> 00:02:26.640 align:middle line:84%
+and aggregate demand feeding
+into income and so on and so
+
+00:02:26.640 --> 00:02:27.160 align:middle line:90%
+forth.
+
+00:02:27.160 --> 00:02:31.350 align:middle line:84%
+That was the star mechanism
+in short-run macro.
+
+00:02:31.350 --> 00:02:37.480 align:middle line:84%
+In long-run macro growth theory,
+this is the key mechanism,
+
+00:02:37.480 --> 00:02:39.400 align:middle line:84%
+and you can think of
+it as the following.
+
+00:02:39.400 --> 00:02:43.110 align:middle line:84%
+At any point in
+time, an economy has
+
+00:02:43.110 --> 00:02:47.140 align:middle line:84%
+factors of production--
+primarily, labor and capital.
+
+00:02:47.140 --> 00:02:48.640 align:middle line:90%
+That capital is stock.
+
+00:02:48.640 --> 00:02:50.140 align:middle line:84%
+Labor is more or
+less fixed, so it
+
+00:02:50.140 --> 00:02:51.700 align:middle line:84%
+depends on population,
+growth, things
+
+00:02:51.700 --> 00:02:54.970 align:middle line:84%
+that are difficult to
+control, or they're not
+
+00:02:54.970 --> 00:02:58.780 align:middle line:84%
+really that endogenous to
+economics, not, at least,
+
+00:02:58.780 --> 00:03:00.610 align:middle line:90%
+in the current times.
+
+00:03:00.610 --> 00:03:02.530 align:middle line:84%
+Many centuries ago,
+yes, they were.
+
+00:03:02.530 --> 00:03:06.160 align:middle line:84%
+We had this Malthusian theories,
+in which population growth
+
+00:03:06.160 --> 00:03:10.240 align:middle line:84%
+determined growth because food
+scarcity and stuff like that.
+
+00:03:10.240 --> 00:03:14.530 align:middle line:84%
+But that's no longer
+the case, fortunately,
+
+00:03:14.530 --> 00:03:16.636 align:middle line:90%
+in most parts of the world.
+
+00:03:16.636 --> 00:03:20.560 align:middle line:84%
+But what can change over
+time and quite a bit,
+
+00:03:20.560 --> 00:03:23.770 align:middle line:84%
+and it depends on economic
+decisions, is the capital stock.
+
+00:03:23.770 --> 00:03:26.540 align:middle line:84%
+But at any point in time, there
+is certain capital stocks,
+
+00:03:26.540 --> 00:03:29.620 align:middle line:84%
+which, combined with labor,
+give you some certain output.
+
+00:03:29.620 --> 00:03:31.300 align:middle line:90%
+Output is income.
+
+00:03:31.300 --> 00:03:34.390 align:middle line:84%
+Part of that income will
+be saved, as we have seen.
+
+00:03:34.390 --> 00:03:39.660 align:middle line:84%
+And those savings will
+be used for investment.
+
+00:03:39.660 --> 00:03:43.450 align:middle line:84%
+But investment is nothing else
+than capital accumulation.
+
+00:03:43.450 --> 00:03:46.960 align:middle line:84%
+So this income will
+lead to savings,
+
+00:03:46.960 --> 00:03:48.690 align:middle line:84%
+which will fund
+investment, which
+
+00:03:48.690 --> 00:03:50.070 align:middle line:84%
+will change the
+stock of capital,
+
+00:03:50.070 --> 00:03:51.862 align:middle line:84%
+will feed into the
+capital stock, that will
+
+00:03:51.862 --> 00:03:53.530 align:middle line:90%
+feed into income, and so on.
+
+00:03:53.530 --> 00:03:56.280 align:middle line:84%
+All this is happening very
+slowly because the capital
+
+00:03:56.280 --> 00:03:57.480 align:middle line:90%
+stock accumulates slowly.
+
+00:03:57.480 --> 00:04:00.120 align:middle line:90%
+
+
+00:04:00.120 --> 00:04:01.595 align:middle line:90%
+But this is what is happening.
+
+00:04:01.595 --> 00:04:02.970 align:middle line:84%
+And so all the
+models we're going
+
+00:04:02.970 --> 00:04:04.845 align:middle line:84%
+to look at-- certainly,
+the model we're going
+
+00:04:04.845 --> 00:04:07.800 align:middle line:84%
+to look at in this lecture
+is all about this mechanism.
+
+00:04:07.800 --> 00:04:10.460 align:middle line:90%
+
+
+00:04:10.460 --> 00:04:14.005 align:middle line:84%
+So let's remember what we
+did in the previous lecture.
+
+00:04:14.005 --> 00:04:16.579 align:middle line:90%
+
+
+00:04:16.579 --> 00:04:18.920 align:middle line:84%
+And I'm going to assume
+that population is constant.
+
+00:04:18.920 --> 00:04:20.300 align:middle line:84%
+I'm going to relax
+that at the very end.
+
+00:04:20.300 --> 00:04:22.730 align:middle line:84%
+But assume that the population
+is constant and equal to N.
+
+00:04:22.730 --> 00:04:25.370 align:middle line:84%
+And remember, we're not worried
+about unemployment and stuff
+
+00:04:25.370 --> 00:04:27.090 align:middle line:90%
+like that here.
+
+00:04:27.090 --> 00:04:33.860 align:middle line:84%
+And so output per capita
+or per person is Y over N.
+
+00:04:33.860 --> 00:04:36.680 align:middle line:84%
+And we remember we had
+a production function
+
+00:04:36.680 --> 00:04:40.490 align:middle line:84%
+f of K and N. Then because
+of constant returns to scale,
+
+00:04:40.490 --> 00:04:43.940 align:middle line:84%
+we could divide by N on
+both sides, everything.
+
+00:04:43.940 --> 00:04:47.520 align:middle line:84%
+And we ended up with
+this relationship.
+
+00:04:47.520 --> 00:04:51.060 align:middle line:84%
+So output per
+person is equal to--
+
+00:04:51.060 --> 00:04:54.170 align:middle line:84%
+is an increasing function
+of capital per person.
+
+00:04:54.170 --> 00:04:56.330 align:middle line:84%
+It's an increasing function
+of capital per person,
+
+00:04:56.330 --> 00:05:01.070 align:middle line:84%
+but it's also a concave
+function of capital per person.
+
+00:05:01.070 --> 00:05:02.660 align:middle line:90%
+Why is it concave?
+
+00:05:02.660 --> 00:05:05.360 align:middle line:84%
+That is, why is it
+increasing at a smaller pace?
+
+00:05:05.360 --> 00:05:14.240 align:middle line:90%
+
+
+00:05:14.240 --> 00:05:15.212 align:middle line:90%
+Yeah?
+
+00:05:15.212 --> 00:05:17.160 align:middle line:84%
+AUDIENCE: It's decreasing
+marginal method.
+
+00:05:17.160 --> 00:05:19.770 align:middle line:84%
+RICARDEO CABALLERO:
+Decreasing marginal product
+
+00:05:19.770 --> 00:05:21.990 align:middle line:90%
+of capital, exactly.
+
+00:05:21.990 --> 00:05:23.850 align:middle line:84%
+For fixed amount of
+labor, the more capital
+
+00:05:23.850 --> 00:05:28.440 align:middle line:84%
+you put into production,
+well, output keeps expanding,
+
+00:05:28.440 --> 00:05:31.350 align:middle line:84%
+but by less and less because
+it has less and less labor
+
+00:05:31.350 --> 00:05:33.990 align:middle line:84%
+to work with, each
+unit of capital.
+
+00:05:33.990 --> 00:05:34.740 align:middle line:90%
+Perfect.
+
+00:05:34.740 --> 00:05:36.960 align:middle line:90%
+That's very important.
+
+00:05:36.960 --> 00:05:39.510 align:middle line:84%
+Then we're going to
+work in closed economy.
+
+00:05:39.510 --> 00:05:40.380 align:middle line:90%
+I haven't opened it.
+
+00:05:40.380 --> 00:05:43.800 align:middle line:84%
+I'm going to do
+that after quiz 2.
+
+00:05:43.800 --> 00:05:46.410 align:middle line:90%
+
+
+00:05:46.410 --> 00:05:49.300 align:middle line:84%
+And I'm going to assume, also,
+no public deficits-- so g
+
+00:05:49.300 --> 00:05:52.630 align:middle line:84%
+equal to T, capital
+T. And in that case,
+
+00:05:52.630 --> 00:05:57.220 align:middle line:84%
+then, we know that private
+investment-- private savings
+
+00:05:57.220 --> 00:05:58.920 align:middle line:90%
+equal to private investment.
+
+00:05:58.920 --> 00:06:02.340 align:middle line:84%
+That's the way we
+derived our S curve.
+
+00:06:02.340 --> 00:06:06.040 align:middle line:90%
+So that's not new.
+
+00:06:06.040 --> 00:06:10.310 align:middle line:84%
+I'm going to modify a little bit
+what we did in the short run,
+
+00:06:10.310 --> 00:06:12.510 align:middle line:84%
+and I'm going to
+assume that savings
+
+00:06:12.510 --> 00:06:14.110 align:middle line:90%
+is proportional to income.
+
+00:06:14.110 --> 00:06:18.690 align:middle line:84%
+So savings-- little
+s times Y. Notice
+
+00:06:18.690 --> 00:06:22.870 align:middle line:84%
+that this is different from
+what we did in the short run.
+
+00:06:22.870 --> 00:06:25.290 align:middle line:84%
+In the short run, remember,
+we had a C0 floating around.
+
+00:06:25.290 --> 00:06:28.120 align:middle line:84%
+We had a constant in the
+consumption function.
+
+00:06:28.120 --> 00:06:31.050 align:middle line:84%
+So savings, which was equal
+to income minus consumption,
+
+00:06:31.050 --> 00:06:33.930 align:middle line:84%
+also had a constant
+floating around.
+
+00:06:33.930 --> 00:06:36.810 align:middle line:84%
+Now, that constant was
+important in the short-run model
+
+00:06:36.810 --> 00:06:39.570 align:middle line:84%
+because we were approximating
+for a bunch of things that are
+
+00:06:39.570 --> 00:06:41.400 align:middle line:84%
+not related to
+short-term income--
+
+00:06:41.400 --> 00:06:46.500 align:middle line:84%
+wealth, the price of
+houses, and stuff like that.
+
+00:06:46.500 --> 00:06:49.860 align:middle line:84%
+We put all that in
+that constant there.
+
+00:06:49.860 --> 00:06:52.710 align:middle line:84%
+When you think about
+the long run, though,
+
+00:06:52.710 --> 00:06:55.500 align:middle line:84%
+most of those things
+that we excluded there--
+
+00:06:55.500 --> 00:06:57.450 align:middle line:90%
+asset prices, stuff like that--
+
+00:06:57.450 --> 00:07:00.540 align:middle line:84%
+tend to scale with
+output, as well.
+
+00:07:00.540 --> 00:07:03.550 align:middle line:84%
+So these are inconsistent
+on the surface.
+
+00:07:03.550 --> 00:07:05.100 align:middle line:84%
+But if you were
+to fully work out
+
+00:07:05.100 --> 00:07:08.640 align:middle line:84%
+what is behind the C0 in
+the consumption function,
+
+00:07:08.640 --> 00:07:11.280 align:middle line:84%
+then this is not a
+bad approximation.
+
+00:07:11.280 --> 00:07:13.200 align:middle line:84%
+They are not that
+inconsistent because you
+
+00:07:13.200 --> 00:07:17.100 align:middle line:84%
+endogenize things that, over
+the long run, scale with income.
+
+00:07:17.100 --> 00:07:20.080 align:middle line:84%
+I mean, wealth tends
+to rise with income,
+
+00:07:20.080 --> 00:07:22.480 align:middle line:84%
+and all these things tend
+to move together-- not
+
+00:07:22.480 --> 00:07:23.380 align:middle line:90%
+at high frequency.
+
+00:07:23.380 --> 00:07:25.120 align:middle line:84%
+You can have all
+sorts of fluctuations.
+
+00:07:25.120 --> 00:07:28.580 align:middle line:84%
+But over the long run, they
+tend to scale up together.
+
+00:07:28.580 --> 00:07:31.220 align:middle line:84%
+So that's going to be
+our saving function.
+
+00:07:31.220 --> 00:07:35.660 align:middle line:84%
+So that means that we
+know, in equilibrium--
+
+00:07:35.660 --> 00:07:37.360 align:middle line:90%
+this is not investment function.
+
+00:07:37.360 --> 00:07:42.160 align:middle line:84%
+We know that, in equilibrium,
+investment will be equal to--
+
+00:07:42.160 --> 00:07:45.270 align:middle line:84%
+it will be
+proportional to income.
+
+00:07:45.270 --> 00:07:48.900 align:middle line:84%
+So remember where we were
+going through the box.
+
+00:07:48.900 --> 00:07:51.150 align:middle line:84%
+At the top of the
+box, we had capital.
+
+00:07:51.150 --> 00:07:52.800 align:middle line:90%
+That led to output.
+
+00:07:52.800 --> 00:07:54.450 align:middle line:84%
+We're doing
+everything per capita.
+
+00:07:54.450 --> 00:08:01.560 align:middle line:84%
+That led to savings, and
+that funded investment.
+
+00:08:01.560 --> 00:08:03.700 align:middle line:90%
+So that's what we have.
+
+00:08:03.700 --> 00:08:10.080 align:middle line:84%
+So this growth model is really
+about these three functional
+
+00:08:10.080 --> 00:08:11.880 align:middle line:84%
+forms and then a
+dynamic equation
+
+00:08:11.880 --> 00:08:13.540 align:middle line:90%
+for the stock of capital.
+
+00:08:13.540 --> 00:08:18.070 align:middle line:84%
+So the evolution of
+the stock of capital--
+
+00:08:18.070 --> 00:08:21.240 align:middle line:84%
+capital will increase
+because of investment.
+
+00:08:21.240 --> 00:08:22.590 align:middle line:90%
+That's what investment is.
+
+00:08:22.590 --> 00:08:26.250 align:middle line:84%
+It's an increase in
+the stock of capital.
+
+00:08:26.250 --> 00:08:30.360 align:middle line:84%
+But it will also decrease
+as a result of depreciation.
+
+00:08:30.360 --> 00:08:36.043 align:middle line:84%
+I mean, things do break
+up once in a while.
+
+00:08:36.043 --> 00:08:38.460 align:middle line:84%
+And different types of capital
+have different depreciation
+
+00:08:38.460 --> 00:08:39.120 align:middle line:90%
+rates.
+
+00:08:39.120 --> 00:08:41.610 align:middle line:84%
+Equipment depreciates much
+faster than structures,
+
+00:08:41.610 --> 00:08:43.600 align:middle line:90%
+and buildings, and so on.
+
+00:08:43.600 --> 00:08:46.170 align:middle line:84%
+But we're not going to make
+those distinctions here.
+
+00:08:46.170 --> 00:08:49.350 align:middle line:84%
+But you see this tells you,
+the capital stock at t plus 1
+
+00:08:49.350 --> 00:08:52.740 align:middle line:84%
+is equal to the capital
+stock we had before minus
+
+00:08:52.740 --> 00:08:55.080 align:middle line:84%
+what is depreciated of
+that stock of capital
+
+00:08:55.080 --> 00:08:57.510 align:middle line:84%
+plus any new
+investment we do today.
+
+00:08:57.510 --> 00:09:00.410 align:middle line:90%
+
+
+00:09:00.410 --> 00:09:02.690 align:middle line:84%
+In per worker terms-- and
+remember that, for now,
+
+00:09:02.690 --> 00:09:05.300 align:middle line:84%
+I'm keeping population
+growth constant--
+
+00:09:05.300 --> 00:09:07.480 align:middle line:84%
+equal to 0-- not
+population growth
+
+00:09:07.480 --> 00:09:09.230 align:middle line:84%
+constant-- yeah,
+constant, but equal to 0.
+
+00:09:09.230 --> 00:09:12.110 align:middle line:90%
+So population is constant.
+
+00:09:12.110 --> 00:09:15.140 align:middle line:84%
+I can divide these
+both sides by N,
+
+00:09:15.140 --> 00:09:18.710 align:middle line:84%
+and I get that
+capital per worker.
+
+00:09:18.710 --> 00:09:23.690 align:middle line:84%
+Per worker or per person is
+equal to this expression here.
+
+00:09:23.690 --> 00:09:24.650 align:middle line:90%
+I did two things here.
+
+00:09:24.650 --> 00:09:29.420 align:middle line:84%
+I divided by N, and I
+replaced this I function,
+
+00:09:29.420 --> 00:09:33.837 align:middle line:84%
+this investment, for
+savings because I
+
+00:09:33.837 --> 00:09:35.670 align:middle line:84%
+know, in equilibrium,
+they have to be equal.
+
+00:09:35.670 --> 00:09:38.420 align:middle line:90%
+So I have that.
+
+00:09:38.420 --> 00:09:39.740 align:middle line:90%
+I can rewrite this.
+
+00:09:39.740 --> 00:09:43.400 align:middle line:84%
+Just subtract Kt
+over N on both sides,
+
+00:09:43.400 --> 00:09:46.400 align:middle line:84%
+and then you get-- the
+change in capital per person
+
+00:09:46.400 --> 00:09:50.570 align:middle line:84%
+is an increasing
+function of savings
+
+00:09:50.570 --> 00:09:53.060 align:middle line:90%
+and decreasing of depreciation.
+
+00:09:53.060 --> 00:09:58.310 align:middle line:84%
+So the last step that is
+important in this model is to--
+
+00:09:58.310 --> 00:10:01.070 align:middle line:84%
+so here, I have, essentially, a
+difference equation for capital,
+
+00:10:01.070 --> 00:10:04.040 align:middle line:84%
+but we have an output per
+capita on the right-hand side.
+
+00:10:04.040 --> 00:10:07.890 align:middle line:84%
+But it turns out that I
+know that output per capita,
+
+00:10:07.890 --> 00:10:09.050 align:middle line:90%
+per person--
+
+00:10:09.050 --> 00:10:10.432 align:middle line:90%
+I said per capita, per person.
+
+00:10:10.432 --> 00:10:11.390 align:middle line:90%
+They're the same thing.
+
+00:10:11.390 --> 00:10:15.330 align:middle line:84%
+Per worker-- it's the same thing
+in this part of the course.
+
+00:10:15.330 --> 00:10:19.286 align:middle line:90%
+So this is equal to--
+
+00:10:19.286 --> 00:10:21.740 align:middle line:84%
+is a function, is an
+increasing and concave function
+
+00:10:21.740 --> 00:10:25.290 align:middle line:90%
+of capital per person.
+
+00:10:25.290 --> 00:10:28.530 align:middle line:84%
+So this is-- I would say
+it's a fundamental equation
+
+00:10:28.530 --> 00:10:30.270 align:middle line:90%
+of the Solow growth model.
+
+00:10:30.270 --> 00:10:35.370 align:middle line:84%
+It says, the change in the
+stock of capital increases
+
+00:10:35.370 --> 00:10:42.600 align:middle line:84%
+with investment, of course, and
+decreases with depreciation.
+
+00:10:42.600 --> 00:10:45.390 align:middle line:84%
+And both of these
+expressions here
+
+00:10:45.390 --> 00:10:51.630 align:middle line:84%
+are increasing functions of the
+stock of capital per person.
+
+00:10:51.630 --> 00:10:54.670 align:middle line:84%
+So let's try to understand
+what is in here.
+
+00:10:54.670 --> 00:11:01.470 align:middle line:84%
+So why-- so this is
+linear, obviously,
+
+00:11:01.470 --> 00:11:03.900 align:middle line:84%
+because the
+depreciation is linear.
+
+00:11:03.900 --> 00:11:07.140 align:middle line:84%
+Say you lose 5% of your
+stock of capital every year
+
+00:11:07.140 --> 00:11:09.180 align:middle line:90%
+because it breaks down.
+
+00:11:09.180 --> 00:11:12.190 align:middle line:84%
+Obviously, the more capital
+per person you have,
+
+00:11:12.190 --> 00:11:14.580 align:middle line:84%
+the more units of capital
+you're going to lose.
+
+00:11:14.580 --> 00:11:16.620 align:middle line:84%
+This is units of
+capital per person.
+
+00:11:16.620 --> 00:11:19.470 align:middle line:84%
+You have a larger stock of
+capital, you're going to lose--
+
+00:11:19.470 --> 00:11:22.688 align:middle line:84%
+5% of a larger number
+is a larger number.
+
+00:11:22.688 --> 00:11:23.730 align:middle line:90%
+And this is proportional.
+
+00:11:23.730 --> 00:11:24.870 align:middle line:90%
+It's linear.
+
+00:11:24.870 --> 00:11:27.240 align:middle line:84%
+Now, this one--
+remember, this comes here
+
+00:11:27.240 --> 00:11:29.460 align:middle line:90%
+from the saving function.
+
+00:11:29.460 --> 00:11:33.850 align:middle line:84%
+And this term here is
+equal to income per person.
+
+00:11:33.850 --> 00:11:36.780 align:middle line:84%
+Now, suppose that you
+start in a situation
+
+00:11:36.780 --> 00:11:39.340 align:middle line:84%
+where the capital stock
+is relatively low,
+
+00:11:39.340 --> 00:11:42.500 align:middle line:90%
+and this is positive.
+
+00:11:42.500 --> 00:11:44.350 align:middle line:84%
+What does it mean
+that this is positive?
+
+00:11:44.350 --> 00:11:46.570 align:middle line:84%
+I mean, the implication
+of this being positive
+
+00:11:46.570 --> 00:11:50.420 align:middle line:84%
+is that the stock of capital
+per person will be growing.
+
+00:11:50.420 --> 00:11:52.855 align:middle line:84%
+But what does it mean that
+it's positive in words?
+
+00:11:52.855 --> 00:11:56.190 align:middle line:90%
+
+
+00:11:56.190 --> 00:11:58.450 align:middle line:84%
+I mean, you have a
+stock of capital.
+
+00:11:58.450 --> 00:12:00.840 align:middle line:84%
+There are things that
+reduce the stock of capital,
+
+00:12:00.840 --> 00:12:03.490 align:middle line:84%
+and there are things that
+increase the stock of capital.
+
+00:12:03.490 --> 00:12:06.250 align:middle line:84%
+This is the thing that
+increases the stock of capital.
+
+00:12:06.250 --> 00:12:08.770 align:middle line:84%
+That's the thing that
+reduces the stock of capital.
+
+00:12:08.770 --> 00:12:17.000 align:middle line:84%
+So if this is greater than
+that, what does that mean?
+
+00:12:17.000 --> 00:12:18.220 align:middle line:90%
+That means it is positive.
+
+00:12:18.220 --> 00:12:20.590 align:middle line:90%
+But in words, what is happening?
+
+00:12:20.590 --> 00:12:31.360 align:middle line:90%
+
+
+00:12:31.360 --> 00:12:33.300 align:middle line:84%
+And we simplify,
+but remember, this
+
+00:12:33.300 --> 00:12:34.920 align:middle line:90%
+is just investment per person.
+
+00:12:34.920 --> 00:12:39.240 align:middle line:90%
+
+
+00:12:39.240 --> 00:12:43.980 align:middle line:84%
+Well, this just says
+that in this economy,
+
+00:12:43.980 --> 00:12:46.740 align:middle line:84%
+there is more investment
+than destruction
+
+00:12:46.740 --> 00:12:49.850 align:middle line:90%
+of capital due to depreciation.
+
+00:12:49.850 --> 00:12:51.260 align:middle line:90%
+That's what this means.
+
+00:12:51.260 --> 00:12:53.220 align:middle line:90%
+This is investment.
+
+00:12:53.220 --> 00:12:56.540 align:middle line:84%
+And this is positive means
+that the investment, which
+
+00:12:56.540 --> 00:12:58.940 align:middle line:84%
+is a function of saving,
+the saving rate, and stuff
+
+00:12:58.940 --> 00:13:00.290 align:middle line:90%
+like that--
+
+00:13:00.290 --> 00:13:03.530 align:middle line:84%
+it's a function of the funding
+available for investment--
+
+00:13:03.530 --> 00:13:07.640 align:middle line:84%
+it's equal to the funding
+available for investment.
+
+00:13:07.640 --> 00:13:10.010 align:middle line:84%
+If this is positive,
+well, this is greater
+
+00:13:10.010 --> 00:13:12.200 align:middle line:90%
+than the stock of capital.
+
+00:13:12.200 --> 00:13:14.840 align:middle line:84%
+Another way of saying it--
+you need a minimum level
+
+00:13:14.840 --> 00:13:17.915 align:middle line:84%
+of investment in an economy to
+maintain the stock of capital.
+
+00:13:17.915 --> 00:13:20.282 align:middle line:90%
+
+
+00:13:20.282 --> 00:13:21.740 align:middle line:84%
+The minimum level
+of investment you
+
+00:13:21.740 --> 00:13:23.750 align:middle line:84%
+need to maintain
+the stock of capital
+
+00:13:23.750 --> 00:13:25.410 align:middle line:90%
+is equal to the depreciation.
+
+00:13:25.410 --> 00:13:30.050 align:middle line:84%
+So 10 machine breaks, you need
+to invest at least 10 machines
+
+00:13:30.050 --> 00:13:34.190 align:middle line:84%
+in order to maintain the
+stock of capital constant.
+
+00:13:34.190 --> 00:13:35.658 align:middle line:84%
+Now if this is
+positive, it means
+
+00:13:35.658 --> 00:13:37.700 align:middle line:84%
+that you're investing more
+than the machines that
+
+00:13:37.700 --> 00:13:39.080 align:middle line:90%
+are breaking down.
+
+00:13:39.080 --> 00:13:42.780 align:middle line:84%
+Now, suppose you start in a
+situation where that's the case.
+
+00:13:42.780 --> 00:13:45.740 align:middle line:84%
+So that means the stock
+of capital is growing.
+
+00:13:45.740 --> 00:13:47.720 align:middle line:84%
+Suppose I ask you,
+the next period,
+
+00:13:47.720 --> 00:13:51.350 align:middle line:84%
+do you think the gap will
+be larger or smaller than it
+
+00:13:51.350 --> 00:13:52.070 align:middle line:90%
+used to be?
+
+00:13:52.070 --> 00:14:02.220 align:middle line:90%
+
+
+00:14:02.220 --> 00:14:05.400 align:middle line:84%
+Actually, that's
+not a great question
+
+00:14:05.400 --> 00:14:10.480 align:middle line:84%
+because I'm not doing it in
+the right units for that.
+
+00:14:10.480 --> 00:14:14.310 align:middle line:84%
+Let me ask you a variation
+of that question.
+
+00:14:14.310 --> 00:14:16.800 align:middle line:90%
+Suppose we keep going.
+
+00:14:16.800 --> 00:14:19.860 align:middle line:84%
+After a while, do
+you think that number
+
+00:14:19.860 --> 00:14:23.670 align:middle line:90%
+will get larger or smaller?
+
+00:14:23.670 --> 00:14:26.460 align:middle line:90%
+Let it run for quite a while.
+
+00:14:26.460 --> 00:14:29.400 align:middle line:84%
+Do you think that number will--
+so remember what I'm saying.
+
+00:14:29.400 --> 00:14:31.180 align:middle line:84%
+We start from some
+stock of capital.
+
+00:14:31.180 --> 00:14:32.333 align:middle line:90%
+This is positive.
+
+00:14:32.333 --> 00:14:34.500 align:middle line:84%
+If this is positive, it
+means that the capital stock
+
+00:14:34.500 --> 00:14:35.260 align:middle line:90%
+is growing.
+
+00:14:35.260 --> 00:14:38.460 align:middle line:84%
+That means this guy is growing,
+and that guy is growing,
+
+00:14:38.460 --> 00:14:40.860 align:middle line:90%
+and they're growing equally.
+
+00:14:40.860 --> 00:14:43.230 align:middle line:84%
+But after a while, do you
+think this number will
+
+00:14:43.230 --> 00:14:45.750 align:middle line:90%
+get smaller or bigger--
+
+00:14:45.750 --> 00:14:47.790 align:middle line:84%
+after a long while,
+just to make sure
+
+00:14:47.790 --> 00:14:49.520 align:middle line:84%
+that my approximation
+is not tidy.
+
+00:14:49.520 --> 00:14:55.448 align:middle line:90%
+
+
+00:14:55.448 --> 00:14:57.930 align:middle line:84%
+AUDIENCE: Smaller because of
+the decrease in [INAUDIBLE]..
+
+00:14:57.930 --> 00:14:59.097 align:middle line:90%
+RICARDEO CABALLERO: Exactly.
+
+00:14:59.097 --> 00:15:01.170 align:middle line:84%
+It's going to get smaller
+because this guy keeps
+
+00:15:01.170 --> 00:15:05.370 align:middle line:84%
+growing linearly [INAUDIBLE]
+and this one is not.
+
+00:15:05.370 --> 00:15:06.840 align:middle line:90%
+It's concave.
+
+00:15:06.840 --> 00:15:08.850 align:middle line:90%
+At some point, this income--
+
+00:15:08.850 --> 00:15:10.800 align:middle line:84%
+you need to put a lot
+of capital for income
+
+00:15:10.800 --> 00:15:13.050 align:middle line:84%
+to keep rising, and
+therefore, for saving
+
+00:15:13.050 --> 00:15:15.900 align:middle line:84%
+to keep rising, and therefore,
+for investment to keep rising.
+
+00:15:15.900 --> 00:15:20.378 align:middle line:84%
+And at some point, yes, it
+won't be able to really grow.
+
+00:15:20.378 --> 00:15:22.920 align:middle line:84%
+I mean, you're going to be using
+all your investment, really,
+
+00:15:22.920 --> 00:15:25.350 align:middle line:84%
+to maintain the
+stock of capital.
+
+00:15:25.350 --> 00:15:30.000 align:middle line:84%
+That's the logic
+of the Solow model.
+
+00:15:30.000 --> 00:15:31.532 align:middle line:90%
+And it's all in this diagram.
+
+00:15:31.532 --> 00:15:33.990 align:middle line:84%
+So this is the diagram you
+should really, really understand
+
+00:15:33.990 --> 00:15:37.830 align:middle line:84%
+well and control it, and
+play with it, and all that.
+
+00:15:37.830 --> 00:15:40.110 align:middle line:84%
+It's the equivalent
+to your IS-LM
+
+00:15:40.110 --> 00:15:44.440 align:middle line:84%
+model in the first
+part of the course.
+
+00:15:44.440 --> 00:15:46.760 align:middle line:90%
+So look at what we have here.
+
+00:15:46.760 --> 00:15:51.070 align:middle line:84%
+So I'm going to plot
+output per worker--
+
+00:15:51.070 --> 00:15:52.570 align:middle line:90%
+per worker, per person--
+
+00:15:52.570 --> 00:15:56.030 align:middle line:90%
+against capital per worker here.
+
+00:15:56.030 --> 00:16:04.570 align:middle line:84%
+And so this red line here
+is just the depreciation,
+
+00:16:04.570 --> 00:16:09.550 align:middle line:84%
+this term here, and thus,
+is a linear function
+
+00:16:09.550 --> 00:16:12.160 align:middle line:90%
+of the capital per worker.
+
+00:16:12.160 --> 00:16:15.270 align:middle line:90%
+That's what it is.
+
+00:16:15.270 --> 00:16:20.890 align:middle line:84%
+The blue line here is output
+per worker, which, as we said,
+
+00:16:20.890 --> 00:16:24.420 align:middle line:84%
+is a concave function
+of K over N. Remember,
+
+00:16:24.420 --> 00:16:26.420 align:middle line:84%
+I showed you that
+production function
+
+00:16:26.420 --> 00:16:28.300 align:middle line:90%
+in the previous lecture.
+
+00:16:28.300 --> 00:16:30.150 align:middle line:90%
+There you are.
+
+00:16:30.150 --> 00:16:32.130 align:middle line:90%
+What is the green line?
+
+00:16:32.130 --> 00:16:34.230 align:middle line:84%
+It's investment
+per worker, which
+
+00:16:34.230 --> 00:16:35.910 align:middle line:90%
+is equal to saving per worker.
+
+00:16:35.910 --> 00:16:39.420 align:middle line:84%
+And saving per worker is
+little s, the saving rate,
+
+00:16:39.420 --> 00:16:41.890 align:middle line:90%
+times a output.
+
+00:16:41.890 --> 00:16:44.910 align:middle line:84%
+So it's little s, which
+is a number like 0.1,
+
+00:16:44.910 --> 00:16:49.320 align:middle line:84%
+if we're talking about
+the US, and 0.4 if we're
+
+00:16:49.320 --> 00:16:50.670 align:middle line:90%
+talking about Singapore.
+
+00:16:50.670 --> 00:16:52.395 align:middle line:84%
+It varies a lot
+across countries.
+
+00:16:52.395 --> 00:16:55.440 align:middle line:90%
+
+
+00:16:55.440 --> 00:16:58.080 align:middle line:84%
+So this green line
+here is nothing else
+
+00:16:58.080 --> 00:17:01.342 align:middle line:84%
+than this blue line multiplied
+by a number that is less than 1.
+
+00:17:01.342 --> 00:17:02.550 align:middle line:90%
+That's the reason it's lower.
+
+00:17:02.550 --> 00:17:06.140 align:middle line:90%
+
+
+00:17:06.140 --> 00:17:07.010 align:middle line:90%
+OK, good.
+
+00:17:07.010 --> 00:17:12.270 align:middle line:84%
+So the point I was describing
+before was a point like this.
+
+00:17:12.270 --> 00:17:13.579 align:middle line:90%
+Remember?
+
+00:17:13.579 --> 00:17:15.800 align:middle line:90%
+The point I was describing--
+
+00:17:15.800 --> 00:17:19.099 align:middle line:84%
+suppose that the economy starts
+in a point like this one, K0
+
+00:17:19.099 --> 00:17:24.250 align:middle line:84%
+over N. And I want to understand
+the dynamics of this economy.
+
+00:17:24.250 --> 00:17:26.480 align:middle line:90%
+How will it grow over time?
+
+00:17:26.480 --> 00:17:33.090 align:middle line:84%
+So what you see here
+is that, at this level
+
+00:17:33.090 --> 00:17:37.030 align:middle line:84%
+of capital per
+worker, investment
+
+00:17:37.030 --> 00:17:41.390 align:middle line:90%
+is greater than depreciation.
+
+00:17:41.390 --> 00:17:43.690 align:middle line:84%
+So that's exactly
+a situation where
+
+00:17:43.690 --> 00:17:50.585 align:middle line:84%
+this is positive That
+distance here is that.
+
+00:17:50.585 --> 00:17:53.980 align:middle line:90%
+
+
+00:17:53.980 --> 00:17:56.160 align:middle line:84%
+And the reason I
+said, ah, I'm not
+
+00:17:56.160 --> 00:17:58.660 align:middle line:84%
+going to do any local analysis
+because we could have started
+
+00:17:58.660 --> 00:18:02.660 align:middle line:84%
+with a K over 0 over here, and
+then that number is growing.
+
+00:18:02.660 --> 00:18:04.630 align:middle line:84%
+But it's growing-- if
+you were to normalize
+
+00:18:04.630 --> 00:18:07.645 align:middle line:84%
+by the stock of
+capital, it's declining.
+
+00:18:07.645 --> 00:18:09.320 align:middle line:84%
+But I didn't want
+to do that then.
+
+00:18:09.320 --> 00:18:12.380 align:middle line:84%
+But now, that's what I--
+so let's look at this case.
+
+00:18:12.380 --> 00:18:14.320 align:middle line:84%
+You're in a situation
+where this is positive.
+
+00:18:14.320 --> 00:18:18.610 align:middle line:84%
+If this is positive, it means
+the capital stock per worker
+
+00:18:18.610 --> 00:18:19.330 align:middle line:90%
+is growing.
+
+00:18:19.330 --> 00:18:21.540 align:middle line:90%
+So you're moving to the right.
+
+00:18:21.540 --> 00:18:25.110 align:middle line:84%
+In the next period,
+you're going to be here.
+
+00:18:25.110 --> 00:18:26.610 align:middle line:84%
+That means the
+capital-- so it keeps
+
+00:18:26.610 --> 00:18:30.990 align:middle line:90%
+growing but by smaller steps.
+
+00:18:30.990 --> 00:18:35.170 align:middle line:84%
+Eventually, the
+investment is entirely
+
+00:18:35.170 --> 00:18:41.270 align:middle line:84%
+used for recovering from
+the depreciation of capital,
+
+00:18:41.270 --> 00:18:43.490 align:middle line:84%
+so covering the
+depreciation of capital.
+
+00:18:43.490 --> 00:18:47.830 align:middle line:84%
+And at that point, the
+capital stock stops growing.
+
+00:18:47.830 --> 00:18:50.440 align:middle line:84%
+We call that a steady
+state, stationary state.
+
+00:18:50.440 --> 00:18:53.190 align:middle line:90%
+We stop there.
+
+00:18:53.190 --> 00:18:55.500 align:middle line:84%
+So that's the steady
+state of this model.
+
+00:18:55.500 --> 00:18:58.892 align:middle line:84%
+That means this economy,
+regardless of where I--
+
+00:18:58.892 --> 00:19:00.600 align:middle line:84%
+I'll do the analysis
+from the other side.
+
+00:19:00.600 --> 00:19:02.683 align:middle line:84%
+Suppose that you start
+from a situation like this.
+
+00:19:02.683 --> 00:19:05.250 align:middle line:90%
+You start with a lot of capital.
+
+00:19:05.250 --> 00:19:08.730 align:middle line:84%
+Well, if you start with a lot
+of capital in this economy,
+
+00:19:08.730 --> 00:19:12.100 align:middle line:90%
+what happens here?
+
+00:19:12.100 --> 00:19:14.520 align:middle line:84%
+Well, what happens here
+is that the investment
+
+00:19:14.520 --> 00:19:16.620 align:middle line:84%
+you're putting into the
+ground in this economy
+
+00:19:16.620 --> 00:19:20.030 align:middle line:84%
+is less than what you need to
+maintain the stock of capital,
+
+00:19:20.030 --> 00:19:21.640 align:middle line:90%
+which is the depreciation.
+
+00:19:21.640 --> 00:19:23.200 align:middle line:84%
+And that means the
+stock of capital
+
+00:19:23.200 --> 00:19:26.050 align:middle line:90%
+will be shrinking over time.
+
+00:19:26.050 --> 00:19:27.440 align:middle line:90%
+You're moving that way.
+
+00:19:27.440 --> 00:19:31.180 align:middle line:84%
+So regardless of where
+you start in this economy,
+
+00:19:31.180 --> 00:19:34.150 align:middle line:84%
+if I ask you the question
+A hundred years from now,
+
+00:19:34.150 --> 00:19:36.998 align:middle line:90%
+where are you?
+
+00:19:36.998 --> 00:19:39.290 align:middle line:84%
+you tell me, I don't need to
+know where you start from.
+
+00:19:39.290 --> 00:19:41.350 align:middle line:84%
+I know that we're going
+to end up around there.
+
+00:19:41.350 --> 00:19:44.350 align:middle line:84%
+You can-- either you start
+from here, you can go there.
+
+00:19:44.350 --> 00:19:46.063 align:middle line:84%
+From here, you go
+there and so on.
+
+00:19:46.063 --> 00:19:47.980 align:middle line:84%
+That's the reason we
+call this a steady state.
+
+00:19:47.980 --> 00:19:50.185 align:middle line:84%
+This is where you
+converge in the long run.
+
+00:19:50.185 --> 00:19:54.940 align:middle line:90%
+
+
+00:19:54.940 --> 00:20:00.390 align:middle line:84%
+Now, this is already interesting
+because it tells you,
+
+00:20:00.390 --> 00:20:04.060 align:middle line:84%
+at this point here, the
+economy was growing.
+
+00:20:04.060 --> 00:20:08.560 align:middle line:84%
+The capital stock was growing,
+and output was growing.
+
+00:20:08.560 --> 00:20:09.700 align:middle line:90%
+You see the capital--
+
+00:20:09.700 --> 00:20:12.880 align:middle line:84%
+if you start from here, the
+capital stock is growing.
+
+00:20:12.880 --> 00:20:15.400 align:middle line:90%
+Well, output is also growing.
+
+00:20:15.400 --> 00:20:18.000 align:middle line:90%
+You're moving up.
+
+00:20:18.000 --> 00:20:19.770 align:middle line:90%
+So you had growth.
+
+00:20:19.770 --> 00:20:24.000 align:middle line:84%
+That kind of growth we
+call transitional growth.
+
+00:20:24.000 --> 00:20:27.660 align:middle line:84%
+It goes from one point
+to another point.
+
+00:20:27.660 --> 00:20:28.980 align:middle line:90%
+It's not a permanent growth.
+
+00:20:28.980 --> 00:20:30.520 align:middle line:90%
+It's a transitional growth.
+
+00:20:30.520 --> 00:20:33.480 align:middle line:84%
+It's the fact that you were
+away from your steady state,
+
+00:20:33.480 --> 00:20:37.450 align:middle line:84%
+and then you're going convergent
+towards your steady state.
+
+00:20:37.450 --> 00:20:40.210 align:middle line:84%
+A lot of the growth we observed
+and the difference of growth we
+
+00:20:40.210 --> 00:20:41.500 align:middle line:84%
+observed across
+countries-- remember,
+
+00:20:41.500 --> 00:20:43.583 align:middle line:84%
+I showed you those
+downward-sloping curves and all
+
+00:20:43.583 --> 00:20:44.290 align:middle line:90%
+that--
+
+00:20:44.290 --> 00:20:46.570 align:middle line:90%
+is as a result of that.
+
+00:20:46.570 --> 00:20:50.242 align:middle line:84%
+Poorer economies tend
+to have lower capital--
+
+00:20:50.242 --> 00:20:53.320 align:middle line:84%
+capital labor, capital
+employment ratios,
+
+00:20:53.320 --> 00:20:54.940 align:middle line:90%
+capital population ratios.
+
+00:20:54.940 --> 00:20:58.180 align:middle line:84%
+And therefore, they tend to grow
+faster because they're catching
+
+00:20:58.180 --> 00:20:59.920 align:middle line:90%
+up with the steady state.
+
+00:20:59.920 --> 00:21:02.350 align:middle line:84%
+Very advanced economies
+that have been more or less
+
+00:21:02.350 --> 00:21:05.500 align:middle line:84%
+in the same place for a long
+time are moving around there,
+
+00:21:05.500 --> 00:21:08.260 align:middle line:84%
+so there's less
+catching up growth.
+
+00:21:08.260 --> 00:21:11.050 align:middle line:84%
+And that's the main responsible
+for the downward-sloping
+
+00:21:11.050 --> 00:21:14.680 align:middle line:84%
+curve I showed you within OECD
+countries and even broader
+
+00:21:14.680 --> 00:21:15.250 align:middle line:90%
+than that.
+
+00:21:15.250 --> 00:21:18.920 align:middle line:84%
+Africa was a little
+bit of a problem there.
+
+00:21:18.920 --> 00:21:23.550 align:middle line:84%
+OK, so this is an
+important model
+
+00:21:23.550 --> 00:21:26.050 align:middle line:90%
+for you, important diagram.
+
+00:21:26.050 --> 00:21:28.300 align:middle line:90%
+Let's play a little with it.
+
+00:21:28.300 --> 00:21:31.690 align:middle line:84%
+So suppose that, at the time--
+this is a very simple model.
+
+00:21:31.690 --> 00:21:37.470 align:middle line:84%
+But at the time, the
+view was that, well,
+
+00:21:37.470 --> 00:21:40.390 align:middle line:84%
+what really supports
+growth is savings.
+
+00:21:40.390 --> 00:21:43.500 align:middle line:84%
+So economies that
+save a lot grow a lot.
+
+00:21:43.500 --> 00:21:45.450 align:middle line:84%
+And this sort of
+makes sense here
+
+00:21:45.450 --> 00:21:48.460 align:middle line:84%
+because investment,
+which is what
+
+00:21:48.460 --> 00:21:51.250 align:middle line:84%
+leads to capital accumulation,
+is entirely funded by savings.
+
+00:21:51.250 --> 00:21:52.630 align:middle line:90%
+It makes sense.
+
+00:21:52.630 --> 00:21:55.900 align:middle line:84%
+You have more savings,
+you should grow more.
+
+00:21:55.900 --> 00:21:59.060 align:middle line:84%
+OK, so this is something--
+we can do an experiment.
+
+00:21:59.060 --> 00:22:03.220 align:middle line:84%
+Suppose you start at a
+steady state, if you will.
+
+00:22:03.220 --> 00:22:06.600 align:middle line:84%
+And now we increase
+the savings rate.
+
+00:22:06.600 --> 00:22:08.910 align:middle line:90%
+What moves?
+
+00:22:08.910 --> 00:22:09.722 align:middle line:90%
+Which curve?
+
+00:22:09.722 --> 00:22:11.430 align:middle line:84%
+This is the kind of
+thing you should know
+
+00:22:11.430 --> 00:22:13.680 align:middle line:90%
+when you work with this model.
+
+00:22:13.680 --> 00:22:18.960 align:middle line:84%
+If I change the saving rate,
+which curve moves in this model?
+
+00:22:18.960 --> 00:22:20.760 align:middle line:90%
+Let me go one by one.
+
+00:22:20.760 --> 00:22:22.140 align:middle line:90%
+Does the red line move?
+
+00:22:22.140 --> 00:22:24.800 align:middle line:90%
+
+
+00:22:24.800 --> 00:22:25.300 align:middle line:90%
+No.
+
+00:22:25.300 --> 00:22:26.560 align:middle line:84%
+It has nothing to
+do with savings.
+
+00:22:26.560 --> 00:22:27.852 align:middle line:90%
+It has to do with depreciation.
+
+00:22:27.852 --> 00:22:32.320 align:middle line:84%
+If I move depreciation rate,
+that curve will move, but not--
+
+00:22:32.320 --> 00:22:35.070 align:middle line:84%
+will the production
+function move?
+
+00:22:35.070 --> 00:22:35.790 align:middle line:90%
+No.
+
+00:22:35.790 --> 00:22:37.590 align:middle line:90%
+So the blue line cannot move.
+
+00:22:37.590 --> 00:22:39.420 align:middle line:84%
+All that will move
+is the green line
+
+00:22:39.420 --> 00:22:45.310 align:middle line:84%
+because the green line is the
+saving rate times the blue line.
+
+00:22:45.310 --> 00:22:46.770 align:middle line:84%
+So if I increase
+the saving rate,
+
+00:22:46.770 --> 00:22:49.620 align:middle line:84%
+I'm going to move
+the green line up.
+
+00:22:49.620 --> 00:22:52.390 align:middle line:90%
+That's what we have here.
+
+00:22:52.390 --> 00:22:55.500 align:middle line:84%
+So you see what
+happens is you start--
+
+00:22:55.500 --> 00:22:59.100 align:middle line:84%
+this was a steady state for this
+saving rate in this economy.
+
+00:22:59.100 --> 00:23:02.760 align:middle line:84%
+Now, all of a sudden, this
+economy starts saving more.
+
+00:23:02.760 --> 00:23:05.040 align:middle line:90%
+What happens?
+
+00:23:05.040 --> 00:23:07.500 align:middle line:84%
+This tells you very
+much the story of Asia.
+
+00:23:07.500 --> 00:23:12.000 align:middle line:84%
+The Asia miracle of the '60s,
+'70s, and so on is very much
+
+00:23:12.000 --> 00:23:14.530 align:middle line:90%
+something like that--
+
+00:23:14.530 --> 00:23:18.280 align:middle line:90%
+a little more complicated.
+
+00:23:18.280 --> 00:23:23.800 align:middle line:84%
+A big part of what explains
+the fast growth of Asia
+
+00:23:23.800 --> 00:23:27.943 align:middle line:84%
+during that period is that
+something like that happened.
+
+00:23:27.943 --> 00:23:29.860 align:middle line:84%
+Now, why the savings
+rate increase and so on--
+
+00:23:29.860 --> 00:23:31.443 align:middle line:84%
+that's all very
+interesting and so on.
+
+00:23:31.443 --> 00:23:34.460 align:middle line:84%
+But it's not what I
+want to discuss today.
+
+00:23:34.460 --> 00:23:37.000 align:middle line:90%
+So what happened here, then?
+
+00:23:37.000 --> 00:23:39.402 align:middle line:84%
+So what happens-- this
+economy was in a steady state.
+
+00:23:39.402 --> 00:23:40.360 align:middle line:90%
+So there was no growth.
+
+00:23:40.360 --> 00:23:46.220 align:middle line:84%
+It was growing at 0 in a
+steady state because this says,
+
+00:23:46.220 --> 00:23:49.950 align:middle line:84%
+in a steady state, output
+per worker remains constant.
+
+00:23:49.950 --> 00:23:52.040 align:middle line:84%
+And since we have no
+population growth,
+
+00:23:52.040 --> 00:23:54.620 align:middle line:84%
+that means output is
+not growing, either.
+
+00:23:54.620 --> 00:23:56.120 align:middle line:84%
+The only way you
+can have that ratio
+
+00:23:56.120 --> 00:23:58.850 align:middle line:84%
+constant with the
+denominator not moving
+
+00:23:58.850 --> 00:24:02.330 align:middle line:84%
+is that the numerator
+is not moving, either.
+
+00:24:02.330 --> 00:24:03.500 align:middle line:90%
+OK, good.
+
+00:24:03.500 --> 00:24:08.270 align:middle line:84%
+So now, boom, all of a sudden,
+we get a higher saving rate.
+
+00:24:08.270 --> 00:24:11.010 align:middle line:90%
+So what happens now?
+
+00:24:11.010 --> 00:24:11.595 align:middle line:90%
+What reacts?
+
+00:24:11.595 --> 00:24:14.260 align:middle line:90%
+
+
+00:24:14.260 --> 00:24:15.900 align:middle line:90%
+So the saving rates go up.
+
+00:24:15.900 --> 00:24:17.080 align:middle line:90%
+It's a closed economy.
+
+00:24:17.080 --> 00:24:20.880 align:middle line:84%
+It means the investment
+rate will go up.
+
+00:24:20.880 --> 00:24:21.990 align:middle line:90%
+What happens now?
+
+00:24:21.990 --> 00:24:29.670 align:middle line:90%
+
+
+00:24:29.670 --> 00:24:31.800 align:middle line:90%
+What does that gap tell you?
+
+00:24:31.800 --> 00:24:35.010 align:middle line:90%
+
+
+00:24:35.010 --> 00:24:37.360 align:middle line:84%
+Now you have a
+positive gap there,
+
+00:24:37.360 --> 00:24:41.280 align:middle line:84%
+which means you're investing
+more than what you need in order
+
+00:24:41.280 --> 00:24:44.890 align:middle line:84%
+to maintain the stock of capital
+at the previous steady state.
+
+00:24:44.890 --> 00:24:46.645 align:middle line:84%
+So that means that
+the stock of capital
+
+00:24:46.645 --> 00:24:48.270 align:middle line:84%
+is going to start
+growing to the right.
+
+00:24:48.270 --> 00:24:50.460 align:middle line:90%
+It's going to start growing.
+
+00:24:50.460 --> 00:24:54.900 align:middle line:84%
+And as the stock of capital
+grows, then output per capita
+
+00:24:54.900 --> 00:24:56.560 align:middle line:90%
+also grows.
+
+00:24:56.560 --> 00:24:58.500 align:middle line:84%
+And this will keep
+happening until you
+
+00:24:58.500 --> 00:25:02.030 align:middle line:90%
+reach the new steady state.
+
+00:25:02.030 --> 00:25:05.970 align:middle line:84%
+So a higher saving rate-- so
+important conclusion there.
+
+00:25:05.970 --> 00:25:11.120 align:middle line:84%
+This, as simple as it
+is, proves something--
+
+00:25:11.120 --> 00:25:14.690 align:middle line:84%
+that the conventional wisdom
+that the higher saving
+
+00:25:14.690 --> 00:25:18.080 align:middle line:84%
+rate would give you sustained
+growth, higher growth,
+
+00:25:18.080 --> 00:25:21.470 align:middle line:84%
+isn't really true,
+certainly not in this model.
+
+00:25:21.470 --> 00:25:24.680 align:middle line:84%
+Eventually, you'll go
+back to growth equal to 0.
+
+00:25:24.680 --> 00:25:26.720 align:middle line:84%
+When you reach a
+new steady state,
+
+00:25:26.720 --> 00:25:28.370 align:middle line:84%
+you're going to be
+also growing at 0.
+
+00:25:28.370 --> 00:25:31.310 align:middle line:90%
+
+
+00:25:31.310 --> 00:25:34.370 align:middle line:84%
+What is true, though,
+is that you get, again,
+
+00:25:34.370 --> 00:25:38.990 align:middle line:84%
+what is called transitional
+growth because here, you're
+
+00:25:38.990 --> 00:25:41.570 align:middle line:84%
+going to start growing
+very fast, in fact.
+
+00:25:41.570 --> 00:25:43.430 align:middle line:84%
+And then you're
+going to keep growing
+
+00:25:43.430 --> 00:25:45.920 align:middle line:84%
+at the lowest-- lower, lower
+pace until you go back to 0.
+
+00:25:45.920 --> 00:25:47.503 align:middle line:84%
+But you're going to
+get lots of growth
+
+00:25:47.503 --> 00:25:49.920 align:middle line:84%
+in the transition
+as a result of that.
+
+00:25:49.920 --> 00:25:51.500 align:middle line:84%
+And it turns out,
+in the data, when
+
+00:25:51.500 --> 00:25:53.510 align:middle line:84%
+you're looking at
+20, 30 years of data,
+
+00:25:53.510 --> 00:25:59.030 align:middle line:84%
+it's difficult to disentangle
+very permanent rates of growth
+
+00:25:59.030 --> 00:26:01.320 align:middle line:84%
+versus transitional
+rate of growth.
+
+00:26:01.320 --> 00:26:04.130 align:middle line:84%
+This is one of the things that
+has concerned China quite a bit.
+
+00:26:04.130 --> 00:26:05.910 align:middle line:90%
+They grow very, very fast.
+
+00:26:05.910 --> 00:26:08.280 align:middle line:84%
+They have been growing very,
+very fast for a long time.
+
+00:26:08.280 --> 00:26:10.800 align:middle line:84%
+But it's very clear that it's
+becoming harder and harder
+
+00:26:10.800 --> 00:26:12.780 align:middle line:84%
+for them to grow at the
+type of rates of growth
+
+00:26:12.780 --> 00:26:16.110 align:middle line:90%
+that they had 20 years ago.
+
+00:26:16.110 --> 00:26:18.720 align:middle line:84%
+They had rates of
+growth 15% or so.
+
+00:26:18.720 --> 00:26:22.380 align:middle line:84%
+They had very high-- they had
+a very low initial capital
+
+00:26:22.380 --> 00:26:24.120 align:middle line:90%
+population ratio--
+
+00:26:24.120 --> 00:26:29.350 align:middle line:84%
+big population, little capital,
+and enormous savings rates.
+
+00:26:29.350 --> 00:26:32.230 align:middle line:90%
+So they grew very, very fast.
+
+00:26:32.230 --> 00:26:34.020 align:middle line:84%
+They had the green
+line very close
+
+00:26:34.020 --> 00:26:37.470 align:middle line:84%
+to the blue line, the
+capital stock very low,
+
+00:26:37.470 --> 00:26:40.808 align:middle line:84%
+so they grew very, very fast but
+they have been growing very fast
+
+00:26:40.808 --> 00:26:42.100 align:middle line:90%
+for a very long period of time.
+
+00:26:42.100 --> 00:26:44.100 align:middle line:84%
+So now it's getting a lot
+harder because they're
+
+00:26:44.100 --> 00:26:46.230 align:middle line:84%
+getting closer and closer
+to their steady state.
+
+00:26:46.230 --> 00:26:47.790 align:middle line:90%
+That's the issue.
+
+00:26:47.790 --> 00:26:49.410 align:middle line:84%
+There are other
+sources of growth,
+
+00:26:49.410 --> 00:26:52.470 align:middle line:84%
+and that's what we're going to
+talk about in the next lecture.
+
+00:26:52.470 --> 00:26:56.783 align:middle line:84%
+But this is sometimes called
+the easy part of growth.
+
+00:26:56.783 --> 00:26:58.200 align:middle line:84%
+It's sort of running
+out in China.
+
+00:26:58.200 --> 00:27:09.780 align:middle line:90%
+
+
+00:27:09.780 --> 00:27:12.780 align:middle line:84%
+And it has run out in
+all developed economies
+
+00:27:12.780 --> 00:27:13.710 align:middle line:90%
+for quite a while.
+
+00:27:13.710 --> 00:27:18.950 align:middle line:90%
+
+
+00:27:18.950 --> 00:27:19.450 align:middle line:90%
+Good.
+
+00:27:19.450 --> 00:27:22.180 align:middle line:90%
+
+
+00:27:22.180 --> 00:27:23.950 align:middle line:90%
+Is this clear?
+
+00:27:23.950 --> 00:27:24.630 align:middle line:90%
+It's important.
+
+00:27:24.630 --> 00:27:29.940 align:middle line:84%
+I mean, a question like that is
+guaranteed in your quiz for 81.
+
+00:27:29.940 --> 00:27:32.438 align:middle line:84%
+What happens if the saving
+rate does something?
+
+00:27:32.438 --> 00:27:35.190 align:middle line:90%
+
+
+00:27:35.190 --> 00:27:38.650 align:middle line:90%
+So this is a plot over time.
+
+00:27:38.650 --> 00:27:41.070 align:middle line:84%
+So this is a case in which
+you were in a steady state.
+
+00:27:41.070 --> 00:27:44.580 align:middle line:84%
+And at time t, the
+saving rate goes up
+
+00:27:44.580 --> 00:27:47.610 align:middle line:90%
+as 1 greater than 0 jump.
+
+00:27:47.610 --> 00:27:50.430 align:middle line:90%
+Then output cannot jump.
+
+00:27:50.430 --> 00:27:53.845 align:middle line:84%
+So the saving rate goes up, but
+output cannot jump at day 0.
+
+00:27:53.845 --> 00:27:54.345 align:middle line:90%
+Why?
+
+00:27:54.345 --> 00:27:56.430 align:middle line:84%
+Why is it that the output
+doesn't jump immediately
+
+00:27:56.430 --> 00:27:57.360 align:middle line:90%
+to a new steady state?
+
+00:27:57.360 --> 00:28:02.900 align:middle line:90%
+
+
+00:28:02.900 --> 00:28:04.250 align:middle line:90%
+This is the--
+
+00:28:04.250 --> 00:28:07.250 align:middle line:84%
+I'm saying, this is what
+will happen to output.
+
+00:28:07.250 --> 00:28:09.620 align:middle line:84%
+You're going to start
+growing very fast early on,
+
+00:28:09.620 --> 00:28:11.180 align:middle line:84%
+and then keep
+growing, keep growing
+
+00:28:11.180 --> 00:28:13.790 align:middle line:84%
+at a slower and lower pace
+because of decreasing returns
+
+00:28:13.790 --> 00:28:14.960 align:middle line:90%
+to capital.
+
+00:28:14.960 --> 00:28:18.020 align:middle line:84%
+And eventually, you'll convert
+to the new steady state
+
+00:28:18.020 --> 00:28:22.640 align:middle line:84%
+with the rate of growth equal to
+0, like the one you had before,
+
+00:28:22.640 --> 00:28:25.120 align:middle line:90%
+this savings shock.
+
+00:28:25.120 --> 00:28:28.210 align:middle line:84%
+And the question I'm asking
+now is, why does output
+
+00:28:28.210 --> 00:28:29.120 align:middle line:90%
+have to do this?
+
+00:28:29.120 --> 00:28:30.220 align:middle line:90%
+Why doesn't it just jump?
+
+00:28:30.220 --> 00:28:35.300 align:middle line:90%
+
+
+00:28:35.300 --> 00:28:37.895 align:middle line:84%
+What is the only variable
+that could make it jump?
+
+00:28:37.895 --> 00:28:41.490 align:middle line:90%
+
+
+00:28:41.490 --> 00:28:43.465 align:middle line:84%
+So you need to look at
+the production function.
+
+00:28:43.465 --> 00:28:45.090 align:middle line:84%
+The production function
+is the function
+
+00:28:45.090 --> 00:28:46.860 align:middle line:90%
+of K over N. N is fixed.
+
+00:28:46.860 --> 00:28:49.830 align:middle line:84%
+The only thing that can make it
+jump is the capital stock jumps,
+
+00:28:49.830 --> 00:28:52.020 align:middle line:84%
+but the capital
+stock is not jumping.
+
+00:28:52.020 --> 00:28:53.550 align:middle line:90%
+That's a stock.
+
+00:28:53.550 --> 00:28:55.020 align:middle line:84%
+And in order to
+accumulate a larger
+
+00:28:55.020 --> 00:28:56.760 align:middle line:84%
+stock of the new
+steady state, you're
+
+00:28:56.760 --> 00:28:58.650 align:middle line:84%
+going to go through
+a lot of flows.
+
+00:28:58.650 --> 00:28:59.825 align:middle line:90%
+That's investment.
+
+00:28:59.825 --> 00:29:01.950 align:middle line:84%
+Every year, you're going
+to be adding a little more
+
+00:29:01.950 --> 00:29:03.790 align:middle line:90%
+to the stock of capital.
+
+00:29:03.790 --> 00:29:04.900 align:middle line:90%
+That's the way you grow.
+
+00:29:04.900 --> 00:29:09.960 align:middle line:84%
+It's not that, all of a sudden,
+your stock of capital jumps.
+
+00:29:09.960 --> 00:29:13.342 align:middle line:84%
+That's very much because
+this is a closed economy.
+
+00:29:13.342 --> 00:29:15.300 align:middle line:84%
+If you're in an open
+economy, the capital stock
+
+00:29:15.300 --> 00:29:17.370 align:middle line:84%
+can move a lot faster
+in a transition
+
+00:29:17.370 --> 00:29:19.620 align:middle line:84%
+because you can
+borrow from abroad.
+
+00:29:19.620 --> 00:29:23.280 align:middle line:84%
+You don't need to fund it
+all with domestic sources.
+
+00:29:23.280 --> 00:29:25.830 align:middle line:84%
+And in fact, that's
+what typically happens
+
+00:29:25.830 --> 00:29:29.460 align:middle line:84%
+in emerging markets and so
+on is they typically borrow
+
+00:29:29.460 --> 00:29:30.880 align:middle line:90%
+for a long time.
+
+00:29:30.880 --> 00:29:33.390 align:middle line:84%
+Problem is that they tend to
+consume it rather than invest
+
+00:29:33.390 --> 00:29:35.723 align:middle line:84%
+it, and that's the reason you
+end up in financial crisis
+
+00:29:35.723 --> 00:29:36.360 align:middle line:90%
+and so on.
+
+00:29:36.360 --> 00:29:38.520 align:middle line:84%
+But in principle,
+things could go
+
+00:29:38.520 --> 00:29:40.350 align:middle line:84%
+much faster if you
+have an open economy,
+
+00:29:40.350 --> 00:29:43.040 align:middle line:84%
+and you have capital
+inflows into your country.
+
+00:29:43.040 --> 00:29:48.320 align:middle line:84%
+But we'll talk more about that
+five or six lectures from now.
+
+00:29:48.320 --> 00:29:50.570 align:middle line:84%
+But anyways, but this is
+what happens with an increase
+
+00:29:50.570 --> 00:29:51.403 align:middle line:90%
+in the savings rate.
+
+00:29:51.403 --> 00:29:54.830 align:middle line:84%
+So yes, it affects the rate
+of growth of the economy
+
+00:29:54.830 --> 00:29:58.287 align:middle line:84%
+during the transition
+but not in the long run.
+
+00:29:58.287 --> 00:29:59.870 align:middle line:84%
+Now, this transition
+can be very long.
+
+00:29:59.870 --> 00:30:02.490 align:middle line:90%
+
+
+00:30:02.490 --> 00:30:04.380 align:middle line:90%
+Now, what about consumption?
+
+00:30:04.380 --> 00:30:11.610 align:middle line:84%
+So invariably-- and there's
+no way around that--
+
+00:30:11.610 --> 00:30:15.730 align:middle line:84%
+given a technology and so on,
+if the saving rate goes up,
+
+00:30:15.730 --> 00:30:20.213 align:middle line:84%
+then output per
+worker will go up.
+
+00:30:20.213 --> 00:30:21.630 align:middle line:84%
+The next question
+is, what happens
+
+00:30:21.630 --> 00:30:22.890 align:middle line:90%
+to consumption per worker?
+
+00:30:22.890 --> 00:30:27.460 align:middle line:84%
+Does consumption per
+worker go up or not?
+
+00:30:27.460 --> 00:30:29.590 align:middle line:84%
+You are inclined to
+say, well, I mean,
+
+00:30:29.590 --> 00:30:34.180 align:middle line:84%
+it makes sense that it goes up
+because we have more income.
+
+00:30:34.180 --> 00:30:35.980 align:middle line:84%
+If the saving rate is
+little less times y,
+
+00:30:35.980 --> 00:30:40.150 align:middle line:84%
+then consumption is 1
+minus little s times Y.
+
+00:30:40.150 --> 00:30:43.570 align:middle line:84%
+So income goes up,
+consumption should go up.
+
+00:30:43.570 --> 00:30:48.840 align:middle line:90%
+
+
+00:30:48.840 --> 00:30:52.400 align:middle line:84%
+And yes, that's a
+dominant source.
+
+00:30:52.400 --> 00:30:55.250 align:middle line:84%
+But it's not all the
+story because remember
+
+00:30:55.250 --> 00:30:56.180 align:middle line:90%
+what I told you.
+
+00:30:56.180 --> 00:31:02.900 align:middle line:90%
+
+
+00:31:02.900 --> 00:31:07.040 align:middle line:84%
+So consumption here is going
+to be equal to 1 minus little
+
+00:31:07.040 --> 00:31:15.110 align:middle line:84%
+s times Y. So consumption
+per person will be that.
+
+00:31:15.110 --> 00:31:18.540 align:middle line:84%
+Remember that what is
+increasing Y over N there--
+
+00:31:18.540 --> 00:31:20.700 align:middle line:84%
+so what is making
+this guy go up,
+
+00:31:20.700 --> 00:31:24.170 align:middle line:84%
+which will lead to an increase
+in consumption over N--
+
+00:31:24.170 --> 00:31:28.650 align:middle line:90%
+is that this guy went up.
+
+00:31:28.650 --> 00:31:30.810 align:middle line:84%
+And that's a force in
+the opposite direction.
+
+00:31:30.810 --> 00:31:34.180 align:middle line:90%
+
+
+00:31:34.180 --> 00:31:39.580 align:middle line:84%
+And in fact, that was one of
+the debates with the Southeast
+
+00:31:39.580 --> 00:31:43.150 align:middle line:84%
+Asian miracle is that it was
+fueled by lots of savings.
+
+00:31:43.150 --> 00:31:44.650 align:middle line:84%
+So people say, OK,
+that's wonderful.
+
+00:31:44.650 --> 00:31:47.170 align:middle line:84%
+Your output growth is very
+fast, but consumption growth
+
+00:31:47.170 --> 00:31:48.280 align:middle line:90%
+is not so fast.
+
+00:31:48.280 --> 00:31:50.170 align:middle line:84%
+And at some point, it
+may be hurting you.
+
+00:31:50.170 --> 00:31:52.503 align:middle line:84%
+I think that they were right,
+though, for other reasons.
+
+00:31:52.503 --> 00:31:55.030 align:middle line:90%
+
+
+00:31:55.030 --> 00:31:58.450 align:middle line:84%
+But that picture
+makes the point.
+
+00:31:58.450 --> 00:32:02.320 align:middle line:84%
+So if your saving rate to start
+with-- this is a general lesson.
+
+00:32:02.320 --> 00:32:06.880 align:middle line:84%
+If the saving rate you start
+with is very, very low,
+
+00:32:06.880 --> 00:32:08.695 align:middle line:84%
+then an increase
+in the saving rate
+
+00:32:08.695 --> 00:32:10.570 align:middle line:84%
+will lead to a strong
+increase in consumption
+
+00:32:10.570 --> 00:32:13.630 align:middle line:84%
+because this change is small
+relative to the big bang
+
+00:32:13.630 --> 00:32:16.900 align:middle line:84%
+get in output because, if
+you have low saving rate,
+
+00:32:16.900 --> 00:32:21.710 align:middle line:84%
+that also means that the
+capital stock is very low.
+
+00:32:21.710 --> 00:32:26.027 align:middle line:84%
+And if the capital stock is
+very low, f prime is very big.
+
+00:32:26.027 --> 00:32:27.610 align:middle line:84%
+This is a concave
+function, and you're
+
+00:32:27.610 --> 00:32:29.740 align:middle line:84%
+in the steep part
+of the function.
+
+00:32:29.740 --> 00:32:32.380 align:middle line:84%
+Later on, if saving
+is very high,
+
+00:32:32.380 --> 00:32:34.820 align:middle line:84%
+you're going to tend to have
+capital stock very high.
+
+00:32:34.820 --> 00:32:37.870 align:middle line:84%
+And then, first of
+all, more capital
+
+00:32:37.870 --> 00:32:40.360 align:middle line:84%
+won't increase output
+per worker a lot
+
+00:32:40.360 --> 00:32:43.220 align:middle line:90%
+because of decreasing returns.
+
+00:32:43.220 --> 00:32:46.090 align:middle line:84%
+And this is a big number,
+so it starts dominating.
+
+00:32:46.090 --> 00:32:47.380 align:middle line:90%
+And that's what you see here.
+
+00:32:47.380 --> 00:32:51.250 align:middle line:84%
+This economy has
+increased the saving rate.
+
+00:32:51.250 --> 00:32:52.810 align:middle line:90%
+Consumption per worker rises.
+
+00:32:52.810 --> 00:32:55.150 align:middle line:84%
+But at some point,
+it reaches a maximum,
+
+00:32:55.150 --> 00:32:56.740 align:middle line:90%
+and then it starts declining.
+
+00:32:56.740 --> 00:32:58.400 align:middle line:90%
+I mean, think of the limit.
+
+00:32:58.400 --> 00:33:02.750 align:middle line:84%
+If you save 100% of your income,
+you don't consume anything.
+
+00:33:02.750 --> 00:33:04.650 align:middle line:84%
+No matter how much
+is your output,
+
+00:33:04.650 --> 00:33:07.310 align:middle line:84%
+if your saving
+rate is 100%, then
+
+00:33:07.310 --> 00:33:09.870 align:middle line:84%
+you're not going to
+consume anything.
+
+00:33:09.870 --> 00:33:14.210 align:middle line:84%
+If you have no income, no
+savings rate, no savings,
+
+00:33:14.210 --> 00:33:15.980 align:middle line:84%
+no capital stock,
+no income, you're
+
+00:33:15.980 --> 00:33:18.530 align:middle line:84%
+not going to consume
+anything either.
+
+00:33:18.530 --> 00:33:20.988 align:middle line:84%
+So at least you know
+these two points.
+
+00:33:20.988 --> 00:33:23.030 align:middle line:84%
+And since you know there
+are some positive points
+
+00:33:23.030 --> 00:33:24.243 align:middle line:90%
+in the middle.
+
+00:33:24.243 --> 00:33:25.910 align:middle line:84%
+You know that the
+curve is going to tend
+
+00:33:25.910 --> 00:33:28.010 align:middle line:90%
+to have that kind of change.
+
+00:33:28.010 --> 00:33:34.160 align:middle line:84%
+It's going to be nonmonotonic,
+and that's the way it is.
+
+00:33:34.160 --> 00:33:37.610 align:middle line:84%
+So let me just play
+with a few numbers.
+
+00:33:37.610 --> 00:33:41.640 align:middle line:84%
+This is-- yeah, let me
+play with a few numbers.
+
+00:33:41.640 --> 00:33:44.110 align:middle line:90%
+It's not that crazy.
+
+00:33:44.110 --> 00:33:47.470 align:middle line:84%
+Suppose you have a production
+function that gives equal weight
+
+00:33:47.470 --> 00:33:48.740 align:middle line:90%
+to capital and workers--
+
+00:33:48.740 --> 00:33:51.690 align:middle line:90%
+so this production function.
+
+00:33:51.690 --> 00:33:55.840 align:middle line:84%
+Does the production function
+have constant return to scale?
+
+00:33:55.840 --> 00:33:58.820 align:middle line:84%
+It better be because
+that's what we're doing.
+
+00:33:58.820 --> 00:34:01.640 align:middle line:90%
+What do you think?
+
+00:34:01.640 --> 00:34:02.960 align:middle line:90%
+Yes.
+
+00:34:02.960 --> 00:34:07.810 align:middle line:84%
+The sum of the exponents
+is 1, so it's K to the 1/2,
+
+00:34:07.810 --> 00:34:08.889 align:middle line:90%
+N to the 1/2.
+
+00:34:08.889 --> 00:34:10.929 align:middle line:84%
+The sum of the
+exponents is 1, so you
+
+00:34:10.929 --> 00:34:14.389 align:middle line:84%
+know that it's proportional
+to a scaling factor.
+
+00:34:14.389 --> 00:34:18.330 align:middle line:84%
+So we're going to
+use as a scaling--
+
+00:34:18.330 --> 00:34:24.785 align:middle line:90%
+as before, N. S we have this.
+
+00:34:24.785 --> 00:34:28.760 align:middle line:84%
+This is a f of
+little f of K over N
+
+00:34:28.760 --> 00:34:33.642 align:middle line:84%
+is the square root of K
+over N minus delta K over N.
+
+00:34:33.642 --> 00:34:35.809 align:middle line:84%
+All that I'm doing is I'm
+plugging in that function.
+
+00:34:35.809 --> 00:34:39.330 align:middle line:90%
+
+
+00:34:39.330 --> 00:34:42.929 align:middle line:84%
+So here, I'm replacing
+all these functions
+
+00:34:42.929 --> 00:34:46.679 align:middle line:84%
+by a specific
+example, one in which
+
+00:34:46.679 --> 00:34:49.980 align:middle line:84%
+this is a square
+root of K over N.
+
+00:34:49.980 --> 00:34:52.409 align:middle line:84%
+That's a concave
+function-- square root.
+
+00:34:52.409 --> 00:34:56.340 align:middle line:90%
+
+
+00:34:56.340 --> 00:34:57.900 align:middle line:90%
+Good.
+
+00:34:57.900 --> 00:34:59.580 align:middle line:90%
+Now, do it as an exercise.
+
+00:34:59.580 --> 00:35:01.200 align:middle line:84%
+If you solve for
+the steady state,
+
+00:35:01.200 --> 00:35:02.783 align:middle line:84%
+how do you solve for
+the steady state?
+
+00:35:02.783 --> 00:35:04.560 align:middle line:90%
+Well, set this equal to 0.
+
+00:35:04.560 --> 00:35:08.060 align:middle line:84%
+That will give you
+the steady state.
+
+00:35:08.060 --> 00:35:10.560 align:middle line:84%
+The steady state is when the
+capital is not growing anymore.
+
+00:35:10.560 --> 00:35:12.870 align:middle line:90%
+It's when this is equal to 0.
+
+00:35:12.870 --> 00:35:16.230 align:middle line:84%
+When this is equal to 0, I
+can solve for the steady state
+
+00:35:16.230 --> 00:35:18.900 align:middle line:90%
+level of K over N from here.
+
+00:35:18.900 --> 00:35:21.720 align:middle line:84%
+This equal to 0, I can
+solve for K over N.
+
+00:35:21.720 --> 00:35:24.990 align:middle line:84%
+And I'm going to call that
+the steady state, K star.
+
+00:35:24.990 --> 00:35:29.750 align:middle line:84%
+We typically use stars for
+steady states in growth theory.
+
+00:35:29.750 --> 00:35:33.890 align:middle line:90%
+Well, the answer to this is K--
+
+00:35:33.890 --> 00:35:36.890 align:middle line:84%
+the steady state, stock
+of capital per person
+
+00:35:36.890 --> 00:35:39.960 align:middle line:84%
+is the saving rate
+over delta squared.
+
+00:35:39.960 --> 00:35:41.910 align:middle line:90%
+That's what it is.
+
+00:35:41.910 --> 00:35:46.740 align:middle line:84%
+Output per person, which is
+the square root of K over N,
+
+00:35:46.740 --> 00:35:50.230 align:middle line:84%
+is, therefore, the square
+root of s over delta squared,
+
+00:35:50.230 --> 00:35:53.420 align:middle line:90%
+so it's over s delta.
+
+00:35:53.420 --> 00:35:57.560 align:middle line:84%
+So in this particular model, in
+the long run, output per worker
+
+00:35:57.560 --> 00:36:00.200 align:middle line:84%
+doubles when the
+savings rate doubles.
+
+00:36:00.200 --> 00:36:03.435 align:middle line:84%
+If I double the saving
+rate, then output per worker
+
+00:36:03.435 --> 00:36:03.935 align:middle line:90%
+will double.
+
+00:36:03.935 --> 00:36:07.710 align:middle line:90%
+
+
+00:36:07.710 --> 00:36:09.930 align:middle line:84%
+Notice that the
+stock of capital is
+
+00:36:09.930 --> 00:36:15.380 align:middle line:84%
+going to grow a lot more when
+you increase the savings rate.
+
+00:36:15.380 --> 00:36:16.020 align:middle line:90%
+It's squared.
+
+00:36:16.020 --> 00:36:19.330 align:middle line:90%
+
+
+00:36:19.330 --> 00:36:23.290 align:middle line:84%
+So in that economy, if you
+do increase the savings rate
+
+00:36:23.290 --> 00:36:28.150 align:middle line:84%
+from 10% to 20%, this
+is the way it goes.
+
+00:36:28.150 --> 00:36:32.800 align:middle line:84%
+So remember, 10% to 20%-- that
+means that the new steady state
+
+00:36:32.800 --> 00:36:34.960 align:middle line:84%
+output per worker will
+be twice what it was
+
+00:36:34.960 --> 00:36:37.420 align:middle line:90%
+in the previous steady state.
+
+00:36:37.420 --> 00:36:39.710 align:middle line:90%
+So you go from 1 to 2.
+
+00:36:39.710 --> 00:36:42.593 align:middle line:90%
+But it takes a long time.
+
+00:36:42.593 --> 00:36:43.760 align:middle line:90%
+The numbers are [INAUDIBLE].
+
+00:36:43.760 --> 00:36:48.750 align:middle line:84%
+50 years it takes you
+to go to the new state.
+
+00:36:48.750 --> 00:36:52.138 align:middle line:84%
+And so that's the time
+frame we're talking about.
+
+00:36:52.138 --> 00:36:53.930 align:middle line:84%
+So it is true that the
+saving rate will not
+
+00:36:53.930 --> 00:37:00.290 align:middle line:84%
+change the long-run rate of
+growth, absent other mechanisms.
+
+00:37:00.290 --> 00:37:03.740 align:middle line:84%
+But you can grow faster than
+your average, your steady state
+
+00:37:03.740 --> 00:37:06.110 align:middle line:90%
+level for quite some time.
+
+00:37:06.110 --> 00:37:13.880 align:middle line:84%
+And again, a lot of the Asian
+miracle has been of that kind.
+
+00:37:13.880 --> 00:37:16.300 align:middle line:84%
+This is what I was telling
+you of China before, no?
+
+00:37:16.300 --> 00:37:18.500 align:middle line:84%
+Well, yeah, you
+can grow very fast,
+
+00:37:18.500 --> 00:37:21.250 align:middle line:84%
+especially if you have saving
+rate much higher than 20%--
+
+00:37:21.250 --> 00:37:23.920 align:middle line:90%
+I mean 50% or so.
+
+00:37:23.920 --> 00:37:26.590 align:middle line:84%
+But the rate of growth
+will have a tendency
+
+00:37:26.590 --> 00:37:28.325 align:middle line:84%
+to decline, absent
+some other miracle.
+
+00:37:28.325 --> 00:37:30.700 align:middle line:84%
+There are a lot of the reasons
+why we have all this fight
+
+00:37:30.700 --> 00:37:33.100 align:middle line:90%
+about technology and so on.
+
+00:37:33.100 --> 00:37:35.860 align:middle line:84%
+It has to do with-- because
+that's the main mechanism--
+
+00:37:35.860 --> 00:37:40.020 align:middle line:84%
+alternative mechanism
+to grow is technology.
+
+00:37:40.020 --> 00:37:42.670 align:middle line:84%
+We're going to talk about
+that in the next lecture.
+
+00:37:42.670 --> 00:37:45.250 align:middle line:84%
+But this force, which
+is, what I said before,
+
+00:37:45.250 --> 00:37:46.780 align:middle line:90%
+is the easy part of growth--
+
+00:37:46.780 --> 00:37:48.895 align:middle line:84%
+it's very difficult
+to fight this pattern.
+
+00:37:48.895 --> 00:37:53.440 align:middle line:90%
+
+
+00:37:53.440 --> 00:37:57.550 align:middle line:84%
+So here you have numbers
+for the steady states.
+
+00:37:57.550 --> 00:38:01.050 align:middle line:84%
+So if the saving rate is 0,
+obviously, everything is 0--
+
+00:38:01.050 --> 00:38:03.090 align:middle line:90%
+no way around.
+
+00:38:03.090 --> 00:38:07.260 align:middle line:84%
+If saving rate is 0.1,
+10%, then, in this model,
+
+00:38:07.260 --> 00:38:08.670 align:middle line:90%
+capital per worker is 1.
+
+00:38:08.670 --> 00:38:10.470 align:middle line:90%
+Output per worker is 1.
+
+00:38:10.470 --> 00:38:12.670 align:middle line:84%
+Consumption per worker
+then go from 0 to 1.
+
+00:38:12.670 --> 00:38:13.170 align:middle line:90%
+Why?
+
+00:38:13.170 --> 00:38:14.587 align:middle line:84%
+Because you were
+saving something.
+
+00:38:14.587 --> 00:38:17.890 align:middle line:84%
+So it's 1 minus 0.1,
+which is a saving rate.
+
+00:38:17.890 --> 00:38:20.320 align:middle line:84%
+Suppose you double
+the saving rate.
+
+00:38:20.320 --> 00:38:23.063 align:middle line:84%
+Well, we know that we're going
+to double output per worker
+
+00:38:23.063 --> 00:38:23.730 align:middle line:90%
+in this economy.
+
+00:38:23.730 --> 00:38:24.272 align:middle line:90%
+We said that.
+
+00:38:24.272 --> 00:38:25.830 align:middle line:90%
+We're going to go from 1 to 2.
+
+00:38:25.830 --> 00:38:27.300 align:middle line:84%
+The capital stock
+is going to have
+
+00:38:27.300 --> 00:38:31.290 align:middle line:84%
+to grow a lot more to
+double the amount of output.
+
+00:38:31.290 --> 00:38:32.270 align:middle line:90%
+Why is that?
+
+00:38:32.270 --> 00:38:33.860 align:middle line:90%
+Decreasing returns.
+
+00:38:33.860 --> 00:38:36.740 align:middle line:84%
+To double output, you're going
+to have to much more than double
+
+00:38:36.740 --> 00:38:41.810 align:middle line:84%
+capital because you're going to
+be fighting decreasing returns.
+
+00:38:41.810 --> 00:38:44.060 align:middle line:90%
+What about consumption?
+
+00:38:44.060 --> 00:38:45.620 align:middle line:84%
+Well, it won't
+double because you're
+
+00:38:45.620 --> 00:38:47.870 align:middle line:84%
+doing this out of
+increasing the saving rate.
+
+00:38:47.870 --> 00:38:52.200 align:middle line:84%
+So you get the 2 minus,
+now, 0.2, not 0.1--
+
+00:38:52.200 --> 00:38:57.780 align:middle line:84%
+minus 0.2 times 2, so
+you get 1.6 and so on.
+
+00:38:57.780 --> 00:39:02.550 align:middle line:84%
+And the higher you go
+with your saving rate,
+
+00:39:02.550 --> 00:39:09.150 align:middle line:84%
+the harder it gets for
+capital to bring along
+
+00:39:09.150 --> 00:39:12.030 align:middle line:84%
+output per capita,
+and the more the drag
+
+00:39:12.030 --> 00:39:15.030 align:middle line:84%
+on consumption because you need
+to be saving a lot in order
+
+00:39:15.030 --> 00:39:18.510 align:middle line:84%
+to maintain this high stock
+of capital that you're having.
+
+00:39:18.510 --> 00:39:20.640 align:middle line:84%
+You have a very large
+stock of capital.
+
+00:39:20.640 --> 00:39:23.010 align:middle line:84%
+That means you need
+to save a lot just
+
+00:39:23.010 --> 00:39:26.010 align:middle line:84%
+for the sake of maintaining
+that stock of capital.
+
+00:39:26.010 --> 00:39:32.610 align:middle line:84%
+And so little is left for
+extra output per capita.
+
+00:39:32.610 --> 00:39:36.420 align:middle line:84%
+And so you see that, here,
+for this particular model,
+
+00:39:36.420 --> 00:39:39.120 align:middle line:84%
+when the saving
+rate exceeds 0.5,
+
+00:39:39.120 --> 00:39:42.540 align:middle line:84%
+then output obviously
+keeps rising
+
+00:39:42.540 --> 00:39:44.400 align:middle line:84%
+when you increase
+the saving rate,
+
+00:39:44.400 --> 00:39:46.090 align:middle line:90%
+but output starts declining.
+
+00:39:46.090 --> 00:39:48.520 align:middle line:90%
+So you're in the declining part.
+
+00:39:48.520 --> 00:39:51.580 align:middle line:84%
+And if you get to 1, of course,
+there is no consumption.
+
+00:39:51.580 --> 00:39:53.720 align:middle line:84%
+So that's the curve
+that we trace.
+
+00:39:53.720 --> 00:40:03.590 align:middle line:90%
+
+
+00:40:03.590 --> 00:40:04.430 align:middle line:90%
+Is everything clear?
+
+00:40:04.430 --> 00:40:06.920 align:middle line:84%
+Now I'm going to-- that's
+the basic Solow model.
+
+00:40:06.920 --> 00:40:12.810 align:middle line:84%
+And that's a model that, again,
+you need to control completely.
+
+00:40:12.810 --> 00:40:15.190 align:middle line:84%
+All that I'm going to
+do now is very simple.
+
+00:40:15.190 --> 00:40:20.430 align:middle line:84%
+I'm going to just modify a
+little bit this model to add
+
+00:40:20.430 --> 00:40:22.890 align:middle line:90%
+population growth.
+
+00:40:22.890 --> 00:40:27.780 align:middle line:84%
+So what happens-- by
+the way, for centuries,
+
+00:40:27.780 --> 00:40:31.770 align:middle line:84%
+population growth has been one
+of the main-- in this model,
+
+00:40:31.770 --> 00:40:37.492 align:middle line:84%
+we concluded that output
+per worker was not growing.
+
+00:40:37.492 --> 00:40:39.940 align:middle line:84%
+What we're going to
+conclude in a second
+
+00:40:39.940 --> 00:40:43.020 align:middle line:84%
+is that output per
+worker will not
+
+00:40:43.020 --> 00:40:45.580 align:middle line:90%
+grow if population is growing.
+
+00:40:45.580 --> 00:40:48.470 align:middle line:84%
+But that means that
+output is growing.
+
+00:40:48.470 --> 00:40:50.700 align:middle line:84%
+If population is growing,
+and output per worker
+
+00:40:50.700 --> 00:40:54.060 align:middle line:84%
+is not growing, it's constant,
+that means output is also
+
+00:40:54.060 --> 00:40:54.730 align:middle line:90%
+growing.
+
+00:40:54.730 --> 00:40:59.250 align:middle line:84%
+And for a long time,
+growth of output,
+
+00:40:59.250 --> 00:41:01.710 align:middle line:84%
+not of output per
+worker, was driven
+
+00:41:01.710 --> 00:41:04.020 align:middle line:90%
+by large population growth.
+
+00:41:04.020 --> 00:41:06.180 align:middle line:84%
+And sometimes, you get
+big migration flows
+
+00:41:06.180 --> 00:41:09.040 align:middle line:84%
+into a country that leads
+to growth and so on.
+
+00:41:09.040 --> 00:41:13.450 align:middle line:84%
+Now big parts of the world have
+negative population growth.
+
+00:41:13.450 --> 00:41:15.990 align:middle line:84%
+So now we're going through
+a cycle in which things
+
+00:41:15.990 --> 00:41:20.100 align:middle line:84%
+are going the other way
+around in many large parts
+
+00:41:20.100 --> 00:41:20.820 align:middle line:90%
+of the world.
+
+00:41:20.820 --> 00:41:24.840 align:middle line:84%
+This is true in almost
+all of continental Europe,
+
+00:41:24.840 --> 00:41:26.070 align:middle line:90%
+certainly in Japan.
+
+00:41:26.070 --> 00:41:30.480 align:middle line:84%
+I said South Korea, China,
+and even some places
+
+00:41:30.480 --> 00:41:31.950 align:middle line:90%
+in Latin America.
+
+00:41:31.950 --> 00:41:36.710 align:middle line:84%
+So the drag, actually,
+is against that.
+
+00:41:36.710 --> 00:41:38.840 align:middle line:84%
+We don't have the
+natural force for growth
+
+00:41:38.840 --> 00:41:42.370 align:middle line:84%
+that we had for
+many, many years.
+
+00:41:42.370 --> 00:41:44.840 align:middle line:84%
+So let me introduce
+population growth.
+
+00:41:44.840 --> 00:41:48.370 align:middle line:84%
+So assume now that population,
+rather than being constant,
+
+00:41:48.370 --> 00:41:51.380 align:middle line:84%
+grows at the related gN, which
+could be positive or negative.
+
+00:41:51.380 --> 00:41:55.330 align:middle line:84%
+I'm going to do the example for
+a positive population growth
+
+00:41:55.330 --> 00:41:56.120 align:middle line:90%
+example.
+
+00:41:56.120 --> 00:41:59.260 align:middle line:84%
+So there's no equation
+that changes, in the sense
+
+00:41:59.260 --> 00:42:01.490 align:middle line:90%
+that this is still true.
+
+00:42:01.490 --> 00:42:04.570 align:middle line:84%
+It's still true that
+investment is equal to savings.
+
+00:42:04.570 --> 00:42:10.540 align:middle line:84%
+It's still true that output
+is equal to output per worker,
+
+00:42:10.540 --> 00:42:16.210 align:middle line:84%
+and output is equal to f of K
+and N and so on and so forth.
+
+00:42:16.210 --> 00:42:19.270 align:middle line:84%
+The thing that is
+a little trickier
+
+00:42:19.270 --> 00:42:26.365 align:middle line:84%
+is that, in this model, if I
+don't normalize things for--
+
+00:42:26.365 --> 00:42:29.080 align:middle line:90%
+
+
+00:42:29.080 --> 00:42:32.330 align:middle line:84%
+in this case here, where
+population was not growing,
+
+00:42:32.330 --> 00:42:35.320 align:middle line:84%
+I could have just eliminated
+this N as a constant.
+
+00:42:35.320 --> 00:42:37.480 align:middle line:84%
+And I would have done
+everything in capital,
+
+00:42:37.480 --> 00:42:39.328 align:middle line:84%
+in a space of capital
+here, and output here
+
+00:42:39.328 --> 00:42:40.870 align:middle line:84%
+would have been the
+same, just scaled
+
+00:42:40.870 --> 00:42:43.970 align:middle line:90%
+by a number, a constant N.
+
+00:42:43.970 --> 00:42:46.010 align:middle line:84%
+When I have
+population growth, I'm
+
+00:42:46.010 --> 00:42:49.700 align:middle line:84%
+not indifferent between doing
+one way or the other because,
+
+00:42:49.700 --> 00:42:50.810 align:middle line:90%
+if I don't have--
+
+00:42:50.810 --> 00:42:55.700 align:middle line:84%
+if I do it in the space of K and
+Y, and population is growing,
+
+00:42:55.700 --> 00:42:58.265 align:middle line:84%
+then all these
+curves are moving.
+
+00:42:58.265 --> 00:42:59.640 align:middle line:84%
+This is a very
+unfriendly diagram
+
+00:42:59.640 --> 00:43:01.140 align:middle line:84%
+because my curves
+are all moving.
+
+00:43:01.140 --> 00:43:03.490 align:middle line:84%
+As N is moving,
+everything is moving.
+
+00:43:03.490 --> 00:43:05.198 align:middle line:84%
+So the trick in all
+these growth models,
+
+00:43:05.198 --> 00:43:07.740 align:middle line:84%
+and it's going to be even more
+important in the next lecture,
+
+00:43:07.740 --> 00:43:10.570 align:middle line:84%
+is to find the right
+scaling of capital
+
+00:43:10.570 --> 00:43:13.740 align:middle line:84%
+so there is a steady
+state, so your curves
+
+00:43:13.740 --> 00:43:16.670 align:middle line:84%
+are not moving around
+as population growth.
+
+00:43:16.670 --> 00:43:18.445 align:middle line:84%
+It's very easy to find
+the scaling factor.
+
+00:43:18.445 --> 00:43:21.010 align:middle line:90%
+It's population.
+
+00:43:21.010 --> 00:43:25.320 align:middle line:90%
+So that's what I'm going to do.
+
+00:43:25.320 --> 00:43:28.070 align:middle line:84%
+But remember what is
+different here is--
+
+00:43:28.070 --> 00:43:30.110 align:middle line:84%
+so what I'm saying
+is I want to get
+
+00:43:30.110 --> 00:43:33.103 align:middle line:84%
+all my variables
+scaled by population
+
+00:43:33.103 --> 00:43:34.020 align:middle line:90%
+at some point in time.
+
+00:43:34.020 --> 00:43:36.067 align:middle line:84%
+That's what I want to
+do because I know--
+
+00:43:36.067 --> 00:43:38.150 align:middle line:84%
+I practice enough with
+these things-- that's going
+
+00:43:38.150 --> 00:43:39.233 align:middle line:90%
+to give me a steady state.
+
+00:43:39.233 --> 00:43:41.810 align:middle line:90%
+
+
+00:43:41.810 --> 00:43:43.670 align:middle line:84%
+Now, what is tricky
+relative to what
+
+00:43:43.670 --> 00:43:46.940 align:middle line:84%
+I showed you before is that,
+before, I just divided by N
+
+00:43:46.940 --> 00:43:49.610 align:middle line:90%
+both sides, and I was home.
+
+00:43:49.610 --> 00:43:51.440 align:middle line:90%
+Now I can't really do that.
+
+00:43:51.440 --> 00:43:55.230 align:middle line:84%
+OK, let me divide by
+Nt plus 1 both sides.
+
+00:43:55.230 --> 00:43:56.880 align:middle line:90%
+So that's nice.
+
+00:43:56.880 --> 00:44:01.270 align:middle line:84%
+I get my capital per
+worker at t plus 1.
+
+00:44:01.270 --> 00:44:03.558 align:middle line:84%
+But there are certain
+things that are not as nice.
+
+00:44:03.558 --> 00:44:06.100 align:middle line:84%
+What I have on the right-hand
+side is not what I really want.
+
+00:44:06.100 --> 00:44:11.150 align:middle line:84%
+I don't want capital over
+population next period.
+
+00:44:11.150 --> 00:44:15.520 align:middle line:84%
+My steady state is going to
+be in the space of capital
+
+00:44:15.520 --> 00:44:17.710 align:middle line:90%
+overpopulation at the same time.
+
+00:44:17.710 --> 00:44:20.390 align:middle line:90%
+That's my steady state.
+
+00:44:20.390 --> 00:44:22.940 align:middle line:90%
+So this is not so nice.
+
+00:44:22.940 --> 00:44:24.880 align:middle line:84%
+So what I have to do
+is I want to convert
+
+00:44:24.880 --> 00:44:26.890 align:middle line:84%
+this, the right-hand
+side, in assumption
+
+00:44:26.890 --> 00:44:29.240 align:middle line:84%
+that these are the kind of
+things that I want to have.
+
+00:44:29.240 --> 00:44:31.000 align:middle line:84%
+So what I'm going
+to do is divide
+
+00:44:31.000 --> 00:44:35.560 align:middle line:84%
+and multiply each of these
+sides by Nt over Nt plus 1--
+
+00:44:35.560 --> 00:44:37.090 align:middle line:90%
+sorry-- I'm going to divide.
+
+00:44:37.090 --> 00:44:41.020 align:middle line:90%
+I multiply each of these by Nt.
+
+00:44:41.020 --> 00:44:47.120 align:middle line:84%
+So multiply by Nt, divide
+by Nt, so multiplying by 1.
+
+00:44:47.120 --> 00:44:49.520 align:middle line:84%
+And then I can rearrange
+the terms in this way
+
+00:44:49.520 --> 00:44:54.310 align:middle line:84%
+so I get what I want, which is
+capital per person at time t,
+
+00:44:54.310 --> 00:44:55.060 align:middle line:90%
+all at time t.
+
+00:44:55.060 --> 00:44:58.800 align:middle line:90%
+But then I get this ratio here.
+
+00:44:58.800 --> 00:45:01.870 align:middle line:84%
+And I can do the same
+for this expression here.
+
+00:45:01.870 --> 00:45:03.165 align:middle line:90%
+Now, what is that ratio?
+
+00:45:03.165 --> 00:45:06.060 align:middle line:90%
+
+
+00:45:06.060 --> 00:45:09.925 align:middle line:84%
+It's population today divided
+by population tomorrow.
+
+00:45:09.925 --> 00:45:14.960 align:middle line:90%
+
+
+00:45:14.960 --> 00:45:21.050 align:middle line:84%
+Well, it's 1 over 1 plus the
+rate of growth of population.
+
+00:45:21.050 --> 00:45:25.310 align:middle line:84%
+Nt plus 1 is equal to
+Nt times 1 plus gN.
+
+00:45:25.310 --> 00:45:27.680 align:middle line:84%
+That's the rate of
+growth of population.
+
+00:45:27.680 --> 00:45:44.410 align:middle line:90%
+
+
+00:45:44.410 --> 00:45:49.390 align:middle line:84%
+So what I have here
+is 1 over 1 plus gN.
+
+00:45:49.390 --> 00:45:51.950 align:middle line:90%
+Now, gN is not a big number.
+
+00:45:51.950 --> 00:46:01.120 align:middle line:84%
+So 1 over 1 plus gN is
+approximately equal to minus gN.
+
+00:46:01.120 --> 00:46:04.150 align:middle line:84%
+So 1 over 1 plus gN--
+gN is very close to 0--
+
+00:46:04.150 --> 00:46:08.110 align:middle line:84%
+is approximately
+equal to minus gN.
+
+00:46:08.110 --> 00:46:12.850 align:middle line:84%
+So that's the reason this guy
+became that guy-- approximately
+
+00:46:12.850 --> 00:46:14.320 align:middle line:90%
+that guy.
+
+00:46:14.320 --> 00:46:16.600 align:middle line:84%
+I can do the same
+here, but it turns out
+
+00:46:16.600 --> 00:46:21.010 align:middle line:84%
+that there's an
+extra term here which
+
+00:46:21.010 --> 00:46:27.670 align:middle line:84%
+is equal to s times
+gN times Yt over Nt.
+
+00:46:27.670 --> 00:46:28.870 align:middle line:90%
+Well, that's second-order.
+
+00:46:28.870 --> 00:46:30.760 align:middle line:84%
+That's the reason
+I'm going to drop it.
+
+00:46:30.760 --> 00:46:32.974 align:middle line:90%
+It's a saving rate which is--
+
+00:46:32.974 --> 00:46:38.080 align:middle line:84%
+it's a small number times a
+rate of population growth, which
+
+00:46:38.080 --> 00:46:40.490 align:middle line:84%
+is a number like 0.01
+or something like that.
+
+00:46:40.490 --> 00:46:42.820 align:middle line:84%
+So that's a small number,
+so I'm dropping it.
+
+00:46:42.820 --> 00:46:45.460 align:middle line:84%
+That's a bigger approximation
+than that one, actually,
+
+00:46:45.460 --> 00:46:46.600 align:middle line:90%
+but I'm going to do it.
+
+00:46:46.600 --> 00:46:48.440 align:middle line:84%
+Everything becomes
+a lot simpler.
+
+00:46:48.440 --> 00:46:50.530 align:middle line:90%
+So this is an approximation.
+
+00:46:50.530 --> 00:46:54.440 align:middle line:84%
+I'm just dropping
+second-order terms.
+
+00:46:54.440 --> 00:46:56.320 align:middle line:84%
+And once I have that,
+I have the system
+
+00:46:56.320 --> 00:46:58.930 align:middle line:84%
+I want because now
+I have a system
+
+00:46:58.930 --> 00:47:10.230 align:middle line:84%
+for the evolution of the capital
+per worker or per person.
+
+00:47:10.230 --> 00:47:12.870 align:middle line:84%
+And if you see, it looks
+exactly as we had before.
+
+00:47:12.870 --> 00:47:16.190 align:middle line:84%
+Remember, this is exactly
+what we had before--
+
+00:47:16.190 --> 00:47:20.150 align:middle line:84%
+sf K over-- we used
+to have N subscript t.
+
+00:47:20.150 --> 00:47:22.250 align:middle line:90%
+Now it's K over Nt.
+
+00:47:22.250 --> 00:47:26.000 align:middle line:84%
+But what is different is that
+now, rather than having only
+
+00:47:26.000 --> 00:47:28.790 align:middle line:84%
+the depreciation rate here,
+we have the depreciation rate
+
+00:47:28.790 --> 00:47:32.820 align:middle line:84%
+plus the rate of
+growth of population.
+
+00:47:32.820 --> 00:47:35.240 align:middle line:84%
+Why do you think we have the
+rate of growth of population
+
+00:47:35.240 --> 00:47:36.600 align:middle line:90%
+there?
+
+00:47:36.600 --> 00:47:42.060 align:middle line:84%
+Remember the economics behind
+this expression before.
+
+00:47:42.060 --> 00:47:49.710 align:middle line:84%
+It was this is what adds to
+capital, to capital per worker.
+
+00:47:49.710 --> 00:47:51.900 align:middle line:84%
+This is what you
+need to maintain,
+
+00:47:51.900 --> 00:47:55.170 align:middle line:90%
+what takes away from capital.
+
+00:47:55.170 --> 00:47:58.143 align:middle line:90%
+Now, it's what takes away from--
+
+00:47:58.143 --> 00:48:00.810 align:middle line:84%
+given we're doing everything in
+the space of capital per worker,
+
+00:48:00.810 --> 00:48:02.380 align:middle line:90%
+that takes away from capital--
+
+00:48:02.380 --> 00:48:04.140 align:middle line:90%
+oh, that's a typo.
+
+00:48:04.140 --> 00:48:04.965 align:middle line:90%
+There's a t there--
+
+00:48:04.965 --> 00:48:07.380 align:middle line:90%
+
+
+00:48:07.380 --> 00:48:07.880 align:middle line:90%
+t.
+
+00:48:07.880 --> 00:48:12.540 align:middle line:90%
+
+
+00:48:12.540 --> 00:48:15.930 align:middle line:84%
+So why do you think
+I have this gN here?
+
+00:48:15.930 --> 00:48:19.200 align:middle line:84%
+Well, I have only one minute,
+so I don't have time to--
+
+00:48:19.200 --> 00:48:24.900 align:middle line:84%
+because if I want to maintain
+a stock of capital per worker,
+
+00:48:24.900 --> 00:48:29.980 align:middle line:84%
+and workers are growing, then I
+need to be growing the capital.
+
+00:48:29.980 --> 00:48:31.740 align:middle line:84%
+So even if I had
+no depreciation,
+
+00:48:31.740 --> 00:48:34.890 align:middle line:84%
+if I want to maintain the
+capital per worker constant,
+
+00:48:34.890 --> 00:48:37.500 align:middle line:84%
+and workers are
+growing, then I need
+
+00:48:37.500 --> 00:48:39.390 align:middle line:90%
+to grow the stock of capital.
+
+00:48:39.390 --> 00:48:41.460 align:middle line:84%
+So in order to
+maintain the capital--
+
+00:48:41.460 --> 00:48:44.460 align:middle line:84%
+I still need to spend what I
+used to spend for depreciation
+
+00:48:44.460 --> 00:48:46.020 align:middle line:90%
+of the capital stock.
+
+00:48:46.020 --> 00:48:50.400 align:middle line:84%
+But if I want to maintain the
+capital per worker constant,
+
+00:48:50.400 --> 00:48:55.350 align:middle line:84%
+then I'm going to need more
+investment, just to make up
+
+00:48:55.350 --> 00:48:58.000 align:middle line:90%
+for that extra component.
+
+00:48:58.000 --> 00:49:01.560 align:middle line:90%
+So now, set gA equal to 0.
+
+00:49:01.560 --> 00:49:04.170 align:middle line:84%
+Your diagram is exactly
+as before in this space.
+
+00:49:04.170 --> 00:49:06.400 align:middle line:90%
+Set a equal to 1 and constant.
+
+00:49:06.400 --> 00:49:11.860 align:middle line:84%
+But this line, the red line
+here will have delta plus gN.
+
+00:49:11.860 --> 00:49:13.360 align:middle line:90%
+So it rotates up.
+
+00:49:13.360 --> 00:49:16.940 align:middle line:90%
+
+
+00:49:16.940 --> 00:49:18.860 align:middle line:84%
+So you can play
+here and see what
+
+00:49:18.860 --> 00:49:21.180 align:middle line:84%
+happens if there is a
+change in population growth
+
+00:49:21.180 --> 00:49:23.058 align:middle line:90%
+and so on and so forth.
+
+00:49:23.058 --> 00:49:24.850 align:middle line:84%
+It's going to be
+counterintuitive initially
+
+00:49:24.850 --> 00:49:27.680 align:middle line:84%
+because you see, if I
+increase population growth,
+
+00:49:27.680 --> 00:49:30.280 align:middle line:84%
+this curve will
+rotate up, and then
+
+00:49:30.280 --> 00:49:32.890 align:middle line:84%
+it will appear as if that
+leads to negative growth.
+
+00:49:32.890 --> 00:49:35.630 align:middle line:90%
+
+
+00:49:35.630 --> 00:49:37.160 align:middle line:84%
+But you don't get
+negative growth.
+
+00:49:37.160 --> 00:49:43.505 align:middle line:84%
+In this diagram, you do get
+that Y over N will decline.
+
+00:49:43.505 --> 00:49:45.630 align:middle line:84%
+But that doesn't mean that
+you get negative growth.
+
+00:49:45.630 --> 00:49:50.440 align:middle line:84%
+It just means that output is not
+growing as fast as population.
+
+00:49:50.440 --> 00:49:53.170 align:middle line:84%
+But both are growing, just the
+population is growing faster
+
+00:49:53.170 --> 00:49:53.920 align:middle line:90%
+than output.
+
+00:49:53.920 --> 00:49:57.180 align:middle line:90%
+I'll start from that--
+
+00:49:57.180 --> 00:49:58.750 align:middle line:84%
+oh, I think it's
+after your break,
+
+00:49:58.750 --> 00:50:01.600 align:middle line:84%
+so when you have forgotten
+everything by then.
+
+00:50:01.600 --> 00:50:04.750 align:middle line:84%
+So I'll do a review
+of this, and then we--
+
+00:50:04.750 --> 00:50:07.590 align:middle line:90%
+OK, have a nice break.
+
+00:50:07.590 --> 00:50:20.000 align:middle line:90%

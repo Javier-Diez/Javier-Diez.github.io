@@ -1,0 +1,3950 @@
+WEBVTT
+
+00:00:00.000 --> 00:00:02.465 align:middle line:90%
+[SQUEAKING]
+
+00:00:02.465 --> 00:00:03.944 align:middle line:90%
+[RUSTLING]
+
+00:00:03.944 --> 00:00:05.423 align:middle line:90%
+[CLICKING]
+
+00:00:05.423 --> 00:00:17.260 align:middle line:90%
+
+
+00:00:17.260 --> 00:00:21.230 align:middle line:84%
+RICARDO J. CABALLERO:
+OK, let's start.
+
+00:00:21.230 --> 00:00:22.930 align:middle line:84%
+So what you have
+there in that picture
+
+00:00:22.930 --> 00:00:28.870 align:middle line:84%
+is the result of a survey to
+a bunch of economists on--
+
+00:00:28.870 --> 00:00:30.700 align:middle line:84%
+which are asked to
+assess the probability
+
+00:00:30.700 --> 00:00:34.940 align:middle line:84%
+that there is a recession
+within the next 12 months.
+
+00:00:34.940 --> 00:00:39.200 align:middle line:84%
+Recession means, essentially,
+a decline in aggregate output.
+
+00:00:39.200 --> 00:00:41.900 align:middle line:84%
+And well, the first
+thing to notice here
+
+00:00:41.900 --> 00:00:44.270 align:middle line:90%
+is that it's not very good news.
+
+00:00:44.270 --> 00:00:46.730 align:middle line:84%
+There are very high
+chances that, at least
+
+00:00:46.730 --> 00:00:50.750 align:middle line:84%
+according to these
+experts, that the US enters
+
+00:00:50.750 --> 00:00:53.810 align:middle line:84%
+a recession within the
+next 12 months or so--
+
+00:00:53.810 --> 00:00:55.220 align:middle line:90%
+pretty high probability.
+
+00:00:55.220 --> 00:00:57.990 align:middle line:84%
+You can see that that number
+typically is very, very low,
+
+00:00:57.990 --> 00:01:01.460 align:middle line:84%
+and it goes very high sort
+of next to recessions.
+
+00:01:01.460 --> 00:01:03.680 align:middle line:84%
+And now we're not
+in a recession,
+
+00:01:03.680 --> 00:01:05.930 align:middle line:84%
+but there is a sort
+of very high perceived
+
+00:01:05.930 --> 00:01:10.380 align:middle line:84%
+probability that we may go into
+a recession in the near future.
+
+00:01:10.380 --> 00:01:14.000 align:middle line:84%
+So how is it that these people
+come up with this forecast?
+
+00:01:14.000 --> 00:01:18.530 align:middle line:84%
+Well, at some level, either
+explicitly or implicitly,
+
+00:01:18.530 --> 00:01:23.390 align:middle line:84%
+they must have some model of
+the termination of equilibrium
+
+00:01:23.390 --> 00:01:24.530 align:middle line:90%
+output.
+
+00:01:24.530 --> 00:01:26.210 align:middle line:90%
+And they need to understand--
+
+00:01:26.210 --> 00:01:28.130 align:middle line:84%
+they need to see
+certain things that
+
+00:01:28.130 --> 00:01:34.470 align:middle line:84%
+suggest, once you go through a
+model, that output will decline.
+
+00:01:34.470 --> 00:01:37.140 align:middle line:84%
+So that's what we're going
+to start doing today.
+
+00:01:37.140 --> 00:01:40.080 align:middle line:84%
+And in fact, that's
+what we're going
+
+00:01:40.080 --> 00:01:42.550 align:middle line:90%
+to do throughout this course.
+
+00:01:42.550 --> 00:01:46.260 align:middle line:84%
+We're going to try to find
+evermore complex, perhaps,
+
+00:01:46.260 --> 00:01:52.050 align:middle line:84%
+or richer models of output
+determination, aggregate output
+
+00:01:52.050 --> 00:01:52.840 align:middle line:90%
+determination.
+
+00:01:52.840 --> 00:01:56.050 align:middle line:84%
+So that's essentially
+what this course is about.
+
+00:01:56.050 --> 00:01:57.648 align:middle line:90%
+And so an understanding.
+
+00:01:57.648 --> 00:01:59.190 align:middle line:84%
+We're going to try
+to understand what
+
+00:01:59.190 --> 00:02:01.200 align:middle line:84%
+is it that drives
+equilibrium output,
+
+00:02:01.200 --> 00:02:05.100 align:middle line:84%
+and how is it that we get to
+one specific level of output.
+
+00:02:05.100 --> 00:02:08.470 align:middle line:84%
+That's what it means to find
+the equilibrium level of output.
+
+00:02:08.470 --> 00:02:11.890 align:middle line:84%
+And we're going to do it
+sort of in three stages.
+
+00:02:11.890 --> 00:02:15.900 align:middle line:84%
+In the first part of the
+course-- that is, up to quiz 1--
+
+00:02:15.900 --> 00:02:19.410 align:middle line:84%
+we're going to focus on the
+very short run, how output
+
+00:02:19.410 --> 00:02:25.320 align:middle line:84%
+is determined in the very short
+run, say within a year or so--
+
+00:02:25.320 --> 00:02:29.220 align:middle line:84%
+or a little more even, but
+that type of frame, time frame.
+
+00:02:29.220 --> 00:02:31.800 align:middle line:84%
+Then we're going to
+focus on the medium run.
+
+00:02:31.800 --> 00:02:36.990 align:middle line:84%
+That's sort of at the
+beginning of the second part
+
+00:02:36.990 --> 00:02:38.640 align:middle line:90%
+of the course.
+
+00:02:38.640 --> 00:02:40.530 align:middle line:84%
+And by the medium
+run, simply we're
+
+00:02:40.530 --> 00:02:42.750 align:middle line:84%
+going to mean by the time
+in which prices begin
+
+00:02:42.750 --> 00:02:44.340 align:middle line:90%
+to adjust sufficiently, OK?
+
+00:02:44.340 --> 00:02:48.960 align:middle line:84%
+Before that, it's most of the
+action happens in quantities.
+
+00:02:48.960 --> 00:02:51.740 align:middle line:84%
+There is little movement
+in goods prices.
+
+00:02:51.740 --> 00:02:53.490 align:middle line:84%
+There's lots of movements
+in asset prices,
+
+00:02:53.490 --> 00:02:55.590 align:middle line:84%
+but little movement
+in goods prices.
+
+00:02:55.590 --> 00:02:57.400 align:middle line:84%
+And in the last
+part of the course,
+
+00:02:57.400 --> 00:02:59.700 align:middle line:84%
+we're going to look at
+how output is determined
+
+00:02:59.700 --> 00:03:02.310 align:middle line:84%
+over the long run, which is
+quite different from how output
+
+00:03:02.310 --> 00:03:04.680 align:middle line:90%
+is determined in the short run.
+
+00:03:04.680 --> 00:03:06.840 align:middle line:84%
+The determination of
+output in the short run
+
+00:03:06.840 --> 00:03:10.860 align:middle line:84%
+is what we mostly mean by
+business cycle analysis.
+
+00:03:10.860 --> 00:03:13.560 align:middle line:84%
+And short or medium run, the
+way we're going to find it here,
+
+00:03:13.560 --> 00:03:15.780 align:middle line:84%
+is what we mean by business
+cycle-- the country's
+
+00:03:15.780 --> 00:03:18.240 align:middle line:84%
+in a recession, it's in
+a boom, is an expansion.
+
+00:03:18.240 --> 00:03:20.550 align:middle line:84%
+Those are all terminologies
+of the short run
+
+00:03:20.550 --> 00:03:22.950 align:middle line:90%
+or short or medium run.
+
+00:03:22.950 --> 00:03:25.200 align:middle line:84%
+The termination of equilibrium
+output in the long run
+
+00:03:25.200 --> 00:03:27.330 align:middle line:90%
+is when we think about growth.
+
+00:03:27.330 --> 00:03:31.530 align:middle line:84%
+When we talk about why China
+grows faster than the US today,
+
+00:03:31.530 --> 00:03:34.410 align:middle line:84%
+well, that's a question not
+about the business cycle.
+
+00:03:34.410 --> 00:03:37.430 align:middle line:84%
+It's a question about
+the long-run determinants
+
+00:03:37.430 --> 00:03:39.780 align:middle line:90%
+of output growth, OK?
+
+00:03:39.780 --> 00:03:42.560 align:middle line:84%
+And they are even
+different class of models.
+
+00:03:42.560 --> 00:03:45.350 align:middle line:84%
+In more advanced models,
+if you were doing a PhD,
+
+00:03:45.350 --> 00:03:48.440 align:middle line:84%
+those things are a lot
+closer to each other.
+
+00:03:48.440 --> 00:03:49.250 align:middle line:90%
+But in this course.
+
+00:03:49.250 --> 00:03:51.420 align:middle line:84%
+They're going to be very
+different type of models.
+
+00:03:51.420 --> 00:03:53.600 align:middle line:84%
+It's easier to
+analyze these things
+
+00:03:53.600 --> 00:03:56.180 align:middle line:84%
+with different type of models
+than trying to integrate
+
+00:03:56.180 --> 00:03:59.060 align:middle line:90%
+all in one big machine, OK?
+
+00:03:59.060 --> 00:04:01.220 align:middle line:84%
+But let's start with
+the simple part.
+
+00:04:01.220 --> 00:04:03.770 align:middle line:84%
+In the short run,
+the key mechanism,
+
+00:04:03.770 --> 00:04:08.450 align:middle line:84%
+something that will keep
+showing up in all the models
+
+00:04:08.450 --> 00:04:12.740 align:middle line:84%
+and submodels we analyze
+in the first eight lectures
+
+00:04:12.740 --> 00:04:15.320 align:middle line:84%
+or so or seven
+lectures-- the next seven
+
+00:04:15.320 --> 00:04:17.660 align:middle line:84%
+lectures or so is
+this mechanism.
+
+00:04:17.660 --> 00:04:20.209 align:middle line:90%
+In the very short run, output--
+
+00:04:20.209 --> 00:04:23.270 align:middle line:84%
+that is, equilibrium output, the
+thing that these economists are
+
+00:04:23.270 --> 00:04:27.560 align:middle line:84%
+forecasting that will decline
+in within the next 12 months--
+
+00:04:27.560 --> 00:04:33.140 align:middle line:84%
+is determined primarily
+by what we call demand.
+
+00:04:33.140 --> 00:04:35.180 align:middle line:90%
+So demand will determine output.
+
+00:04:35.180 --> 00:04:36.960 align:middle line:84%
+Thus, if there's a
+change in demand,
+
+00:04:36.960 --> 00:04:39.130 align:middle line:90%
+that will change production.
+
+00:04:39.130 --> 00:04:42.375 align:middle line:84%
+But when production changes,
+that will also change income.
+
+00:04:42.375 --> 00:04:43.980 align:middle line:84%
+That you know from
+national accounts.
+
+00:04:43.980 --> 00:04:46.110 align:middle line:84%
+Remember, we said that
+we could measure output
+
+00:04:46.110 --> 00:04:50.430 align:middle line:84%
+from the production side but we
+also measured the income side.
+
+00:04:50.430 --> 00:04:51.810 align:middle line:90%
+And they're exactly the same.
+
+00:04:51.810 --> 00:04:54.900 align:middle line:84%
+More production, somebody has to
+receive the proceeds of that--
+
+00:04:54.900 --> 00:04:58.590 align:middle line:84%
+workers and owners, capital
+owners, the government,
+
+00:04:58.590 --> 00:04:59.700 align:middle line:90%
+whatever.
+
+00:04:59.700 --> 00:05:04.170 align:middle line:84%
+So changes in-- so the second
+step is changes in production
+
+00:05:04.170 --> 00:05:06.570 align:middle line:84%
+that were brought about
+by the changes in demand
+
+00:05:06.570 --> 00:05:08.620 align:middle line:90%
+will lead to a change in income.
+
+00:05:08.620 --> 00:05:12.300 align:middle line:84%
+But when income changes, that
+will change demand again and so
+
+00:05:12.300 --> 00:05:13.680 align:middle line:90%
+on and so forth, OK?
+
+00:05:13.680 --> 00:05:18.300 align:middle line:84%
+So that's essentially-- that's
+quintessential short-run macro,
+
+00:05:18.300 --> 00:05:20.910 align:middle line:84%
+to try to understand
+this aggregate demand,
+
+00:05:20.910 --> 00:05:23.010 align:middle line:84%
+because that's the
+main driver, and then
+
+00:05:23.010 --> 00:05:27.390 align:middle line:84%
+how it gets multiplied
+in the short run, OK?
+
+00:05:27.390 --> 00:05:30.750 align:middle line:84%
+In this lecture, we're going to
+talk just about that, primarily
+
+00:05:30.750 --> 00:05:31.920 align:middle line:90%
+about that.
+
+00:05:31.920 --> 00:05:35.015 align:middle line:84%
+But that's one-- so when I
+mean short-run macro, that's
+
+00:05:35.015 --> 00:05:36.140 align:middle line:90%
+a structure I have in mind.
+
+00:05:36.140 --> 00:05:38.012 align:middle line:84%
+And that's what most
+people have in mind,
+
+00:05:38.012 --> 00:05:40.220 align:middle line:84%
+something where aggregate
+demand will determine that.
+
+00:05:40.220 --> 00:05:41.660 align:middle line:84%
+That's the reason
+why, in the short run,
+
+00:05:41.660 --> 00:05:43.827 align:middle line:84%
+you worry a lot about whether
+consumer confidence is
+
+00:05:43.827 --> 00:05:44.960 align:middle line:90%
+high or low.
+
+00:05:44.960 --> 00:05:45.800 align:middle line:90%
+That's demand.
+
+00:05:45.800 --> 00:05:48.740 align:middle line:84%
+If consumers are very depressed,
+they tend to reduce demand.
+
+00:05:48.740 --> 00:05:50.630 align:middle line:84%
+If consumers are
+very bullish, that
+
+00:05:50.630 --> 00:05:53.400 align:middle line:90%
+will tend to increase demand.
+
+00:05:53.400 --> 00:05:54.860 align:middle line:84%
+And since, in the
+short run, output
+
+00:05:54.860 --> 00:05:57.290 align:middle line:84%
+is determined by demand,
+the business cycle,
+
+00:05:57.290 --> 00:05:59.270 align:middle line:84%
+whether we have a
+recession or not,
+
+00:05:59.270 --> 00:06:01.380 align:middle line:84%
+depends a lot on
+how demand feels.
+
+00:06:01.380 --> 00:06:03.980 align:middle line:84%
+So if somebody's forecasting
+a recession within the next 12
+
+00:06:03.980 --> 00:06:08.630 align:middle line:84%
+months, is forecasting really
+that demand will decline
+
+00:06:08.630 --> 00:06:12.570 align:middle line:90%
+within the next 12 months, OK?
+
+00:06:12.570 --> 00:06:14.610 align:middle line:84%
+Why they're forecasting
+that-- that's something
+
+00:06:14.610 --> 00:06:17.790 align:middle line:84%
+we're going to learn in steps
+as we go through the course.
+
+00:06:17.790 --> 00:06:20.220 align:middle line:84%
+What are the kind of things
+they may be thinking about?
+
+00:06:20.220 --> 00:06:22.350 align:middle line:84%
+What are the drags
+on aggregate demand
+
+00:06:22.350 --> 00:06:26.670 align:middle line:84%
+that are likely to depress
+demand and so on and so forth?
+
+00:06:26.670 --> 00:06:30.200 align:middle line:90%
+But we'll get there, OK?
+
+00:06:30.200 --> 00:06:32.450 align:middle line:84%
+Anyways, first, let me tell
+you about the components
+
+00:06:32.450 --> 00:06:35.040 align:middle line:90%
+of aggregate demand.
+
+00:06:35.040 --> 00:06:36.970 align:middle line:90%
+The first and one of--
+
+00:06:36.970 --> 00:06:40.730 align:middle line:84%
+the largest component of
+aggregate demand is consumption.
+
+00:06:40.730 --> 00:06:42.410 align:middle line:84%
+And what I mean
+aggregate demand--
+
+00:06:42.410 --> 00:06:45.740 align:middle line:90%
+OK, I'll be--
+
+00:06:45.740 --> 00:06:47.000 align:middle line:90%
+I'll pause for a slide.
+
+00:06:47.000 --> 00:06:48.860 align:middle line:90%
+Let me go over the definition.
+
+00:06:48.860 --> 00:06:51.380 align:middle line:84%
+Consumption-- we're
+going to denote by C--
+
+00:06:51.380 --> 00:06:55.410 align:middle line:84%
+is the goods and service
+purchased by consumers,
+
+00:06:55.410 --> 00:06:57.300 align:middle line:90%
+households, and so on.
+
+00:06:57.300 --> 00:07:00.480 align:middle line:84%
+Investment, which we're
+going to denote by I,
+
+00:07:00.480 --> 00:07:04.050 align:middle line:84%
+is the sum of nonresidential
+and residential investments--
+
+00:07:04.050 --> 00:07:10.170 align:middle line:84%
+so equipment and
+factories on one side,
+
+00:07:10.170 --> 00:07:13.770 align:middle line:84%
+and then residential investment
+is houses, stuff like that,
+
+00:07:13.770 --> 00:07:16.800 align:middle line:84%
+apartment buildings and
+so on, which is also--
+
+00:07:16.800 --> 00:07:20.110 align:middle line:84%
+these are goods and services, as
+well, capital goods and so on.
+
+00:07:20.110 --> 00:07:22.698 align:middle line:84%
+But they're are also
+goods and services.
+
+00:07:22.698 --> 00:07:24.990 align:middle line:84%
+Government spending-- that's
+what we're going to denote
+
+00:07:24.990 --> 00:07:28.720 align:middle line:84%
+by G-- are purchases of goods
+and services by the federal,
+
+00:07:28.720 --> 00:07:32.070 align:middle line:84%
+state, and local
+government, excluding--
+
+00:07:32.070 --> 00:07:35.200 align:middle line:84%
+that's important--
+government transfers.
+
+00:07:35.200 --> 00:07:36.490 align:middle line:90%
+What is a government transfer?
+
+00:07:36.490 --> 00:07:38.650 align:middle line:84%
+Many of you may have
+received that during COVID.
+
+00:07:38.650 --> 00:07:41.890 align:middle line:84%
+The government sent you
+a check, for example, OK?
+
+00:07:41.890 --> 00:07:45.070 align:middle line:84%
+Well, that check is not part
+of government expenditure.
+
+00:07:45.070 --> 00:07:48.010 align:middle line:84%
+That check is like
+a-- is a negative tax
+
+00:07:48.010 --> 00:07:49.900 align:middle line:84%
+and is going to
+enter somewhere else.
+
+00:07:49.900 --> 00:07:52.390 align:middle line:84%
+When we mean
+government expenditure
+
+00:07:52.390 --> 00:07:56.080 align:middle line:84%
+is things the government
+purchases, services
+
+00:07:56.080 --> 00:08:00.790 align:middle line:84%
+the government
+acquires and so on, OK?
+
+00:08:00.790 --> 00:08:06.370 align:middle line:84%
+And then exports, X, which
+will play no role until seven
+
+00:08:06.370 --> 00:08:07.810 align:middle line:84%
+lectures, eight
+lectures from now,
+
+00:08:07.810 --> 00:08:10.660 align:middle line:84%
+or actually 10 lectures
+from now probably,
+
+00:08:10.660 --> 00:08:14.080 align:middle line:84%
+is purchases of US goods
+and services-- that is,
+
+00:08:14.080 --> 00:08:16.490 align:middle line:90%
+goods produced by US factories--
+
+00:08:16.490 --> 00:08:19.240 align:middle line:90%
+
+
+00:08:19.240 --> 00:08:20.530 align:middle line:90%
+by foreigners.
+
+00:08:20.530 --> 00:08:24.140 align:middle line:90%
+
+
+00:08:24.140 --> 00:08:27.110 align:middle line:84%
+IM is the other side
+of the story, inputs.
+
+00:08:27.110 --> 00:08:31.010 align:middle line:84%
+It's the purchase of
+foreign goods and services
+
+00:08:31.010 --> 00:08:34.289 align:middle line:84%
+by US consumers, US
+firms, US government.
+
+00:08:34.289 --> 00:08:36.950 align:middle line:84%
+So when you buy something
+that is produced in Germany,
+
+00:08:36.950 --> 00:08:38.179 align:middle line:90%
+well, that's an import.
+
+00:08:38.179 --> 00:08:39.650 align:middle line:84%
+When the Germans
+buy something that
+
+00:08:39.650 --> 00:08:42.740 align:middle line:84%
+is produced in the US,
+that's an export, OK?
+
+00:08:42.740 --> 00:08:44.420 align:middle line:84%
+And then the last
+component is something
+
+00:08:44.420 --> 00:08:46.730 align:middle line:84%
+we're not going to pay
+any attention whatsoever
+
+00:08:46.730 --> 00:08:49.280 align:middle line:84%
+in this course, which
+is inventory investment.
+
+00:08:49.280 --> 00:08:51.260 align:middle line:84%
+Inventory investment
+is certainly--
+
+00:08:51.260 --> 00:08:52.700 align:middle line:90%
+it's almost accidental.
+
+00:08:52.700 --> 00:08:55.550 align:middle line:84%
+There is some planning on it,
+but there is a lot of-- it's
+
+00:08:55.550 --> 00:08:57.980 align:middle line:84%
+just when there's difference
+between sales and production.
+
+00:08:57.980 --> 00:09:00.650 align:middle line:84%
+And over the very short run,
+there's lots of differences.
+
+00:09:00.650 --> 00:09:04.100 align:middle line:84%
+I mean, you're not producing--
+unless you're in a bakery,
+
+00:09:04.100 --> 00:09:06.560 align:middle line:84%
+you're not producing
+and selling immediately.
+
+00:09:06.560 --> 00:09:08.420 align:middle line:90%
+There are certain lags.
+
+00:09:08.420 --> 00:09:09.780 align:middle line:90%
+That's a small thing.
+
+00:09:09.780 --> 00:09:11.700 align:middle line:84%
+It's volatile, but
+it's a small thing.
+
+00:09:11.700 --> 00:09:15.120 align:middle line:84%
+So we're going to ignore
+it for this course.
+
+00:09:15.120 --> 00:09:17.455 align:middle line:84%
+We're going to assume,
+actually, unless we explicitly
+
+00:09:17.455 --> 00:09:19.580 align:middle line:84%
+say the contrary, and that
+could show up in a pset.
+
+00:09:19.580 --> 00:09:23.168 align:middle line:84%
+It would never show in a quiz,
+because it's not that important.
+
+00:09:23.168 --> 00:09:25.460 align:middle line:84%
+We're going to assume that
+this inventory investment is
+
+00:09:25.460 --> 00:09:26.570 align:middle line:90%
+equal to 0.
+
+00:09:26.570 --> 00:09:30.180 align:middle line:84%
+Also, for this part of the
+course, until further notice,
+
+00:09:30.180 --> 00:09:32.670 align:middle line:84%
+we're going to assume that
+exports and imports are
+
+00:09:32.670 --> 00:09:34.350 align:middle line:90%
+equal to 0 as well.
+
+00:09:34.350 --> 00:09:36.510 align:middle line:84%
+That's not realistic,
+but it's easier
+
+00:09:36.510 --> 00:09:41.163 align:middle line:84%
+to analyze what we call a
+closed economy, an economy that
+
+00:09:41.163 --> 00:09:43.080 align:middle line:84%
+is not interacting with
+the rest of the world.
+
+00:09:43.080 --> 00:09:45.275 align:middle line:84%
+In, again, 10 lectures
+from now, we're
+
+00:09:45.275 --> 00:09:47.400 align:middle line:84%
+going to open the economy
+to the rest of the world,
+
+00:09:47.400 --> 00:09:48.900 align:middle line:84%
+and then we're going
+to have to talk
+
+00:09:48.900 --> 00:09:51.917 align:middle line:84%
+about things like
+import/exports, exchange rates,
+
+00:09:51.917 --> 00:09:52.750 align:middle line:90%
+things of that kind.
+
+00:09:52.750 --> 00:09:55.770 align:middle line:84%
+But for now, let's
+keep it simple, OK?
+
+00:09:55.770 --> 00:09:58.920 align:middle line:84%
+So now, so you get a
+sense, this is for 2018.
+
+00:09:58.920 --> 00:10:02.310 align:middle line:84%
+But I mean, the totals change,
+but the composition doesn't
+
+00:10:02.310 --> 00:10:04.320 align:middle line:90%
+change very much, of GDP--
+
+00:10:04.320 --> 00:10:09.130 align:middle line:90%
+
+
+00:10:09.130 --> 00:10:14.020 align:middle line:90%
+of GDP output, aggregate demand.
+
+00:10:14.020 --> 00:10:16.780 align:middle line:84%
+They're are all the
+same in equilibrium,
+
+00:10:16.780 --> 00:10:18.730 align:middle line:90%
+but we'll get there.
+
+00:10:18.730 --> 00:10:23.170 align:middle line:84%
+In GDP, you see that consumption
+accounts for a big chunk, close
+
+00:10:23.170 --> 00:10:25.580 align:middle line:90%
+to 70% of aggregate demand.
+
+00:10:25.580 --> 00:10:29.170 align:middle line:84%
+That's the reason people worry
+so much about consumer sentiment
+
+00:10:29.170 --> 00:10:29.980 align:middle line:90%
+and so on.
+
+00:10:29.980 --> 00:10:33.473 align:middle line:84%
+University of Michigan
+has many claims to fame.
+
+00:10:33.473 --> 00:10:35.890 align:middle line:84%
+But one of them is that they
+produce its index of consumer
+
+00:10:35.890 --> 00:10:36.460 align:middle line:90%
+sentiment.
+
+00:10:36.460 --> 00:10:38.050 align:middle line:84%
+And everyone is
+watching that thing.
+
+00:10:38.050 --> 00:10:40.150 align:middle line:84%
+Anybody that worries
+about macro or finance
+
+00:10:40.150 --> 00:10:42.370 align:middle line:84%
+is watching that thing
+because it tells you
+
+00:10:42.370 --> 00:10:47.140 align:middle line:84%
+a lot about one of the main
+drivers of output, equilibrium
+
+00:10:47.140 --> 00:10:48.020 align:middle line:90%
+output.
+
+00:10:48.020 --> 00:10:50.740 align:middle line:84%
+Then you see investment
+is substantially smaller,
+
+00:10:50.740 --> 00:10:55.010 align:middle line:84%
+but it's large, in particular,
+nonresidential investment.
+
+00:10:55.010 --> 00:10:59.590 align:middle line:84%
+Government expenditure is a big
+component of aggregate demand.
+
+00:10:59.590 --> 00:11:01.990 align:middle line:84%
+And then I'm not going
+to worry too much about--
+
+00:11:01.990 --> 00:11:05.380 align:middle line:84%
+for a country like the
+US, the openness part
+
+00:11:05.380 --> 00:11:07.490 align:middle line:90%
+is relatively small.
+
+00:11:07.490 --> 00:11:09.430 align:middle line:90%
+If you go to a--
+
+00:11:09.430 --> 00:11:12.140 align:middle line:90%
+
+
+00:11:12.140 --> 00:11:16.210 align:middle line:84%
+a small economy typically will
+have sort of very large exports
+
+00:11:16.210 --> 00:11:17.660 align:middle line:90%
+relative to GDP and so on.
+
+00:11:17.660 --> 00:11:22.080 align:middle line:84%
+But that's not the
+case of the US.
+
+00:11:22.080 --> 00:11:23.810 align:middle line:84%
+And there you see why
+we're going to set
+
+00:11:23.810 --> 00:11:25.260 align:middle line:90%
+inventory investment to 0.
+
+00:11:25.260 --> 00:11:26.220 align:middle line:90%
+It's a small thing.
+
+00:11:26.220 --> 00:11:28.750 align:middle line:84%
+It moves a lot
+more than its size,
+
+00:11:28.750 --> 00:11:32.595 align:middle line:84%
+so it can account for
+fluctuations in sort
+
+00:11:32.595 --> 00:11:34.710 align:middle line:90%
+of the monthly level of GDP.
+
+00:11:34.710 --> 00:11:39.820 align:middle line:84%
+But it's not that important in a
+slightly longer period of time,
+
+00:11:39.820 --> 00:11:40.320 align:middle line:90%
+OK?
+
+00:11:40.320 --> 00:11:41.695 align:middle line:84%
+So that's more or
+less the story.
+
+00:11:41.695 --> 00:11:44.250 align:middle line:90%
+So now this is the model.
+
+00:11:44.250 --> 00:11:46.330 align:middle line:90%
+Please stop me.
+
+00:11:46.330 --> 00:11:48.600 align:middle line:84%
+Is there anything here
+you don't understand,
+
+00:11:48.600 --> 00:11:52.980 align:middle line:84%
+because everything that we
+build from here to quiz 1
+
+00:11:52.980 --> 00:11:56.760 align:middle line:84%
+will build on understanding
+this, what I'm about to say.
+
+00:11:56.760 --> 00:11:59.730 align:middle line:84%
+Very simple, but if
+you miss a step here,
+
+00:11:59.730 --> 00:12:01.200 align:middle line:84%
+everything is going
+to be confusing
+
+00:12:01.200 --> 00:12:02.670 align:middle line:90%
+in the next few lectures.
+
+00:12:02.670 --> 00:12:05.130 align:middle line:84%
+And you're not supposed to
+understand it in the first run,
+
+00:12:05.130 --> 00:12:06.655 align:middle line:90%
+so it's OK that you ask me.
+
+00:12:06.655 --> 00:12:08.280 align:middle line:84%
+But let's make sure
+that you understand
+
+00:12:08.280 --> 00:12:10.590 align:middle line:90%
+what is going on here.
+
+00:12:10.590 --> 00:12:12.270 align:middle line:90%
+OK, so that's aggregate demand.
+
+00:12:12.270 --> 00:12:15.150 align:middle line:84%
+First, definition-- so we're
+going to denote aggregate demand
+
+00:12:15.150 --> 00:12:20.460 align:middle line:84%
+by this Z, letter Z. And
+aggregate demand is going
+
+00:12:20.460 --> 00:12:21.270 align:middle line:90%
+to be--
+
+00:12:21.270 --> 00:12:23.340 align:middle line:84%
+when we say aggregate
+demand, remember
+
+00:12:23.340 --> 00:12:26.370 align:middle line:84%
+what is the exercise
+we're trying to do.
+
+00:12:26.370 --> 00:12:28.200 align:middle line:84%
+Ultimately, what we
+want to determine
+
+00:12:28.200 --> 00:12:32.700 align:middle line:84%
+is the output, the production
+of the US economy, say.
+
+00:12:32.700 --> 00:12:35.190 align:middle line:84%
+So when we meet-- when we
+talk about aggregate demand,
+
+00:12:35.190 --> 00:12:36.990 align:middle line:84%
+we're trying to
+determine the demand
+
+00:12:36.990 --> 00:12:40.950 align:middle line:84%
+for domestically produced goods,
+for goods produced in the US.
+
+00:12:40.950 --> 00:12:43.120 align:middle line:84%
+That's what we're
+trying to pin down.
+
+00:12:43.120 --> 00:12:46.680 align:middle line:84%
+And so that's the reason
+aggregate demand looks
+
+00:12:46.680 --> 00:12:48.610 align:middle line:90%
+like that, is, well, consumers.
+
+00:12:48.610 --> 00:12:50.530 align:middle line:84%
+Consumers are going
+to demand goods.
+
+00:12:50.530 --> 00:12:54.250 align:middle line:90%
+Investment, G, plus exports.
+
+00:12:54.250 --> 00:12:55.990 align:middle line:84%
+If foreign demands
+US goods, that also
+
+00:12:55.990 --> 00:12:59.140 align:middle line:84%
+increases US production--
+minus imports
+
+00:12:59.140 --> 00:13:04.990 align:middle line:84%
+because imports is goods and
+services that consumers, firms,
+
+00:13:04.990 --> 00:13:07.300 align:middle line:84%
+and governments sort
+of buy from foreigners,
+
+00:13:07.300 --> 00:13:09.460 align:middle line:84%
+but they're not produced
+by US companies.
+
+00:13:09.460 --> 00:13:11.800 align:middle line:84%
+So they do not affect the
+determination of equilibrium
+
+00:13:11.800 --> 00:13:14.193 align:middle line:90%
+output in the US, OK?
+
+00:13:14.193 --> 00:13:15.610 align:middle line:84%
+That's the reason
+you subtract it.
+
+00:13:15.610 --> 00:13:17.890 align:middle line:84%
+Now, that distinction
+is not going
+
+00:13:17.890 --> 00:13:21.340 align:middle line:84%
+to matter until 10 lectures
+from now, because we're
+
+00:13:21.340 --> 00:13:24.640 align:middle line:84%
+going to set X and IM equal
+to 0 from the point of view
+
+00:13:24.640 --> 00:13:25.490 align:middle line:90%
+of modeling.
+
+00:13:25.490 --> 00:13:28.780 align:middle line:84%
+So all demand is demand for
+domestically produced goods
+
+00:13:28.780 --> 00:13:30.550 align:middle line:90%
+in this part of the course, OK?
+
+00:13:30.550 --> 00:13:35.530 align:middle line:84%
+So aggregate demand for US
+will be this C plus I plus G.
+
+00:13:35.530 --> 00:13:39.220 align:middle line:84%
+So we need to understand what
+determines C plus I plus G.
+
+00:13:39.220 --> 00:13:41.200 align:middle line:84%
+And at least
+initially, we're going
+
+00:13:41.200 --> 00:13:42.757 align:middle line:90%
+to keep it very, very simple.
+
+00:13:42.757 --> 00:13:44.590 align:middle line:84%
+We're not going to think
+too much about what
+
+00:13:44.590 --> 00:13:46.247 align:middle line:90%
+determines investment.
+
+00:13:46.247 --> 00:13:48.830 align:middle line:84%
+In fact, we're going to assume
+that it's a constant, is given.
+
+00:13:48.830 --> 00:13:50.247 align:middle line:84%
+So it's determined
+somewhere else,
+
+00:13:50.247 --> 00:13:52.930 align:middle line:84%
+not in the model
+I'm about to solve.
+
+00:13:52.930 --> 00:13:56.062 align:middle line:84%
+Government
+expenditure, the same--
+
+00:13:56.062 --> 00:13:57.520 align:middle line:84%
+I'm going to assume
+it's determined
+
+00:13:57.520 --> 00:14:01.090 align:middle line:84%
+by some other priorities, green
+agendas and stuff like that.
+
+00:14:01.090 --> 00:14:05.300 align:middle line:84%
+It has very little to do
+with what we're doing here.
+
+00:14:05.300 --> 00:14:07.990 align:middle line:84%
+And then taxes is something
+that doesn't show up there,
+
+00:14:07.990 --> 00:14:09.402 align:middle line:84%
+but it will show
+up very shortly.
+
+00:14:09.402 --> 00:14:11.110 align:middle line:84%
+We're also going to
+assume that they have
+
+00:14:11.110 --> 00:14:12.520 align:middle line:90%
+been determined somewhere else.
+
+00:14:12.520 --> 00:14:14.840 align:middle line:84%
+In psets and later
+on in the course,
+
+00:14:14.840 --> 00:14:17.320 align:middle line:84%
+we're going to endogenize
+all that, but not now.
+
+00:14:17.320 --> 00:14:19.390 align:middle line:84%
+Let's assume-- I'm
+trying to come up
+
+00:14:19.390 --> 00:14:22.850 align:middle line:84%
+with the simplest possible
+model of aggregate demand.
+
+00:14:22.850 --> 00:14:26.650 align:middle line:84%
+And I'm making two of these
+terms trivial, just constants,
+
+00:14:26.650 --> 00:14:27.190 align:middle line:90%
+OK?
+
+00:14:27.190 --> 00:14:31.150 align:middle line:84%
+And I'm going to focus all my
+effort here in this component
+
+00:14:31.150 --> 00:14:33.220 align:middle line:84%
+here, which I
+already told you is
+
+00:14:33.220 --> 00:14:35.680 align:middle line:84%
+the most important component
+of aggregate demand, which
+
+00:14:35.680 --> 00:14:37.600 align:middle line:90%
+is consumption, OK?
+
+00:14:37.600 --> 00:14:39.100 align:middle line:90%
+So we're going to assume--
+
+00:14:39.100 --> 00:14:40.600 align:middle line:84%
+here we're going
+to have a function.
+
+00:14:40.600 --> 00:14:43.030 align:middle line:84%
+Something has to move for
+the model to be interesting.
+
+00:14:43.030 --> 00:14:46.990 align:middle line:84%
+So this-- we're going to
+assume that consumption
+
+00:14:46.990 --> 00:14:49.900 align:middle line:84%
+is an increasing function
+of disposable income.
+
+00:14:49.900 --> 00:14:52.310 align:middle line:84%
+I'm about to define what
+disposable income is,
+
+00:14:52.310 --> 00:14:53.730 align:middle line:90%
+but you can imagine what it is.
+
+00:14:53.730 --> 00:14:55.920 align:middle line:84%
+It's something you can
+use to consume and so on.
+
+00:14:55.920 --> 00:14:59.600 align:middle line:84%
+So very naturally, if you have
+a higher disposable income,
+
+00:14:59.600 --> 00:15:00.830 align:middle line:90%
+you're going to consume more.
+
+00:15:00.830 --> 00:15:03.640 align:middle line:90%
+That's what this says, OK?
+
+00:15:03.640 --> 00:15:06.810 align:middle line:84%
+In reality, that consumption
+function is a lot more complex.
+
+00:15:06.810 --> 00:15:09.520 align:middle line:84%
+There are lots of things that
+enter there that we're not
+
+00:15:09.520 --> 00:15:10.730 align:middle line:90%
+modeling for now.
+
+00:15:10.730 --> 00:15:13.390 align:middle line:84%
+But let's start
+from the basics, OK?
+
+00:15:13.390 --> 00:15:16.330 align:middle line:84%
+So that's going to be the only
+behavioral assumption we're
+
+00:15:16.330 --> 00:15:20.920 align:middle line:84%
+going to make for a while,
+that the consumers consume
+
+00:15:20.920 --> 00:15:23.770 align:middle line:84%
+more when they have
+more disposable income.
+
+00:15:23.770 --> 00:15:27.650 align:middle line:90%
+
+
+00:15:27.650 --> 00:15:29.450 align:middle line:84%
+And then we're going
+to get even simpler.
+
+00:15:29.450 --> 00:15:32.510 align:middle line:84%
+I'm going to assume that
+consumption is a linear function
+
+00:15:32.510 --> 00:15:34.940 align:middle line:90%
+of this disposable income.
+
+00:15:34.940 --> 00:15:38.750 align:middle line:84%
+So there's going to be some
+constant C0 which captures lots
+
+00:15:38.750 --> 00:15:41.130 align:middle line:84%
+of things that we're not
+modeling here-- for example,
+
+00:15:41.130 --> 00:15:45.270 align:middle line:84%
+the fact that, for any given
+level of disposable income,
+
+00:15:45.270 --> 00:15:47.120 align:middle line:90%
+if you--
+
+00:15:47.120 --> 00:15:49.520 align:middle line:84%
+if you're richer, suppose
+you have some shares,
+
+00:15:49.520 --> 00:15:51.590 align:middle line:84%
+and now the shares
+double in value,
+
+00:15:51.590 --> 00:15:54.290 align:middle line:84%
+you probably are going
+to consume more as well.
+
+00:15:54.290 --> 00:15:56.820 align:middle line:84%
+There are lots of other
+things that affect consumption
+
+00:15:56.820 --> 00:15:58.370 align:middle line:90%
+which are different from--
+
+00:15:58.370 --> 00:16:01.593 align:middle line:84%
+aside from your
+disposable income.
+
+00:16:01.593 --> 00:16:03.010 align:middle line:84%
+But we're not going
+to model that.
+
+00:16:03.010 --> 00:16:04.910 align:middle line:84%
+So thus, we're going
+to call it autonomous,
+
+00:16:04.910 --> 00:16:06.180 align:middle line:84%
+autonomous in the
+sense that we're not
+
+00:16:06.180 --> 00:16:07.270 align:middle line:90%
+going to determine it here.
+
+00:16:07.270 --> 00:16:08.670 align:middle line:84%
+We're going to take
+it as a parameter that
+
+00:16:08.670 --> 00:16:09.960 align:middle line:90%
+comes from somewhere else.
+
+00:16:09.960 --> 00:16:12.750 align:middle line:84%
+We may do some experiments
+moving that variable around,
+
+00:16:12.750 --> 00:16:17.760 align:middle line:84%
+but it's not going to be
+part of what we model.
+
+00:16:17.760 --> 00:16:19.890 align:middle line:84%
+C1 is a more
+interesting parameter
+
+00:16:19.890 --> 00:16:21.160 align:middle line:90%
+for this part of the course.
+
+00:16:21.160 --> 00:16:25.270 align:middle line:84%
+And it's what we call the
+marginal propensity to consume--
+
+00:16:25.270 --> 00:16:27.450 align:middle line:84%
+out of disposable
+income, in this case.
+
+00:16:27.450 --> 00:16:30.420 align:middle line:90%
+That is, C1 tells you the share.
+
+00:16:30.420 --> 00:16:32.980 align:middle line:84%
+If you get an extra dollar
+of disposable income,
+
+00:16:32.980 --> 00:16:36.300 align:middle line:84%
+how much of that do you
+spend in consumption?
+
+00:16:36.300 --> 00:16:39.990 align:middle line:84%
+So say you get an
+extra dollar of income.
+
+00:16:39.990 --> 00:16:45.690 align:middle line:84%
+If you spend $0.60 in the things
+you normally consume of that
+
+00:16:45.690 --> 00:16:48.900 align:middle line:84%
+extra dollar, well,
+then your C1 is 0.6, OK?
+
+00:16:48.900 --> 00:16:51.438 align:middle line:84%
+That's the marginal
+propensity to consume.
+
+00:16:51.438 --> 00:16:53.480 align:middle line:84%
+And that's what gives us
+our increasing function.
+
+00:16:53.480 --> 00:16:54.560 align:middle line:84%
+If you get an extra
+dollar, you're
+
+00:16:54.560 --> 00:16:56.630 align:middle line:84%
+going to do-- you're going
+to save part, but some of it
+
+00:16:56.630 --> 00:16:57.590 align:middle line:90%
+you're going to spend.
+
+00:16:57.590 --> 00:16:59.720 align:middle line:84%
+That part you're going
+to spend is the C1
+
+00:16:59.720 --> 00:17:02.805 align:middle line:90%
+that we have there, OK?
+
+00:17:02.805 --> 00:17:03.305 align:middle line:90%
+Good.
+
+00:17:03.305 --> 00:17:08.740 align:middle line:90%
+
+
+00:17:08.740 --> 00:17:11.750 align:middle line:84%
+Now let me tell you how we
+define disposable income.
+
+00:17:11.750 --> 00:17:13.970 align:middle line:84%
+Disposable income is
+just equal to income,
+
+00:17:13.970 --> 00:17:17.140 align:middle line:84%
+which is equal to
+production, minus taxes.
+
+00:17:17.140 --> 00:17:18.670 align:middle line:90%
+That's disposable income.
+
+00:17:18.670 --> 00:17:24.430 align:middle line:84%
+It's whatever you earn as a
+worker or as a capital owner--
+
+00:17:24.430 --> 00:17:27.069 align:middle line:84%
+well, then the government
+takes some out of it.
+
+00:17:27.069 --> 00:17:29.162 align:middle line:84%
+That's your disposable
+income, and that's
+
+00:17:29.162 --> 00:17:31.870 align:middle line:84%
+what you have to decide how much
+to save and how much to consume.
+
+00:17:31.870 --> 00:17:35.650 align:middle line:90%
+
+
+00:17:35.650 --> 00:17:38.050 align:middle line:84%
+So that means that our
+consumption function
+
+00:17:38.050 --> 00:17:42.400 align:middle line:84%
+can be written that way after
+all these assumptions I've
+
+00:17:42.400 --> 00:17:43.570 align:middle line:90%
+made--
+
+00:17:43.570 --> 00:17:46.612 align:middle line:84%
+equal to its autonomous
+component plus C1,
+
+00:17:46.612 --> 00:17:48.070 align:middle line:84%
+the marginal
+propensity to consume,
+
+00:17:48.070 --> 00:17:52.435 align:middle line:84%
+times income,
+output, minus taxes.
+
+00:17:52.435 --> 00:17:56.630 align:middle line:90%
+
+
+00:17:56.630 --> 00:17:59.130 align:middle line:90%
+Is it clear?
+
+00:17:59.130 --> 00:17:59.910 align:middle line:90%
+Yes?
+
+00:17:59.910 --> 00:18:01.290 align:middle line:90%
+So all these are assumptions.
+
+00:18:01.290 --> 00:18:03.420 align:middle line:84%
+Now, they're not crazy
+assumptions in the sense
+
+00:18:03.420 --> 00:18:06.280 align:middle line:84%
+that we know that there is a
+relationship between these two
+
+00:18:06.280 --> 00:18:06.780 align:middle line:90%
+things.
+
+00:18:06.780 --> 00:18:09.240 align:middle line:84%
+Again, the consumption
+function in practice
+
+00:18:09.240 --> 00:18:11.110 align:middle line:90%
+is much richer than that.
+
+00:18:11.110 --> 00:18:14.590 align:middle line:84%
+And there is lots of randomness,
+random terms around and so on.
+
+00:18:14.590 --> 00:18:17.213 align:middle line:84%
+But that's not what
+we're about here.
+
+00:18:17.213 --> 00:18:19.380 align:middle line:84%
+But that's-- if you want
+to start with a consumption
+
+00:18:19.380 --> 00:18:22.230 align:middle line:84%
+function, this is a pretty
+reasonable one to start with,
+
+00:18:22.230 --> 00:18:24.630 align:middle line:90%
+OK?
+
+00:18:24.630 --> 00:18:27.690 align:middle line:84%
+OK, so that's going to look in
+the space of disposable income,
+
+00:18:27.690 --> 00:18:28.530 align:middle line:90%
+or income--
+
+00:18:28.530 --> 00:18:31.420 align:middle line:84%
+I could have put income
+there, not disposable income--
+
+00:18:31.420 --> 00:18:33.240 align:middle line:90%
+so that it looks like that.
+
+00:18:33.240 --> 00:18:34.620 align:middle line:90%
+OK?
+
+00:18:34.620 --> 00:18:37.477 align:middle line:84%
+So C0 is that
+autonomous consumption.
+
+00:18:37.477 --> 00:18:39.060 align:middle line:84%
+It's something you're
+going to consume
+
+00:18:39.060 --> 00:18:40.977 align:middle line:84%
+regardless of your level
+of disposable income.
+
+00:18:40.977 --> 00:18:43.170 align:middle line:84%
+And there is a minimum
+consumption you have to have.
+
+00:18:43.170 --> 00:18:49.050 align:middle line:84%
+[CHUCKLES] And then
+the slope of that
+
+00:18:49.050 --> 00:18:51.010 align:middle line:84%
+is the marginal
+propensity to consume,
+
+00:18:51.010 --> 00:18:54.180 align:middle line:84%
+which is C1, which is a
+number between 0 and 1.
+
+00:18:54.180 --> 00:18:57.230 align:middle line:90%
+
+
+00:18:57.230 --> 00:19:02.210 align:middle line:84%
+OK, so let's determine
+equilibrium output.
+
+00:19:02.210 --> 00:19:07.750 align:middle line:84%
+So we have aggregate demand,
+which is C plus I plus G, OK?
+
+00:19:07.750 --> 00:19:09.600 align:middle line:90%
+There we are.
+
+00:19:09.600 --> 00:19:12.940 align:middle line:84%
+That was our definition
+of aggregate demand.
+
+00:19:12.940 --> 00:19:15.490 align:middle line:84%
+I'm going to stick in
+now the functional forms.
+
+00:19:15.490 --> 00:19:17.150 align:middle line:84%
+Well, these guys
+are very boring.
+
+00:19:17.150 --> 00:19:18.250 align:middle line:90%
+They're constants.
+
+00:19:18.250 --> 00:19:22.930 align:middle line:84%
+And I'm plugging in here
+the consumption function.
+
+00:19:22.930 --> 00:19:27.840 align:middle line:84%
+So what we have here is
+that aggregate demand is
+
+00:19:27.840 --> 00:19:32.130 align:middle line:84%
+an increasing function
+of output, or income, OK?
+
+00:19:32.130 --> 00:19:34.810 align:middle line:84%
+It's also a function of
+taxes, investment, and so on.
+
+00:19:34.810 --> 00:19:37.320 align:middle line:84%
+But it's an increasing
+function of output.
+
+00:19:37.320 --> 00:19:41.220 align:middle line:84%
+And this is important because,
+remember, the goal of this
+
+00:19:41.220 --> 00:19:44.640 align:middle line:90%
+is to find equilibrium output.
+
+00:19:44.640 --> 00:19:46.460 align:middle line:84%
+So here I have, on
+the right-hand side
+
+00:19:46.460 --> 00:19:49.930 align:middle line:90%
+of my aggregate demand, output.
+
+00:19:49.930 --> 00:19:50.620 align:middle line:90%
+That's good.
+
+00:19:50.620 --> 00:19:54.100 align:middle line:84%
+I have one equation in which
+output shows up, [CHUCKLES] OK?
+
+00:19:54.100 --> 00:19:57.100 align:middle line:84%
+Now, I cannot find equilibrium
+output just from this equation.
+
+00:19:57.100 --> 00:20:00.260 align:middle line:90%
+Why is that?
+
+00:20:00.260 --> 00:20:03.070 align:middle line:84%
+So remember, we're
+trying to build a model
+
+00:20:03.070 --> 00:20:07.660 align:middle line:90%
+to find equilibrium output.
+
+00:20:07.660 --> 00:20:08.857 align:middle line:90%
+That's our goal.
+
+00:20:08.857 --> 00:20:11.440 align:middle line:84%
+That's what will tell us whether
+we're in a recession or not--
+
+00:20:11.440 --> 00:20:15.975 align:middle line:84%
+output is low, recession,
+output is high, we're in a boom.
+
+00:20:15.975 --> 00:20:17.600 align:middle line:84%
+Obviously, I cannot
+solve it from this.
+
+00:20:17.600 --> 00:20:19.900 align:middle line:90%
+I have two unknowns.
+
+00:20:19.900 --> 00:20:23.080 align:middle line:90%
+What are my two unknowns?
+
+00:20:23.080 --> 00:20:25.370 align:middle line:90%
+Two unknowns, one equation.
+
+00:20:25.370 --> 00:20:27.470 align:middle line:90%
+What is my second unknown there?
+
+00:20:27.470 --> 00:20:35.808 align:middle line:90%
+
+
+00:20:35.808 --> 00:20:37.100 align:middle line:90%
+AUDIENCE: The aggregate demand.
+
+00:20:37.100 --> 00:20:39.183 align:middle line:84%
+RICARDO J. CABALLERO:
+Aggregate demand, of course.
+
+00:20:39.183 --> 00:20:45.000 align:middle line:84%
+We have to determine Z and Y.
+So how are we going to do that?
+
+00:20:45.000 --> 00:20:48.350 align:middle line:84%
+Well, using a second
+equation, which
+
+00:20:48.350 --> 00:20:49.880 align:middle line:90%
+is the equilibrium condition.
+
+00:20:49.880 --> 00:20:50.720 align:middle line:90%
+It's not a function.
+
+00:20:50.720 --> 00:20:51.802 align:middle line:90%
+This is a function.
+
+00:20:51.802 --> 00:20:52.760 align:middle line:90%
+This is not a function.
+
+00:20:52.760 --> 00:20:54.180 align:middle line:84%
+This is an
+equilibrium condition.
+
+00:20:54.180 --> 00:20:57.500 align:middle line:84%
+It says, in equilibrium--
+not outside equilibrium,
+
+00:20:57.500 --> 00:20:59.060 align:middle line:90%
+in equilibrium--
+
+00:20:59.060 --> 00:21:02.810 align:middle line:84%
+output is equal to
+aggregate demand.
+
+00:21:02.810 --> 00:21:03.710 align:middle line:90%
+OK?
+
+00:21:03.710 --> 00:21:06.830 align:middle line:84%
+That's what this equilibrium
+condition tells us.
+
+00:21:06.830 --> 00:21:08.390 align:middle line:84%
+Off equilibrium,
+this doesn't hold.
+
+00:21:08.390 --> 00:21:10.098 align:middle line:84%
+That's the reason this
+is not a function.
+
+00:21:10.098 --> 00:21:11.510 align:middle line:90%
+This holds everywhere.
+
+00:21:11.510 --> 00:21:12.560 align:middle line:90%
+It's a function.
+
+00:21:12.560 --> 00:21:14.130 align:middle line:84%
+This is an
+equilibrium condition.
+
+00:21:14.130 --> 00:21:16.670 align:middle line:84%
+It says, at equilibrium,
+aggregate demand
+
+00:21:16.670 --> 00:21:18.433 align:middle line:90%
+is equal to output.
+
+00:21:18.433 --> 00:21:20.600 align:middle line:84%
+So now we're done because
+we have two equations, two
+
+00:21:20.600 --> 00:21:21.785 align:middle line:90%
+unknowns, OK?
+
+00:21:21.785 --> 00:21:24.700 align:middle line:90%
+
+
+00:21:24.700 --> 00:21:25.970 align:middle line:90%
+Good.
+
+00:21:25.970 --> 00:21:27.970 align:middle line:84%
+And the reason I post
+on this is that I
+
+00:21:27.970 --> 00:21:31.780 align:middle line:84%
+see that mistake
+made often, that this
+
+00:21:31.780 --> 00:21:32.988 align:middle line:90%
+is interpreted as a function.
+
+00:21:32.988 --> 00:21:33.488 align:middle line:90%
+It's not.
+
+00:21:33.488 --> 00:21:34.810 align:middle line:90%
+It's an equilibrium condition.
+
+00:21:34.810 --> 00:21:36.250 align:middle line:90%
+At equilibrium, it holds.
+
+00:21:36.250 --> 00:21:38.350 align:middle line:84%
+And that you can
+see, actually, I'm
+
+00:21:38.350 --> 00:21:41.000 align:middle line:84%
+going to illustrate the
+same point in the diagram.
+
+00:21:41.000 --> 00:21:42.980 align:middle line:90%
+So this is the--
+
+00:21:42.980 --> 00:21:44.010 align:middle line:90%
+let me keep going.
+
+00:21:44.010 --> 00:21:45.080 align:middle line:90%
+So this is clear, no?
+
+00:21:45.080 --> 00:21:47.690 align:middle line:84%
+So this is just
+a summary of what
+
+00:21:47.690 --> 00:21:50.090 align:middle line:90%
+we had in the previous slides.
+
+00:21:50.090 --> 00:21:54.672 align:middle line:84%
+And this is the new thing here,
+which is, in equilibrium, output
+
+00:21:54.672 --> 00:21:55.880 align:middle line:90%
+is equal to aggregate demand.
+
+00:21:55.880 --> 00:22:00.110 align:middle line:90%
+
+
+00:22:00.110 --> 00:22:05.420 align:middle line:84%
+And again, that's what makes
+this really a short-term model.
+
+00:22:05.420 --> 00:22:08.510 align:middle line:84%
+You see, I'm saying
+output, in the short term,
+
+00:22:08.510 --> 00:22:12.370 align:middle line:84%
+is whatever demand
+wants it to be,
+
+00:22:12.370 --> 00:22:16.020 align:middle line:84%
+which is different
+from the long run that
+
+00:22:16.020 --> 00:22:17.370 align:middle line:90%
+says, no, no, hold on a second.
+
+00:22:17.370 --> 00:22:19.980 align:middle line:84%
+I mean, but how much
+output you can produce
+
+00:22:19.980 --> 00:22:22.800 align:middle line:84%
+is a function of the capital you
+have, of the workers you have.
+
+00:22:22.800 --> 00:22:24.010 align:middle line:84%
+Yeah, yeah, that's
+true in the long run.
+
+00:22:24.010 --> 00:22:26.093 align:middle line:84%
+But in the short run, you
+have lots of flexibility
+
+00:22:26.093 --> 00:22:29.490 align:middle line:84%
+because you have lots of
+unused capacity and so on, OK?
+
+00:22:29.490 --> 00:22:31.860 align:middle line:84%
+So this is pretty--
+is a big assumption.
+
+00:22:31.860 --> 00:22:34.590 align:middle line:84%
+And there are schools of
+thought within macroeconomics
+
+00:22:34.590 --> 00:22:36.660 align:middle line:84%
+that are split by
+this assumption,
+
+00:22:36.660 --> 00:22:39.720 align:middle line:84%
+whether you believe
+that, in the short run,
+
+00:22:39.720 --> 00:22:43.080 align:middle line:84%
+output is aggregate
+demand-determined or not.
+
+00:22:43.080 --> 00:22:46.152 align:middle line:84%
+Ultimately, we tend to believe
+that in the short run--
+
+00:22:46.152 --> 00:22:46.860 align:middle line:90%
+the long run, no.
+
+00:22:46.860 --> 00:22:48.610 align:middle line:84%
+But in the short run,
+that's what it does.
+
+00:22:48.610 --> 00:22:51.960 align:middle line:84%
+Now, sometimes the long run
+gets to you very quickly.
+
+00:22:51.960 --> 00:22:54.480 align:middle line:84%
+And at this point, we're
+in a situation like that.
+
+00:22:54.480 --> 00:22:56.605 align:middle line:84%
+That's the reason we're
+seeing inflation and so on.
+
+00:22:56.605 --> 00:22:59.700 align:middle line:84%
+But that's something you'll
+understand later on, OK?
+
+00:22:59.700 --> 00:23:02.570 align:middle line:84%
+But for now, so
+this is important.
+
+00:23:02.570 --> 00:23:04.930 align:middle line:90%
+We're saying here, output--
+
+00:23:04.930 --> 00:23:06.180 align:middle line:90%
+I don't need another equation.
+
+00:23:06.180 --> 00:23:08.013 align:middle line:84%
+I could have done
+aggregate demand like this
+
+00:23:08.013 --> 00:23:10.800 align:middle line:84%
+and then output a function of
+capital, labor, lots of things.
+
+00:23:10.800 --> 00:23:12.100 align:middle line:90%
+I'm not going to even do that.
+
+00:23:12.100 --> 00:23:14.550 align:middle line:84%
+I'm going to say, no, no,
+output will be whatever
+
+00:23:14.550 --> 00:23:17.250 align:middle line:90%
+demand wants it to be, OK?
+
+00:23:17.250 --> 00:23:19.500 align:middle line:84%
+And that means, in equilibrium,
+they have to be equal.
+
+00:23:19.500 --> 00:23:21.660 align:middle line:90%
+[CHUCKLES] Good.
+
+00:23:21.660 --> 00:23:22.530 align:middle line:90%
+You had a question.
+
+00:23:22.530 --> 00:23:27.280 align:middle line:84%
+AUDIENCE: [INAUDIBLE] can you
+[INAUDIBLE] output and GDP
+
+00:23:27.280 --> 00:23:27.931 align:middle line:90%
+[INAUDIBLE]?
+
+00:23:27.931 --> 00:23:30.056 align:middle line:84%
+RICARDO J. CABALLERO: No,
+they are the same for us.
+
+00:23:30.056 --> 00:23:31.960 align:middle line:90%
+AUDIENCE: They are [INAUDIBLE]?
+
+00:23:31.960 --> 00:23:33.793 align:middle line:84%
+RICARDO J. CABALLERO:
+That's our definition.
+
+00:23:33.793 --> 00:23:35.780 align:middle line:90%
+GDP, for us, is output.
+
+00:23:35.780 --> 00:23:39.160 align:middle line:84%
+So when they say aggregate
+output, I mean GDP.
+
+00:23:39.160 --> 00:23:39.940 align:middle line:90%
+Remember?
+
+00:23:39.940 --> 00:23:43.990 align:middle line:84%
+Real GDP-- we're talking
+all about real GDP, OK?
+
+00:23:43.990 --> 00:23:45.792 align:middle line:90%
+And it's also equal to income--
+
+00:23:45.792 --> 00:23:47.500 align:middle line:84%
+not disposable, but
+it's equal to income.
+
+00:23:47.500 --> 00:23:49.810 align:middle line:84%
+Remember when we did those
+little tables where we look
+
+00:23:49.810 --> 00:23:52.160 align:middle line:84%
+[INAUDIBLE], the three
+different ways of doing it?
+
+00:23:52.160 --> 00:23:54.910 align:middle line:90%
+Well, the first two were output.
+
+00:23:54.910 --> 00:23:56.620 align:middle line:90%
+And the last one was income.
+
+00:23:56.620 --> 00:23:59.820 align:middle line:90%
+And they had to be the same, OK?
+
+00:23:59.820 --> 00:24:04.480 align:middle line:90%
+So Y is real GDP for us?
+
+00:24:04.480 --> 00:24:07.860 align:middle line:90%
+That's real GDP.
+
+00:24:07.860 --> 00:24:11.170 align:middle line:84%
+What happens, in the
+table I showed you,
+
+00:24:11.170 --> 00:24:13.142 align:middle line:84%
+I already used the
+fact that real GDP
+
+00:24:13.142 --> 00:24:14.350 align:middle line:90%
+is equal to aggregate demand.
+
+00:24:14.350 --> 00:24:15.767 align:middle line:84%
+And that's the
+reason I showed you
+
+00:24:15.767 --> 00:24:18.550 align:middle line:84%
+the different components
+of Z I showed you
+
+00:24:18.550 --> 00:24:20.602 align:middle line:84%
+that, that, and
+that, [CHUCKLES] OK?
+
+00:24:20.602 --> 00:24:22.060 align:middle line:84%
+But in equilibrium,
+they are equal.
+
+00:24:22.060 --> 00:24:29.280 align:middle line:90%
+
+
+00:24:29.280 --> 00:24:31.432 align:middle line:84%
+There's really a figure
+that will clarify,
+
+00:24:31.432 --> 00:24:32.390 align:middle line:90%
+I think, a lot of that.
+
+00:24:32.390 --> 00:24:34.080 align:middle line:90%
+But let me keep solving this.
+
+00:24:34.080 --> 00:24:35.943 align:middle line:90%
+So we have that--
+
+00:24:35.943 --> 00:24:37.860 align:middle line:84%
+so what I'm going to do
+next is just solve it.
+
+00:24:37.860 --> 00:24:39.443 align:middle line:84%
+So we have this
+equilibrium condition.
+
+00:24:39.443 --> 00:24:43.320 align:middle line:84%
+I'm going to plug in my
+aggregate demand function here.
+
+00:24:43.320 --> 00:24:45.930 align:middle line:84%
+And so I can solve out
+for equilibrium output.
+
+00:24:45.930 --> 00:24:47.660 align:middle line:84%
+And here we have,
+for the first time
+
+00:24:47.660 --> 00:24:50.720 align:middle line:84%
+in this course, an equation
+for equilibrium output.
+
+00:24:50.720 --> 00:24:51.380 align:middle line:90%
+There you are.
+
+00:24:51.380 --> 00:24:56.190 align:middle line:84%
+That's your equilibrium
+output in this economy.
+
+00:24:56.190 --> 00:24:58.730 align:middle line:90%
+OK?
+
+00:24:58.730 --> 00:25:02.630 align:middle line:84%
+Now, this guy here
+is very famous
+
+00:25:02.630 --> 00:25:06.080 align:middle line:84%
+and is very macro It
+doesn't happen in micro.
+
+00:25:06.080 --> 00:25:11.890 align:middle line:84%
+It happens in macro
+only, this guy here.
+
+00:25:11.890 --> 00:25:14.130 align:middle line:84%
+Another guy there is
+called the multiplier.
+
+00:25:14.130 --> 00:25:19.180 align:middle line:90%
+
+
+00:25:19.180 --> 00:25:21.000 align:middle line:84%
+And it's a very
+important macro concept.
+
+00:25:21.000 --> 00:25:24.700 align:middle line:90%
+It's a huge concept in macro.
+
+00:25:24.700 --> 00:25:28.412 align:middle line:84%
+Now, why do you think
+it's called a multiplier?
+
+00:25:28.412 --> 00:25:30.120 align:middle line:84%
+Well, obviously, it
+multiplies something.
+
+00:25:30.120 --> 00:25:35.160 align:middle line:84%
+But a multiplier sounds
+like it multiplies--
+
+00:25:35.160 --> 00:25:36.540 align:middle line:90%
+that makes something bigger.
+
+00:25:36.540 --> 00:25:38.960 align:middle line:90%
+[CHUCKLES]
+
+00:25:38.960 --> 00:25:43.585 align:middle line:84%
+So what happens if
+C1 is greater than 0?
+
+00:25:43.585 --> 00:25:48.650 align:middle line:90%
+
+
+00:25:48.650 --> 00:25:50.630 align:middle line:84%
+What happens if C1
+is greater than 0.
+
+00:25:50.630 --> 00:25:52.020 align:middle line:90%
+Remember, it's between 0 and 1.
+
+00:25:52.020 --> 00:25:54.140 align:middle line:84%
+But what happens if
+it's greater than 0?
+
+00:25:54.140 --> 00:25:57.455 align:middle line:84%
+What happens with that number
+there, 1 over 1 minus C1?
+
+00:25:57.455 --> 00:26:01.170 align:middle line:90%
+
+
+00:26:01.170 --> 00:26:02.170 align:middle line:90%
+AUDIENCE: Bigger than 1.
+
+00:26:02.170 --> 00:26:03.920 align:middle line:84%
+RICARDO J. CABALLERO:
+It's greater than 1.
+
+00:26:03.920 --> 00:26:05.608 align:middle line:90%
+It multiplies.
+
+00:26:05.608 --> 00:26:07.150 align:middle line:84%
+So the reason we
+call it a multiplier
+
+00:26:07.150 --> 00:26:09.610 align:middle line:90%
+is not nothing deep there.
+
+00:26:09.610 --> 00:26:12.340 align:middle line:84%
+So this thing here is
+sort of autonomous stuff.
+
+00:26:12.340 --> 00:26:14.860 align:middle line:84%
+It's what the government
+spends, what firms are spending,
+
+00:26:14.860 --> 00:26:15.430 align:middle line:90%
+capital.
+
+00:26:15.430 --> 00:26:18.610 align:middle line:90%
+This is autonomous consumption.
+
+00:26:18.610 --> 00:26:21.520 align:middle line:84%
+And this actually
+is a typo there.
+
+00:26:21.520 --> 00:26:24.810 align:middle line:84%
+There should be a C1
+in front of that--
+
+00:26:24.810 --> 00:26:26.010 align:middle line:90%
+typo.
+
+00:26:26.010 --> 00:26:30.930 align:middle line:84%
+It comes from there, C1 times
+T. So fix that typo, please.
+
+00:26:30.930 --> 00:26:34.200 align:middle line:84%
+I'm going to upload the slides
+again with the typo fixed, OK?
+
+00:26:34.200 --> 00:26:36.730 align:middle line:90%
+
+
+00:26:36.730 --> 00:26:40.720 align:middle line:84%
+I'm just-- it comes
+from here, C1 times T.
+
+00:26:40.720 --> 00:26:42.190 align:middle line:90%
+OK, so that's what this does.
+
+00:26:42.190 --> 00:26:42.950 align:middle line:90%
+It multiplies.
+
+00:26:42.950 --> 00:26:45.100 align:middle line:84%
+So whatever it is that
+is happening here,
+
+00:26:45.100 --> 00:26:47.017 align:middle line:84%
+whatever it is that the
+government is spending
+
+00:26:47.017 --> 00:26:49.480 align:middle line:84%
+or whatever, this
+term is multiplied.
+
+00:26:49.480 --> 00:26:51.580 align:middle line:90%
+And that's a huge thing.
+
+00:26:51.580 --> 00:26:53.710 align:middle line:90%
+There was a big debate--
+
+00:26:53.710 --> 00:26:55.417 align:middle line:84%
+almost always,
+when you're trying
+
+00:26:55.417 --> 00:26:58.000 align:middle line:84%
+to get out of a recession, and
+the government starts spending,
+
+00:26:58.000 --> 00:27:00.430 align:middle line:84%
+a big question is, well,
+how big is the multiplier?
+
+00:27:00.430 --> 00:27:01.905 align:middle line:84%
+If the multiplier
+is small, you're
+
+00:27:01.905 --> 00:27:04.030 align:middle line:84%
+going to have to spend a
+lot to get the economy out
+
+00:27:04.030 --> 00:27:04.870 align:middle line:90%
+of the recession.
+
+00:27:04.870 --> 00:27:10.620 align:middle line:84%
+If the multiplier is
+large, then you're
+
+00:27:10.620 --> 00:27:12.180 align:middle line:84%
+going to have to
+spend very little,
+
+00:27:12.180 --> 00:27:14.430 align:middle line:84%
+and then the multiplier
+will take you away
+
+00:27:14.430 --> 00:27:16.500 align:middle line:90%
+from that recession.
+
+00:27:16.500 --> 00:27:18.915 align:middle line:84%
+So what is it that makes a
+multiplier large or small?
+
+00:27:18.915 --> 00:27:22.990 align:middle line:90%
+
+
+00:27:22.990 --> 00:27:28.000 align:middle line:84%
+Well, mechanically, when is
+it that multiplier large?
+
+00:27:28.000 --> 00:27:29.530 align:middle line:84%
+AUDIENCE: When C1
+is closer to 1,
+
+00:27:29.530 --> 00:27:31.940 align:middle line:84%
+so when people are spending
+more of their income.
+
+00:27:31.940 --> 00:27:33.940 align:middle line:84%
+RICARDO J. CABALLERO:
+Exactly, when C1 is large.
+
+00:27:33.940 --> 00:27:35.770 align:middle line:90%
+And that gives you the logic.
+
+00:27:35.770 --> 00:27:37.300 align:middle line:84%
+And that's very
+important in macro,
+
+00:27:37.300 --> 00:27:39.860 align:middle line:90%
+is why is it a big multiplier?
+
+00:27:39.860 --> 00:27:42.740 align:middle line:84%
+Well, because think
+what happens in macro.
+
+00:27:42.740 --> 00:27:47.600 align:middle line:84%
+The government spends--
+not increases output.
+
+00:27:47.600 --> 00:27:49.610 align:middle line:90%
+But now output increases income.
+
+00:27:49.610 --> 00:27:52.820 align:middle line:84%
+And if consumers spend a big
+share of their extra income,
+
+00:27:52.820 --> 00:27:54.740 align:middle line:84%
+an output, and
+consumption again,
+
+00:27:54.740 --> 00:27:56.930 align:middle line:84%
+then that increases
+output again,
+
+00:27:56.930 --> 00:28:01.480 align:middle line:84%
+which increases the income
+again, and you keep going, OK?
+
+00:28:01.480 --> 00:28:02.780 align:middle line:90%
+So that's the sequence.
+
+00:28:02.780 --> 00:28:04.778 align:middle line:84%
+On the contrary, if
+consumers are very scared,
+
+00:28:04.778 --> 00:28:07.070 align:middle line:84%
+they don't want to spend any
+extra dollar they receive,
+
+00:28:07.070 --> 00:28:10.100 align:middle line:84%
+anything of the extra dollar
+they receive, then you don't get
+
+00:28:10.100 --> 00:28:13.670 align:middle line:84%
+any multiplier, because this
+initial increase in output that
+
+00:28:13.670 --> 00:28:16.145 align:middle line:84%
+comes from the government
+expansion, that does
+
+00:28:16.145 --> 00:28:17.270 align:middle line:90%
+lead to increase in income.
+
+00:28:17.270 --> 00:28:18.830 align:middle line:84%
+But if consumers
+don't spend it, it
+
+00:28:18.830 --> 00:28:20.640 align:middle line:84%
+doesn't recirculate
+into the economy,
+
+00:28:20.640 --> 00:28:22.640 align:middle line:84%
+and then you don't
+get a multiplier.
+
+00:28:22.640 --> 00:28:27.700 align:middle line:84%
+So that's the reason we
+call it the multiplier.
+
+00:28:27.700 --> 00:28:30.200 align:middle line:84%
+So that diagram is
+an important diagram.
+
+00:28:30.200 --> 00:28:36.210 align:middle line:90%
+I'm just doing this, actually.
+
+00:28:36.210 --> 00:28:40.380 align:middle line:84%
+In that diagram, I'm plotting
+the aggregate demand function
+
+00:28:40.380 --> 00:28:43.140 align:middle line:84%
+and then this equilibrium
+condition, output
+
+00:28:43.140 --> 00:28:46.230 align:middle line:84%
+equal to aggregate
+demand, in the space
+
+00:28:46.230 --> 00:28:52.800 align:middle line:84%
+of aggregate demand and output,
+production, and income here.
+
+00:28:52.800 --> 00:28:55.380 align:middle line:84%
+But remember, income is
+equal to production, OK?
+
+00:28:55.380 --> 00:28:59.400 align:middle line:84%
+So there's your aggregate
+demand and, thus,
+
+00:28:59.400 --> 00:29:03.450 align:middle line:84%
+your 45-degree line because this
+output equal to-- so whatever is
+
+00:29:03.450 --> 00:29:07.890 align:middle line:84%
+in this axis equal to that axis,
+that's the 45-degree line, OK?
+
+00:29:07.890 --> 00:29:09.570 align:middle line:84%
+So that's your
+equilibrium conditions.
+
+00:29:09.570 --> 00:29:12.270 align:middle line:84%
+It's, at equilibrium,
+these guys here,
+
+00:29:12.270 --> 00:29:13.800 align:middle line:84%
+aggregate demand,
+Z, will have to be
+
+00:29:13.800 --> 00:29:17.390 align:middle line:84%
+equal to Y. Those are--
+that's traced there.
+
+00:29:17.390 --> 00:29:19.940 align:middle line:90%
+This is aggregate demand.
+
+00:29:19.940 --> 00:29:21.650 align:middle line:84%
+Why is this line
+flatter than that?
+
+00:29:21.650 --> 00:29:25.490 align:middle line:90%
+
+
+00:29:25.490 --> 00:29:27.230 align:middle line:84%
+Why is aggregate
+demand flatter than--
+
+00:29:27.230 --> 00:29:31.115 align:middle line:90%
+
+
+00:29:31.115 --> 00:29:33.490 align:middle line:84%
+AUDIENCE: Because people don't
+spend their entire dollar.
+
+00:29:33.490 --> 00:29:36.420 align:middle line:84%
+RICARDO J. CABALLERO: Exactly,
+because C1 is less than 1.
+
+00:29:36.420 --> 00:29:39.090 align:middle line:84%
+So the slope of the aggregate
+demand in this space
+
+00:29:39.090 --> 00:29:42.280 align:middle line:84%
+is C1, is the marginal
+propensity to consume.
+
+00:29:42.280 --> 00:29:44.820 align:middle line:84%
+How much more they demand
+if they get an extra dollar?
+
+00:29:44.820 --> 00:29:48.390 align:middle line:84%
+Well, they don't get-- they
+don't demand one extra unit.
+
+00:29:48.390 --> 00:29:52.260 align:middle line:84%
+They demand C1 unit,
+and C1 is less than 1.
+
+00:29:52.260 --> 00:29:53.710 align:middle line:90%
+So that's the reason this.
+
+00:29:53.710 --> 00:29:57.810 align:middle line:84%
+So if C1 is very small, this
+line is going to be very flat.
+
+00:29:57.810 --> 00:30:00.120 align:middle line:84%
+If C1 is very large,
+very high propensity
+
+00:30:00.120 --> 00:30:03.690 align:middle line:84%
+to consume, this is going to
+be very steep, the red line.
+
+00:30:03.690 --> 00:30:06.870 align:middle line:84%
+The other one doesn't
+change, the 45-degree line.
+
+00:30:06.870 --> 00:30:10.370 align:middle line:90%
+And what I said is that, at--
+
+00:30:10.370 --> 00:30:12.480 align:middle line:84%
+so you see, if I take
+an off-equilibrium level
+
+00:30:12.480 --> 00:30:14.370 align:middle line:90%
+of output-- say, this--
+
+00:30:14.370 --> 00:30:16.640 align:middle line:84%
+aggregate demand is
+different from output.
+
+00:30:16.640 --> 00:30:20.460 align:middle line:84%
+It's only at equilibrium that
+these two things will hold.
+
+00:30:20.460 --> 00:30:23.470 align:middle line:90%
+
+
+00:30:23.470 --> 00:30:27.180 align:middle line:84%
+This function, I can
+plot it everywhere.
+
+00:30:27.180 --> 00:30:31.080 align:middle line:84%
+But this one will hold
+only at equilibrium, OK?
+
+00:30:31.080 --> 00:30:32.730 align:middle line:84%
+That's when these
+two things are equal.
+
+00:30:32.730 --> 00:30:35.470 align:middle line:90%
+
+
+00:30:35.470 --> 00:30:39.210 align:middle line:90%
+So what I solve here--
+
+00:30:39.210 --> 00:30:42.800 align:middle line:90%
+here, I just found this point.
+
+00:30:42.800 --> 00:30:48.400 align:middle line:84%
+So parameters here
+are C0, C1 times T,
+
+00:30:48.400 --> 00:30:52.255 align:middle line:84%
+and G. They all shifters of this
+aggregate demand, up and down.
+
+00:30:52.255 --> 00:30:55.920 align:middle line:90%
+
+
+00:30:55.920 --> 00:31:00.540 align:middle line:84%
+And that point here
+is exactly that.
+
+00:31:00.540 --> 00:31:02.850 align:middle line:84%
+And all those things
+are parameters
+
+00:31:02.850 --> 00:31:04.020 align:middle line:90%
+in my aggregate demand.
+
+00:31:04.020 --> 00:31:11.310 align:middle line:90%
+
+
+00:31:11.310 --> 00:31:15.690 align:middle line:84%
+I really want you to
+internalize this diagram.
+
+00:31:15.690 --> 00:31:17.000 align:middle line:90%
+Any questions about it?
+
+00:31:17.000 --> 00:31:19.610 align:middle line:90%
+
+
+00:31:19.610 --> 00:31:21.740 align:middle line:84%
+Just stare at it a
+little because it's
+
+00:31:21.740 --> 00:31:24.140 align:middle line:90%
+going to show up repeatedly.
+
+00:31:24.140 --> 00:31:26.330 align:middle line:84%
+And later, it's not
+going to show up.
+
+00:31:26.330 --> 00:31:28.610 align:middle line:84%
+But whenever you get
+confused, the way
+
+00:31:28.610 --> 00:31:30.380 align:middle line:84%
+to get yourself out
+of that confusion
+
+00:31:30.380 --> 00:31:32.880 align:middle line:84%
+is going to be to go
+back to the diagram.
+
+00:31:32.880 --> 00:31:33.440 align:middle line:90%
+You'll see.
+
+00:31:33.440 --> 00:31:37.930 align:middle line:84%
+I'll remind you when
+that's likely to happen.
+
+00:31:37.930 --> 00:31:40.750 align:middle line:84%
+So you better
+understand this diagram.
+
+00:31:40.750 --> 00:31:41.680 align:middle line:90%
+Play with it.
+
+00:31:41.680 --> 00:31:44.530 align:middle line:84%
+Move-- here, the only
+thing you can move around
+
+00:31:44.530 --> 00:31:48.532 align:middle line:84%
+is the ZZ, the aggregate
+demand curve, OK?
+
+00:31:48.532 --> 00:31:50.365 align:middle line:84%
+The other thing is an
+equilibrium condition.
+
+00:31:50.365 --> 00:31:53.050 align:middle line:84%
+[CHUCKLES] You can't
+move that 45-degree line.
+
+00:31:53.050 --> 00:31:55.160 align:middle line:90%
+But ZZ, you can move it around.
+
+00:31:55.160 --> 00:31:57.550 align:middle line:90%
+So let's do a few exercises.
+
+00:31:57.550 --> 00:32:05.260 align:middle line:84%
+One, the most obvious, suppose
+that C0 increases by $1 billion.
+
+00:32:05.260 --> 00:32:06.760 align:middle line:84%
+So autonomous
+consumption-- that is,
+
+00:32:06.760 --> 00:32:09.177 align:middle line:84%
+that level of consumption which
+is independent of income--
+
+00:32:09.177 --> 00:32:10.210 align:middle line:90%
+goes up by $1 billion.
+
+00:32:10.210 --> 00:32:14.530 align:middle line:84%
+And that could be we're
+only in a better mood.
+
+00:32:14.530 --> 00:32:17.770 align:middle line:84%
+Disposable income is
+whatever it is today.
+
+00:32:17.770 --> 00:32:21.490 align:middle line:84%
+But there is great
+expectation that the economy
+
+00:32:21.490 --> 00:32:23.960 align:middle line:90%
+will enter a boom next year.
+
+00:32:23.960 --> 00:32:26.050 align:middle line:84%
+And so then you feel
+richer and so on.
+
+00:32:26.050 --> 00:32:27.700 align:middle line:90%
+And you may decide to consume--
+
+00:32:27.700 --> 00:32:28.870 align:middle line:90%
+not wait until next year.
+
+00:32:28.870 --> 00:32:30.580 align:middle line:84%
+You may decide to
+consume more today.
+
+00:32:30.580 --> 00:32:34.480 align:middle line:84%
+That kind of thought experiment
+can be captured by a C0 type
+
+00:32:34.480 --> 00:32:35.560 align:middle line:90%
+shift, go up.
+
+00:32:35.560 --> 00:32:38.000 align:middle line:84%
+And that's when I talk
+about consumer sentiment.
+
+00:32:38.000 --> 00:32:40.790 align:middle line:84%
+Well, consumer sentiment
+is a lot about C0--
+
+00:32:40.790 --> 00:32:42.790 align:middle line:84%
+for any given level of
+income, whether consumers
+
+00:32:42.790 --> 00:32:48.050 align:middle line:84%
+are likely to consume more than
+they would otherwise or less.
+
+00:32:48.050 --> 00:32:49.880 align:middle line:90%
+And that's what C0 captures.
+
+00:32:49.880 --> 00:32:53.300 align:middle line:84%
+So let's go-- everything
+in this model-- there's
+
+00:32:53.300 --> 00:32:55.650 align:middle line:84%
+no dynamics in
+this simple model.
+
+00:32:55.650 --> 00:32:58.160 align:middle line:84%
+So we immediately--
+what we know is,
+
+00:32:58.160 --> 00:33:00.630 align:middle line:84%
+if you just were to
+solve the equation,
+
+00:33:00.630 --> 00:33:02.210 align:middle line:90%
+and I tell you what happens to--
+
+00:33:02.210 --> 00:33:05.150 align:middle line:84%
+if output-- what happens
+to output if C0 goes up
+
+00:33:05.150 --> 00:33:09.520 align:middle line:84%
+by $1 billion, you know that
+output will rise by how much?
+
+00:33:09.520 --> 00:33:12.940 align:middle line:90%
+
+
+00:33:12.940 --> 00:33:15.540 align:middle line:90%
+Let's keep it simple.
+
+00:33:15.540 --> 00:33:18.000 align:middle line:84%
+Just staring at that equation,
+if I tell you autonomous
+
+00:33:18.000 --> 00:33:20.490 align:middle line:84%
+consumption goes
+up by $1 billion,
+
+00:33:20.490 --> 00:33:22.020 align:middle line:84%
+what happens to
+equilibrium output?
+
+00:33:22.020 --> 00:33:25.950 align:middle line:84%
+Goes up by more or
+less than $1 billion?
+
+00:33:25.950 --> 00:33:27.990 align:middle line:90%
+Or exactly $1 billion?
+
+00:33:27.990 --> 00:33:30.804 align:middle line:90%
+
+
+00:33:30.804 --> 00:33:33.120 align:middle line:90%
+AUDIENCE: [INAUDIBLE]
+
+00:33:33.120 --> 00:33:34.370 align:middle line:90%
+RICARDO J. CABALLERO: Exactly.
+
+00:33:34.370 --> 00:33:36.140 align:middle line:84%
+And the multiplier
+is greater than 1.
+
+00:33:36.140 --> 00:33:39.680 align:middle line:84%
+So we know that the output
+will increase by more than $1
+
+00:33:39.680 --> 00:33:43.490 align:middle line:84%
+billion, will increase by 1
+billion times the multiplier.
+
+00:33:43.490 --> 00:33:47.690 align:middle line:84%
+If C1 is 0.5, then it will
+increase by $2 billion
+
+00:33:47.690 --> 00:33:49.440 align:middle line:90%
+equilibrium output.
+
+00:33:49.440 --> 00:33:53.360 align:middle line:84%
+Now, I'm going to get you from
+the $1 billion to the $2 billion
+
+00:33:53.360 --> 00:33:55.280 align:middle line:90%
+in steps using the diagram.
+
+00:33:55.280 --> 00:33:58.230 align:middle line:90%
+That's what I intend to do next.
+
+00:33:58.230 --> 00:33:58.740 align:middle line:90%
+OK?
+
+00:33:58.740 --> 00:34:03.060 align:middle line:84%
+So this shift here-- so we're
+starting from this equilibrium
+
+00:34:03.060 --> 00:34:04.230 align:middle line:90%
+output here.
+
+00:34:04.230 --> 00:34:09.210 align:middle line:84%
+This shift here, boom,
+is increasing C0.
+
+00:34:09.210 --> 00:34:10.199 align:middle line:90%
+That's at $1 billion.
+
+00:34:10.199 --> 00:34:13.530 align:middle line:84%
+So distance A to
+B is $1 billion.
+
+00:34:13.530 --> 00:34:17.159 align:middle line:84%
+That's because what I did is,
+for any given level of output.
+
+00:34:17.159 --> 00:34:19.949 align:middle line:84%
+I shift this aggregate
+demand up by $1 billion.
+
+00:34:19.949 --> 00:34:22.800 align:middle line:84%
+Thus, autonomous
+consumption, up, OK?
+
+00:34:22.800 --> 00:34:26.850 align:middle line:84%
+Well, because output is
+whatever demand wants,
+
+00:34:26.850 --> 00:34:31.050 align:middle line:84%
+that immediately increases
+output by $1 billion.
+
+00:34:31.050 --> 00:34:36.409 align:middle line:84%
+So the distance between B
+and C is also $1 billion.
+
+00:34:36.409 --> 00:34:38.870 align:middle line:84%
+Demand increased by $1
+billion, boom, output
+
+00:34:38.870 --> 00:34:41.900 align:middle line:90%
+immediately catches up.
+
+00:34:41.900 --> 00:34:44.800 align:middle line:84%
+So output increases
+by $1 billion.
+
+00:34:44.800 --> 00:34:47.837 align:middle line:84%
+But if output increases
+by $1 billion,
+
+00:34:47.837 --> 00:34:49.004 align:middle line:90%
+what has happened to income?
+
+00:34:49.004 --> 00:34:56.199 align:middle line:90%
+
+
+00:34:56.199 --> 00:34:57.970 align:middle line:90%
+It also increased by $1 billion.
+
+00:34:57.970 --> 00:35:00.960 align:middle line:90%
+Income is the same as output.
+
+00:35:00.960 --> 00:35:04.130 align:middle line:84%
+So income has increased
+by $1 billion.
+
+00:35:04.130 --> 00:35:06.500 align:middle line:84%
+Well, if income has
+increased by $1 billion,
+
+00:35:06.500 --> 00:35:11.150 align:middle line:84%
+and C1 is different from 0, that
+means part of that extra billion
+
+00:35:11.150 --> 00:35:15.080 align:middle line:84%
+is going to be spent in
+consumption, second round.
+
+00:35:15.080 --> 00:35:19.400 align:middle line:84%
+So say C1 is 0.5, then
+now you get $500 million
+
+00:35:19.400 --> 00:35:20.850 align:middle line:90%
+more of expenditure.
+
+00:35:20.850 --> 00:35:22.580 align:middle line:90%
+But if it's-- of consumption.
+
+00:35:22.580 --> 00:35:26.990 align:middle line:90%
+And it's $500, that's the CD.
+
+00:35:26.990 --> 00:35:28.970 align:middle line:90%
+That's $500 million.
+
+00:35:28.970 --> 00:35:32.090 align:middle line:84%
+Obviously, this C1
+here is less than 0.5
+
+00:35:32.090 --> 00:35:36.200 align:middle line:84%
+because otherwise this would
+be half of that, but it's not.
+
+00:35:36.200 --> 00:35:40.130 align:middle line:84%
+But anyway, you get
+$500 million more.
+
+00:35:40.130 --> 00:35:42.710 align:middle line:84%
+But if now there's $500
+million more of demand,
+
+00:35:42.710 --> 00:35:44.930 align:middle line:84%
+since output does
+whatever-- production
+
+00:35:44.930 --> 00:35:48.800 align:middle line:84%
+does whatever demand wants, then
+you get $500 more of production.
+
+00:35:48.800 --> 00:35:51.023 align:middle line:84%
+And if you have $500
+more, million dollars
+
+00:35:51.023 --> 00:35:52.940 align:middle line:84%
+of more production, then
+you have $500 million
+
+00:35:52.940 --> 00:35:54.030 align:middle line:90%
+more of income.
+
+00:35:54.030 --> 00:35:55.940 align:middle line:84%
+And if you have
+$500 more of income,
+
+00:35:55.940 --> 00:35:57.980 align:middle line:84%
+and you have C1 is
+greater than 0--
+
+00:35:57.980 --> 00:36:02.030 align:middle line:84%
+say, 0.5-- you're going to
+spend $250 million more.
+
+00:36:02.030 --> 00:36:06.020 align:middle line:84%
+But $250 million more
+will generate $250 million
+
+00:36:06.020 --> 00:36:09.140 align:middle line:84%
+of production, which also
+will generate $250 million
+
+00:36:09.140 --> 00:36:15.430 align:middle line:84%
+more of income, which
+will generate $125 million
+
+00:36:15.430 --> 00:36:18.400 align:middle line:84%
+more of consumption, and
+blah, blah, blah, blah, blah.
+
+00:36:18.400 --> 00:36:20.200 align:middle line:90%
+You [INAUDIBLE] OK?
+
+00:36:20.200 --> 00:36:22.480 align:middle line:84%
+So that's-- and that's
+what is happening here.
+
+00:36:22.480 --> 00:36:25.770 align:middle line:90%
+[WHISTLING] Boom.
+
+00:36:25.770 --> 00:36:26.530 align:middle line:90%
+Yeah?
+
+00:36:26.530 --> 00:36:28.790 align:middle line:84%
+AUDIENCE: [INAUDIBLE]
+the movement from C to D
+
+00:36:28.790 --> 00:36:29.290 align:middle line:90%
+[INAUDIBLE]?
+
+00:36:29.290 --> 00:36:32.710 align:middle line:84%
+RICARDO J. CABALLERO:
+From C to D. OK,
+
+00:36:32.710 --> 00:36:38.070 align:middle line:84%
+so this is the initial shift in
+aggregate demand up, $1 billion.
+
+00:36:38.070 --> 00:36:43.690 align:middle line:84%
+That leads to a $1
+billion more of production
+
+00:36:43.690 --> 00:36:48.680 align:middle line:84%
+as well, which means $1
+billion more of income, OK?
+
+00:36:48.680 --> 00:36:51.800 align:middle line:84%
+But now these consumers
+not only have this C0--
+
+00:36:51.800 --> 00:36:55.760 align:middle line:84%
+$1 billion higher in C0, but
+they also have $1 billion
+
+00:36:55.760 --> 00:36:57.150 align:middle line:90%
+more of income.
+
+00:36:57.150 --> 00:36:59.120 align:middle line:84%
+And since they have $1
+billion more income,
+
+00:36:59.120 --> 00:37:00.770 align:middle line:84%
+and they're going to
+spend part of it--
+
+00:37:00.770 --> 00:37:03.590 align:middle line:84%
+C1 times that, and I
+assume C1 was 0.5--
+
+00:37:03.590 --> 00:37:06.110 align:middle line:90%
+that's what gives me CD.
+
+00:37:06.110 --> 00:37:10.490 align:middle line:90%
+That's the extra $500 million.
+
+00:37:10.490 --> 00:37:13.220 align:middle line:84%
+And then that thing there
+is also $500 million.
+
+00:37:13.220 --> 00:37:20.180 align:middle line:84%
+And there was $250 million,
+$250 million, $125, $125 $62.5.
+
+00:37:20.180 --> 00:37:24.200 align:middle line:90%
+That's the way you get there.
+
+00:37:24.200 --> 00:37:28.020 align:middle line:84%
+There is an alternative way
+of finding equilibrium output,
+
+00:37:28.020 --> 00:37:29.390 align:middle line:90%
+which is entirely equivalent.
+
+00:37:29.390 --> 00:37:32.660 align:middle line:84%
+And it's the way it was
+initially done, by the way.
+
+00:37:32.660 --> 00:37:37.100 align:middle line:84%
+And you'll see later on a very
+important curve in this course
+
+00:37:37.100 --> 00:37:41.090 align:middle line:84%
+will be the IS curve,
+which is a curve that
+
+00:37:41.090 --> 00:37:43.820 align:middle line:84%
+describes all the
+equilibrium in goods markets.
+
+00:37:43.820 --> 00:37:45.060 align:middle line:90%
+We'll get there.
+
+00:37:45.060 --> 00:37:48.410 align:middle line:84%
+But the reason it's called IS
+because of this alternative way
+
+00:37:48.410 --> 00:37:52.940 align:middle line:84%
+of deriving the same I have
+derived, which is through--
+
+00:37:52.940 --> 00:37:55.680 align:middle line:84%
+you can arrive to the same
+equilibrium by saying,
+
+00:37:55.680 --> 00:37:59.210 align:middle line:84%
+look, equilibrium output
+is that output at which
+
+00:37:59.210 --> 00:38:01.580 align:middle line:90%
+investment is equal to savings.
+
+00:38:01.580 --> 00:38:04.580 align:middle line:84%
+That's the reason that curve
+is going to be called IS,
+
+00:38:04.580 --> 00:38:07.050 align:middle line:90%
+investment equal to savings, S.
+
+00:38:07.050 --> 00:38:09.770 align:middle line:84%
+So let me very quickly do it
+for you and then make a point
+
+00:38:09.770 --> 00:38:11.490 align:middle line:90%
+and connect the two things.
+
+00:38:11.490 --> 00:38:16.610 align:middle line:84%
+So private saving is what
+consumers do and so on,
+
+00:38:16.610 --> 00:38:17.540 align:middle line:90%
+and firms.
+
+00:38:17.540 --> 00:38:20.360 align:middle line:84%
+It's just disposable
+income minus consumption.
+
+00:38:20.360 --> 00:38:22.310 align:middle line:90%
+That's your saving, OK?
+
+00:38:22.310 --> 00:38:25.140 align:middle line:84%
+So it's equal to
+Y minus T. That's
+
+00:38:25.140 --> 00:38:27.740 align:middle line:90%
+disposable income minus C.
+
+00:38:27.740 --> 00:38:32.220 align:middle line:84%
+Government saving is taxes
+minus government expenditure.
+
+00:38:32.220 --> 00:38:35.210 align:middle line:84%
+So if the government has a
+deficit, that thing is negative.
+
+00:38:35.210 --> 00:38:38.240 align:middle line:84%
+Governments often have
+negative saving, OK?
+
+00:38:38.240 --> 00:38:42.290 align:middle line:84%
+If it has a surplus, then
+taxes are greater than G,
+
+00:38:42.290 --> 00:38:44.450 align:middle line:90%
+then you have a fiscal surplus.
+
+00:38:44.450 --> 00:38:49.850 align:middle line:84%
+Again, rarely happens in the US
+or in the Americas in general.
+
+00:38:49.850 --> 00:38:52.790 align:middle line:84%
+It happens a lot in Asia, but
+it doesn't happen very much
+
+00:38:52.790 --> 00:38:54.560 align:middle line:90%
+in this part of the world.
+
+00:38:54.560 --> 00:38:56.360 align:middle line:90%
+But there we are.
+
+00:38:56.360 --> 00:39:02.120 align:middle line:84%
+So in equilibrium, investment,
+I, has to be equal to saving.
+
+00:39:02.120 --> 00:39:05.850 align:middle line:84%
+So that's what you are going to
+use the saving for, to invest,
+
+00:39:05.850 --> 00:39:06.380 align:middle line:90%
+OK?
+
+00:39:06.380 --> 00:39:09.380 align:middle line:84%
+So investment is equal
+to the sum of savings.
+
+00:39:09.380 --> 00:39:11.960 align:middle line:84%
+I can replace all
+that in here, and you
+
+00:39:11.960 --> 00:39:15.130 align:middle line:84%
+see that I get exactly
+the same equilibrium
+
+00:39:15.130 --> 00:39:16.570 align:middle line:90%
+condition I had before--
+
+00:39:16.570 --> 00:39:19.450 align:middle line:84%
+output equal to
+aggregate demand.
+
+00:39:19.450 --> 00:39:23.470 align:middle line:84%
+So this is an entirely
+equivalent way of deriving this.
+
+00:39:23.470 --> 00:39:27.670 align:middle line:84%
+And I just want to show
+you this because it's
+
+00:39:27.670 --> 00:39:29.080 align:middle line:90%
+the way it was originally done.
+
+00:39:29.080 --> 00:39:32.500 align:middle line:84%
+And you'll understand
+better the terminology
+
+00:39:32.500 --> 00:39:35.860 align:middle line:84%
+we use later on if you see
+that this is an equivalent way.
+
+00:39:35.860 --> 00:39:39.400 align:middle line:84%
+This is also a nice way
+of illustrating something,
+
+00:39:39.400 --> 00:39:41.890 align:middle line:84%
+why macro can be
+counterintuitive sometimes.
+
+00:39:41.890 --> 00:39:43.760 align:middle line:84%
+Microeconomics is
+very intuitive.
+
+00:39:43.760 --> 00:39:45.730 align:middle line:90%
+I mean, things make sense.
+
+00:39:45.730 --> 00:39:46.480 align:middle line:90%
+It's like physics.
+
+00:39:46.480 --> 00:39:47.140 align:middle line:90%
+It makes sense.
+
+00:39:47.140 --> 00:39:49.730 align:middle line:90%
+Macro can be confusing.
+
+00:39:49.730 --> 00:39:53.170 align:middle line:84%
+For example, there is a
+well-known paradox of savings,
+
+00:39:53.170 --> 00:39:54.770 align:middle line:84%
+in the short run,
+not in the long run.
+
+00:39:54.770 --> 00:39:58.270 align:middle line:84%
+In the short run, you have
+the paradox of saving.
+
+00:39:58.270 --> 00:40:01.340 align:middle line:84%
+So we all think that you
+save more is a good thing.
+
+00:40:01.340 --> 00:40:03.220 align:middle line:84%
+Our parents teach us
+that is a good thing
+
+00:40:03.220 --> 00:40:04.940 align:middle line:90%
+to save more and so on.
+
+00:40:04.940 --> 00:40:07.090 align:middle line:90%
+And in general, that is true.
+
+00:40:07.090 --> 00:40:10.550 align:middle line:84%
+You'll do better in life if you
+save a little more and so on.
+
+00:40:10.550 --> 00:40:13.075 align:middle line:84%
+But it's not true for the
+macro in the short run.
+
+00:40:13.075 --> 00:40:16.960 align:middle line:90%
+
+
+00:40:16.960 --> 00:40:20.650 align:middle line:84%
+It's not good for
+macroeconomics in the short run,
+
+00:40:20.650 --> 00:40:22.840 align:middle line:84%
+unless you are in an
+overheated economy.
+
+00:40:22.840 --> 00:40:24.250 align:middle line:90%
+Now it could help.
+
+00:40:24.250 --> 00:40:28.240 align:middle line:84%
+But otherwise, it's not very
+good for equilibrium output.
+
+00:40:28.240 --> 00:40:31.840 align:middle line:84%
+And let me show you that very
+quickly with the expression
+
+00:40:31.840 --> 00:40:32.590 align:middle line:90%
+I just showed you.
+
+00:40:32.590 --> 00:40:34.300 align:middle line:84%
+Remember I said,
+equilibrium output
+
+00:40:34.300 --> 00:40:37.720 align:middle line:84%
+is pinned down by
+investment equal to saving.
+
+00:40:37.720 --> 00:40:39.730 align:middle line:84%
+And saving-- the
+private saving here
+
+00:40:39.730 --> 00:40:43.270 align:middle line:84%
+is an increasing
+function of output, OK?
+
+00:40:43.270 --> 00:40:45.700 align:middle line:84%
+It's equal to,
+actually, 1 minus--
+
+00:40:45.700 --> 00:40:49.006 align:middle line:84%
+the function has a
+slope of 1 minus C1.
+
+00:40:49.006 --> 00:40:52.390 align:middle line:84%
+C1 is the share of income
+that you spend in consumption.
+
+00:40:52.390 --> 00:40:55.210 align:middle line:84%
+Therefore, 1 minus C1 is
+the share of your income
+
+00:40:55.210 --> 00:40:56.860 align:middle line:90%
+that you spend in saving, OK?
+
+00:40:56.860 --> 00:41:01.030 align:middle line:84%
+So this function is increasing
+with a slope of 1 minus C1.
+
+00:41:01.030 --> 00:41:03.190 align:middle line:84%
+So suppose I tell
+you now that all we
+
+00:41:03.190 --> 00:41:05.830 align:middle line:84%
+decided to learn the
+lessons of our parents
+
+00:41:05.830 --> 00:41:08.720 align:middle line:84%
+and say, OK, we
+should all save more.
+
+00:41:08.720 --> 00:41:11.830 align:middle line:84%
+So that means, for any
+given level of income,
+
+00:41:11.830 --> 00:41:13.750 align:middle line:90%
+now we all decide to save more.
+
+00:41:13.750 --> 00:41:17.570 align:middle line:84%
+That means the S
+function shifts up.
+
+00:41:17.570 --> 00:41:20.750 align:middle line:84%
+For any given level of
+income, we save more.
+
+00:41:20.750 --> 00:41:23.390 align:middle line:84%
+But we have a problem there
+because now we have more savings
+
+00:41:23.390 --> 00:41:26.380 align:middle line:90%
+than investment.
+
+00:41:26.380 --> 00:41:28.270 align:middle line:84%
+So how do we
+restore equilibrium?
+
+00:41:28.270 --> 00:41:29.530 align:middle line:90%
+That's not in equilibrium.
+
+00:41:29.530 --> 00:41:31.180 align:middle line:90%
+How do we restore equilibrium?
+
+00:41:31.180 --> 00:41:37.460 align:middle line:90%
+
+
+00:41:37.460 --> 00:41:42.570 align:middle line:84%
+So now we all decided to be more
+prudent and save a little more.
+
+00:41:42.570 --> 00:41:45.160 align:middle line:84%
+At the level of the
+economy as a whole,
+
+00:41:45.160 --> 00:41:47.460 align:middle line:84%
+now we have more
+saving than investment.
+
+00:41:47.460 --> 00:41:49.030 align:middle line:90%
+That can't happen.
+
+00:41:49.030 --> 00:41:51.320 align:middle line:90%
+It's not an equilibrium.
+
+00:41:51.320 --> 00:41:54.860 align:middle line:90%
+What restores equilibrium?
+
+00:41:54.860 --> 00:41:58.820 align:middle line:84%
+Well, in this very simple
+model, our investment is fixed.
+
+00:41:58.820 --> 00:42:00.920 align:middle line:84%
+So nothing can adjust
+on the investment side
+
+00:42:00.920 --> 00:42:02.000 align:middle line:90%
+because it's fixed.
+
+00:42:02.000 --> 00:42:04.370 align:middle line:84%
+Later on, it's going to
+move, but now it's fixed.
+
+00:42:04.370 --> 00:42:06.620 align:middle line:84%
+Nothing can adjust in
+the public savings part
+
+00:42:06.620 --> 00:42:08.990 align:middle line:90%
+because it can't move.
+
+00:42:08.990 --> 00:42:10.430 align:middle line:90%
+We assume that it's exogenous.
+
+00:42:10.430 --> 00:42:12.770 align:middle line:84%
+So something has to
+happen endogenously
+
+00:42:12.770 --> 00:42:16.428 align:middle line:84%
+here that the reverses
+the increase in savings,
+
+00:42:16.428 --> 00:42:17.720 align:middle line:90%
+the only thing that can happen.
+
+00:42:17.720 --> 00:42:20.330 align:middle line:84%
+And the only thing can
+happen endogenously here
+
+00:42:20.330 --> 00:42:22.205 align:middle line:90%
+is a decline in output--
+
+00:42:22.205 --> 00:42:24.510 align:middle line:84%
+output declines,
+saving declines.
+
+00:42:24.510 --> 00:42:26.660 align:middle line:84%
+So here you end
+up in a situation
+
+00:42:26.660 --> 00:42:29.600 align:middle line:84%
+in which we all decided
+to be better people,
+
+00:42:29.600 --> 00:42:30.680 align:middle line:90%
+save a little more.
+
+00:42:30.680 --> 00:42:35.140 align:middle line:84%
+And we ended up sinking the
+economy in a recession--
+
+00:42:35.140 --> 00:42:36.843 align:middle line:90%
+output decline.
+
+00:42:36.843 --> 00:42:39.010 align:middle line:84%
+That's the reason it's
+called the paradox of saving.
+
+00:42:39.010 --> 00:42:41.322 align:middle line:90%
+
+
+00:42:41.322 --> 00:42:43.280 align:middle line:84%
+That's not going to happen
+to you individually,
+
+00:42:43.280 --> 00:42:45.470 align:middle line:84%
+but to an economy
+as a whole, that's
+
+00:42:45.470 --> 00:42:47.660 align:middle line:84%
+the reason I said
+it's counterintuitive.
+
+00:42:47.660 --> 00:42:48.485 align:middle line:90%
+It can happen.
+
+00:42:48.485 --> 00:42:53.400 align:middle line:90%
+
+
+00:42:53.400 --> 00:42:57.605 align:middle line:84%
+So look, if you don't
+like this way of--
+
+00:42:57.605 --> 00:42:59.480 align:middle line:84%
+and it's not the main
+way we're going to use.
+
+00:42:59.480 --> 00:43:01.855 align:middle line:84%
+If you don't like this way of
+finding equilibrium output,
+
+00:43:01.855 --> 00:43:02.630 align:middle line:90%
+just ignore it.
+
+00:43:02.630 --> 00:43:03.950 align:middle line:90%
+I just wanted you to know it.
+
+00:43:03.950 --> 00:43:06.560 align:middle line:84%
+Go back to-- the thing you
+really need to understand
+
+00:43:06.560 --> 00:43:07.320 align:middle line:90%
+is not this.
+
+00:43:07.320 --> 00:43:09.060 align:middle line:90%
+It's this, that, that.
+
+00:43:09.060 --> 00:43:10.530 align:middle line:90%
+That you need to understand.
+
+00:43:10.530 --> 00:43:14.210 align:middle line:84%
+So let me illustrate
+the paradox of saving
+
+00:43:14.210 --> 00:43:16.100 align:middle line:84%
+in the model we're
+using, in the one
+
+00:43:16.100 --> 00:43:18.950 align:middle line:90%
+I want you to really remember.
+
+00:43:18.950 --> 00:43:25.640 align:middle line:84%
+Well, the paradox of saving I
+can capture by a decline in C0.
+
+00:43:25.640 --> 00:43:28.550 align:middle line:84%
+For any given level of income,
+now we decide to consume less.
+
+00:43:28.550 --> 00:43:31.040 align:middle line:84%
+If we consume less for
+any given level of income,
+
+00:43:31.040 --> 00:43:34.530 align:middle line:90%
+that means we're saving more.
+
+00:43:34.530 --> 00:43:40.160 align:middle line:84%
+So I can capture in
+this diagram the fact
+
+00:43:40.160 --> 00:43:42.770 align:middle line:84%
+that we have all become
+sort of more prudent
+
+00:43:42.770 --> 00:43:46.680 align:middle line:84%
+by a decline in
+aggregate demand.
+
+00:43:46.680 --> 00:43:48.260 align:middle line:84%
+But if aggregate
+demand declines-- so
+
+00:43:48.260 --> 00:43:50.468 align:middle line:84%
+suppose we start at this
+equilibrium level of output,
+
+00:43:50.468 --> 00:43:52.980 align:middle line:84%
+and then, all of a sudden,
+we say, OK, enough is enough.
+
+00:43:52.980 --> 00:43:55.490 align:middle line:90%
+We need to start saving more.
+
+00:43:55.490 --> 00:43:57.650 align:middle line:90%
+Then what happens?
+
+00:43:57.650 --> 00:44:00.260 align:middle line:90%
+Well, aggregate demand declines.
+
+00:44:00.260 --> 00:44:02.240 align:middle line:84%
+I mean, for any given
+level of income,
+
+00:44:02.240 --> 00:44:03.350 align:middle line:84%
+if you're going to
+save more, that means
+
+00:44:03.350 --> 00:44:04.558 align:middle line:90%
+you're going to consume less.
+
+00:44:04.558 --> 00:44:06.260 align:middle line:90%
+So aggregate demand declines.
+
+00:44:06.260 --> 00:44:10.027 align:middle line:84%
+But what happens when
+aggregate demand declines?
+
+00:44:10.027 --> 00:44:11.110 align:middle line:90%
+AUDIENCE: Output declines.
+
+00:44:11.110 --> 00:44:12.970 align:middle line:84%
+RICARDO J. CABALLERO:
+Output declines.
+
+00:44:12.970 --> 00:44:17.174 align:middle line:84%
+What happens when
+output declines?
+
+00:44:17.174 --> 00:44:18.110 align:middle line:90%
+AUDIENCE: [INAUDIBLE]
+
+00:44:18.110 --> 00:44:19.693 align:middle line:84%
+RICARDO J. CABALLERO:
+Income declines.
+
+00:44:19.693 --> 00:44:21.140 align:middle line:84%
+What happens when
+income declines?
+
+00:44:21.140 --> 00:44:25.517 align:middle line:90%
+
+
+00:44:25.517 --> 00:44:27.100 align:middle line:84%
+Well, part of that
+income you consume.
+
+00:44:27.100 --> 00:44:28.630 align:middle line:90%
+So you're going to consume less.
+
+00:44:28.630 --> 00:44:30.010 align:middle line:90%
+C1 times that.
+
+00:44:30.010 --> 00:44:33.290 align:middle line:84%
+So then-- and then you get the
+multiplier working against you.
+
+00:44:33.290 --> 00:44:36.070 align:middle line:84%
+So not only-- if now we
+all decide to save more,
+
+00:44:36.070 --> 00:44:39.790 align:middle line:84%
+not only output falls
+by the same amount
+
+00:44:39.790 --> 00:44:43.150 align:middle line:84%
+that we increase
+savings, but actually
+
+00:44:43.150 --> 00:44:45.700 align:middle line:84%
+declines by more than that
+because you get the multiplier
+
+00:44:45.700 --> 00:44:49.360 align:middle line:90%
+working against you, OK?
+
+00:44:49.360 --> 00:44:53.320 align:middle line:84%
+That's the reason a big role
+of policymakers, really,
+
+00:44:53.320 --> 00:44:57.232 align:middle line:84%
+in recession is to try to
+maintain the calm because you
+
+00:44:57.232 --> 00:44:58.690 align:middle line:84%
+can get into these
+kinds of things.
+
+00:44:58.690 --> 00:45:02.290 align:middle line:84%
+It's everybody gets scared,
+and we all get scared.
+
+00:45:02.290 --> 00:45:07.090 align:middle line:84%
+So the economy can implode just
+out of bad sentiment and so on.
+
+00:45:07.090 --> 00:45:14.110 align:middle line:90%
+
+
+00:45:14.110 --> 00:45:16.930 align:middle line:84%
+Now we're on the opposite
+side of the cycle.
+
+00:45:16.930 --> 00:45:20.310 align:middle line:84%
+We would want output to decline
+a little because we are having
+
+00:45:20.310 --> 00:45:22.560 align:middle line:84%
+other problems, inflation
+and so on-- again, something
+
+00:45:22.560 --> 00:45:24.160 align:middle line:90%
+we'll discuss later.
+
+00:45:24.160 --> 00:45:26.730 align:middle line:84%
+So now you may want to
+scare consumers a little.
+
+00:45:26.730 --> 00:45:34.227 align:middle line:84%
+And in fact, the governance
+of the Federal Reserve--
+
+00:45:34.227 --> 00:45:36.560 align:middle line:84%
+and the same is happening in
+other places in the world--
+
+00:45:36.560 --> 00:45:37.590 align:middle line:90%
+are doing just that.
+
+00:45:37.590 --> 00:45:42.790 align:middle line:84%
+I mean, when they go out there,
+says the economy is too hot,
+
+00:45:42.790 --> 00:45:45.090 align:middle line:84%
+we're going to have to mess
+up this economy a little.
+
+00:45:45.090 --> 00:45:47.110 align:middle line:84%
+[CHUCKLES] They're
+telling us that.
+
+00:45:47.110 --> 00:45:50.160 align:middle line:84%
+And the first one is
+listen to these things
+
+00:45:50.160 --> 00:45:51.370 align:middle line:90%
+is the financial markets.
+
+00:45:51.370 --> 00:45:54.420 align:middle line:84%
+So every time they come out
+and make a speech of that kind,
+
+00:45:54.420 --> 00:45:56.610 align:middle line:90%
+equity markets decline.
+
+00:45:56.610 --> 00:45:59.670 align:middle line:84%
+Well, equity markets
+capture before the mood
+
+00:45:59.670 --> 00:46:02.490 align:middle line:84%
+that consumers will have in
+the future, captures it early.
+
+00:46:02.490 --> 00:46:04.470 align:middle line:90%
+But that's the message, OK?
+
+00:46:04.470 --> 00:46:06.840 align:middle line:84%
+So they're trying--
+at this moment,
+
+00:46:06.840 --> 00:46:11.460 align:middle line:84%
+really, policymakers-- at
+least the central banks--
+
+00:46:11.460 --> 00:46:15.990 align:middle line:84%
+are trying to do just that,
+depress a little bit consumers
+
+00:46:15.990 --> 00:46:19.980 align:middle line:84%
+so we can cool off
+the economy a bit.
+
+00:46:19.980 --> 00:46:22.400 align:middle line:90%
+OK.
+
+00:46:22.400 --> 00:46:24.080 align:middle line:90%
+Any questions?
+
+00:46:24.080 --> 00:46:26.660 align:middle line:84%
+Again, very important
+lecture because we're
+
+00:46:26.660 --> 00:46:29.420 align:middle line:84%
+going to build on this
+and, later on, this
+
+00:46:29.420 --> 00:46:32.010 align:middle line:84%
+is going to be always
+in the background.
+
+00:46:32.010 --> 00:46:35.060 align:middle line:84%
+And of this-- until
+we actually go
+
+00:46:35.060 --> 00:46:38.390 align:middle line:84%
+to the third part of the course,
+the key model will be this.
+
+00:46:38.390 --> 00:46:39.830 align:middle line:90%
+This will be in the background.
+
+00:46:39.830 --> 00:46:42.110 align:middle line:84%
+More things will be
+happening on top.
+
+00:46:42.110 --> 00:46:45.260 align:middle line:84%
+But whenever I ask
+you a question--
+
+00:46:45.260 --> 00:46:47.960 align:middle line:84%
+for example, later--
+ah, one example--
+
+00:46:47.960 --> 00:46:54.930 align:middle line:84%
+what else would produce
+a situation like this?
+
+00:46:54.930 --> 00:46:56.840 align:middle line:90%
+What else-- what could happen?
+
+00:46:56.840 --> 00:47:03.902 align:middle line:84%
+What kind of policy would
+generate that movement?
+
+00:47:03.902 --> 00:47:06.360 align:middle line:84%
+Well, at this point, we haven't
+introduced monetary policy.
+
+00:47:06.360 --> 00:47:09.050 align:middle line:84%
+So you cannot talk
+about monetary policy.
+
+00:47:09.050 --> 00:47:13.055 align:middle line:84%
+But we do have other kinds of
+policy we could talk about.
+
+00:47:13.055 --> 00:47:24.060 align:middle line:90%
+
+
+00:47:24.060 --> 00:47:24.560 align:middle line:90%
+Remember?
+
+00:47:24.560 --> 00:47:30.470 align:middle line:90%
+
+
+00:47:30.470 --> 00:47:32.720 align:middle line:90%
+Here, fiscal policy.
+
+00:47:32.720 --> 00:47:35.260 align:middle line:90%
+
+
+00:47:35.260 --> 00:47:36.590 align:middle line:90%
+OK?
+
+00:47:36.590 --> 00:47:37.300 align:middle line:90%
+Fiscal policy.
+
+00:47:37.300 --> 00:47:39.920 align:middle line:84%
+G and T, those are
+fiscal parameters.
+
+00:47:39.920 --> 00:47:43.130 align:middle line:84%
+When G goes down
+or T goes up, we
+
+00:47:43.130 --> 00:47:45.470 align:middle line:84%
+call that contractionary
+fiscal policy.
+
+00:47:45.470 --> 00:47:46.700 align:middle line:90%
+Why contractionary?
+
+00:47:46.700 --> 00:47:49.170 align:middle line:84%
+Because it contracts
+aggregate demand.
+
+00:47:49.170 --> 00:47:51.560 align:middle line:84%
+If G goes down, clearly
+aggregate demand
+
+00:47:51.560 --> 00:47:52.790 align:middle line:90%
+goes down immediately.
+
+00:47:52.790 --> 00:47:55.580 align:middle line:84%
+If T goes up, well,
+disposable income
+
+00:47:55.580 --> 00:47:57.410 align:middle line:84%
+for any given level
+of income goes down,
+
+00:47:57.410 --> 00:47:59.270 align:middle line:84%
+and therefore,
+consumption goes down.
+
+00:47:59.270 --> 00:48:03.500 align:middle line:84%
+So we call an increase-- a
+decline in G or an increase in T
+
+00:48:03.500 --> 00:48:05.930 align:middle line:90%
+a contractionary fiscal policy.
+
+00:48:05.930 --> 00:48:08.910 align:middle line:84%
+The opposite-- if G goes
+up, and T goes down,
+
+00:48:08.910 --> 00:48:11.250 align:middle line:84%
+we call that an
+expansionary fiscal policy.
+
+00:48:11.250 --> 00:48:16.510 align:middle line:84%
+So I take you back
+to this diagram here.
+
+00:48:16.510 --> 00:48:18.070 align:middle line:84%
+And I ask you the
+question again,
+
+00:48:18.070 --> 00:48:21.790 align:middle line:84%
+what kind of fiscal policy
+will generate this type of--
+
+00:48:21.790 --> 00:48:24.040 align:middle line:90%
+this picture?
+
+00:48:24.040 --> 00:48:25.810 align:middle line:90%
+Contractionary or expansionary?
+
+00:48:25.810 --> 00:48:32.590 align:middle line:90%
+
+
+00:48:32.590 --> 00:48:33.590 align:middle line:90%
+AUDIENCE: Contractionary
+
+00:48:33.590 --> 00:48:35.132 align:middle line:84%
+RICARDO J. CABALLERO:
+Contractionary.
+
+00:48:35.132 --> 00:48:37.700 align:middle line:84%
+I mean, a good mnemonic,
+the output decline.
+
+00:48:37.700 --> 00:48:41.600 align:middle line:84%
+So contractionary-- so that is
+a decline-- a reduction in G,
+
+00:48:41.600 --> 00:48:43.100 align:middle line:90%
+in going expenditure.
+
+00:48:43.100 --> 00:48:47.630 align:middle line:84%
+Or an increase in taxes
+will shift that curve down.
+
+00:48:47.630 --> 00:48:50.720 align:middle line:84%
+And then the multiplier will
+make it even more contractionary
+
+00:48:50.720 --> 00:48:52.595 align:middle line:90%
+than the initial fiscal impulse.
+
+00:48:52.595 --> 00:48:55.190 align:middle line:90%
+
+
+00:48:55.190 --> 00:48:57.690 align:middle line:90%
+OK?
+
+00:48:57.690 --> 00:49:01.280 align:middle line:90%
+Very good, see you on Wednesday.
+
+00:49:01.280 --> 00:49:13.000 align:middle line:90%

@@ -1,0 +1,3622 @@
+WEBVTT
+
+00:00:00.000 --> 00:00:02.485 align:middle line:90%
+[SQUEAKING]
+
+00:00:02.485 --> 00:00:04.970 align:middle line:90%
+[RUSTLING]
+
+00:00:04.970 --> 00:00:07.455 align:middle line:90%
+[CLICKING]
+
+00:00:07.455 --> 00:00:16.420 align:middle line:90%
+
+
+00:00:16.420 --> 00:00:20.760 align:middle line:84%
+PROFESSOR: So let me continue
+with the IS-LM-PC model.
+
+00:00:20.760 --> 00:00:25.240 align:middle line:84%
+In fact, I want to rush a little
+bit because I was overexcited
+
+00:00:25.240 --> 00:00:27.760 align:middle line:90%
+with the SVB bank event.
+
+00:00:27.760 --> 00:00:33.700 align:middle line:84%
+And I want to make sure that you
+certainly understand this model.
+
+00:00:33.700 --> 00:00:36.940 align:middle line:90%
+It's going to be very important.
+
+00:00:36.940 --> 00:00:40.870 align:middle line:84%
+And I think it's one of the most
+important models in this course,
+
+00:00:40.870 --> 00:00:42.550 align:middle line:90%
+as I said before.
+
+00:00:42.550 --> 00:00:46.690 align:middle line:84%
+Also, I want to use it a little
+bit more, this model itself,
+
+00:00:46.690 --> 00:00:48.590 align:middle line:84%
+to explain what is
+going on right now.
+
+00:00:48.590 --> 00:00:52.250 align:middle line:84%
+Today, we got hit by a second
+shock from the financial system.
+
+00:00:52.250 --> 00:00:57.920 align:middle line:84%
+And so it's getting
+exciting these days.
+
+00:00:57.920 --> 00:01:01.870 align:middle line:84%
+So let me skip all
+this and remind you
+
+00:01:01.870 --> 00:01:03.620 align:middle line:90%
+that that's where we were.
+
+00:01:03.620 --> 00:01:06.190 align:middle line:84%
+That's the IS-LM-PC
+model, which I
+
+00:01:06.190 --> 00:01:10.750 align:middle line:84%
+said is nothing else than just
+integrating the IS-LM analysis
+
+00:01:10.750 --> 00:01:12.080 align:middle line:90%
+with the Phillips curve.
+
+00:01:12.080 --> 00:01:13.520 align:middle line:90%
+This is the IS part.
+
+00:01:13.520 --> 00:01:16.860 align:middle line:84%
+And I said at this point,
+I will follow the book
+
+00:01:16.860 --> 00:01:20.180 align:middle line:84%
+and assume that the central bank
+can control the real interest
+
+00:01:20.180 --> 00:01:22.910 align:middle line:84%
+rate, rather than the nominal
+interest rate, which is what
+
+00:01:22.910 --> 00:01:24.980 align:middle line:90%
+really controls in practice.
+
+00:01:24.980 --> 00:01:27.530 align:middle line:84%
+But I'm going to make that
+assumption so the pictures have
+
+00:01:27.530 --> 00:01:29.990 align:middle line:84%
+less curves moving
+around when things are
+
+00:01:29.990 --> 00:01:33.360 align:middle line:90%
+moving when we do the dynamics.
+
+00:01:33.360 --> 00:01:38.120 align:middle line:84%
+But that's just a IS-LM,
+nothing different.
+
+00:01:38.120 --> 00:01:42.740 align:middle line:84%
+And then we look at
+the Phillips curve.
+
+00:01:42.740 --> 00:01:47.390 align:middle line:84%
+And I said, well, this
+is not very useful
+
+00:01:47.390 --> 00:01:53.090 align:middle line:84%
+because in the IS part I have
+output here and in the Phillips
+
+00:01:53.090 --> 00:01:55.550 align:middle line:84%
+curve, I have inflation but
+then I have unemployment
+
+00:01:55.550 --> 00:01:58.250 align:middle line:84%
+and I don't want to be carrying
+around three variables,
+
+00:01:58.250 --> 00:02:01.400 align:middle line:90%
+endogenous variables.
+
+00:02:01.400 --> 00:02:06.338 align:middle line:84%
+And so it's difficult to
+diagram in three dimensions.
+
+00:02:06.338 --> 00:02:07.380 align:middle line:90%
+Everything is less clear.
+
+00:02:07.380 --> 00:02:13.383 align:middle line:84%
+So I'm going to replace this
+unemployment here for output.
+
+00:02:13.383 --> 00:02:15.800 align:middle line:84%
+And it's very easy to do that
+with the production function
+
+00:02:15.800 --> 00:02:19.340 align:middle line:84%
+we have because output is
+just equal to employment.
+
+00:02:19.340 --> 00:02:23.060 align:middle line:84%
+And the employment is just
+equal to the labor force times 1
+
+00:02:23.060 --> 00:02:24.810 align:middle line:90%
+minus the rate of unemployment.
+
+00:02:24.810 --> 00:02:27.800 align:middle line:84%
+And we could define a
+concept of potential output
+
+00:02:27.800 --> 00:02:30.380 align:middle line:84%
+as simply that output that
+happens when employment
+
+00:02:30.380 --> 00:02:33.590 align:middle line:84%
+is equal to the natural
+level of employment, which
+
+00:02:33.590 --> 00:02:35.600 align:middle line:84%
+is equal to the
+labor force times 1
+
+00:02:35.600 --> 00:02:38.280 align:middle line:84%
+minus the natural
+rate of unemployment.
+
+00:02:38.280 --> 00:02:40.940 align:middle line:84%
+And taking the difference,
+subtracting the second line
+
+00:02:40.940 --> 00:02:42.920 align:middle line:84%
+from the first one,
+you get a concept
+
+00:02:42.920 --> 00:02:45.850 align:middle line:84%
+that is used very frequently
+in macroeconomics, which is
+
+00:02:45.850 --> 00:02:47.490 align:middle line:90%
+the concept of the output gap.
+
+00:02:47.490 --> 00:02:50.870 align:middle line:84%
+An output gap refers to the
+difference between actual output
+
+00:02:50.870 --> 00:02:53.750 align:middle line:84%
+and potential output, in which
+potential output is nothing
+
+00:02:53.750 --> 00:02:55.550 align:middle line:84%
+else than the level
+of output that you
+
+00:02:55.550 --> 00:03:00.390 align:middle line:84%
+get when unemployment is at the
+natural rate of unemployment.
+
+00:03:00.390 --> 00:03:03.980 align:middle line:84%
+So we get the output gap is
+related to the employment gap.
+
+00:03:03.980 --> 00:03:07.550 align:middle line:84%
+And now we can replace the
+employment gap from here
+
+00:03:07.550 --> 00:03:10.670 align:middle line:90%
+with the output gap.
+
+00:03:10.670 --> 00:03:12.350 align:middle line:84%
+And we end up with
+a Phillips curve
+
+00:03:12.350 --> 00:03:14.780 align:middle line:84%
+in the space of
+inflation and output gap,
+
+00:03:14.780 --> 00:03:17.390 align:middle line:84%
+which is something
+we can integrate
+
+00:03:17.390 --> 00:03:21.090 align:middle line:84%
+very easily with the IS-LM
+model that has output in it.
+
+00:03:21.090 --> 00:03:27.320 align:middle line:84%
+So the IS-LM model
+is really combining
+
+00:03:27.320 --> 00:03:30.140 align:middle line:84%
+this equation with
+that equation,
+
+00:03:30.140 --> 00:03:32.370 align:middle line:84%
+and some model about
+expected inflation.
+
+00:03:32.370 --> 00:03:35.860 align:middle line:84%
+That's what the
+IS-LM-PC model is.
+
+00:03:35.860 --> 00:03:38.780 align:middle line:84%
+So I gave you one example
+here, 1 mole of inflation.
+
+00:03:38.780 --> 00:03:42.460 align:middle line:84%
+This is the case of the
+central banks do not like,
+
+00:03:42.460 --> 00:03:44.920 align:middle line:90%
+an anchor inflation expectation.
+
+00:03:44.920 --> 00:03:47.570 align:middle line:84%
+That's my model of expectation,
+then my Phillips curve.
+
+00:03:47.570 --> 00:03:49.780 align:middle line:84%
+I plug this into
+my Phillips curve
+
+00:03:49.780 --> 00:03:53.590 align:middle line:84%
+and I get this relationship
+between the change in inflation
+
+00:03:53.590 --> 00:03:55.840 align:middle line:90%
+and the output gap.
+
+00:03:55.840 --> 00:03:57.530 align:middle line:84%
+And it's an increasing
+relationship.
+
+00:03:57.530 --> 00:03:59.170 align:middle line:84%
+And that's what
+I'm plotting here.
+
+00:03:59.170 --> 00:04:03.430 align:middle line:84%
+For any given level, for
+any given level of Yn,
+
+00:04:03.430 --> 00:04:06.760 align:middle line:84%
+then as I increase output,
+the Phillips curve--
+
+00:04:06.760 --> 00:04:09.010 align:middle line:84%
+the change in inflation,
+the left hand side,
+
+00:04:09.010 --> 00:04:12.410 align:middle line:84%
+the difference between inflation
+and expected inflation rises.
+
+00:04:12.410 --> 00:04:14.110 align:middle line:84%
+That's the reason
+this upward sloping.
+
+00:04:14.110 --> 00:04:16.839 align:middle line:84%
+And the reason this rises has
+to do with all the things that
+
+00:04:16.839 --> 00:04:19.480 align:middle line:90%
+happen in the labor market.
+
+00:04:19.480 --> 00:04:22.550 align:middle line:84%
+If output rises, I mean,
+unemployment is falling.
+
+00:04:22.550 --> 00:04:24.680 align:middle line:84%
+You need more employment
+to produce more output.
+
+00:04:24.680 --> 00:04:26.770 align:middle line:84%
+If that's the case,
+it's more wage pressure
+
+00:04:26.770 --> 00:04:29.590 align:middle line:84%
+that leads to a price
+pressure because there
+
+00:04:29.590 --> 00:04:31.850 align:middle line:84%
+is a markup in between
+wages and prices.
+
+00:04:31.850 --> 00:04:34.880 align:middle line:84%
+And that's the way you
+get into inflation.
+
+00:04:34.880 --> 00:04:38.020 align:middle line:90%
+So I gave you one example.
+
+00:04:38.020 --> 00:04:42.940 align:middle line:84%
+It says, OK, suppose that
+we have some equilibrium
+
+00:04:42.940 --> 00:04:43.810 align:middle line:90%
+level of output.
+
+00:04:43.810 --> 00:04:46.840 align:middle line:84%
+This, which is the result
+of this monetary policy,
+
+00:04:46.840 --> 00:04:51.200 align:middle line:84%
+this rate set by
+the central bank.
+
+00:04:51.200 --> 00:04:54.970 align:middle line:84%
+And that's the IS, which is a
+function of the fiscal policy
+
+00:04:54.970 --> 00:04:56.980 align:middle line:84%
+of the country, how
+confident are consumers,
+
+00:04:56.980 --> 00:04:58.310 align:middle line:90%
+and all these kind of things.
+
+00:04:58.310 --> 00:05:03.370 align:middle line:84%
+So in quiz one, we really worry
+only about this top diagram.
+
+00:05:03.370 --> 00:05:05.740 align:middle line:84%
+And all the shocks we
+had were shocks that
+
+00:05:05.740 --> 00:05:07.400 align:middle line:90%
+happened in this top diagram.
+
+00:05:07.400 --> 00:05:10.990 align:middle line:84%
+And we look at what happened to
+output, to equilibrium output
+
+00:05:10.990 --> 00:05:12.610 align:middle line:90%
+as a result.
+
+00:05:12.610 --> 00:05:15.050 align:middle line:90%
+Now, this hasn't changed.
+
+00:05:15.050 --> 00:05:16.160 align:middle line:90%
+It hasn't changed.
+
+00:05:16.160 --> 00:05:17.990 align:middle line:84%
+That block is the
+same as it used to be.
+
+00:05:17.990 --> 00:05:20.020 align:middle line:84%
+The only difference
+that we have here
+
+00:05:20.020 --> 00:05:23.170 align:middle line:84%
+is that this level
+of output, which
+
+00:05:23.170 --> 00:05:25.780 align:middle line:84%
+is the equilibrium level of
+output at any point in time,
+
+00:05:25.780 --> 00:05:28.038 align:middle line:84%
+needs not be equal
+to potential output.
+
+00:05:28.038 --> 00:05:29.830 align:middle line:84%
+And if it is not equal
+to potential output,
+
+00:05:29.830 --> 00:05:33.010 align:middle line:84%
+that will lead to something
+with inflation-- inflation,
+
+00:05:33.010 --> 00:05:34.870 align:middle line:84%
+disinflation, or
+something of that kind.
+
+00:05:34.870 --> 00:05:38.810 align:middle line:84%
+In this particular case, the
+equilibrium level of output,
+
+00:05:38.810 --> 00:05:41.390 align:middle line:84%
+which is still determined
+as we used to determine,
+
+00:05:41.390 --> 00:05:45.230 align:middle line:84%
+happens to be higher than
+the natural rate of output.
+
+00:05:45.230 --> 00:05:48.800 align:middle line:84%
+And if output is higher
+than the rate of output,
+
+00:05:48.800 --> 00:05:52.740 align:middle line:84%
+that means this is positive,
+which means inflation is rising.
+
+00:05:52.740 --> 00:05:54.620 align:middle line:84%
+And that's exactly
+what we see here.
+
+00:05:54.620 --> 00:05:57.450 align:middle line:84%
+It means inflation is
+above expected inflation.
+
+00:05:57.450 --> 00:06:00.170 align:middle line:84%
+When expected inflation
+is equal to log inflation,
+
+00:06:00.170 --> 00:06:02.900 align:middle line:84%
+then that means
+inflation is rising.
+
+00:06:02.900 --> 00:06:06.470 align:middle line:90%
+And that's what we have here.
+
+00:06:06.470 --> 00:06:08.400 align:middle line:90%
+So any question about that?
+
+00:06:08.400 --> 00:06:10.430 align:middle line:84%
+So this is-- we
+just, what we did
+
+00:06:10.430 --> 00:06:14.540 align:middle line:84%
+is kept analysis we used to have
+and now we added this diagram
+
+00:06:14.540 --> 00:06:15.590 align:middle line:90%
+here at the bottom.
+
+00:06:15.590 --> 00:06:19.010 align:middle line:84%
+Because it turns out
+that, yes, any equilibrium
+
+00:06:19.010 --> 00:06:21.050 align:middle line:84%
+here, if I move the
+interest rate around,
+
+00:06:21.050 --> 00:06:22.940 align:middle line:84%
+I'm going to change
+the level of output.
+
+00:06:22.940 --> 00:06:24.900 align:middle line:84%
+All those are equilibrium
+levels output.
+
+00:06:24.900 --> 00:06:27.440 align:middle line:84%
+But that doesn't
+mean that they're
+
+00:06:27.440 --> 00:06:29.840 align:middle line:90%
+consistent with the natural--
+
+00:06:29.840 --> 00:06:31.160 align:middle line:90%
+with potential output.
+
+00:06:31.160 --> 00:06:33.410 align:middle line:84%
+And if it's not equal
+to potential output,
+
+00:06:33.410 --> 00:06:35.790 align:middle line:84%
+it's a valid equilibrium
+at any point in time.
+
+00:06:35.790 --> 00:06:39.150 align:middle line:84%
+But it's going to lead to
+issues on the inflation front.
+
+00:06:39.150 --> 00:06:39.800 align:middle line:90%
+That's all.
+
+00:06:39.800 --> 00:06:42.380 align:middle line:84%
+The second diagram
+here tells you
+
+00:06:42.380 --> 00:06:46.070 align:middle line:84%
+that we get issues on
+the inflation front
+
+00:06:46.070 --> 00:06:49.130 align:middle line:84%
+with any equilibrium
+level of output that
+
+00:06:49.130 --> 00:06:51.800 align:middle line:84%
+is different from the
+natural rate of output.
+
+00:06:51.800 --> 00:06:53.380 align:middle line:90%
+That's what this diagram does.
+
+00:06:53.380 --> 00:06:56.338 align:middle line:90%
+
+
+00:06:56.338 --> 00:06:57.380 align:middle line:90%
+And that's what happened.
+
+00:06:57.380 --> 00:06:58.963 align:middle line:84%
+In the short run,
+that's what it does.
+
+00:06:58.963 --> 00:07:01.750 align:middle line:84%
+So we keep doing what we used to
+do in the first seven lectures
+
+00:07:01.750 --> 00:07:02.440 align:middle line:90%
+or so.
+
+00:07:02.440 --> 00:07:05.890 align:middle line:84%
+And this diagram just
+tells us what are
+
+00:07:05.890 --> 00:07:07.420 align:middle line:90%
+the implications for inflation.
+
+00:07:07.420 --> 00:07:08.810 align:middle line:90%
+That's in the short run.
+
+00:07:08.810 --> 00:07:12.400 align:middle line:84%
+The medium run, we said, is
+when we start processing,
+
+00:07:12.400 --> 00:07:16.240 align:middle line:84%
+which output converges
+back to the natural rate
+
+00:07:16.240 --> 00:07:17.440 align:middle line:90%
+to potential output.
+
+00:07:17.440 --> 00:07:19.010 align:middle line:90%
+How does that happen?
+
+00:07:19.010 --> 00:07:21.700 align:middle line:84%
+Well, it involves
+the central bank.
+
+00:07:21.700 --> 00:07:24.140 align:middle line:84%
+But it's not that the central
+bank is doing crazy things.
+
+00:07:24.140 --> 00:07:26.860 align:middle line:84%
+The central bank is reacting
+to what the economy is
+
+00:07:26.860 --> 00:07:28.340 align:middle line:90%
+telling it needs to do.
+
+00:07:28.340 --> 00:07:33.640 align:middle line:84%
+Here is a central bank that was
+before doing whatever change
+
+00:07:33.640 --> 00:07:36.550 align:middle line:84%
+in the interest rate or in the
+IS delivered the equilibrium
+
+00:07:36.550 --> 00:07:37.420 align:middle line:90%
+output here.
+
+00:07:37.420 --> 00:07:39.440 align:middle line:90%
+Had an inflation of around 2%.
+
+00:07:39.440 --> 00:07:41.510 align:middle line:84%
+That was consistent
+with the target it had.
+
+00:07:41.510 --> 00:07:43.900 align:middle line:84%
+Now suddenly it finds itself
+in a situation like this
+
+00:07:43.900 --> 00:07:46.510 align:middle line:90%
+and inflation starts climbing.
+
+00:07:46.510 --> 00:07:50.840 align:middle line:84%
+We get 3% one year,
+4%, the next, 6, 9,
+
+00:07:50.840 --> 00:07:52.450 align:middle line:90%
+in a situation like that.
+
+00:07:52.450 --> 00:07:54.400 align:middle line:84%
+Well, it's very natural
+for that central bank,
+
+00:07:54.400 --> 00:07:57.470 align:middle line:84%
+if it's a responsible central
+bank, to react to that.
+
+00:07:57.470 --> 00:08:00.170 align:middle line:84%
+And the only reaction the
+central bank can have,
+
+00:08:00.170 --> 00:08:03.120 align:middle line:84%
+the main reaction can have,
+is to raise interest rates.
+
+00:08:03.120 --> 00:08:05.750 align:middle line:84%
+And that's exactly
+what starts happening.
+
+00:08:05.750 --> 00:08:08.130 align:middle line:84%
+The central bank finds
+itself with inflation,
+
+00:08:08.130 --> 00:08:10.260 align:middle line:84%
+in this case that
+is accelerating.
+
+00:08:10.260 --> 00:08:12.510 align:middle line:84%
+It will start increasing
+interest rate.
+
+00:08:12.510 --> 00:08:15.980 align:middle line:84%
+And this process of acceleration
+of inflation in this case
+
+00:08:15.980 --> 00:08:20.090 align:middle line:84%
+would only stop when output is
+equal to the natural potential
+
+00:08:20.090 --> 00:08:20.790 align:middle line:90%
+output.
+
+00:08:20.790 --> 00:08:25.932 align:middle line:84%
+And we can define implicitly
+what that interest rate is.
+
+00:08:25.932 --> 00:08:28.140 align:middle line:84%
+And we can call it the
+natural rate of interest rate.
+
+00:08:28.140 --> 00:08:31.310 align:middle line:84%
+Sometimes we call
+it [INAUDIBLE] rate
+
+00:08:31.310 --> 00:08:35.210 align:middle line:84%
+of interest rate, neutral
+interest rate, R star,
+
+00:08:35.210 --> 00:08:36.783 align:middle line:84%
+lots of names for
+this interest rate.
+
+00:08:36.783 --> 00:08:38.450 align:middle line:84%
+But this interest
+rate is simply the one
+
+00:08:38.450 --> 00:08:41.570 align:middle line:84%
+that gives us an equilibrium
+output in our IS-LM diagram
+
+00:08:41.570 --> 00:08:45.610 align:middle line:84%
+that is equal to
+potential output.
+
+00:08:45.610 --> 00:08:47.990 align:middle line:84%
+Thus, that's all
+that this Rn means.
+
+00:08:47.990 --> 00:08:52.540 align:middle line:84%
+And here I'm solving it as the
+rate that implicitly gives us
+
+00:08:52.540 --> 00:08:55.150 align:middle line:84%
+an equilibrium
+output here that is
+
+00:08:55.150 --> 00:08:58.330 align:middle line:84%
+equal to the natural rate
+of output that defines it
+
+00:08:58.330 --> 00:08:59.690 align:middle line:90%
+implicitly.
+
+00:08:59.690 --> 00:09:01.950 align:middle line:90%
+OK, there we are.
+
+00:09:01.950 --> 00:09:05.150 align:middle line:90%
+Is all that clear?
+
+00:09:05.150 --> 00:09:06.270 align:middle line:90%
+Yes, OK.
+
+00:09:06.270 --> 00:09:09.890 align:middle line:84%
+I think you're going to have a
+big chunk of your current pset
+
+00:09:09.890 --> 00:09:11.670 align:middle line:90%
+about this model and so on.
+
+00:09:11.670 --> 00:09:12.990 align:middle line:90%
+And that's a good thing.
+
+00:09:12.990 --> 00:09:14.990 align:middle line:84%
+And you'll see it
+also in the next one.
+
+00:09:14.990 --> 00:09:17.290 align:middle line:84%
+Because, again, I think
+this is important.
+
+00:09:17.290 --> 00:09:20.110 align:middle line:84%
+Then they talk about the
+difference between anchor
+
+00:09:20.110 --> 00:09:21.590 align:middle line:90%
+and unanchor expectations.
+
+00:09:21.590 --> 00:09:24.670 align:middle line:84%
+I said, look, here,
+we have a situation
+
+00:09:24.670 --> 00:09:26.690 align:middle line:90%
+that suppose we started at 2%.
+
+00:09:26.690 --> 00:09:29.570 align:middle line:84%
+And then we found ourselves
+in a situation like that.
+
+00:09:29.570 --> 00:09:32.120 align:middle line:84%
+That means inflation
+starts building up.
+
+00:09:32.120 --> 00:09:33.920 align:middle line:90%
+We go to 9% or so.
+
+00:09:33.920 --> 00:09:36.010 align:middle line:84%
+So now the Fed
+gets scared and it
+
+00:09:36.010 --> 00:09:37.460 align:middle line:90%
+starts raising interest rates.
+
+00:09:37.460 --> 00:09:39.680 align:middle line:84%
+So that's moving
+up, lowering output.
+
+00:09:39.680 --> 00:09:42.430 align:middle line:84%
+And as it lowers output,
+reduces the output gap.
+
+00:09:42.430 --> 00:09:46.370 align:middle line:84%
+And therefore, reduces the
+change in inflation here.
+
+00:09:46.370 --> 00:09:49.360 align:middle line:84%
+But inflation keeps rising
+in this particular model
+
+00:09:49.360 --> 00:09:51.590 align:middle line:84%
+because expected
+inflation is an anchor.
+
+00:09:51.590 --> 00:09:54.100 align:middle line:84%
+And I said, well, suppose
+that eventually the Fed gets
+
+00:09:54.100 --> 00:09:55.900 align:middle line:90%
+to that interest rate here.
+
+00:09:55.900 --> 00:09:58.030 align:middle line:84%
+So we get to a
+situation like that.
+
+00:09:58.030 --> 00:10:02.170 align:middle line:84%
+And I ask the question, has
+the Fed solved the problem now?
+
+00:10:02.170 --> 00:10:03.790 align:middle line:84%
+OK, finally we
+get to a situation
+
+00:10:03.790 --> 00:10:07.300 align:middle line:84%
+where the interest rate is equal
+to the natural rate of interest
+
+00:10:07.300 --> 00:10:07.850 align:middle line:90%
+rate.
+
+00:10:07.850 --> 00:10:10.490 align:middle line:84%
+That tells me that output is
+equal to potential output.
+
+00:10:10.490 --> 00:10:13.180 align:middle line:84%
+That tells me here that
+inflation is not changing.
+
+00:10:13.180 --> 00:10:17.940 align:middle line:84%
+Problem is that we already had
+inflation of 9% at some point.
+
+00:10:17.940 --> 00:10:22.040 align:middle line:84%
+So here, inflation stops
+rising in this particular model
+
+00:10:22.040 --> 00:10:25.320 align:middle line:84%
+with expected inflation and
+anchor expected inflation.
+
+00:10:25.320 --> 00:10:28.910 align:middle line:84%
+But stopping is not enough
+because that leaves us
+
+00:10:28.910 --> 00:10:31.370 align:middle line:90%
+with a level of inflation of 9%.
+
+00:10:31.370 --> 00:10:34.670 align:middle line:84%
+That means that the Fed, in
+order to bring back inflation
+
+00:10:34.670 --> 00:10:38.180 align:middle line:84%
+to 2%, it needs to
+go into this region.
+
+00:10:38.180 --> 00:10:44.490 align:middle line:84%
+So inflation starts coming down
+from 9%, 7%, 6%, 5% and so on.
+
+00:10:44.490 --> 00:10:47.630 align:middle line:84%
+So if you have an
+anchor expectation,
+
+00:10:47.630 --> 00:10:50.060 align:middle line:84%
+an inflation
+overshoots, you're going
+
+00:10:50.060 --> 00:10:53.160 align:middle line:84%
+to have to cause a recession,
+and probably a severe recession.
+
+00:10:53.160 --> 00:10:54.680 align:middle line:90%
+There is no way around that.
+
+00:10:54.680 --> 00:10:57.470 align:middle line:84%
+And that's what the Fed
+has been struggling to do,
+
+00:10:57.470 --> 00:10:58.760 align:middle line:90%
+is struggling not to.
+
+00:10:58.760 --> 00:11:01.670 align:middle line:84%
+Because the Fed, we are in a
+situation-- not only in the US,
+
+00:11:01.670 --> 00:11:04.340 align:middle line:84%
+but in the US in
+particular, where inflation
+
+00:11:04.340 --> 00:11:06.830 align:middle line:90%
+is way above the target level.
+
+00:11:06.830 --> 00:11:10.530 align:middle line:84%
+But expected inflation has
+been more or less stable.
+
+00:11:10.530 --> 00:11:13.160 align:middle line:84%
+And so when people
+talk about being
+
+00:11:13.160 --> 00:11:17.870 align:middle line:84%
+able to restore sort of
+reasonable levels of inflation
+
+00:11:17.870 --> 00:11:21.020 align:middle line:84%
+in a soft landed manner,
+with a soft landing,
+
+00:11:21.020 --> 00:11:24.710 align:middle line:84%
+that means that you don't
+need to cause a recession
+
+00:11:24.710 --> 00:11:27.150 align:middle line:90%
+to bring inflation back to 2%.
+
+00:11:27.150 --> 00:11:29.150 align:middle line:84%
+You just can bring
+it smoothly here.
+
+00:11:29.150 --> 00:11:31.860 align:middle line:84%
+With this model of expected,
+inflation doesn't work.
+
+00:11:31.860 --> 00:11:36.800 align:middle line:84%
+But if the bank, central bank,
+has credibility and inflation
+
+00:11:36.800 --> 00:11:39.410 align:middle line:84%
+remain anchored, people continue
+to believe that the Fed will
+
+00:11:39.410 --> 00:11:40.730 align:middle line:90%
+go back to 2%.
+
+00:11:40.730 --> 00:11:42.750 align:middle line:84%
+Then you don't need to
+cause a big recession.
+
+00:11:42.750 --> 00:11:46.220 align:middle line:84%
+Otherwise, you need to invest
+in bringing expectations down.
+
+00:11:46.220 --> 00:11:48.200 align:middle line:84%
+And the only way you
+can invest in doing that
+
+00:11:48.200 --> 00:11:49.760 align:middle line:90%
+is causing a recession.
+
+00:11:49.760 --> 00:11:53.450 align:middle line:84%
+But that's the reason I said
+central banks worry so much
+
+00:11:53.450 --> 00:11:56.090 align:middle line:84%
+about keeping
+inflation credibility,
+
+00:11:56.090 --> 00:11:59.420 align:middle line:84%
+because otherwise they
+need to overshoot in order
+
+00:11:59.420 --> 00:12:06.140 align:middle line:90%
+to restore a long run balance.
+
+00:12:06.140 --> 00:12:08.550 align:middle line:90%
+Good.
+
+00:12:08.550 --> 00:12:14.780 align:middle line:84%
+Now, you may wonder, well, I
+mean, this looks pretty simple.
+
+00:12:14.780 --> 00:12:16.700 align:middle line:84%
+And just, if you have
+a problem like this,
+
+00:12:16.700 --> 00:12:21.020 align:middle line:84%
+just go quickly to
+that point there.
+
+00:12:21.020 --> 00:12:22.590 align:middle line:90%
+And then the problem is over.
+
+00:12:22.590 --> 00:12:26.340 align:middle line:84%
+You don't let inflation build
+to 9%, or something like that.
+
+00:12:26.340 --> 00:12:27.650 align:middle line:90%
+You react immediately.
+
+00:12:27.650 --> 00:12:30.380 align:middle line:84%
+The problem is, there's
+a famous sentence that
+
+00:12:30.380 --> 00:12:32.990 align:middle line:84%
+was coined by
+Milton Friedman, is
+
+00:12:32.990 --> 00:12:34.940 align:middle line:84%
+that monetary policy
+acts on the economy
+
+00:12:34.940 --> 00:12:37.100 align:middle line:90%
+with long and variable lags.
+
+00:12:37.100 --> 00:12:40.580 align:middle line:84%
+So first of all, it's very
+difficult at any point in time
+
+00:12:40.580 --> 00:12:42.710 align:middle line:84%
+to know where is
+potential output
+
+00:12:42.710 --> 00:12:44.640 align:middle line:84%
+and what is a natural
+rate of unemployment.
+
+00:12:44.640 --> 00:12:45.890 align:middle line:90%
+I mean, you sort of sense it.
+
+00:12:45.890 --> 00:12:48.560 align:middle line:84%
+But the truth is that the
+only way you really know
+
+00:12:48.560 --> 00:12:50.610 align:middle line:90%
+is by looking at inflation.
+
+00:12:50.610 --> 00:12:52.880 align:middle line:84%
+So it's inflation that
+really tells you that you
+
+00:12:52.880 --> 00:12:54.330 align:middle line:90%
+are on one side or the other.
+
+00:12:54.330 --> 00:12:56.150 align:middle line:90%
+It's very difficult to--
+
+00:12:56.150 --> 00:12:58.470 align:middle line:84%
+you have some historical
+average and so on.
+
+00:12:58.470 --> 00:12:59.812 align:middle line:90%
+But these things do move around.
+
+00:12:59.812 --> 00:13:01.520 align:middle line:84%
+So it's difficult to
+at any point in time
+
+00:13:01.520 --> 00:13:05.670 align:middle line:84%
+to know whether you
+are at our end or not.
+
+00:13:05.670 --> 00:13:09.740 align:middle line:84%
+The second thing is that here
+everything happens immediately.
+
+00:13:09.740 --> 00:13:12.540 align:middle line:84%
+If I move immediately, then
+output immediately jumps here.
+
+00:13:12.540 --> 00:13:15.060 align:middle line:84%
+That's not the way monetary
+policy operates in practice.
+
+00:13:15.060 --> 00:13:19.710 align:middle line:84%
+It takes time for monetary
+policy to affect the economy.
+
+00:13:19.710 --> 00:13:24.620 align:middle line:84%
+And so the situation that
+happened, I would say,
+
+00:13:24.620 --> 00:13:28.610 align:middle line:84%
+until last week, was the
+Fed knew that the inflation
+
+00:13:28.610 --> 00:13:30.400 align:middle line:90%
+was still too high.
+
+00:13:30.400 --> 00:13:32.810 align:middle line:84%
+But it also knew that
+it had done a lot.
+
+00:13:32.810 --> 00:13:35.360 align:middle line:84%
+It had hiked rates very
+aggressively by a lot.
+
+00:13:35.360 --> 00:13:40.090 align:middle line:84%
+And since there are lags between
+the increase in interest rate
+
+00:13:40.090 --> 00:13:43.720 align:middle line:84%
+and the decline in
+output, the Fed's concern
+
+00:13:43.720 --> 00:13:46.390 align:middle line:84%
+was, well, it's clear that
+I still have inflation.
+
+00:13:46.390 --> 00:13:48.850 align:middle line:84%
+But it may well be the case
+that when this thing finally
+
+00:13:48.850 --> 00:13:51.370 align:middle line:84%
+hits the economy,
+it hits it too much
+
+00:13:51.370 --> 00:13:54.410 align:middle line:84%
+and we end up in a recession,
+and an unwanted recession.
+
+00:13:54.410 --> 00:13:57.550 align:middle line:90%
+That was the concern.
+
+00:13:57.550 --> 00:13:59.313 align:middle line:84%
+Now, what is
+happening right now,
+
+00:13:59.313 --> 00:14:00.730 align:middle line:84%
+there is a little
+bit of a concern
+
+00:14:00.730 --> 00:14:03.100 align:middle line:84%
+that we got to that point
+because things were very
+
+00:14:03.100 --> 00:14:04.880 align:middle line:90%
+slow for a variety of reasons.
+
+00:14:04.880 --> 00:14:06.820 align:middle line:90%
+But now something broke.
+
+00:14:06.820 --> 00:14:10.510 align:middle line:84%
+And the question is, now
+that something has broken,
+
+00:14:10.510 --> 00:14:13.930 align:middle line:84%
+will we sort of decelerate
+the economy very, very fast?
+
+00:14:13.930 --> 00:14:15.010 align:middle line:90%
+And that's a concern.
+
+00:14:15.010 --> 00:14:16.630 align:middle line:84%
+That's what is
+happening right now.
+
+00:14:16.630 --> 00:14:20.780 align:middle line:84%
+But that's what makes monetary
+policy much more difficult
+
+00:14:20.780 --> 00:14:22.610 align:middle line:84%
+than this little
+diagram, is that you
+
+00:14:22.610 --> 00:14:25.400 align:middle line:84%
+have all these lags, these
+uncertainties, and all
+
+00:14:25.400 --> 00:14:26.540 align:middle line:90%
+these non-linearities.
+
+00:14:26.540 --> 00:14:28.180 align:middle line:90%
+And suddenly things happen.
+
+00:14:28.180 --> 00:14:31.820 align:middle line:90%
+
+
+00:14:31.820 --> 00:14:35.010 align:middle line:84%
+Let me tell you when things
+can go really, really wrong.
+
+00:14:35.010 --> 00:14:36.630 align:middle line:90%
+It's not the issue now.
+
+00:14:36.630 --> 00:14:40.890 align:middle line:84%
+But we were very close to that
+during the global recession.
+
+00:14:40.890 --> 00:14:42.560 align:middle line:84%
+Japan has experienced
+several episodes
+
+00:14:42.560 --> 00:14:44.760 align:middle line:84%
+like this, which
+is the following.
+
+00:14:44.760 --> 00:14:50.747 align:middle line:84%
+Suppose you have a situation
+where your inflation is low.
+
+00:14:50.747 --> 00:14:52.580 align:middle line:84%
+Typically, these things
+happen in situations
+
+00:14:52.580 --> 00:14:54.600 align:middle line:90%
+where inflation is low.
+
+00:14:54.600 --> 00:14:58.650 align:middle line:84%
+And for whatever reason, your
+natural rate of unemployment
+
+00:14:58.650 --> 00:15:00.820 align:middle line:90%
+is negative.
+
+00:15:00.820 --> 00:15:03.940 align:middle line:84%
+So you have inflation
+close to 0, say.
+
+00:15:03.940 --> 00:15:09.150 align:middle line:84%
+And then the natural rate of
+interest rate is negative.
+
+00:15:09.150 --> 00:15:10.530 align:middle line:90%
+What's the problem?
+
+00:15:10.530 --> 00:15:13.230 align:middle line:84%
+Suppose you have
+a 0 lower bound.
+
+00:15:13.230 --> 00:15:15.090 align:middle line:84%
+Well, you have a 0
+lower bound means
+
+00:15:15.090 --> 00:15:18.430 align:middle line:84%
+that you're not going
+to hit this rate.
+
+00:15:18.430 --> 00:15:20.797 align:middle line:84%
+The best you can do with
+inflation is around 0.
+
+00:15:20.797 --> 00:15:22.630 align:middle line:84%
+Then you set the nominal
+interest rate to 0.
+
+00:15:22.630 --> 00:15:25.620 align:middle line:84%
+And then the real
+interest rate is around 0.
+
+00:15:25.620 --> 00:15:34.330 align:middle line:84%
+Well, the problem is that at 0,
+you generate negative inflation.
+
+00:15:34.330 --> 00:15:36.850 align:middle line:84%
+But if you generate
+negative inflation
+
+00:15:36.850 --> 00:15:40.060 align:middle line:84%
+and the nominal interest
+rate is fixed at 0, then
+
+00:15:40.060 --> 00:15:42.280 align:middle line:84%
+now you get a positive
+real interest rate
+
+00:15:42.280 --> 00:15:44.980 align:middle line:84%
+because the real interest rate
+is equal to the nominal interest
+
+00:15:44.980 --> 00:15:49.400 align:middle line:84%
+rate, which is 0, minus
+inflation, expected inflation.
+
+00:15:49.400 --> 00:15:52.960 align:middle line:84%
+But if your expected inflation
+or inflation is negative,
+
+00:15:52.960 --> 00:15:54.530 align:middle line:90%
+minus, minus is positive.
+
+00:15:54.530 --> 00:15:57.610 align:middle line:84%
+So that means your real interest
+rate is actually positive.
+
+00:15:57.610 --> 00:16:00.190 align:middle line:84%
+So you wanted
+something negative.
+
+00:16:00.190 --> 00:16:02.980 align:middle line:84%
+But you end up with
+something positive.
+
+00:16:02.980 --> 00:16:06.300 align:middle line:84%
+That means now you
+have a big gap here.
+
+00:16:06.300 --> 00:16:09.760 align:middle line:84%
+So inflation, you
+get into deflation.
+
+00:16:09.760 --> 00:16:11.630 align:middle line:90%
+Now inflation is very, very low.
+
+00:16:11.630 --> 00:16:12.970 align:middle line:90%
+It gets very negative.
+
+00:16:12.970 --> 00:16:16.290 align:middle line:84%
+Well, as inflation gets
+more and more negative,
+
+00:16:16.290 --> 00:16:18.220 align:middle line:84%
+your real interest
+rate keeps climbing.
+
+00:16:18.220 --> 00:16:20.370 align:middle line:84%
+So you keep moving
+further and further away
+
+00:16:20.370 --> 00:16:23.730 align:middle line:84%
+from the natural rate
+of interest rate.
+
+00:16:23.730 --> 00:16:26.730 align:middle line:84%
+Thus, something that is
+very scary for an economist,
+
+00:16:26.730 --> 00:16:29.010 align:middle line:90%
+that deflationary trap.
+
+00:16:29.010 --> 00:16:33.100 align:middle line:84%
+And that's the way you
+get into deep recessions.
+
+00:16:33.100 --> 00:16:36.090 align:middle line:84%
+In fact, that's what happened
+during the Great Recession
+
+00:16:36.090 --> 00:16:37.800 align:middle line:90%
+in the US.
+
+00:16:37.800 --> 00:16:42.850 align:middle line:84%
+The no, during the Great
+Depression in the US.
+
+00:16:42.850 --> 00:16:44.850 align:middle line:84%
+During the Great Recession,
+we were close to it,
+
+00:16:44.850 --> 00:16:48.690 align:middle line:84%
+but we didn't get quite
+there because lots of things
+
+00:16:48.690 --> 00:16:54.000 align:middle line:84%
+were done to prevent a repeat
+of the Great Depression.
+
+00:16:54.000 --> 00:16:57.450 align:middle line:84%
+One of the biggest problems
+with the Great Depression
+
+00:16:57.450 --> 00:17:02.610 align:middle line:84%
+was that monetary policy was
+not against the 0 lower bound.
+
+00:17:02.610 --> 00:17:05.650 align:middle line:90%
+But it was very slow to react.
+
+00:17:05.650 --> 00:17:08.840 align:middle line:84%
+They were in a situation
+like in this diagram here.
+
+00:17:08.840 --> 00:17:11.720 align:middle line:90%
+
+
+00:17:11.720 --> 00:17:14.000 align:middle line:84%
+But they kept the
+interest rate high.
+
+00:17:14.000 --> 00:17:15.920 align:middle line:90%
+And they moved very slowly.
+
+00:17:15.920 --> 00:17:18.740 align:middle line:84%
+And when they tried to
+catch up, well, they
+
+00:17:18.740 --> 00:17:20.550 align:middle line:84%
+went into deflationary
+environment.
+
+00:17:20.550 --> 00:17:22.970 align:middle line:84%
+So the real interest rate
+was moving away from them,
+
+00:17:22.970 --> 00:17:25.428 align:middle line:84%
+despite the fact that they were
+moving the nominal interest
+
+00:17:25.428 --> 00:17:26.240 align:middle line:90%
+rate down.
+
+00:17:26.240 --> 00:17:27.960 align:middle line:90%
+And that you can see here.
+
+00:17:27.960 --> 00:17:31.460 align:middle line:84%
+So the Great Depression
+starts around 1929.
+
+00:17:31.460 --> 00:17:34.160 align:middle line:90%
+It starts really in 1929.
+
+00:17:34.160 --> 00:17:36.350 align:middle line:90%
+Unemployment initially was low.
+
+00:17:36.350 --> 00:17:39.110 align:middle line:84%
+The nominal interest
+rate was around 5%.
+
+00:17:39.110 --> 00:17:42.860 align:middle line:84%
+And inflation rate, growth
+declined very rapidly.
+
+00:17:42.860 --> 00:17:45.090 align:middle line:90%
+The inflation rate was around 0.
+
+00:17:45.090 --> 00:17:46.520 align:middle line:90%
+So you had a one year--
+
+00:17:46.520 --> 00:17:50.300 align:middle line:84%
+the real interest rate
+was around 5%, as well.
+
+00:17:50.300 --> 00:17:53.040 align:middle line:90%
+Well, things got worse.
+
+00:17:53.040 --> 00:17:55.710 align:middle line:84%
+Unemployment began to
+climb very rapidly.
+
+00:17:55.710 --> 00:17:59.630 align:middle line:84%
+And so the Fed began to lower
+interest rates, nominal interest
+
+00:17:59.630 --> 00:18:00.470 align:middle line:90%
+rate.
+
+00:18:00.470 --> 00:18:02.130 align:middle line:90%
+Went from 5% to 4%.
+
+00:18:02.130 --> 00:18:06.030 align:middle line:84%
+Those were unusually low
+interest rates for the time.
+
+00:18:06.030 --> 00:18:10.880 align:middle line:84%
+But the problem is that the
+inflation by then was -2.5%.
+
+00:18:10.880 --> 00:18:12.987 align:middle line:84%
+So the real interest
+rate-- they were lowering
+
+00:18:12.987 --> 00:18:14.070 align:middle line:90%
+the nominal interest rate.
+
+00:18:14.070 --> 00:18:16.600 align:middle line:84%
+But the real interest
+rate was rising.
+
+00:18:16.600 --> 00:18:20.560 align:middle line:84%
+And unemployment, accordingly,
+was rising, as well.
+
+00:18:20.560 --> 00:18:22.720 align:middle line:90%
+It kept going.
+
+00:18:22.720 --> 00:18:27.200 align:middle line:84%
+Then they began to cut the
+interest rate more aggressively.
+
+00:18:27.200 --> 00:18:31.010 align:middle line:84%
+But we got into real
+deflation, -10% or so.
+
+00:18:31.010 --> 00:18:34.200 align:middle line:84%
+So the real interest
+rate kept climbing.
+
+00:18:34.200 --> 00:18:39.240 align:middle line:84%
+At that point was a very
+poor time interest rate hike,
+
+00:18:39.240 --> 00:18:43.170 align:middle line:84%
+was a disaster for
+unemployment because it really
+
+00:18:43.170 --> 00:18:45.510 align:middle line:84%
+hiked the interest rate, real
+interest rates even more.
+
+00:18:45.510 --> 00:18:47.790 align:middle line:84%
+And eventually got
+out of it with a bunch
+
+00:18:47.790 --> 00:18:49.840 align:middle line:84%
+of policies that were
+non-monetary policies.
+
+00:18:49.840 --> 00:18:53.590 align:middle line:90%
+But that's what happened.
+
+00:18:53.590 --> 00:18:55.470 align:middle line:84%
+So the Great Depression
+was very much
+
+00:18:55.470 --> 00:19:01.110 align:middle line:84%
+a story of this kind
+in which essentially we
+
+00:19:01.110 --> 00:19:04.740 align:middle line:84%
+fell into depression so that
+interest rate began to climb
+
+00:19:04.740 --> 00:19:07.740 align:middle line:84%
+and got the economy deeper
+and deeper into recession
+
+00:19:07.740 --> 00:19:09.640 align:middle line:84%
+and unemployment higher
+and higher and so on.
+
+00:19:09.640 --> 00:19:12.090 align:middle line:84%
+And at some point, monetary
+policy just didn't work.
+
+00:19:12.090 --> 00:19:14.340 align:middle line:84%
+So that's the reason you
+have to essentially do
+
+00:19:14.340 --> 00:19:16.720 align:middle line:84%
+massive fiscal policy
+to get out of it.
+
+00:19:16.720 --> 00:19:20.970 align:middle line:90%
+
+
+00:19:20.970 --> 00:19:22.500 align:middle line:84%
+Let me talk about
+some of the shocks
+
+00:19:22.500 --> 00:19:26.940 align:middle line:84%
+we have discussed in the context
+of this more complete model now.
+
+00:19:26.940 --> 00:19:33.280 align:middle line:84%
+And actually-- OK, let me talk
+about two canonical type shocks.
+
+00:19:33.280 --> 00:19:36.960 align:middle line:84%
+You can have two broad
+type of shocks or policies
+
+00:19:36.960 --> 00:19:41.070 align:middle line:84%
+in these models that
+you want to analyze.
+
+00:19:41.070 --> 00:19:43.530 align:middle line:84%
+Some of them are aggregate
+demand, either policies
+
+00:19:43.530 --> 00:19:44.700 align:middle line:90%
+or shocks or whatever.
+
+00:19:44.700 --> 00:19:46.470 align:middle line:90%
+Those are things that you know.
+
+00:19:46.470 --> 00:19:50.440 align:middle line:84%
+Aggregate demand policies
+move the IS curve--
+
+00:19:50.440 --> 00:19:55.380 align:middle line:84%
+IS and LM, but moves
+operates in the goods market.
+
+00:19:55.380 --> 00:19:59.760 align:middle line:84%
+So this is one case of a
+contractionary fiscal policy,
+
+00:19:59.760 --> 00:20:01.390 align:middle line:90%
+a fiscal consolidation.
+
+00:20:01.390 --> 00:20:02.590 align:middle line:90%
+So what happens here?
+
+00:20:02.590 --> 00:20:06.060 align:middle line:84%
+Suppose you start an
+equilibrium level of output
+
+00:20:06.060 --> 00:20:07.560 align:middle line:84%
+equal to the natural
+rate of output.
+
+00:20:07.560 --> 00:20:08.820 align:middle line:84%
+But now, for whatever
+reason, we're
+
+00:20:08.820 --> 00:20:10.510 align:middle line:84%
+running deficits
+that are very large.
+
+00:20:10.510 --> 00:20:12.910 align:middle line:84%
+You want to reduce the
+size of the deficit.
+
+00:20:12.910 --> 00:20:14.850 align:middle line:84%
+Well, you move the
+IS to the left.
+
+00:20:14.850 --> 00:20:16.530 align:middle line:84%
+Now you cut government
+expenditure.
+
+00:20:16.530 --> 00:20:17.770 align:middle line:90%
+You increase taxes.
+
+00:20:17.770 --> 00:20:21.010 align:middle line:84%
+That will bring output below
+the natural rate of output.
+
+00:20:21.010 --> 00:20:22.780 align:middle line:84%
+You go to the
+Phillips curve here.
+
+00:20:22.780 --> 00:20:26.160 align:middle line:84%
+That means inflation now, you
+get into the deflationary forces
+
+00:20:26.160 --> 00:20:28.170 align:middle line:90%
+or inflation starts declining.
+
+00:20:28.170 --> 00:20:29.762 align:middle line:90%
+The result of that--
+
+00:20:29.762 --> 00:20:31.470 align:middle line:84%
+So in the short run,
+you get exactly what
+
+00:20:31.470 --> 00:20:34.020 align:middle line:84%
+we had in lecture
+five, six or whatever.
+
+00:20:34.020 --> 00:20:36.190 align:middle line:84%
+You get a contraction
+in real output.
+
+00:20:36.190 --> 00:20:39.180 align:middle line:84%
+But on top of that, you
+start getting inflation
+
+00:20:39.180 --> 00:20:41.380 align:middle line:84%
+coming down, or
+even going negative.
+
+00:20:41.380 --> 00:20:44.910 align:middle line:84%
+And as a result of that,
+the central bank will react.
+
+00:20:44.910 --> 00:20:46.140 align:middle line:90%
+And it will react.
+
+00:20:46.140 --> 00:20:49.080 align:middle line:84%
+And that reaction will
+stop when in the long run
+
+00:20:49.080 --> 00:20:52.110 align:middle line:84%
+when output goes back to
+the initial level of output,
+
+00:20:52.110 --> 00:20:53.500 align:middle line:90%
+its natural rate of output.
+
+00:20:53.500 --> 00:20:56.940 align:middle line:84%
+So the point of
+this picture that
+
+00:20:56.940 --> 00:20:59.040 align:middle line:84%
+is new relative to
+things you already knew
+
+00:20:59.040 --> 00:21:01.830 align:middle line:84%
+is that in the short run,
+you get very much the type
+
+00:21:01.830 --> 00:21:03.850 align:middle line:90%
+of responses we had early on.
+
+00:21:03.850 --> 00:21:07.680 align:middle line:84%
+In the medium run, in the
+medium run, you don't get that.
+
+00:21:07.680 --> 00:21:10.950 align:middle line:84%
+A fiscal consolidation does not
+reduce output in the medium run.
+
+00:21:10.950 --> 00:21:15.270 align:middle line:84%
+The fiscal consolidation does is
+reduces the real interest rate
+
+00:21:15.270 --> 00:21:17.320 align:middle line:90%
+in the medium run.
+
+00:21:17.320 --> 00:21:19.890 align:middle line:84%
+So you see here,
+output eventually
+
+00:21:19.890 --> 00:21:24.130 align:middle line:84%
+goes back to that level with a
+much lower real interest rate.
+
+00:21:24.130 --> 00:21:26.670 align:middle line:90%
+
+
+00:21:26.670 --> 00:21:30.480 align:middle line:84%
+The point is
+sometimes this path,
+
+00:21:30.480 --> 00:21:33.650 align:middle line:84%
+this path takes your output down
+initially and then comes back,
+
+00:21:33.650 --> 00:21:34.810 align:middle line:90%
+can be very painful.
+
+00:21:34.810 --> 00:21:38.200 align:middle line:84%
+It can take a long time to
+generate a procession and so on.
+
+00:21:38.200 --> 00:21:41.670 align:middle line:84%
+And sometimes it can happen
+in any sort of conditions
+
+00:21:41.670 --> 00:21:43.190 align:middle line:90%
+and be faster and so on.
+
+00:21:43.190 --> 00:21:46.560 align:middle line:84%
+Many of the policies,
+agreements that people have,
+
+00:21:46.560 --> 00:21:48.900 align:middle line:84%
+people that understand
+what they're talking about,
+
+00:21:48.900 --> 00:21:51.550 align:middle line:84%
+had to do with the speed at
+which these things happen.
+
+00:21:51.550 --> 00:21:53.790 align:middle line:84%
+So sometimes people
+can agree that you
+
+00:21:53.790 --> 00:21:54.960 align:middle line:90%
+need a fiscal consolidation.
+
+00:21:54.960 --> 00:21:57.880 align:middle line:84%
+But someone may think, no, this
+stuff is going to be very slow.
+
+00:21:57.880 --> 00:22:00.713 align:middle line:84%
+And so I don't want to incur in
+a very deep recession for very
+
+00:22:00.713 --> 00:22:02.880 align:middle line:84%
+long just to adjust a little
+bit the fiscal deficit.
+
+00:22:02.880 --> 00:22:05.070 align:middle line:84%
+And others may
+think the opposite.
+
+00:22:05.070 --> 00:22:06.660 align:middle line:90%
+It's mostly about the speed.
+
+00:22:06.660 --> 00:22:10.590 align:middle line:84%
+But shorter response to
+a fiscal consolidation
+
+00:22:10.590 --> 00:22:12.270 align:middle line:84%
+or to any aggregate
+demand contraction
+
+00:22:12.270 --> 00:22:15.523 align:middle line:84%
+is different than the
+medium term response.
+
+00:22:15.523 --> 00:22:19.110 align:middle line:90%
+
+
+00:22:19.110 --> 00:22:21.480 align:middle line:84%
+And again, the signals
+for the central bank
+
+00:22:21.480 --> 00:22:22.980 align:middle line:84%
+that it needs to
+move interest rate,
+
+00:22:22.980 --> 00:22:25.630 align:middle line:84%
+they all come from this block
+here-- inflation falling.
+
+00:22:25.630 --> 00:22:27.990 align:middle line:84%
+That tells the
+central bank, oops,
+
+00:22:27.990 --> 00:22:30.910 align:middle line:84%
+we may have a
+problem, and so on.
+
+00:22:30.910 --> 00:22:35.290 align:middle line:84%
+Another kind of shock
+that is more complicated
+
+00:22:35.290 --> 00:22:37.300 align:middle line:84%
+and that has played
+a role actually
+
+00:22:37.300 --> 00:22:39.400 align:middle line:84%
+very much in the
+recovery from COVID
+
+00:22:39.400 --> 00:22:42.040 align:middle line:84%
+is some sort of
+supply side shock--
+
+00:22:42.040 --> 00:22:44.230 align:middle line:90%
+for example, an oil shock.
+
+00:22:44.230 --> 00:22:47.090 align:middle line:84%
+The price of energy goes
+up or something like that.
+
+00:22:47.090 --> 00:22:50.630 align:middle line:84%
+Well, that one, how
+do you analyze that?
+
+00:22:50.630 --> 00:22:53.180 align:middle line:84%
+A supply side shock is not
+something that comes from,
+
+00:22:53.180 --> 00:22:56.900 align:middle line:84%
+that would go to the
+IS-LM part of the model.
+
+00:22:56.900 --> 00:22:58.550 align:middle line:84%
+A supply side
+shock, remember, we
+
+00:22:58.550 --> 00:23:02.690 align:middle line:84%
+analyze it when we analyze the
+natural rate of unemployment.
+
+00:23:02.690 --> 00:23:05.600 align:middle line:84%
+It's something that affects
+the supply side of the economy.
+
+00:23:05.600 --> 00:23:09.200 align:middle line:84%
+We can model that as an
+increase in the markup.
+
+00:23:09.200 --> 00:23:11.810 align:middle line:84%
+And we know that an
+increase in the markup
+
+00:23:11.810 --> 00:23:14.930 align:middle line:84%
+will increase the natural
+rate of unemployment.
+
+00:23:14.930 --> 00:23:21.130 align:middle line:84%
+That means that this shock will
+do what to potential output?
+
+00:23:21.130 --> 00:23:25.150 align:middle line:90%
+
+
+00:23:25.150 --> 00:23:29.350 align:middle line:84%
+So an energy shock, especially
+if it's a persistent one,
+
+00:23:29.350 --> 00:23:32.080 align:middle line:84%
+will operate like
+a markup shock.
+
+00:23:32.080 --> 00:23:35.980 align:middle line:84%
+And that we know will
+increase the natural rate
+
+00:23:35.980 --> 00:23:37.510 align:middle line:90%
+of unemployment.
+
+00:23:37.510 --> 00:23:42.290 align:middle line:84%
+So what happens to
+the potential output?
+
+00:23:42.290 --> 00:23:44.690 align:middle line:90%
+Goes down, of course.
+
+00:23:44.690 --> 00:23:47.052 align:middle line:84%
+Output is equal to
+employment, to labor force
+
+00:23:47.052 --> 00:23:49.010 align:middle line:84%
+times 1 minus the natural
+rate of unemployment.
+
+00:23:49.010 --> 00:23:50.843 align:middle line:84%
+If the natural rate of
+unemployment goes up,
+
+00:23:50.843 --> 00:23:53.000 align:middle line:84%
+then the potential
+output goes down.
+
+00:23:53.000 --> 00:23:55.950 align:middle line:84%
+So that is not a shift
+in the top diagram.
+
+00:23:55.950 --> 00:23:57.740 align:middle line:84%
+It's a shift in
+the lower diagram.
+
+00:23:57.740 --> 00:24:00.840 align:middle line:84%
+It says, we used to have
+this Phillips curve.
+
+00:24:00.840 --> 00:24:04.560 align:middle line:84%
+And now the Phillips curve
+has shifted to the left.
+
+00:24:04.560 --> 00:24:07.243 align:middle line:84%
+Because we have a new
+natural rate of an output.
+
+00:24:07.243 --> 00:24:08.910 align:middle line:84%
+And remember, the
+natural rate of output
+
+00:24:08.910 --> 00:24:14.630 align:middle line:84%
+is at that point when output
+equal to the natural rate
+
+00:24:14.630 --> 00:24:19.620 align:middle line:84%
+of output does not produce
+inflationary forces.
+
+00:24:19.620 --> 00:24:21.500 align:middle line:84%
+What happened with
+this shock here?
+
+00:24:21.500 --> 00:24:24.240 align:middle line:84%
+So suppose the economy was
+in this equilibrium here
+
+00:24:24.240 --> 00:24:29.110 align:middle line:84%
+and now it gets hit
+by an oil shock.
+
+00:24:29.110 --> 00:24:31.150 align:middle line:84%
+In the short run,
+if no one reacts,
+
+00:24:31.150 --> 00:24:33.410 align:middle line:90%
+nothing happens to output.
+
+00:24:33.410 --> 00:24:34.730 align:middle line:90%
+Doesn't move much.
+
+00:24:34.730 --> 00:24:35.725 align:middle line:90%
+But what happens?
+
+00:24:35.725 --> 00:24:42.440 align:middle line:90%
+
+
+00:24:42.440 --> 00:24:44.240 align:middle line:84%
+You see, if I don't
+move something
+
+00:24:44.240 --> 00:24:47.310 align:middle line:84%
+in this part of the diagram, I'm
+not moving equilibrium output.
+
+00:24:47.310 --> 00:24:48.920 align:middle line:84%
+In the short run,
+equilibrium output
+
+00:24:48.920 --> 00:24:50.480 align:middle line:84%
+is determined exactly
+in the same way
+
+00:24:50.480 --> 00:24:52.100 align:middle line:90%
+we have determined up to now.
+
+00:24:52.100 --> 00:24:57.980 align:middle line:84%
+So if we get a markup shock,
+nothing happens to output.
+
+00:24:57.980 --> 00:25:02.150 align:middle line:84%
+If nobody moves, nothing happens
+to output in the short run.
+
+00:25:02.150 --> 00:25:07.590 align:middle line:84%
+But what happens
+that we may not like?
+
+00:25:07.590 --> 00:25:08.670 align:middle line:90%
+AUDIENCE: [INAUDIBLE]
+
+00:25:08.670 --> 00:25:09.790 align:middle line:90%
+PROFESSOR: Exactly.
+
+00:25:09.790 --> 00:25:11.970 align:middle line:84%
+What happens is the
+Phillips curve went up.
+
+00:25:11.970 --> 00:25:16.410 align:middle line:84%
+Before, that level of output
+was consistent with no changes
+
+00:25:16.410 --> 00:25:17.580 align:middle line:90%
+in inflation.
+
+00:25:17.580 --> 00:25:19.320 align:middle line:90%
+Now, it's not.
+
+00:25:19.320 --> 00:25:21.640 align:middle line:90%
+We get an increase in inflation.
+
+00:25:21.640 --> 00:25:27.210 align:middle line:84%
+So the first place where you'll
+see the effect of the oil shock
+
+00:25:27.210 --> 00:25:28.617 align:middle line:90%
+here is inflation will pick up.
+
+00:25:28.617 --> 00:25:31.200 align:middle line:84%
+Remember, the price of gasoline
+going up and all those things.
+
+00:25:31.200 --> 00:25:33.180 align:middle line:84%
+Well, that's where
+you see it first.
+
+00:25:33.180 --> 00:25:36.000 align:middle line:84%
+Before activity falls,
+you see it there.
+
+00:25:36.000 --> 00:25:38.190 align:middle line:84%
+That's what makes up
+the Phillips curve also,
+
+00:25:38.190 --> 00:25:39.480 align:middle line:90%
+in the '70s and '80s.
+
+00:25:39.480 --> 00:25:41.820 align:middle line:84%
+You can see lots of
+shocks of this kind.
+
+00:25:41.820 --> 00:25:44.310 align:middle line:84%
+Initially, unemployment
+didn't move much,
+
+00:25:44.310 --> 00:25:47.190 align:middle line:90%
+but inflation kept climbing.
+
+00:25:47.190 --> 00:25:48.252 align:middle line:90%
+So that's what happens.
+
+00:25:48.252 --> 00:25:49.710 align:middle line:84%
+Well, obviously,
+when that happens,
+
+00:25:49.710 --> 00:25:51.593 align:middle line:84%
+if it persists-- and
+typically central banks,
+
+00:25:51.593 --> 00:25:53.010 align:middle line:84%
+if they think is
+very short lived,
+
+00:25:53.010 --> 00:25:54.718 align:middle line:84%
+they're not going to
+react to this stuff.
+
+00:25:54.718 --> 00:25:57.420 align:middle line:84%
+But if it is persistent and
+they think it's persistent,
+
+00:25:57.420 --> 00:25:59.540 align:middle line:90%
+then the reaction is what?
+
+00:25:59.540 --> 00:26:00.820 align:middle line:90%
+Well, they need to--
+
+00:26:00.820 --> 00:26:06.210 align:middle line:84%
+this only means that the
+natural rate of interest
+
+00:26:06.210 --> 00:26:09.960 align:middle line:84%
+has gone up because I
+need, for that same IS,
+
+00:26:09.960 --> 00:26:12.510 align:middle line:84%
+I need to bring down
+equilibrium output.
+
+00:26:12.510 --> 00:26:16.230 align:middle line:84%
+That means I need a higher
+natural rate of interest rate,
+
+00:26:16.230 --> 00:26:17.893 align:middle line:90%
+or a higher R star.
+
+00:26:17.893 --> 00:26:20.310 align:middle line:84%
+So what the Fed needs to do,
+the central bank needs to do,
+
+00:26:20.310 --> 00:26:22.250 align:middle line:84%
+is just start increasing
+interest rates.
+
+00:26:22.250 --> 00:26:24.620 align:middle line:90%
+That's a natural response.
+
+00:26:24.620 --> 00:26:26.300 align:middle line:84%
+A lot of what happened
+during the COVID,
+
+00:26:26.300 --> 00:26:29.150 align:middle line:84%
+why inflation picked
+up so much in COVID
+
+00:26:29.150 --> 00:26:31.970 align:middle line:84%
+is because we had a
+shock of this kind.
+
+00:26:31.970 --> 00:26:33.200 align:middle line:90%
+It was not energy.
+
+00:26:33.200 --> 00:26:34.880 align:middle line:90%
+The energy shock came later.
+
+00:26:34.880 --> 00:26:38.660 align:middle line:84%
+But it was supply side,
+transport costs, and stuff
+
+00:26:38.660 --> 00:26:41.660 align:middle line:84%
+like that, the network, the
+production network and things
+
+00:26:41.660 --> 00:26:43.020 align:middle line:90%
+like that broke down.
+
+00:26:43.020 --> 00:26:46.230 align:middle line:84%
+But they thought it was
+going to be very temporary.
+
+00:26:46.230 --> 00:26:49.550 align:middle line:84%
+So understanding this model,
+they thought, OK, look, this,
+
+00:26:49.550 --> 00:26:53.670 align:middle line:84%
+this curve will
+come back by itself,
+
+00:26:53.670 --> 00:26:55.290 align:middle line:90%
+so better not react right now.
+
+00:26:55.290 --> 00:26:55.790 align:middle line:90%
+Why?
+
+00:26:55.790 --> 00:26:57.920 align:middle line:84%
+Because a recession
+is really, this curve
+
+00:26:57.920 --> 00:27:01.480 align:middle line:84%
+will come down,
+back down by itself.
+
+00:27:01.480 --> 00:27:03.580 align:middle line:84%
+Well, the problem is
+that it didn't come back
+
+00:27:03.580 --> 00:27:05.610 align:middle line:90%
+by itself that fast.
+
+00:27:05.610 --> 00:27:07.600 align:middle line:90%
+Some things came up fairly fast.
+
+00:27:07.600 --> 00:27:09.020 align:middle line:90%
+Some others did not.
+
+00:27:09.020 --> 00:27:11.500 align:middle line:84%
+In particular, labor
+force participation
+
+00:27:11.500 --> 00:27:14.810 align:middle line:84%
+did not come
+sufficiently fast back.
+
+00:27:14.810 --> 00:27:17.470 align:middle line:84%
+And so that's the reason
+we stayed too long
+
+00:27:17.470 --> 00:27:19.130 align:middle line:90%
+in a situation like this.
+
+00:27:19.130 --> 00:27:23.650 align:middle line:84%
+And that's one of the main
+reasons inflation sort crept up
+
+00:27:23.650 --> 00:27:26.560 align:middle line:84%
+in the US, and also in
+other places in the world.
+
+00:27:26.560 --> 00:27:31.270 align:middle line:84%
+In Europe, the big reason for
+why inflation picked up there
+
+00:27:31.270 --> 00:27:33.670 align:middle line:84%
+is because this
+curve moved a lot up.
+
+00:27:33.670 --> 00:27:34.470 align:middle line:90%
+Why is that?
+
+00:27:34.470 --> 00:27:39.941 align:middle line:90%
+
+
+00:27:39.941 --> 00:27:41.360 align:middle line:90%
+AUDIENCE: [INAUDIBLE]
+
+00:27:41.360 --> 00:27:42.320 align:middle line:90%
+PROFESSOR: Exactly.
+
+00:27:42.320 --> 00:27:44.720 align:middle line:90%
+They had a massive energy shock.
+
+00:27:44.720 --> 00:27:49.410 align:middle line:84%
+And so that moved
+that curve up a lot.
+
+00:27:49.410 --> 00:27:49.910 align:middle line:90%
+Good.
+
+00:27:49.910 --> 00:27:52.530 align:middle line:90%
+
+
+00:27:52.530 --> 00:27:55.235 align:middle line:84%
+I want to now return to
+what is going on right now.
+
+00:27:55.235 --> 00:27:57.842 align:middle line:90%
+
+
+00:27:57.842 --> 00:27:59.800 align:middle line:84%
+Actually first, I'm going
+to-- yeah, right now,
+
+00:27:59.800 --> 00:28:01.570 align:middle line:90%
+meaning the last few days.
+
+00:28:01.570 --> 00:28:04.010 align:middle line:84%
+So it turns out
+that this diagram
+
+00:28:04.010 --> 00:28:06.970 align:middle line:84%
+that I used for the
+fiscal consolidation shock
+
+00:28:06.970 --> 00:28:09.790 align:middle line:84%
+can also be used to
+understand a little bit what
+
+00:28:09.790 --> 00:28:16.840 align:middle line:84%
+happens with the Silicon
+Valley Bank event.
+
+00:28:16.840 --> 00:28:19.150 align:middle line:84%
+Remember, we model
+that as a credit shock.
+
+00:28:19.150 --> 00:28:22.260 align:middle line:84%
+We said that x we had
+is like x going up.
+
+00:28:22.260 --> 00:28:25.400 align:middle line:84%
+Well, x going up
+does exactly that.
+
+00:28:25.400 --> 00:28:27.730 align:middle line:90%
+It moves IS to the left.
+
+00:28:27.730 --> 00:28:36.340 align:middle line:84%
+So a shock to x, a panic of
+the kind that we saw, is that.
+
+00:28:36.340 --> 00:28:37.490 align:middle line:90%
+It moves IS to the left.
+
+00:28:37.490 --> 00:28:39.370 align:middle line:90%
+Why is that?
+
+00:28:39.370 --> 00:28:43.060 align:middle line:84%
+So for any given level, the
+safe, real interest rate,
+
+00:28:43.060 --> 00:28:47.510 align:middle line:84%
+a panic, a shock to credit and
+so on, moves the IS to the left.
+
+00:28:47.510 --> 00:28:50.248 align:middle line:90%
+Why is that?
+
+00:28:50.248 --> 00:28:52.590 align:middle line:90%
+AUDIENCE: [INAUDIBLE]
+
+00:28:52.590 --> 00:28:53.718 align:middle line:90%
+
+
+00:28:53.718 --> 00:28:54.510 align:middle line:90%
+PROFESSOR: Exactly.
+
+00:28:54.510 --> 00:28:57.340 align:middle line:84%
+So the safe interest
+rate doesn't go up.
+
+00:28:57.340 --> 00:29:04.110 align:middle line:84%
+But what goes up is the cost
+of borrowing because firms need
+
+00:29:04.110 --> 00:29:06.850 align:middle line:90%
+to pay this extra risk premium.
+
+00:29:06.850 --> 00:29:10.020 align:middle line:84%
+And then for any given safe
+interest rate, the real interest
+
+00:29:10.020 --> 00:29:13.590 align:middle line:84%
+rate, firms have
+to pay more, which
+
+00:29:13.590 --> 00:29:15.780 align:middle line:84%
+means there is less
+investment for any given level
+
+00:29:15.780 --> 00:29:16.930 align:middle line:90%
+of the real interest rate.
+
+00:29:16.930 --> 00:29:18.760 align:middle line:90%
+And so the IS moves to the left.
+
+00:29:18.760 --> 00:29:21.210 align:middle line:84%
+And if that happens,
+then you start
+
+00:29:21.210 --> 00:29:22.655 align:middle line:90%
+getting deflationary forces.
+
+00:29:22.655 --> 00:29:25.190 align:middle line:90%
+
+
+00:29:25.190 --> 00:29:28.760 align:middle line:84%
+So again, all this
+happens very quickly here.
+
+00:29:28.760 --> 00:29:32.330 align:middle line:84%
+In reality, I told you there
+are lots of lags and so on.
+
+00:29:32.330 --> 00:29:35.425 align:middle line:84%
+But markets begin to
+anticipate what will happen.
+
+00:29:35.425 --> 00:29:38.560 align:middle line:90%
+
+
+00:29:38.560 --> 00:29:40.360 align:middle line:90%
+So markets begin to anticipate.
+
+00:29:40.360 --> 00:29:43.450 align:middle line:84%
+So in the immediate,
+output doesn't collapse
+
+00:29:43.450 --> 00:29:44.720 align:middle line:90%
+immediately or anything.
+
+00:29:44.720 --> 00:29:47.660 align:middle line:84%
+And inflation doesn't
+collapse immediately.
+
+00:29:47.660 --> 00:29:51.290 align:middle line:84%
+But markets realized
+that there are long lags.
+
+00:29:51.290 --> 00:29:53.750 align:middle line:90%
+But there is a shock already.
+
+00:29:53.750 --> 00:29:56.920 align:middle line:84%
+So it's likely that
+these things will happen.
+
+00:29:56.920 --> 00:30:00.560 align:middle line:84%
+And it's likely that
+this will happen.
+
+00:30:00.560 --> 00:30:04.880 align:middle line:84%
+And it's also likely that
+the Fed will react to that.
+
+00:30:04.880 --> 00:30:06.590 align:middle line:84%
+What should be the
+reaction of the Fed
+
+00:30:06.590 --> 00:30:08.446 align:middle line:84%
+if this stuff gets
+to be persistent?
+
+00:30:08.446 --> 00:30:12.850 align:middle line:90%
+
+
+00:30:12.850 --> 00:30:14.580 align:middle line:84%
+How do you get out
+of a shock like that
+
+00:30:14.580 --> 00:30:16.080 align:middle line:84%
+if you really want
+to go back there?
+
+00:30:16.080 --> 00:30:18.940 align:middle line:90%
+
+
+00:30:18.940 --> 00:30:21.280 align:middle line:90%
+You cut interest rates.
+
+00:30:21.280 --> 00:30:24.130 align:middle line:84%
+In the case of the US, they
+were hiking interest rates
+
+00:30:24.130 --> 00:30:26.630 align:middle line:84%
+because we dealing
+with high inflation.
+
+00:30:26.630 --> 00:30:31.300 align:middle line:84%
+This tells you, well, you should
+slow down the pace of hiking.
+
+00:30:31.300 --> 00:30:32.810 align:middle line:84%
+Again, they don't
+do it immediately.
+
+00:30:32.810 --> 00:30:34.120 align:middle line:90%
+They meet next week.
+
+00:30:34.120 --> 00:30:36.420 align:middle line:84%
+But the markets don't
+need to wait for the Fed.
+
+00:30:36.420 --> 00:30:39.490 align:middle line:84%
+They anticipate what
+the Fed is likely to do
+
+00:30:39.490 --> 00:30:41.180 align:middle line:90%
+and they start betting on that.
+
+00:30:41.180 --> 00:30:44.980 align:middle line:84%
+So let me show you
+next a bunch of charts
+
+00:30:44.980 --> 00:30:47.770 align:middle line:84%
+that show you that
+someone in the market
+
+00:30:47.770 --> 00:30:49.762 align:middle line:90%
+understands these mechanics--
+
+00:30:49.762 --> 00:30:51.220 align:middle line:84%
+a lot of people,
+because the prices
+
+00:30:51.220 --> 00:30:53.790 align:middle line:90%
+are moving exactly that way.
+
+00:30:53.790 --> 00:30:58.220 align:middle line:90%
+
+
+00:30:58.220 --> 00:31:04.220 align:middle line:84%
+This is something-- this is
+the one year ahead inflation
+
+00:31:04.220 --> 00:31:06.530 align:middle line:84%
+expectation, as
+traded in the market.
+
+00:31:06.530 --> 00:31:09.450 align:middle line:84%
+It's called Inflation breakeven,
+the one year inflation break.
+
+00:31:09.450 --> 00:31:12.680 align:middle line:84%
+So these things are
+traded in the market.
+
+00:31:12.680 --> 00:31:15.020 align:middle line:84%
+And you can trade
+expected inflation
+
+00:31:15.020 --> 00:31:16.740 align:middle line:90%
+all the maturities you want.
+
+00:31:16.740 --> 00:31:21.940 align:middle line:84%
+So this is what the market was
+expecting before this shock.
+
+00:31:21.940 --> 00:31:23.820 align:middle line:84%
+We're getting hotter
+and hotter numbers.
+
+00:31:23.820 --> 00:31:27.470 align:middle line:84%
+So the economy was-- inflation,
+expected inflation, as price
+
+00:31:27.470 --> 00:31:32.330 align:middle line:84%
+in the market, was
+climbing one year out.
+
+00:31:32.330 --> 00:31:34.410 align:middle line:90%
+And then the shock came.
+
+00:31:34.410 --> 00:31:36.480 align:middle line:84%
+And look what had happened
+to expected inflation.
+
+00:31:36.480 --> 00:31:36.980 align:middle line:90%
+Boom.
+
+00:31:36.980 --> 00:31:40.120 align:middle line:90%
+It collapsed.
+
+00:31:40.120 --> 00:31:42.400 align:middle line:90%
+OK, why is that?
+
+00:31:42.400 --> 00:31:49.330 align:middle line:84%
+Well, people thought this
+shock, that leads to that.
+
+00:31:49.330 --> 00:31:50.440 align:middle line:90%
+That's what they thought.
+
+00:31:50.440 --> 00:31:54.700 align:middle line:84%
+This bounce was markets got
+a little excited yesterday.
+
+00:31:54.700 --> 00:31:56.590 align:middle line:84%
+It was a little
+risk on environment.
+
+00:31:56.590 --> 00:32:00.935 align:middle line:84%
+Today they lost all
+that already for a shock
+
+00:32:00.935 --> 00:32:02.810 align:middle line:84%
+I'm going to tell you
+about in a few minutes.
+
+00:32:02.810 --> 00:32:06.310 align:middle line:84%
+But anyways, the point
+I wanted to highlight
+
+00:32:06.310 --> 00:32:09.340 align:middle line:84%
+is, again, expected
+inflation was getting
+
+00:32:09.340 --> 00:32:10.820 align:middle line:90%
+a little out of control.
+
+00:32:10.820 --> 00:32:14.230 align:middle line:84%
+And then this x shock
+came, the panic shock,
+
+00:32:14.230 --> 00:32:16.000 align:middle line:84%
+and then immediately
+expected inflation
+
+00:32:16.000 --> 00:32:20.530 align:middle line:84%
+declined because people
+anticipated something like this.
+
+00:32:20.530 --> 00:32:22.920 align:middle line:84%
+The market anticipates
+something like that.
+
+00:32:22.920 --> 00:32:24.950 align:middle line:90%
+What is that?
+
+00:32:24.950 --> 00:32:33.730 align:middle line:84%
+This is the market's
+expected next hike.
+
+00:32:33.730 --> 00:32:37.500 align:middle line:84%
+So March 22nd, the Fed
+will decide on the increase
+
+00:32:37.500 --> 00:32:39.240 align:middle line:90%
+in interest rate.
+
+00:32:39.240 --> 00:32:40.770 align:middle line:84%
+Remember, the Fed
+had decided, as I
+
+00:32:40.770 --> 00:32:44.220 align:middle line:84%
+said in the previous lecture, to
+go for a path of 50 basis points
+
+00:32:44.220 --> 00:32:45.450 align:middle line:90%
+initially, very high.
+
+00:32:45.450 --> 00:32:47.280 align:middle line:84%
+But since a couple
+of meetings ago,
+
+00:32:47.280 --> 00:32:49.380 align:middle line:84%
+they decided to slow
+down to 25 basis points,
+
+00:32:49.380 --> 00:32:52.700 align:middle line:84%
+precisely because they want
+to wait and see a bit what
+
+00:32:52.700 --> 00:32:53.902 align:middle line:90%
+[INAUDIBLE] do we have?
+
+00:32:53.902 --> 00:32:55.360 align:middle line:84%
+I mean, there's
+long variable lags.
+
+00:32:55.360 --> 00:32:58.060 align:middle line:84%
+They have increased
+rates a lot and so on.
+
+00:32:58.060 --> 00:33:00.760 align:middle line:84%
+So they have gone
+back to a pace of 25.
+
+00:33:00.760 --> 00:33:04.800 align:middle line:84%
+So if you see somewhere
+here, in February 22,
+
+00:33:04.800 --> 00:33:09.510 align:middle line:84%
+if you ask the market, what do
+you think will be the next hike?
+
+00:33:09.510 --> 00:33:11.130 align:middle line:90%
+There will be lots of answers--
+
+00:33:11.130 --> 00:33:12.400 align:middle line:90%
+trades, and so on.
+
+00:33:12.400 --> 00:33:18.240 align:middle line:84%
+But when I say answers, I mean
+what is price, what is traded,
+
+00:33:18.240 --> 00:33:19.650 align:middle line:90%
+these financial instruments.
+
+00:33:19.650 --> 00:33:22.840 align:middle line:84%
+The average answer
+was 30 basis points.
+
+00:33:22.840 --> 00:33:25.332 align:middle line:84%
+30 basis point is that
+most of the people
+
+00:33:25.332 --> 00:33:27.540 align:middle line:84%
+thought that they were going
+to increase the interest
+
+00:33:27.540 --> 00:33:28.912 align:middle line:90%
+rate by 25 basis points.
+
+00:33:28.912 --> 00:33:30.370 align:middle line:84%
+And there were a
+few guys out there
+
+00:33:30.370 --> 00:33:32.560 align:middle line:84%
+that thought the Fed doesn't
+increase the interest
+
+00:33:32.560 --> 00:33:34.520 align:middle line:90%
+rate by 33 basis points.
+
+00:33:34.520 --> 00:33:37.010 align:middle line:90%
+That's 25, 50, 75.
+
+00:33:37.010 --> 00:33:40.768 align:middle line:84%
+So this 30 meant that
+almost everyone thought
+
+00:33:40.768 --> 00:33:42.310 align:middle line:84%
+it was going to be
+25, but there were
+
+00:33:42.310 --> 00:33:44.643 align:middle line:84%
+a few people that were concerned
+that it could be higher
+
+00:33:44.643 --> 00:33:45.580 align:middle line:90%
+than that.
+
+00:33:45.580 --> 00:33:46.820 align:middle line:90%
+What happened here?
+
+00:33:46.820 --> 00:33:49.510 align:middle line:84%
+We started getting very
+hot numbers on inflation.
+
+00:33:49.510 --> 00:33:52.510 align:middle line:84%
+And so all of a sudden the
+equilibrium changed dramatically
+
+00:33:52.510 --> 00:33:55.780 align:middle line:84%
+and we went to 45, which
+means most people then
+
+00:33:55.780 --> 00:34:01.030 align:middle line:84%
+thought in the market that
+the next hike on March 22
+
+00:34:01.030 --> 00:34:02.780 align:middle line:90%
+was going to be 50 basis points.
+
+00:34:02.780 --> 00:34:05.960 align:middle line:84%
+And a few people
+said stay at 25.
+
+00:34:05.960 --> 00:34:09.739 align:middle line:90%
+That's the reason this is 0.5.
+
+00:34:09.739 --> 00:34:12.100 align:middle line:84%
+But it was almost
+priced in that.
+
+00:34:12.100 --> 00:34:14.739 align:middle line:84%
+When people say pricing,
+they are talking about this.
+
+00:34:14.739 --> 00:34:16.520 align:middle line:84%
+What is the hike
+that's priced in?
+
+00:34:16.520 --> 00:34:18.340 align:middle line:90%
+It's this statistic.
+
+00:34:18.340 --> 00:34:24.730 align:middle line:84%
+Look, that's what happened with
+the Silicon Valley bank event,
+
+00:34:24.730 --> 00:34:27.460 align:middle line:90%
+a collapse in this thing.
+
+00:34:27.460 --> 00:34:31.610 align:middle line:84%
+Now, it's trading at
+around 13 basis points.
+
+00:34:31.610 --> 00:34:36.070 align:middle line:84%
+That means most of the people
+think, the traders here think,
+
+00:34:36.070 --> 00:34:39.219 align:middle line:84%
+that there will
+be no hike at all.
+
+00:34:39.219 --> 00:34:42.130 align:middle line:84%
+So a few days ago,
+they all thought
+
+00:34:42.130 --> 00:34:45.610 align:middle line:84%
+there was going to be 50 basis
+points, which is a big hike.
+
+00:34:45.610 --> 00:34:48.800 align:middle line:84%
+And now most people think there
+will be no hike whatsoever.
+
+00:34:48.800 --> 00:34:51.370 align:middle line:84%
+But a few think that
+it's going to be 25.
+
+00:34:51.370 --> 00:34:53.820 align:middle line:90%
+Actually, it's almost 50/50.
+
+00:34:53.820 --> 00:34:55.570 align:middle line:84%
+I think today is a
+little lower than that.
+
+00:34:55.570 --> 00:34:58.820 align:middle line:84%
+But it's almost 50/50
+that it's 25 or 0.
+
+00:34:58.820 --> 00:35:00.740 align:middle line:90%
+That's what it is.
+
+00:35:00.740 --> 00:35:03.160 align:middle line:84%
+But had you asked
+anyone around here,
+
+00:35:03.160 --> 00:35:06.130 align:middle line:84%
+and certainly around here,
+is there any chance of 0,
+
+00:35:06.130 --> 00:35:08.380 align:middle line:84%
+and there will be
+no one, literally.
+
+00:35:08.380 --> 00:35:10.360 align:middle line:90%
+That contract was not traded.
+
+00:35:10.360 --> 00:35:13.300 align:middle line:90%
+OK well, you see things happen.
+
+00:35:13.300 --> 00:35:14.300 align:middle line:90%
+Accidents happen.
+
+00:35:14.300 --> 00:35:17.710 align:middle line:90%
+So now that's where we are at.
+
+00:35:17.710 --> 00:35:25.670 align:middle line:84%
+Now, if this all lasts a week
+and everything gets resolved,
+
+00:35:25.670 --> 00:35:29.420 align:middle line:84%
+it doesn't have a lot of
+macroeconomic consequences.
+
+00:35:29.420 --> 00:35:30.505 align:middle line:90%
+It's just a little panic.
+
+00:35:30.505 --> 00:35:31.880 align:middle line:84%
+You know, some
+people make money.
+
+00:35:31.880 --> 00:35:35.300 align:middle line:84%
+Some people lose
+money, and so on.
+
+00:35:35.300 --> 00:35:38.150 align:middle line:84%
+But this can be a very
+problematic shock, actually,
+
+00:35:38.150 --> 00:35:42.540 align:middle line:84%
+Because what you see
+here, this is the size,
+
+00:35:42.540 --> 00:35:45.040 align:middle line:90%
+this is Silicon Valley Bank.
+
+00:35:45.040 --> 00:35:50.180 align:middle line:84%
+These are all the banks
+smaller than that.
+
+00:35:50.180 --> 00:35:52.790 align:middle line:84%
+It turns out that all
+this bank at this moment
+
+00:35:52.790 --> 00:35:54.290 align:middle line:84%
+are reshuffling
+their portfolios,
+
+00:35:54.290 --> 00:35:55.850 align:middle line:90%
+are becoming very conservative.
+
+00:35:55.850 --> 00:35:58.260 align:middle line:84%
+Because they don't want to
+be exposed to similar risks.
+
+00:35:58.260 --> 00:35:59.635 align:middle line:84%
+They realize that
+the environment
+
+00:35:59.635 --> 00:36:01.760 align:middle line:90%
+became very unfriendly to--
+
+00:36:01.760 --> 00:36:03.830 align:middle line:84%
+there can be ransomed
+banks in any moment,
+
+00:36:03.830 --> 00:36:06.270 align:middle line:84%
+despite the fact that it's a
+big policy package out there.
+
+00:36:06.270 --> 00:36:08.330 align:middle line:84%
+But people are still
+withdrawing lots of deposits
+
+00:36:08.330 --> 00:36:10.820 align:middle line:84%
+from small banks, small
+and regional banks.
+
+00:36:10.820 --> 00:36:14.340 align:middle line:84%
+And they all deposited it in JP
+Morgan, you know, the big banks.
+
+00:36:14.340 --> 00:36:19.160 align:middle line:84%
+So there's lots of deposits
+that, despite the insurance,
+
+00:36:19.160 --> 00:36:22.830 align:middle line:84%
+the blanket insurance
+that is implicit,
+
+00:36:22.830 --> 00:36:25.550 align:middle line:84%
+at least at the moment, lots
+of deposits from these sectors
+
+00:36:25.550 --> 00:36:28.700 align:middle line:84%
+are moving to these
+major banks here.
+
+00:36:28.700 --> 00:36:31.910 align:middle line:84%
+That's called a
+flight to quality.
+
+00:36:31.910 --> 00:36:35.690 align:middle line:84%
+Now, the problem of that
+for the economy as a whole
+
+00:36:35.690 --> 00:36:38.570 align:middle line:84%
+is that small banks
+and regional banks
+
+00:36:38.570 --> 00:36:43.400 align:middle line:90%
+play a huge role in lending.
+
+00:36:43.400 --> 00:36:48.420 align:middle line:84%
+I think a little more
+than 50%, for example,
+
+00:36:48.420 --> 00:36:52.650 align:middle line:84%
+of the commercial and industrial
+loans are made by small banks.
+
+00:36:52.650 --> 00:36:55.720 align:middle line:84%
+80% of the mortgages are
+given by a small bank.
+
+00:36:55.720 --> 00:36:59.100 align:middle line:84%
+So it has a big
+potential consequence.
+
+00:36:59.100 --> 00:37:01.350 align:middle line:84%
+What I'm trying to say
+is that x may stay high
+
+00:37:01.350 --> 00:37:03.040 align:middle line:90%
+for quite a bit of time.
+
+00:37:03.040 --> 00:37:08.790 align:middle line:84%
+And that's the reason,
+there is anticipation
+
+00:37:08.790 --> 00:37:10.870 align:middle line:84%
+that this will have
+macroeconomic consequences.
+
+00:37:10.870 --> 00:37:13.440 align:middle line:84%
+And as a result of that,
+that the Fed will react,
+
+00:37:13.440 --> 00:37:15.305 align:middle line:84%
+that inflation will
+change, and all that.
+
+00:37:15.305 --> 00:37:18.280 align:middle line:90%
+
+
+00:37:18.280 --> 00:37:20.175 align:middle line:84%
+So that's where we
+were at on Monday.
+
+00:37:20.175 --> 00:37:21.550 align:middle line:84%
+Remember when we
+had the lecture,
+
+00:37:21.550 --> 00:37:25.640 align:middle line:84%
+I was telling you more
+or less that the story.
+
+00:37:25.640 --> 00:37:27.970 align:middle line:90%
+What is this?
+
+00:37:27.970 --> 00:37:31.670 align:middle line:84%
+You can read it there, but
+it may not mean much to you.
+
+00:37:31.670 --> 00:37:34.270 align:middle line:84%
+But what I'm
+highlighting is this.
+
+00:37:34.270 --> 00:37:36.370 align:middle line:90%
+This is pretty big.
+
+00:37:36.370 --> 00:37:38.000 align:middle line:90%
+35% decline.
+
+00:37:38.000 --> 00:37:39.040 align:middle line:90%
+This is an equity.
+
+00:37:39.040 --> 00:37:40.420 align:middle line:90%
+It's a share.
+
+00:37:40.420 --> 00:37:46.830 align:middle line:84%
+So this is the value of the
+equity of a pretty major bank,
+
+00:37:46.830 --> 00:37:49.710 align:middle line:90%
+Credit Suisse.
+
+00:37:49.710 --> 00:37:53.460 align:middle line:84%
+So Credit Suisse has been
+in trouble for a while.
+
+00:37:53.460 --> 00:37:56.910 align:middle line:84%
+But today got into
+really big trouble
+
+00:37:56.910 --> 00:38:01.570 align:middle line:84%
+and saw a massive collapse
+in the equity shares.
+
+00:38:01.570 --> 00:38:04.960 align:middle line:84%
+In fact, they stopped trading
+for a while and so on.
+
+00:38:04.960 --> 00:38:11.420 align:middle line:84%
+This thing here-- you know, I
+updated your slides many times
+
+00:38:11.420 --> 00:38:15.860 align:middle line:84%
+today because I began to look
+at this event around here.
+
+00:38:15.860 --> 00:38:18.490 align:middle line:84%
+And then the thing kept going
+and they stopped, kept going,
+
+00:38:18.490 --> 00:38:18.990 align:middle line:90%
+and so on.
+
+00:38:18.990 --> 00:38:20.820 align:middle line:84%
+And I'm not sure
+where he's at now.
+
+00:38:20.820 --> 00:38:22.790 align:middle line:84%
+I stopped-- at what
+time did I stop?
+
+00:38:22.790 --> 00:38:23.840 align:middle line:90%
+9:00 in the morning.
+
+00:38:23.840 --> 00:38:26.310 align:middle line:90%
+And I was awake at 4:45 today.
+
+00:38:26.310 --> 00:38:31.730 align:middle line:84%
+So they tell you this
+was pretty intense.
+
+00:38:31.730 --> 00:38:37.160 align:middle line:84%
+But what this is is the credit
+default swaps on Credit Suisse.
+
+00:38:37.160 --> 00:38:41.180 align:middle line:84%
+Credit default swap is whenever
+it's a bond issued by a bank,
+
+00:38:41.180 --> 00:38:43.820 align:middle line:84%
+you can buy an
+insurance on that bond.
+
+00:38:43.820 --> 00:38:48.920 align:middle line:84%
+So if the bond defaults on
+you, you then use the insurance
+
+00:38:48.920 --> 00:38:50.720 align:middle line:90%
+and you get paid.
+
+00:38:50.720 --> 00:38:52.970 align:middle line:84%
+So these things
+for banks normally
+
+00:38:52.970 --> 00:38:55.842 align:middle line:84%
+are very small numbers,
+but for Credit Suisse,
+
+00:38:55.842 --> 00:38:57.800 align:middle line:84%
+bigger than for other
+big banks because they've
+
+00:38:57.800 --> 00:39:00.840 align:middle line:84%
+been in trouble for a
+while, all sorts of trouble.
+
+00:39:00.840 --> 00:39:02.730 align:middle line:90%
+But look at that spike there.
+
+00:39:02.730 --> 00:39:04.970 align:middle line:84%
+I mean, that's pretty big
+for these kind of things.
+
+00:39:04.970 --> 00:39:08.490 align:middle line:90%
+It's not Lehman yet, but big.
+
+00:39:08.490 --> 00:39:10.535 align:middle line:84%
+So anyway, that caused
+a little panic today.
+
+00:39:10.535 --> 00:39:13.890 align:middle line:90%
+
+
+00:39:13.890 --> 00:39:19.030 align:middle line:84%
+This is the stock prices
+of the main European banks.
+
+00:39:19.030 --> 00:39:21.090 align:middle line:90%
+It's sold today.
+
+00:39:21.090 --> 00:39:22.900 align:middle line:90%
+So look at this.
+
+00:39:22.900 --> 00:39:24.880 align:middle line:84%
+It was a little rally
+yesterday and so on.
+
+00:39:24.880 --> 00:39:29.530 align:middle line:84%
+I mean, this is the decline
+as a result of the US problem,
+
+00:39:29.530 --> 00:39:31.200 align:middle line:90%
+the Silicon Valley Bank's.
+
+00:39:31.200 --> 00:39:33.120 align:middle line:90%
+Then a rally yesterday.
+
+00:39:33.120 --> 00:39:35.130 align:middle line:90%
+And then Credit Suisse happened.
+
+00:39:35.130 --> 00:39:43.350 align:middle line:84%
+And you had a big decline in
+all the major banks in Europe.
+
+00:39:43.350 --> 00:39:45.460 align:middle line:90%
+The US banks are also declining.
+
+00:39:45.460 --> 00:39:50.130 align:middle line:84%
+But that was bigger
+for the major banks.
+
+00:39:50.130 --> 00:39:52.590 align:middle line:84%
+The Vix, remember I
+told you last week,
+
+00:39:52.590 --> 00:39:55.050 align:middle line:84%
+last Monday, about
+this indicator of
+
+00:39:55.050 --> 00:39:58.300 align:middle line:84%
+fear in the market, which is
+really the price of put options?
+
+00:39:58.300 --> 00:39:59.760 align:middle line:90%
+I'm simplifying things.
+
+00:39:59.760 --> 00:40:04.650 align:middle line:84%
+I mean, protection for big
+declines on the equity market.
+
+00:40:04.650 --> 00:40:10.020 align:middle line:84%
+Again, it began to spike very,
+very sharply as a result.
+
+00:40:10.020 --> 00:40:12.490 align:middle line:84%
+This is what happened
+with the US event.
+
+00:40:12.490 --> 00:40:15.390 align:middle line:84%
+Then yesterday we got a
+rally, risk on type thing.
+
+00:40:15.390 --> 00:40:19.720 align:middle line:84%
+And then today we
+got a new event.
+
+00:40:19.720 --> 00:40:20.890 align:middle line:90%
+Look at this.
+
+00:40:20.890 --> 00:40:22.900 align:middle line:90%
+I like this picture.
+
+00:40:22.900 --> 00:40:23.890 align:middle line:90%
+What this is.
+
+00:40:23.890 --> 00:40:28.690 align:middle line:84%
+Let me tell you what
+the blue line is.
+
+00:40:28.690 --> 00:40:38.020 align:middle line:84%
+The blue line is the market
+expected federal funds rate
+
+00:40:38.020 --> 00:40:39.480 align:middle line:84%
+at different dates
+in the future.
+
+00:40:39.480 --> 00:40:42.310 align:middle line:90%
+
+
+00:40:42.310 --> 00:40:46.480 align:middle line:84%
+Today the federal funds
+rate is around 4 and 1/2.
+
+00:40:46.480 --> 00:40:49.535 align:middle line:84%
+And this is what
+the market expects.
+
+00:40:49.535 --> 00:40:52.120 align:middle line:90%
+
+
+00:40:52.120 --> 00:40:55.810 align:middle line:84%
+So they expected the Fed to
+continue to hike interest rates
+
+00:40:55.810 --> 00:41:02.020 align:middle line:84%
+and to reach a peak around
+in June 14 in that meeting
+
+00:41:02.020 --> 00:41:05.350 align:middle line:90%
+of the order of 5.3% or so.
+
+00:41:05.350 --> 00:41:07.375 align:middle line:90%
+That's what's the average.
+
+00:41:07.375 --> 00:41:08.500 align:middle line:90%
+There's lots of dispersion.
+
+00:41:08.500 --> 00:41:11.570 align:middle line:84%
+That people are betting on
+6%, but that's the average.
+
+00:41:11.570 --> 00:41:12.920 align:middle line:90%
+That's what people expected.
+
+00:41:12.920 --> 00:41:15.430 align:middle line:84%
+The yellow things is
+the number of hikes
+
+00:41:15.430 --> 00:41:16.730 align:middle line:90%
+that you're likely to see.
+
+00:41:16.730 --> 00:41:19.960 align:middle line:84%
+So you're likely to see one
+hike in the next meeting,
+
+00:41:19.960 --> 00:41:22.390 align:middle line:84%
+another one in the next
+meeting, and another one
+
+00:41:22.390 --> 00:41:23.950 align:middle line:90%
+in the next meeting.
+
+00:41:23.950 --> 00:41:27.470 align:middle line:84%
+And then stop and begin
+sort of cutting rates.
+
+00:41:27.470 --> 00:41:31.180 align:middle line:84%
+That was expected
+path on Friday--
+
+00:41:31.180 --> 00:41:32.197 align:middle line:90%
+10th was Friday.
+
+00:41:32.197 --> 00:41:33.280 align:middle line:90%
+More or less around there.
+
+00:41:33.280 --> 00:41:35.080 align:middle line:84%
+Maybe Thursday,
+I don't remember.
+
+00:41:35.080 --> 00:41:37.350 align:middle line:84%
+But anyway, that
+was expected path.
+
+00:41:37.350 --> 00:41:40.730 align:middle line:84%
+So still, hike
+rates reach a peak
+
+00:41:40.730 --> 00:41:44.960 align:middle line:84%
+of 5.3% and still pretty
+high interest rates
+
+00:41:44.960 --> 00:41:47.810 align:middle line:90%
+by the end of the year.
+
+00:41:47.810 --> 00:41:49.195 align:middle line:90%
+That was expected path.
+
+00:41:49.195 --> 00:41:52.270 align:middle line:90%
+
+
+00:41:52.270 --> 00:41:55.370 align:middle line:90%
+That's the way it looks now.
+
+00:41:55.370 --> 00:41:56.780 align:middle line:90%
+Very different.
+
+00:41:56.780 --> 00:42:00.950 align:middle line:84%
+Now people are expecting very
+small changes now, I showed you.
+
+00:42:00.950 --> 00:42:05.330 align:middle line:84%
+It's like 13 basis points
+what people expect.
+
+00:42:05.330 --> 00:42:09.020 align:middle line:84%
+Still people expect sort
+of a hike, but small one.
+
+00:42:09.020 --> 00:42:14.750 align:middle line:84%
+Now they expect the peak to be
+sort of in May and then the Fed
+
+00:42:14.750 --> 00:42:16.700 align:middle line:84%
+to start cutting
+very aggressively
+
+00:42:16.700 --> 00:42:18.140 align:middle line:84%
+to at the end of
+the year, end up
+
+00:42:18.140 --> 00:42:21.520 align:middle line:84%
+with much lower
+rates than today.
+
+00:42:21.520 --> 00:42:25.430 align:middle line:84%
+So this is exactly what
+I was telling you before.
+
+00:42:25.430 --> 00:42:27.700 align:middle line:84%
+The market is
+anticipating that we
+
+00:42:27.700 --> 00:42:33.550 align:middle line:84%
+had a huge contraction in the
+IS because x went up a lot.
+
+00:42:33.550 --> 00:42:37.250 align:middle line:84%
+The major consequences, that
+is going to be lower inflation.
+
+00:42:37.250 --> 00:42:38.920 align:middle line:90%
+Yes, we have a problem.
+
+00:42:38.920 --> 00:42:45.780 align:middle line:84%
+I mean, if the US did not
+have 5.5% of inflation today,
+
+00:42:45.780 --> 00:42:48.280 align:middle line:84%
+I can assure you that the Fed
+would have come out and said,
+
+00:42:48.280 --> 00:42:50.230 align:middle line:90%
+we cut the rates right now.
+
+00:42:50.230 --> 00:42:52.600 align:middle line:84%
+The only reason they're
+not cutting right now
+
+00:42:52.600 --> 00:42:54.560 align:middle line:90%
+is because we have two problems.
+
+00:42:54.560 --> 00:42:56.298 align:middle line:84%
+We have the financial
+panic on one side
+
+00:42:56.298 --> 00:42:58.340 align:middle line:84%
+and we have the high
+inflation on the other side.
+
+00:42:58.340 --> 00:43:01.430 align:middle line:84%
+So they have to balance
+these two forces.
+
+00:43:01.430 --> 00:43:03.655 align:middle line:84%
+But the expectation
+of the market
+
+00:43:03.655 --> 00:43:05.030 align:middle line:84%
+is that the balance
+of two forces
+
+00:43:05.030 --> 00:43:08.090 align:middle line:84%
+is going to be dominated by the
+contraction in aggregate demand
+
+00:43:08.090 --> 00:43:10.960 align:middle line:84%
+much sooner than
+people were expecting.
+
+00:43:10.960 --> 00:43:13.390 align:middle line:84%
+So that's what the market
+is pricing at the moment.
+
+00:43:13.390 --> 00:43:14.890 align:middle line:84%
+And what I'm saying
+is, I was trying
+
+00:43:14.890 --> 00:43:24.410 align:middle line:84%
+to highlight that this is
+very consistent with that.
+
+00:43:24.410 --> 00:43:26.330 align:middle line:84%
+It's just the market
+looking ahead,
+
+00:43:26.330 --> 00:43:28.510 align:middle line:90%
+but what is likely to happen.
+
+00:43:28.510 --> 00:43:29.950 align:middle line:84%
+It started from
+a situation which
+
+00:43:29.950 --> 00:43:32.075 align:middle line:84%
+is a little bit more
+complicated, again, because we
+
+00:43:32.075 --> 00:43:33.650 align:middle line:90%
+already had high inflation.
+
+00:43:33.650 --> 00:43:35.270 align:middle line:90%
+Well, I do not know, really.
+
+00:43:35.270 --> 00:43:39.370 align:middle line:84%
+I mean, it is on one
+hand, more complicated
+
+00:43:39.370 --> 00:43:42.670 align:middle line:84%
+because we have a problem
+of high inflation.
+
+00:43:42.670 --> 00:43:45.897 align:middle line:84%
+On the other hand,
+having high inflation
+
+00:43:45.897 --> 00:43:47.980 align:middle line:84%
+allows you to cut the real
+interest rate much more
+
+00:43:47.980 --> 00:43:48.700 align:middle line:90%
+aggressively.
+
+00:43:48.700 --> 00:43:50.920 align:middle line:84%
+Because if you bring the
+nominal interest rate to 0
+
+00:43:50.920 --> 00:43:53.200 align:middle line:84%
+and you have
+inflation of 5%, that
+
+00:43:53.200 --> 00:43:55.940 align:middle line:84%
+allows you to cut the
+real interest rate to -5%.
+
+00:43:55.940 --> 00:43:57.430 align:middle line:84%
+Well, if you start
+with a situation
+
+00:43:57.430 --> 00:44:00.360 align:middle line:84%
+where your inflation is 0,
+you don't have any space
+
+00:44:00.360 --> 00:44:01.610 align:middle line:90%
+to cut the real interest rate.
+
+00:44:01.610 --> 00:44:04.377 align:middle line:84%
+So the Fed can be
+very aggressive here.
+
+00:44:04.377 --> 00:44:06.710 align:middle line:84%
+And the only reason is not
+being very, very aggressive--
+
+00:44:06.710 --> 00:44:09.085 align:middle line:84%
+They were very aggressive in
+terms of supporting deposits
+
+00:44:09.085 --> 00:44:09.950 align:middle line:90%
+and all that.
+
+00:44:09.950 --> 00:44:15.790 align:middle line:84%
+But they can be very aggressive
+in terms of interest rate cuts
+
+00:44:15.790 --> 00:44:17.270 align:middle line:90%
+if the need arises.
+
+00:44:17.270 --> 00:44:18.200 align:middle line:90%
+Hopefully we won't.
+
+00:44:18.200 --> 00:44:20.140 align:middle line:84%
+But they have a
+space because we're
+
+00:44:20.140 --> 00:44:22.150 align:middle line:84%
+starting from a much
+higher level of inflation.
+
+00:44:22.150 --> 00:44:23.680 align:middle line:90%
+That helps.
+
+00:44:23.680 --> 00:44:27.070 align:middle line:84%
+It hurts in the sense that
+it will delay the reaction.
+
+00:44:27.070 --> 00:44:28.810 align:middle line:84%
+But it helps in the
+sense that they have
+
+00:44:28.810 --> 00:44:31.245 align:middle line:90%
+much more space for policy.
+
+00:44:31.245 --> 00:44:35.640 align:middle line:90%
+
+
+00:44:35.640 --> 00:44:36.455 align:middle line:90%
+What is this?
+
+00:44:36.455 --> 00:44:40.720 align:middle line:90%
+
+
+00:44:40.720 --> 00:44:43.910 align:middle line:84%
+This is just one
+year interest rates.
+
+00:44:43.910 --> 00:44:47.600 align:middle line:84%
+That reflects the
+previous picture, as well.
+
+00:44:47.600 --> 00:44:50.110 align:middle line:90%
+
+
+00:44:50.110 --> 00:44:57.340 align:middle line:84%
+One year out rates were over
+5% a few days ago and now are
+
+00:44:57.340 --> 00:44:59.530 align:middle line:90%
+in the low 4s.
+
+00:44:59.530 --> 00:45:02.860 align:middle line:84%
+And this picture I kept
+updating, as you can see.
+
+00:45:02.860 --> 00:45:04.335 align:middle line:90%
+It was really dropping fast.
+
+00:45:04.335 --> 00:45:07.330 align:middle line:90%
+
+
+00:45:07.330 --> 00:45:08.890 align:middle line:90%
+That's a big change.
+
+00:45:08.890 --> 00:45:12.195 align:middle line:84%
+The one year rate, 60 basis
+points, that's a big change.
+
+00:45:12.195 --> 00:45:15.680 align:middle line:90%
+
+
+00:45:15.680 --> 00:45:18.080 align:middle line:90%
+So that's where we're at.
+
+00:45:18.080 --> 00:45:20.610 align:middle line:84%
+And from the next lecture, I'm
+going to start with growth.
+
+00:45:20.610 --> 00:45:21.950 align:middle line:90%
+But any questions about this?
+
+00:45:21.950 --> 00:45:25.780 align:middle line:90%
+
+
+00:45:25.780 --> 00:45:26.280 align:middle line:90%
+OK.
+
+00:45:26.280 --> 00:45:28.510 align:middle line:84%
+I don't want to start
+growth now in four minutes.
+
+00:45:28.510 --> 00:45:31.020 align:middle line:84%
+But so the set of
+topics we're going
+
+00:45:31.020 --> 00:45:35.310 align:middle line:84%
+to discuss from the next
+lecture are very different,
+
+00:45:35.310 --> 00:45:37.660 align:middle line:84%
+subject to not having
+any major events.
+
+00:45:37.660 --> 00:45:40.590 align:middle line:84%
+If there is a major event,
+I'm going to reshuffle things
+
+00:45:40.590 --> 00:45:44.550 align:middle line:84%
+so we can talk about financial
+panics and things of that kind.
+
+00:45:44.550 --> 00:45:46.440 align:middle line:84%
+Let's hope that it can
+stick to the program
+
+00:45:46.440 --> 00:45:50.020 align:middle line:90%
+and do growth in the next week.
+
+00:45:50.020 --> 00:45:51.600 align:middle line:90%
+OK, good.
+
+00:45:51.600 --> 00:45:53.450 align:middle line:90%
+Have a good weekend.
+
+00:45:53.450 --> 00:46:05.000 align:middle line:90%

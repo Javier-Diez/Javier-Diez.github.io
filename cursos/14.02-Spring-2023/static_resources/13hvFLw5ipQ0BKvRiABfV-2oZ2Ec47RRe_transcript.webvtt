@@ -1,0 +1,3790 @@
+WEBVTT
+
+00:00:00.000 --> 00:00:02.958 align:middle line:90%
+[SQUEAKING]
+
+00:00:02.958 --> 00:00:04.930 align:middle line:90%
+[RUSTLING]
+
+00:00:04.930 --> 00:00:07.395 align:middle line:90%
+[CLICKING]
+
+00:00:07.395 --> 00:00:15.973 align:middle line:90%
+
+
+00:00:15.973 --> 00:00:18.140 align:middle line:84%
+RICARDO CABALLERO: So today
+we're going to look at--
+
+00:00:18.140 --> 00:00:21.620 align:middle line:84%
+we're going to start looking
+into the labor market.
+
+00:00:21.620 --> 00:00:25.250 align:middle line:84%
+Now, the labor market is very
+interesting for a wide variety
+
+00:00:25.250 --> 00:00:27.405 align:middle line:84%
+of reasons that we will
+not discuss in this course,
+
+00:00:27.405 --> 00:00:29.030 align:middle line:84%
+because it's not
+about labor economics,
+
+00:00:29.030 --> 00:00:30.890 align:middle line:90%
+it's about macroeconomics.
+
+00:00:30.890 --> 00:00:33.290 align:middle line:84%
+But there are at
+least two reasons
+
+00:00:33.290 --> 00:00:38.840 align:middle line:84%
+why labor markets are
+very important in macro.
+
+00:00:38.840 --> 00:00:42.920 align:middle line:84%
+One is because things
+like unemployment rate
+
+00:00:42.920 --> 00:00:48.560 align:middle line:84%
+is a very important indicator
+of the macroeconomic health
+
+00:00:48.560 --> 00:00:51.020 align:middle line:90%
+of a country or an economy.
+
+00:00:51.020 --> 00:00:54.740 align:middle line:84%
+And the second one, which is
+quite relevant these days,
+
+00:00:54.740 --> 00:00:58.850 align:middle line:90%
+is that the inflation rate is--
+
+00:00:58.850 --> 00:01:01.310 align:middle line:84%
+one of the main drivers
+of the inflation rate
+
+00:01:01.310 --> 00:01:04.980 align:middle line:84%
+is what is going on
+in the labor market.
+
+00:01:04.980 --> 00:01:08.750 align:middle line:84%
+And we will try to
+understand this mechanism
+
+00:01:08.750 --> 00:01:12.330 align:middle line:90%
+in the next couple of lectures.
+
+00:01:12.330 --> 00:01:16.080 align:middle line:84%
+But you have there is the
+inflation rate in the US.
+
+00:01:16.080 --> 00:01:18.960 align:middle line:84%
+And I'm showing you this
+picture several times
+
+00:01:18.960 --> 00:01:22.800 align:middle line:84%
+after going through a long
+period in which the inflation
+
+00:01:22.800 --> 00:01:26.460 align:middle line:84%
+rate hovered around
+2% with cycles.
+
+00:01:26.460 --> 00:01:31.050 align:middle line:84%
+We are experiencing an episode
+of very high inflation.
+
+00:01:31.050 --> 00:01:32.050 align:middle line:90%
+Things are coming down.
+
+00:01:32.050 --> 00:01:35.100 align:middle line:84%
+But they are still at extremely
+high levels, 6% or so.
+
+00:01:35.100 --> 00:01:37.110 align:middle line:84%
+And actually, very
+recently these numbers
+
+00:01:37.110 --> 00:01:38.910 align:middle line:90%
+have picked up again a little.
+
+00:01:38.910 --> 00:01:43.560 align:middle line:84%
+And so that's very high
+inflation rate-- way
+
+00:01:43.560 --> 00:01:47.010 align:middle line:84%
+too high for an economy like
+the US to feel comfortable with.
+
+00:01:47.010 --> 00:01:56.010 align:middle line:84%
+And whenever some member of
+the FOMC comes out and explains
+
+00:01:56.010 --> 00:01:59.280 align:middle line:84%
+why interest rates are
+so high at this moment
+
+00:01:59.280 --> 00:02:02.700 align:middle line:84%
+and explains why they are likely
+to remain high for quite a
+
+00:02:02.700 --> 00:02:07.650 align:middle line:84%
+while, they say, well, look,
+inflation is uncomfortably
+
+00:02:07.650 --> 00:02:14.600 align:middle line:84%
+at high levels and labor market
+conditions are very tight.
+
+00:02:14.600 --> 00:02:18.260 align:middle line:84%
+And that suggests that the
+inflation problem is not
+
+00:02:18.260 --> 00:02:22.730 align:middle line:84%
+likely to go away
+in the near future.
+
+00:02:22.730 --> 00:02:24.980 align:middle line:84%
+So that's something we need
+to understand in macro.
+
+00:02:24.980 --> 00:02:27.770 align:middle line:84%
+Why is it that the
+labor market being tight
+
+00:02:27.770 --> 00:02:31.113 align:middle line:84%
+says anything about the
+inflation rate, for example?
+
+00:02:31.113 --> 00:02:32.780 align:middle line:84%
+And that's the kind
+of things that we're
+
+00:02:32.780 --> 00:02:37.220 align:middle line:84%
+going to discuss in particular
+on the Monday lecture.
+
+00:02:37.220 --> 00:02:43.430 align:middle line:84%
+Now today we're going to start
+with more basics of the labor
+
+00:02:43.430 --> 00:02:48.380 align:middle line:84%
+market and at the
+same time, we're
+
+00:02:48.380 --> 00:02:51.350 align:middle line:84%
+going to begin a transition in
+the course in which we have been
+
+00:02:51.350 --> 00:02:54.620 align:middle line:84%
+focusing on things that
+are in the very short run
+
+00:02:54.620 --> 00:02:57.770 align:middle line:90%
+into things that take more time.
+
+00:02:57.770 --> 00:03:00.530 align:middle line:84%
+Because many of the things that
+we're going to discuss today
+
+00:03:00.530 --> 00:03:03.170 align:middle line:84%
+are things that you're
+not likely to see
+
+00:03:03.170 --> 00:03:04.910 align:middle line:90%
+in every single quarter.
+
+00:03:04.910 --> 00:03:08.030 align:middle line:84%
+But there are things that
+you're likely to see over
+
+00:03:08.030 --> 00:03:11.330 align:middle line:84%
+averages over several
+quarters, several months.
+
+00:03:11.330 --> 00:03:13.770 align:middle line:84%
+That's what we're
+going to look at today.
+
+00:03:13.770 --> 00:03:16.910 align:middle line:84%
+So remember-- let me just
+recap a little bit what
+
+00:03:16.910 --> 00:03:20.390 align:middle line:90%
+we have been doing up to now.
+
+00:03:20.390 --> 00:03:22.430 align:middle line:84%
+We have been looking
+at this IS-LM
+
+00:03:22.430 --> 00:03:24.860 align:middle line:90%
+model, which is a great model.
+
+00:03:24.860 --> 00:03:29.840 align:middle line:84%
+It is a very good
+model to build on.
+
+00:03:29.840 --> 00:03:32.300 align:middle line:84%
+But it's a very nice
+model, starting point,
+
+00:03:32.300 --> 00:03:35.450 align:middle line:84%
+to understand what
+happens during a recession
+
+00:03:35.450 --> 00:03:42.560 align:middle line:84%
+and what are the likely impact
+of the different macroeconomic
+
+00:03:42.560 --> 00:03:46.220 align:middle line:84%
+policies, monetary policy,
+fiscal policy, and so on.
+
+00:03:46.220 --> 00:03:52.550 align:middle line:84%
+It is not such a great model
+once the aggregate supply
+
+00:03:52.550 --> 00:03:55.550 align:middle line:84%
+side of the economy, something
+we have completely ignored,
+
+00:03:55.550 --> 00:03:58.400 align:middle line:90%
+starts becoming binding.
+
+00:03:58.400 --> 00:04:00.470 align:middle line:84%
+Remember that to now
+in the IS-LM model
+
+00:04:00.470 --> 00:04:05.160 align:middle line:84%
+we had basically, as a model,
+we had two assumptions,
+
+00:04:05.160 --> 00:04:06.180 align:middle line:90%
+related assumptions.
+
+00:04:06.180 --> 00:04:08.220 align:middle line:90%
+One, prices were fully sticky.
+
+00:04:08.220 --> 00:04:10.420 align:middle line:90%
+They didn't move at all.
+
+00:04:10.420 --> 00:04:14.920 align:middle line:84%
+Second, that output was
+aggregate demand determined.
+
+00:04:14.920 --> 00:04:16.800 align:middle line:84%
+So whatever aggregate
+demand wanted,
+
+00:04:16.800 --> 00:04:22.060 align:middle line:84%
+producers found a way to
+produce it at some given price.
+
+00:04:22.060 --> 00:04:28.300 align:middle line:84%
+That combination is
+unlikely to happen when,
+
+00:04:28.300 --> 00:04:32.680 align:middle line:84%
+for example, when firms
+are finding trouble
+
+00:04:32.680 --> 00:04:33.760 align:middle line:90%
+finding new workers.
+
+00:04:33.760 --> 00:04:35.467 align:middle line:84%
+Because there may
+be more demand,
+
+00:04:35.467 --> 00:04:36.550 align:middle line:90%
+more demand for its goods.
+
+00:04:36.550 --> 00:04:40.880 align:middle line:84%
+But the firm may find it
+hard to expand production.
+
+00:04:40.880 --> 00:04:43.960 align:middle line:84%
+And it is also highly likely
+that in a situation like that,
+
+00:04:43.960 --> 00:04:46.600 align:middle line:84%
+firms are going to want
+to keep prices constant.
+
+00:04:46.600 --> 00:04:48.640 align:middle line:84%
+At some point they
+will, look, you
+
+00:04:48.640 --> 00:04:50.320 align:middle line:84%
+have lots of meals
+at my restaurant.
+
+00:04:50.320 --> 00:04:52.280 align:middle line:84%
+I cannot find people to
+work at my restaurant.
+
+00:04:52.280 --> 00:04:56.470 align:middle line:84%
+I'll hide the prices so
+at least fewer tables
+
+00:04:56.470 --> 00:04:58.970 align:middle line:84%
+and I can manage one
+way or the other.
+
+00:04:58.970 --> 00:05:03.340 align:middle line:84%
+So we're going to start
+building a model that
+
+00:05:03.340 --> 00:05:05.170 align:middle line:84%
+takes those things
+into consideration,
+
+00:05:05.170 --> 00:05:08.650 align:middle line:84%
+what is the impact
+of a tight supply
+
+00:05:08.650 --> 00:05:10.930 align:middle line:90%
+side of the economy on prices?
+
+00:05:10.930 --> 00:05:15.250 align:middle line:84%
+And how that starts
+affecting, feeds back
+
+00:05:15.250 --> 00:05:19.140 align:middle line:84%
+into equilibrium
+output eventually.
+
+00:05:19.140 --> 00:05:21.540 align:middle line:84%
+And so the main thing
+I would say we're
+
+00:05:21.540 --> 00:05:25.930 align:middle line:84%
+going to do, really, relative
+to the model in the next two,
+
+00:05:25.930 --> 00:05:29.010 align:middle line:84%
+three lectures is endogenize
+the inflation rate.
+
+00:05:29.010 --> 00:05:31.180 align:middle line:90%
+We have kept prices fixed.
+
+00:05:31.180 --> 00:05:34.700 align:middle line:90%
+But now we're on endogenize.
+
+00:05:34.700 --> 00:05:39.000 align:middle line:84%
+And the story of that
+endogenization of inflation
+
+00:05:39.000 --> 00:05:40.470 align:middle line:90%
+starts from the labor market.
+
+00:05:40.470 --> 00:05:42.012 align:middle line:84%
+And that's the reason
+why we're going
+
+00:05:42.012 --> 00:05:44.460 align:middle line:84%
+to start looking at
+the labor market today.
+
+00:05:44.460 --> 00:05:46.680 align:middle line:84%
+Now, let me remind
+you a few things
+
+00:05:46.680 --> 00:05:49.140 align:middle line:84%
+that I think we discussed
+in the first lecture
+
+00:05:49.140 --> 00:05:51.180 align:middle line:84%
+or so or maybe second,
+I don't remember.
+
+00:05:51.180 --> 00:05:55.275 align:middle line:90%
+
+
+00:05:55.275 --> 00:05:57.150 align:middle line:84%
+Let me give you a picture
+of the labor market
+
+00:05:57.150 --> 00:06:01.290 align:middle line:84%
+and some variables, important
+statistics of the labor market,
+
+00:06:01.290 --> 00:06:08.320 align:middle line:84%
+that matter for understanding
+inflation and so on.
+
+00:06:08.320 --> 00:06:11.040 align:middle line:84%
+So this is a picture
+that's the one
+
+00:06:11.040 --> 00:06:16.110 align:middle line:84%
+that you have in the
+book of the labor market.
+
+00:06:16.110 --> 00:06:18.990 align:middle line:84%
+It's a picture of the labor
+market at some point in 2018.
+
+00:06:18.990 --> 00:06:20.160 align:middle line:90%
+I don't know when.
+
+00:06:20.160 --> 00:06:23.190 align:middle line:90%
+This is a picture at one point.
+
+00:06:23.190 --> 00:06:26.610 align:middle line:84%
+And that says that at that
+time the US had about 330
+
+00:06:26.610 --> 00:06:30.750 align:middle line:84%
+million people, that the
+noninstitutional civilian
+
+00:06:30.750 --> 00:06:31.290 align:middle line:90%
+population.
+
+00:06:31.290 --> 00:06:34.830 align:middle line:84%
+That is, those people that
+in principle could work,
+
+00:06:34.830 --> 00:06:37.320 align:middle line:90%
+were about 260 million.
+
+00:06:37.320 --> 00:06:40.650 align:middle line:84%
+That excludes people
+under 16 years old,
+
+00:06:40.650 --> 00:06:42.840 align:middle line:84%
+people that are
+incarcerated, people
+
+00:06:42.840 --> 00:06:45.270 align:middle line:90%
+that are in the armed forces.
+
+00:06:45.270 --> 00:06:47.490 align:middle line:90%
+Those are excluded from--
+
+00:06:47.490 --> 00:06:48.480 align:middle line:90%
+that's the difference.
+
+00:06:48.480 --> 00:06:50.938 align:middle line:84%
+That's the reason you have such
+a big gap between these two
+
+00:06:50.938 --> 00:06:51.960 align:middle line:90%
+numbers.
+
+00:06:51.960 --> 00:06:55.620 align:middle line:84%
+Now, out of this people
+that potentially could work,
+
+00:06:55.620 --> 00:06:58.690 align:middle line:90%
+some of them want to work.
+
+00:06:58.690 --> 00:07:01.230 align:middle line:84%
+And that's what we call
+the civilian labor force.
+
+00:07:01.230 --> 00:07:04.770 align:middle line:84%
+And then some of them are
+out of the labor force--
+
+00:07:04.770 --> 00:07:06.180 align:middle line:90%
+again, at one point in time.
+
+00:07:06.180 --> 00:07:07.830 align:middle line:84%
+It doesn't mean that these
+people are permanently out
+
+00:07:07.830 --> 00:07:08.622 align:middle line:90%
+of the labor force.
+
+00:07:08.622 --> 00:07:11.140 align:middle line:84%
+They may be temporarily out
+of the labor force, and so on.
+
+00:07:11.140 --> 00:07:15.930 align:middle line:84%
+But we started with
+about 330 million.
+
+00:07:15.930 --> 00:07:18.450 align:middle line:84%
+And by the time that we look
+at the people that really want
+
+00:07:18.450 --> 00:07:21.780 align:middle line:84%
+to work at that point when
+the picture was taken,
+
+00:07:21.780 --> 00:07:27.030 align:middle line:84%
+was about half of that,
+162 million people.
+
+00:07:27.030 --> 00:07:32.490 align:middle line:84%
+Now, these 162 million people,
+the great majority of them
+
+00:07:32.490 --> 00:07:34.050 align:middle line:90%
+are typically employed.
+
+00:07:34.050 --> 00:07:36.030 align:middle line:90%
+They have a job.
+
+00:07:36.030 --> 00:07:38.370 align:middle line:84%
+And then there is
+a group of people
+
+00:07:38.370 --> 00:07:39.678 align:middle line:90%
+that would want to have a job--
+
+00:07:39.678 --> 00:07:42.220 align:middle line:84%
+that's the reason they are part
+of the civilian labor force--
+
+00:07:42.220 --> 00:07:43.660 align:middle line:90%
+but do not have one.
+
+00:07:43.660 --> 00:07:47.850 align:middle line:84%
+And that's about 6 million
+in that picture there.
+
+00:07:47.850 --> 00:07:51.720 align:middle line:84%
+So when you hear the
+unemployment or the unemployment
+
+00:07:51.720 --> 00:07:55.910 align:middle line:84%
+rate, you're really talking
+about these people here.
+
+00:07:55.910 --> 00:07:58.030 align:middle line:84%
+And when you hear about
+the unemployment rate
+
+00:07:58.030 --> 00:08:00.970 align:middle line:84%
+is these people not divided
+over total population,
+
+00:08:00.970 --> 00:08:04.300 align:middle line:84%
+but is these people divided
+by the civilian labor force.
+
+00:08:04.300 --> 00:08:05.470 align:middle line:90%
+OK, so that's a picture.
+
+00:08:05.470 --> 00:08:08.590 align:middle line:90%
+
+
+00:08:08.590 --> 00:08:11.800 align:middle line:84%
+The most recent numbers we have
+about that kind of statistics
+
+00:08:11.800 --> 00:08:15.310 align:middle line:90%
+is here you have them.
+
+00:08:15.310 --> 00:08:19.400 align:middle line:84%
+I mean, the unemployment rate
+in the US today is about 3.4%.
+
+00:08:19.400 --> 00:08:20.140 align:middle line:90%
+That's very low.
+
+00:08:20.140 --> 00:08:23.800 align:middle line:84%
+I'll show you historical data
+in a minute and a half shown
+
+00:08:23.800 --> 00:08:27.640 align:middle line:84%
+you historical data
+in the recent past.
+
+00:08:27.640 --> 00:08:30.370 align:middle line:84%
+But this number
+is very, very low.
+
+00:08:30.370 --> 00:08:35.179 align:middle line:84%
+The change in the
+unemployment level--
+
+00:08:35.179 --> 00:08:36.679 align:middle line:90%
+this is for January--
+
+00:08:36.679 --> 00:08:38.480 align:middle line:90%
+was a reduction.
+
+00:08:38.480 --> 00:08:39.600 align:middle line:90%
+This is not rate.
+
+00:08:39.600 --> 00:08:44.393 align:middle line:84%
+This is number of
+people that were--
+
+00:08:44.393 --> 00:08:46.310 align:middle line:84%
+it's not number of people
+that were unemployed
+
+00:08:46.310 --> 00:08:47.240 align:middle line:90%
+that are no longer so.
+
+00:08:47.240 --> 00:08:50.240 align:middle line:84%
+You look at the total stock of
+unemployed in December and then
+
+00:08:50.240 --> 00:08:54.170 align:middle line:84%
+you look at the total stock
+of unemployed in January 2023,
+
+00:08:54.170 --> 00:08:58.400 align:middle line:84%
+the difference between
+these two is 28,000 workers.
+
+00:08:58.400 --> 00:09:03.080 align:middle line:84%
+So 28,000 less workers are
+in the unemployment pool.
+
+00:09:03.080 --> 00:09:06.110 align:middle line:84%
+Now notice that how
+this number is made.
+
+00:09:06.110 --> 00:09:11.790 align:middle line:84%
+It's not that you 25,000,
+28,000 people just gain a job.
+
+00:09:11.790 --> 00:09:13.040 align:middle line:90%
+That's not what happened.
+
+00:09:13.040 --> 00:09:19.340 align:middle line:84%
+What happens is first
+employment, 895,000,
+
+00:09:19.340 --> 00:09:22.020 align:middle line:90%
+894,000 people got a job--
+
+00:09:22.020 --> 00:09:23.390 align:middle line:90%
+much bigger number.
+
+00:09:23.390 --> 00:09:33.650 align:middle line:84%
+But also, the civilian labor
+force went up by 866,000 people.
+
+00:09:33.650 --> 00:09:36.870 align:middle line:84%
+So if you go back
+to this picture,
+
+00:09:36.870 --> 00:09:40.580 align:middle line:84%
+what you have in January, or the
+numbers reported in January--
+
+00:09:40.580 --> 00:09:43.460 align:middle line:84%
+I do not know which month
+they correspond to exactly--
+
+00:09:43.460 --> 00:09:47.180 align:middle line:90%
+is that yes, this decline.
+
+00:09:47.180 --> 00:09:52.730 align:middle line:84%
+But that decline was made of
+a big increase in employment
+
+00:09:52.730 --> 00:09:56.060 align:middle line:84%
+together with a big increase
+in the civilian labor force.
+
+00:09:56.060 --> 00:09:59.000 align:middle line:84%
+So that must have been mostly
+movement out of the labor force
+
+00:09:59.000 --> 00:10:01.250 align:middle line:84%
+and probably had
+something to do-- well,
+
+00:10:01.250 --> 00:10:02.940 align:middle line:84%
+I'm not going to
+get into that here.
+
+00:10:02.940 --> 00:10:08.150 align:middle line:84%
+But all these numbers
+are seasonally adjusted.
+
+00:10:08.150 --> 00:10:10.700 align:middle line:84%
+So they are corrected relative
+to what happens normally
+
+00:10:10.700 --> 00:10:12.170 align:middle line:90%
+in January and so on.
+
+00:10:12.170 --> 00:10:16.628 align:middle line:84%
+And COVID and weather
+can derail a lot
+
+00:10:16.628 --> 00:10:18.170 align:middle line:84%
+what happens in
+January and February.
+
+00:10:18.170 --> 00:10:19.910 align:middle line:90%
+Numbers tend to be very noisy.
+
+00:10:19.910 --> 00:10:21.470 align:middle line:84%
+Since COVID they
+have been very noisy
+
+00:10:21.470 --> 00:10:23.690 align:middle line:84%
+because the seasonal
+adjustments are different.
+
+00:10:23.690 --> 00:10:26.840 align:middle line:84%
+And also, weather matters a
+lot in January and February,
+
+00:10:26.840 --> 00:10:27.340 align:middle line:90%
+and so on.
+
+00:10:27.340 --> 00:10:29.007 align:middle line:84%
+So you can get pretty
+large fluctuations
+
+00:10:29.007 --> 00:10:31.550 align:middle line:84%
+which are really not that
+interesting to macroeconomists.
+
+00:10:31.550 --> 00:10:34.130 align:middle line:84%
+But anyways, those
+are the numbers.
+
+00:10:34.130 --> 00:10:36.680 align:middle line:84%
+You look at the civilian
+labor force participation.
+
+00:10:36.680 --> 00:10:39.830 align:middle line:90%
+Then it was about 62%, 62.5%.
+
+00:10:39.830 --> 00:10:44.540 align:middle line:84%
+And the employment population
+ratio is of the order of 60%.
+
+00:10:44.540 --> 00:10:46.220 align:middle line:84%
+So the employment
+population ratio
+
+00:10:46.220 --> 00:10:50.780 align:middle line:84%
+is just this divided
+by total population.
+
+00:10:50.780 --> 00:10:53.570 align:middle line:90%
+
+
+00:10:53.570 --> 00:10:57.330 align:middle line:90%
+And those are the averages.
+
+00:10:57.330 --> 00:10:59.640 align:middle line:84%
+The number of
+unemployed in 2022,
+
+00:10:59.640 --> 00:11:04.300 align:middle line:84%
+about 6 million people
+that's unemployed.
+
+00:11:04.300 --> 00:11:07.240 align:middle line:84%
+So there you have the
+unemployment rate.
+
+00:11:07.240 --> 00:11:08.890 align:middle line:84%
+And it moves, as
+you would expect it.
+
+00:11:08.890 --> 00:11:11.860 align:middle line:84%
+It typically goes
+up in recessions.
+
+00:11:11.860 --> 00:11:15.430 align:middle line:84%
+The last sort of large
+recession we had big swings.
+
+00:11:15.430 --> 00:11:18.040 align:middle line:84%
+One thing that was interesting,
+and we couldn't quite
+
+00:11:18.040 --> 00:11:20.560 align:middle line:84%
+understand what was going
+on, is that we noticed right
+
+00:11:20.560 --> 00:11:22.600 align:middle line:84%
+before COVID the
+unemployment rate had already
+
+00:11:22.600 --> 00:11:24.530 align:middle line:90%
+declined to very low levels.
+
+00:11:24.530 --> 00:11:26.590 align:middle line:84%
+And so people were
+wondering whether something
+
+00:11:26.590 --> 00:11:28.960 align:middle line:84%
+was going to talk about
+later in this lecture,
+
+00:11:28.960 --> 00:11:30.790 align:middle line:84%
+whether the natural
+rate of unemployment
+
+00:11:30.790 --> 00:11:34.310 align:middle line:90%
+had changed for some reason.
+
+00:11:34.310 --> 00:11:36.020 align:middle line:90%
+We'll come back to that.
+
+00:11:36.020 --> 00:11:40.520 align:middle line:84%
+Then we got COVID, obviously
+a very recessionary shock
+
+00:11:40.520 --> 00:11:43.410 align:middle line:84%
+initially, massive
+unemployment and so on.
+
+00:11:43.410 --> 00:11:45.110 align:middle line:84%
+But then it came
+back very quickly.
+
+00:11:45.110 --> 00:11:48.320 align:middle line:84%
+And today we have record
+low levels of unemployment.
+
+00:11:48.320 --> 00:11:52.460 align:middle line:84%
+We haven't seen numbers like
+this since the '60s really--
+
+00:11:52.460 --> 00:11:54.110 align:middle line:90%
+very low levels of unemployment.
+
+00:11:54.110 --> 00:11:59.210 align:middle line:84%
+So one of the things that
+when you hear the FOMC
+
+00:11:59.210 --> 00:12:02.570 align:middle line:84%
+members talking about the
+labor markets being very tight,
+
+00:12:02.570 --> 00:12:04.910 align:middle line:84%
+well, one of the things
+they're looking at is this one.
+
+00:12:04.910 --> 00:12:06.827 align:middle line:84%
+There are other statistics
+that I'll show you.
+
+00:12:06.827 --> 00:12:08.330 align:middle line:90%
+But this is one of them.
+
+00:12:08.330 --> 00:12:10.310 align:middle line:84%
+Unemployment rate is
+really, really low.
+
+00:12:10.310 --> 00:12:12.890 align:middle line:90%
+
+
+00:12:12.890 --> 00:12:16.670 align:middle line:84%
+Sometimes, again, especially
+post-COVID because of movements
+
+00:12:16.670 --> 00:12:21.020 align:middle line:84%
+in and out of the labor
+force, the unemployment rate
+
+00:12:21.020 --> 00:12:23.960 align:middle line:84%
+is not such a great
+statistic, not as reliable
+
+00:12:23.960 --> 00:12:25.860 align:middle line:84%
+because many people
+left the labor force.
+
+00:12:25.860 --> 00:12:28.910 align:middle line:84%
+So people look a lot
+at the employment rate.
+
+00:12:28.910 --> 00:12:32.000 align:middle line:90%
+
+
+00:12:32.000 --> 00:12:35.190 align:middle line:84%
+This is not the employment
+population ratio.
+
+00:12:35.190 --> 00:12:37.430 align:middle line:84%
+Its employment
+rate-- so employed
+
+00:12:37.430 --> 00:12:42.260 align:middle line:84%
+over the non
+civilian population.
+
+00:12:42.260 --> 00:12:45.080 align:middle line:90%
+
+
+00:12:45.080 --> 00:12:49.610 align:middle line:84%
+And that number, you can see,
+we have discussed this before,
+
+00:12:49.610 --> 00:12:52.130 align:middle line:84%
+was trending up here because
+of the increase in the labor
+
+00:12:52.130 --> 00:12:54.470 align:middle line:84%
+participation of women,
+then it came down,
+
+00:12:54.470 --> 00:12:57.560 align:middle line:84%
+had a lot to do with the
+students and things like that,
+
+00:12:57.560 --> 00:12:58.370 align:middle line:90%
+systematically.
+
+00:12:58.370 --> 00:13:00.140 align:middle line:84%
+But then it was
+climbing up enormously.
+
+00:13:00.140 --> 00:13:02.330 align:middle line:90%
+It collapsed during COVID.
+
+00:13:02.330 --> 00:13:09.230 align:middle line:84%
+That's mostly unemployment and
+people out of the labor force.
+
+00:13:09.230 --> 00:13:10.850 align:middle line:90%
+And then recovery.
+
+00:13:10.850 --> 00:13:14.040 align:middle line:84%
+But the recovery has not
+picked up to back to the trend.
+
+00:13:14.040 --> 00:13:18.140 align:middle line:84%
+So we are back to more or less
+the levels we had before COVID,
+
+00:13:18.140 --> 00:13:20.228 align:middle line:84%
+but we're certainly
+off the trend.
+
+00:13:20.228 --> 00:13:22.520 align:middle line:84%
+And one of the reasons the
+labor markets are very tight
+
+00:13:22.520 --> 00:13:28.700 align:middle line:84%
+is that we haven't
+recovered the employment
+
+00:13:28.700 --> 00:13:31.520 align:middle line:90%
+rate that we used to have.
+
+00:13:31.520 --> 00:13:35.840 align:middle line:84%
+This has to do with migration
+flows, with a variety of things.
+
+00:13:35.840 --> 00:13:38.720 align:middle line:90%
+But that's the issue.
+
+00:13:38.720 --> 00:13:41.120 align:middle line:90%
+OK, so that's sort of--
+
+00:13:41.120 --> 00:13:43.730 align:middle line:84%
+those are very static
+pictures of the labor market.
+
+00:13:43.730 --> 00:13:45.740 align:middle line:84%
+What is the stock of
+unemployment at one point?
+
+00:13:45.740 --> 00:13:48.570 align:middle line:84%
+What is the unemployment
+rate, and so on and so forth.
+
+00:13:48.570 --> 00:13:50.840 align:middle line:84%
+But the truth is
+that labor markets
+
+00:13:50.840 --> 00:13:56.080 align:middle line:84%
+are very dynamic, especially
+in an economy like the US.
+
+00:13:56.080 --> 00:13:58.100 align:middle line:90%
+The flows are very large.
+
+00:13:58.100 --> 00:14:00.430 align:middle line:84%
+So what I have there-- and
+I don't know for which state
+
+00:14:00.430 --> 00:14:03.730 align:middle line:84%
+this is in the book-- but the
+pictures look more or less
+
+00:14:03.730 --> 00:14:05.800 align:middle line:84%
+the same for the
+point I want to make.
+
+00:14:05.800 --> 00:14:08.530 align:middle line:90%
+This is monthly labor flows.
+
+00:14:08.530 --> 00:14:10.750 align:middle line:84%
+And this has happened
+in some months--
+
+00:14:10.750 --> 00:14:13.720 align:middle line:84%
+I don't care, 2018,
+at some point.
+
+00:14:13.720 --> 00:14:16.110 align:middle line:90%
+Look at what happened there.
+
+00:14:16.110 --> 00:14:16.890 align:middle line:90%
+You have this.
+
+00:14:16.890 --> 00:14:18.600 align:middle line:84%
+We're talking about
+the stocks recently.
+
+00:14:18.600 --> 00:14:21.570 align:middle line:84%
+So employment in that
+month was of the order
+
+00:14:21.570 --> 00:14:27.200 align:middle line:90%
+of 132 million people.
+
+00:14:27.200 --> 00:14:29.960 align:middle line:84%
+Out of the labor force,
+about 79 million people.
+
+00:14:29.960 --> 00:14:32.745 align:middle line:90%
+Unemployed, about 8.6 million.
+
+00:14:32.745 --> 00:14:33.620 align:middle line:90%
+Those are the stocks.
+
+00:14:33.620 --> 00:14:37.550 align:middle line:84%
+Those were the type of numbers
+I was showing you before.
+
+00:14:37.550 --> 00:14:39.800 align:middle line:90%
+But look at these arrows.
+
+00:14:39.800 --> 00:14:41.010 align:middle line:90%
+These are flows.
+
+00:14:41.010 --> 00:14:44.390 align:middle line:84%
+So in every single
+month, you see in the US
+
+00:14:44.390 --> 00:14:47.600 align:middle line:84%
+about 3 million people that
+move from one job to another.
+
+00:14:47.600 --> 00:14:50.010 align:middle line:90%
+So employment to employment.
+
+00:14:50.010 --> 00:14:53.490 align:middle line:84%
+You see about 1.8 million
+that moved from employment
+
+00:14:53.490 --> 00:14:57.250 align:middle line:84%
+to unemployment and
+about 2 million people
+
+00:14:57.250 --> 00:15:02.530 align:middle line:84%
+that move from unemployment
+to employment, large flows.
+
+00:15:02.530 --> 00:15:05.650 align:middle line:84%
+Not only so, not everything goes
+to unemployment to employment.
+
+00:15:05.650 --> 00:15:08.200 align:middle line:84%
+There are people are also
+moving out of the labor force
+
+00:15:08.200 --> 00:15:11.950 align:middle line:84%
+and into the labor force into
+an employment, into employment.
+
+00:15:11.950 --> 00:15:14.950 align:middle line:84%
+Here in this particular
+case, out the flow,
+
+00:15:14.950 --> 00:15:18.930 align:middle line:84%
+out of the labor force into
+employment is 3.4 million.
+
+00:15:18.930 --> 00:15:22.190 align:middle line:84%
+Flows from employment, without
+going through unemployment
+
+00:15:22.190 --> 00:15:25.850 align:middle line:84%
+without the labor
+force, 3.7 million.
+
+00:15:25.850 --> 00:15:29.690 align:middle line:84%
+During COVID, this must have
+been a very thick arrow,
+
+00:15:29.690 --> 00:15:32.840 align:middle line:84%
+lots of people move out from
+employment to out of the labor
+
+00:15:32.840 --> 00:15:34.490 align:middle line:90%
+force.
+
+00:15:34.490 --> 00:15:36.740 align:middle line:84%
+And one of the problems
+the economy has
+
+00:15:36.740 --> 00:15:39.290 align:middle line:84%
+had in the recovery on
+the labor market side
+
+00:15:39.290 --> 00:15:44.150 align:middle line:84%
+is that this arrow hasn't been
+as strong as we would want it.
+
+00:15:44.150 --> 00:15:47.540 align:middle line:84%
+This arrow or this arrow for
+that matter of fact-- people
+
+00:15:47.540 --> 00:15:49.580 align:middle line:84%
+coming out of the labor
+force into unemployment.
+
+00:15:49.580 --> 00:15:50.780 align:middle line:90%
+That's also a big flow.
+
+00:15:50.780 --> 00:15:52.590 align:middle line:84%
+Sometimes people
+are not working.
+
+00:15:52.590 --> 00:15:55.310 align:middle line:84%
+And then they decide they run
+out of unemployment insurance
+
+00:15:55.310 --> 00:15:56.340 align:middle line:90%
+or something like that.
+
+00:15:56.340 --> 00:15:58.280 align:middle line:84%
+And so they decide
+to start looking.
+
+00:15:58.280 --> 00:16:04.220 align:middle line:84%
+And they move into unemployment
+here, or they run out of savings
+
+00:16:04.220 --> 00:16:06.440 align:middle line:90%
+and they have to come back.
+
+00:16:06.440 --> 00:16:08.150 align:middle line:84%
+And they may not
+find a job initially.
+
+00:16:08.150 --> 00:16:10.940 align:middle line:84%
+They have to go
+through unemployment.
+
+00:16:10.940 --> 00:16:14.570 align:middle line:84%
+So point is that these
+flows are very large.
+
+00:16:14.570 --> 00:16:21.240 align:middle line:84%
+And these flows matter
+a lot for the kind
+
+00:16:21.240 --> 00:16:24.210 align:middle line:84%
+of things we want to talk
+about in this course.
+
+00:16:24.210 --> 00:16:26.710 align:middle line:90%
+Look at what we have here.
+
+00:16:26.710 --> 00:16:28.830 align:middle line:84%
+The red line is the
+unemployment rate
+
+00:16:28.830 --> 00:16:32.220 align:middle line:84%
+and it's measured
+on the left axis.
+
+00:16:32.220 --> 00:16:34.430 align:middle line:84%
+And what we have
+here in the blue line
+
+00:16:34.430 --> 00:16:37.220 align:middle line:90%
+is measured in an inverse scale.
+
+00:16:37.220 --> 00:16:41.030 align:middle line:84%
+Look at this-- this
+goes up as you go down--
+
+00:16:41.030 --> 00:16:46.365 align:middle line:84%
+is the percentage of unemployed
+workers becoming employed.
+
+00:16:46.365 --> 00:16:48.910 align:middle line:90%
+
+
+00:16:48.910 --> 00:16:51.140 align:middle line:84%
+So it's the job finding
+rate from unemployment.
+
+00:16:51.140 --> 00:16:52.910 align:middle line:90%
+So you have unemployed people.
+
+00:16:52.910 --> 00:16:55.217 align:middle line:90%
+And they will be finding jobs.
+
+00:16:55.217 --> 00:16:56.300 align:middle line:90%
+They are looking for jobs.
+
+00:16:56.300 --> 00:16:57.880 align:middle line:90%
+And they will be finding jobs.
+
+00:16:57.880 --> 00:17:03.040 align:middle line:84%
+This number here, this blue line
+here, shows you the likelihood
+
+00:17:03.040 --> 00:17:07.020 align:middle line:84%
+that they'll find a
+job in inverted scale.
+
+00:17:07.020 --> 00:17:10.970 align:middle line:84%
+OK, so what correlation
+do you notice there?
+
+00:17:10.970 --> 00:17:17.940 align:middle line:90%
+
+
+00:17:17.940 --> 00:17:21.540 align:middle line:84%
+I mean, you know,
+it's very tight.
+
+00:17:21.540 --> 00:17:22.319 align:middle line:90%
+Yeah.
+
+00:17:22.319 --> 00:17:24.150 align:middle line:84%
+AUDIENCE: There's
+a percent of people
+
+00:17:24.150 --> 00:17:27.010 align:middle line:84%
+that get a job each
+month is smaller,
+
+00:17:27.010 --> 00:17:28.995 align:middle line:84%
+there's more people
+without a job.
+
+00:17:28.995 --> 00:17:30.120 align:middle line:90%
+RICARDO CABALLERO: Exactly.
+
+00:17:30.120 --> 00:17:33.890 align:middle line:84%
+That means when the
+unemployment rate is high,
+
+00:17:33.890 --> 00:17:37.590 align:middle line:84%
+it is harder for unemployed
+workers to find a job.
+
+00:17:37.590 --> 00:17:40.080 align:middle line:84%
+Or another way of a
+direct implication
+
+00:17:40.080 --> 00:17:42.060 align:middle line:84%
+of that is the typical
+unemployed worker
+
+00:17:42.060 --> 00:17:43.707 align:middle line:84%
+will spend more time
+in unemployment,
+
+00:17:43.707 --> 00:17:45.540 align:middle line:84%
+because they're going
+to be looking for jobs
+
+00:17:45.540 --> 00:17:47.513 align:middle line:90%
+and it's harder to get a job.
+
+00:17:47.513 --> 00:17:49.680 align:middle line:84%
+So you're going to be looking
+for a job for a longer
+
+00:17:49.680 --> 00:17:51.320 align:middle line:90%
+period of time.
+
+00:17:51.320 --> 00:17:53.470 align:middle line:84%
+Why are we talking
+about these things?
+
+00:17:53.470 --> 00:17:57.910 align:middle line:84%
+Well, because of
+these type of reasons.
+
+00:17:57.910 --> 00:18:00.850 align:middle line:84%
+Well, this means that
+when unemployment is high,
+
+00:18:00.850 --> 00:18:04.648 align:middle line:84%
+workers are worse off
+in at least two ways.
+
+00:18:04.648 --> 00:18:06.190 align:middle line:84%
+And there are two
+ways that are going
+
+00:18:06.190 --> 00:18:08.540 align:middle line:84%
+to be important for
+what I'll say next.
+
+00:18:08.540 --> 00:18:11.627 align:middle line:84%
+One is that the employed
+workers face a higher
+
+00:18:11.627 --> 00:18:12.710 align:middle line:90%
+probability of losing job.
+
+00:18:12.710 --> 00:18:14.793 align:middle line:84%
+That's what happens when
+unemployment-- the reason
+
+00:18:14.793 --> 00:18:18.050 align:middle line:84%
+unemployment gets to be high
+is because firms are firing
+
+00:18:18.050 --> 00:18:20.690 align:middle line:90%
+workers and so on and so forth.
+
+00:18:20.690 --> 00:18:25.370 align:middle line:84%
+And so when
+unemployment is high,
+
+00:18:25.370 --> 00:18:27.260 align:middle line:84%
+the first thing
+the workers know is
+
+00:18:27.260 --> 00:18:29.870 align:middle line:84%
+that it's very likely that
+they'll lose their job,
+
+00:18:29.870 --> 00:18:33.690 align:middle line:84%
+more likely that
+they'll lose their job.
+
+00:18:33.690 --> 00:18:36.350 align:middle line:84%
+But the second channel, which
+is what this picture highlights
+
+00:18:36.350 --> 00:18:38.930 align:middle line:84%
+here, is that if you
+fall unemployment,
+
+00:18:38.930 --> 00:18:43.310 align:middle line:84%
+it's going to be a lot harder
+to get out of unemployment.
+
+00:18:43.310 --> 00:18:45.470 align:middle line:84%
+So when unemployment
+is high, it's
+
+00:18:45.470 --> 00:18:47.490 align:middle line:84%
+scary for workers
+for two reasons.
+
+00:18:47.490 --> 00:18:50.210 align:middle line:84%
+One, you're more likely to
+lose a job because you're
+
+00:18:50.210 --> 00:18:51.920 align:middle line:84%
+capturing recessionary
+conditions and so
+
+00:18:51.920 --> 00:18:52.700 align:middle line:90%
+on in the economy.
+
+00:18:52.700 --> 00:18:54.860 align:middle line:84%
+But second, if you end
+up in unemployment,
+
+00:18:54.860 --> 00:18:59.620 align:middle line:84%
+it's going to be
+hard to get out of it
+
+00:18:59.620 --> 00:19:02.610 align:middle line:84%
+And later on, this
+unemployment rate
+
+00:19:02.610 --> 00:19:05.610 align:middle line:84%
+is going to show up
+in wage bargaining.
+
+00:19:05.610 --> 00:19:09.880 align:middle line:84%
+And the main reason is going
+to show up is of this kind.
+
+00:19:09.880 --> 00:19:11.932 align:middle line:84%
+And also think about
+the other side.
+
+00:19:11.932 --> 00:19:14.140 align:middle line:84%
+When there's bargaining,
+there's two in a bargaining.
+
+00:19:14.140 --> 00:19:16.630 align:middle line:84%
+There's going to be
+firm and workers.
+
+00:19:16.630 --> 00:19:20.230 align:middle line:84%
+From the firm point of view if
+there's a lot of unemployment,
+
+00:19:20.230 --> 00:19:24.850 align:middle line:84%
+do you think it's hard
+or easy to find a worker,
+
+00:19:24.850 --> 00:19:30.200 align:middle line:84%
+to replace a worker that decides
+to leave for whatever reason?
+
+00:19:30.200 --> 00:19:30.787 align:middle line:90%
+Yes.
+
+00:19:30.787 --> 00:19:32.370 align:middle line:84%
+We have lots of
+people to choose from.
+
+00:19:32.370 --> 00:19:33.630 align:middle line:90%
+So it becomes easy.
+
+00:19:33.630 --> 00:19:38.890 align:middle line:84%
+So unemployment is high,
+workers are more scared.
+
+00:19:38.890 --> 00:19:42.700 align:middle line:84%
+If they get out, they're
+scared of losing the job.
+
+00:19:42.700 --> 00:19:45.740 align:middle line:84%
+If they get out, it's
+hard to get a job.
+
+00:19:45.740 --> 00:19:48.520 align:middle line:84%
+And on the other side,
+the firms, for the firms,
+
+00:19:48.520 --> 00:19:51.220 align:middle line:84%
+it's not that scary to lose
+a worker because it's fairly
+
+00:19:51.220 --> 00:19:53.490 align:middle line:90%
+easy to replace that worker.
+
+00:19:53.490 --> 00:19:56.880 align:middle line:84%
+Today, firms are very worried
+about losing their workers
+
+00:19:56.880 --> 00:19:57.990 align:middle line:90%
+in some sectors.
+
+00:19:57.990 --> 00:19:59.970 align:middle line:84%
+In some sectors are
+getting rid of workers.
+
+00:19:59.970 --> 00:20:02.340 align:middle line:84%
+But if you run a
+restaurant, you're
+
+00:20:02.340 --> 00:20:05.572 align:middle line:84%
+very scared of
+losing your workers
+
+00:20:05.572 --> 00:20:07.530 align:middle line:84%
+because it's going to be
+very difficult to find
+
+00:20:07.530 --> 00:20:09.390 align:middle line:90%
+a replacement for that worker.
+
+00:20:09.390 --> 00:20:13.050 align:middle line:84%
+Surprise, surprise,
+wages in that industry
+
+00:20:13.050 --> 00:20:16.550 align:middle line:90%
+are going up a lot.
+
+00:20:16.550 --> 00:20:17.880 align:middle line:90%
+We're going to get there.
+
+00:20:17.880 --> 00:20:21.470 align:middle line:84%
+So that's what comes
+next-- wage determination.
+
+00:20:21.470 --> 00:20:23.660 align:middle line:84%
+Look at what I'm
+trying to build here.
+
+00:20:23.660 --> 00:20:25.280 align:middle line:84%
+I'm starting from
+telling you stories
+
+00:20:25.280 --> 00:20:28.550 align:middle line:84%
+about the labor market, what
+things are important for workers
+
+00:20:28.550 --> 00:20:29.550 align:middle line:90%
+and so on.
+
+00:20:29.550 --> 00:20:31.970 align:middle line:84%
+Now I'm going to get
+into wage determination.
+
+00:20:31.970 --> 00:20:34.070 align:middle line:84%
+And obviously the
+variables I talked
+
+00:20:34.070 --> 00:20:36.920 align:middle line:84%
+about are going to be important
+in this way determination.
+
+00:20:36.920 --> 00:20:39.690 align:middle line:84%
+But my ultimate goal is
+to talk about inflation.
+
+00:20:39.690 --> 00:20:40.800 align:middle line:90%
+So the next step--
+
+00:20:40.800 --> 00:20:43.110 align:middle line:84%
+so I'm going to talk about
+wage determination here.
+
+00:20:43.110 --> 00:20:44.840 align:middle line:84%
+And then we want to
+talk about prices.
+
+00:20:44.840 --> 00:20:47.510 align:middle line:84%
+And there we're going
+to be one step closer
+
+00:20:47.510 --> 00:20:49.010 align:middle line:90%
+to talking about inflation
+
+00:20:49.010 --> 00:20:52.010 align:middle line:84%
+OK, so let's go through
+the intermediate step, wage
+
+00:20:52.010 --> 00:20:54.510 align:middle line:90%
+determination.
+
+00:20:54.510 --> 00:20:58.280 align:middle line:84%
+And so just to give you
+a little background,
+
+00:20:58.280 --> 00:21:04.070 align:middle line:84%
+sometimes wages are set by
+collective bargaining, unions,
+
+00:21:04.070 --> 00:21:05.030 align:middle line:90%
+in particular.
+
+00:21:05.030 --> 00:21:08.343 align:middle line:84%
+Now, in the US unions
+are not a big thing.
+
+00:21:08.343 --> 00:21:10.010 align:middle line:84%
+They were a much
+bigger thing many years
+
+00:21:10.010 --> 00:21:13.040 align:middle line:90%
+back than they are today.
+
+00:21:13.040 --> 00:21:17.150 align:middle line:84%
+In other economies
+they are a big thing--
+
+00:21:17.150 --> 00:21:21.280 align:middle line:90%
+Japan and Europe.
+
+00:21:21.280 --> 00:21:24.160 align:middle line:84%
+And the unions can happen at
+different levels of aggregation,
+
+00:21:24.160 --> 00:21:26.800 align:middle line:84%
+at the level of the firm,
+at the level of the sector,
+
+00:21:26.800 --> 00:21:31.650 align:middle line:90%
+and you name it.
+
+00:21:31.650 --> 00:21:34.830 align:middle line:84%
+In general, regardless of
+the level of unionization
+
+00:21:34.830 --> 00:21:38.100 align:middle line:84%
+you have in a country
+or in a sector,
+
+00:21:38.100 --> 00:21:40.740 align:middle line:84%
+the higher the skill needed
+to do a job, the more likely
+
+00:21:40.740 --> 00:21:43.800 align:middle line:84%
+it is that bargaining takes
+place between an individual,
+
+00:21:43.800 --> 00:21:47.850 align:middle line:84%
+between an employer, and an
+individual, rather than a union,
+
+00:21:47.850 --> 00:21:51.300 align:middle line:84%
+because it's sort of much more
+idiosyncratic and customized
+
+00:21:51.300 --> 00:21:52.740 align:middle line:90%
+and so on.
+
+00:21:52.740 --> 00:21:57.620 align:middle line:84%
+But either way, regardless
+of whether wages
+
+00:21:57.620 --> 00:22:01.530 align:middle line:84%
+are set at a collective level
+or at an individual level,
+
+00:22:01.530 --> 00:22:07.220 align:middle line:84%
+the main macroeconomic
+drivers of wages
+
+00:22:07.220 --> 00:22:09.692 align:middle line:90%
+are similar across both of them.
+
+00:22:09.692 --> 00:22:11.900 align:middle line:84%
+Of course, the particulars
+are going to be different.
+
+00:22:11.900 --> 00:22:15.090 align:middle line:84%
+Even the dynamics can
+be different and so on.
+
+00:22:15.090 --> 00:22:17.960 align:middle line:84%
+But the big drivers,
+the big macro drivers,
+
+00:22:17.960 --> 00:22:20.270 align:middle line:84%
+are similar, regardless
+of the bargaining
+
+00:22:20.270 --> 00:22:22.793 align:middle line:84%
+mode you have at the level
+which happens, and so on.
+
+00:22:22.793 --> 00:22:25.085 align:middle line:84%
+And those are the things
+we're going to highlight here.
+
+00:22:25.085 --> 00:22:28.520 align:middle line:90%
+
+
+00:22:28.520 --> 00:22:34.070 align:middle line:84%
+So a fact of life is that
+workers' wages typically
+
+00:22:34.070 --> 00:22:36.790 align:middle line:90%
+exceed the reservation wage.
+
+00:22:36.790 --> 00:22:39.040 align:middle line:84%
+Now, what does it mean
+the reservation wage?
+
+00:22:39.040 --> 00:22:40.972 align:middle line:84%
+The reservation
+wage is a wage that
+
+00:22:40.972 --> 00:22:43.430 align:middle line:84%
+would leave you indifferent
+between employed or unemployed.
+
+00:22:43.430 --> 00:22:45.850 align:middle line:84%
+It doesn't mean, it's a
+nice wage or anything.
+
+00:22:45.850 --> 00:22:48.082 align:middle line:90%
+
+
+00:22:48.082 --> 00:22:50.040 align:middle line:84%
+And certainly it doesn't
+mean that you wouldn't
+
+00:22:50.040 --> 00:22:51.780 align:middle line:90%
+prefer to have a higher wage.
+
+00:22:51.780 --> 00:22:54.960 align:middle line:84%
+But it tells you that, look,
+at that wage you'd rather
+
+00:22:54.960 --> 00:22:57.530 align:middle line:90%
+be employed than unemployed.
+
+00:22:57.530 --> 00:22:59.930 align:middle line:84%
+And there is a way,
+long list of reasons
+
+00:22:59.930 --> 00:23:03.585 align:middle line:84%
+why that ends up being
+the equilibrium type wage.
+
+00:23:03.585 --> 00:23:05.210 align:middle line:84%
+And I'm not going to
+discuss them here.
+
+00:23:05.210 --> 00:23:08.810 align:middle line:90%
+But take it as a fact for now.
+
+00:23:08.810 --> 00:23:12.110 align:middle line:84%
+So workers preferred
+to be employed.
+
+00:23:12.110 --> 00:23:14.030 align:middle line:84%
+They may take the risk
+of becoming unemployed.
+
+00:23:14.030 --> 00:23:18.510 align:middle line:84%
+But they typically
+prefer to be employed.
+
+00:23:18.510 --> 00:23:24.710 align:middle line:84%
+And now wages-- and this is
+where it becomes important,
+
+00:23:24.710 --> 00:23:26.540 align:middle line:90%
+interesting for us in macro--
+
+00:23:26.540 --> 00:23:30.560 align:middle line:84%
+is the wages that
+are finally set
+
+00:23:30.560 --> 00:23:34.380 align:middle line:84%
+depend on labor
+market conditions.
+
+00:23:34.380 --> 00:23:39.140 align:middle line:84%
+So very clearly, the lowest
+unemployment rate, the higher
+
+00:23:39.140 --> 00:23:41.150 align:middle line:90%
+the wages will tend to be.
+
+00:23:41.150 --> 00:23:42.493 align:middle line:90%
+And you're seeing it now.
+
+00:23:42.493 --> 00:23:43.910 align:middle line:84%
+The unemployment
+rate is very low.
+
+00:23:43.910 --> 00:23:46.830 align:middle line:90%
+Wages are rising a lot.
+
+00:23:46.830 --> 00:23:50.250 align:middle line:84%
+And workers' bargaining
+power depends,
+
+00:23:50.250 --> 00:23:52.590 align:middle line:84%
+again, there's a huge
+literature on these things
+
+00:23:52.590 --> 00:23:58.520 align:middle line:84%
+and just compressing it
+into the bare minimum.
+
+00:23:58.520 --> 00:24:00.350 align:middle line:84%
+And the bargaining
+power of our workers
+
+00:24:00.350 --> 00:24:02.000 align:middle line:84%
+are things that we
+already discuss.
+
+00:24:02.000 --> 00:24:04.100 align:middle line:84%
+Well, it depends on
+how costly for the firm
+
+00:24:04.100 --> 00:24:05.120 align:middle line:90%
+to find the workers.
+
+00:24:05.120 --> 00:24:07.040 align:middle line:84%
+So obviously, if
+unemployment is very high,
+
+00:24:07.040 --> 00:24:09.590 align:middle line:84%
+it's very easy for
+firms to find a worker.
+
+00:24:09.590 --> 00:24:11.690 align:middle line:84%
+That's not good for the
+bargaining of a worker.
+
+00:24:11.690 --> 00:24:13.830 align:middle line:84%
+If you want to bargain
+with your employer
+
+00:24:13.830 --> 00:24:17.045 align:middle line:84%
+and there lots of people
+like you out there,
+
+00:24:17.045 --> 00:24:19.170 align:middle line:84%
+you're not going to have
+a lot of bargaining power.
+
+00:24:19.170 --> 00:24:21.045 align:middle line:84%
+So it's unlikely that
+you're going to come up
+
+00:24:21.045 --> 00:24:23.660 align:middle line:90%
+with a very high wage.
+
+00:24:23.660 --> 00:24:25.370 align:middle line:84%
+And it's also, the
+other side of it
+
+00:24:25.370 --> 00:24:27.890 align:middle line:84%
+is how hard is for workers
+to find another job if they
+
+00:24:27.890 --> 00:24:29.120 align:middle line:90%
+were to leave the firms.
+
+00:24:29.120 --> 00:24:31.620 align:middle line:84%
+I mean, if you know that there
+are lots of jobs like the one
+
+00:24:31.620 --> 00:24:34.850 align:middle line:84%
+you currently have out there,
+which are not occupied--
+
+00:24:34.850 --> 00:24:37.017 align:middle line:90%
+so there's empty, vacant, jobs--
+
+00:24:37.017 --> 00:24:39.350 align:middle line:84%
+then you probably are going
+to have a much stronger hand
+
+00:24:39.350 --> 00:24:41.370 align:middle line:84%
+with your employer
+because you can say, OK,
+
+00:24:41.370 --> 00:24:44.510 align:middle line:84%
+if you don't pay me what I
+want, I move to the next door.
+
+00:24:44.510 --> 00:24:46.670 align:middle line:84%
+And in terms of the
+macroeconomic variables
+
+00:24:46.670 --> 00:24:49.010 align:middle line:84%
+we care about, a
+situation like that
+
+00:24:49.010 --> 00:24:51.050 align:middle line:84%
+is very likely to
+happen when unemployment
+
+00:24:51.050 --> 00:24:57.560 align:middle line:84%
+is very low because that
+means that other jobs are
+
+00:24:57.560 --> 00:25:00.827 align:middle line:84%
+unlikely to be filled because
+there are lots of people looking
+
+00:25:00.827 --> 00:25:02.660 align:middle line:84%
+for things, but it's
+difficult for the firms
+
+00:25:02.660 --> 00:25:04.610 align:middle line:90%
+to find the workers.
+
+00:25:04.610 --> 00:25:08.030 align:middle line:84%
+And therefore, you're going
+to be a lot more attractive
+
+00:25:08.030 --> 00:25:11.330 align:middle line:90%
+to that labor market.
+
+00:25:11.330 --> 00:25:15.770 align:middle line:84%
+So in summary, at
+the aggregate level,
+
+00:25:15.770 --> 00:25:20.820 align:middle line:84%
+we can write a wage setting
+equation of this form.
+
+00:25:20.820 --> 00:25:24.380 align:middle line:84%
+So the wage-- and this
+is a nominal wage--
+
+00:25:24.380 --> 00:25:29.990 align:middle line:84%
+can be written as an increasing
+function of the expected price,
+
+00:25:29.990 --> 00:25:33.290 align:middle line:84%
+meaning wages are not
+set, in most professions,
+
+00:25:33.290 --> 00:25:35.030 align:middle line:84%
+they are not set
+second by second.
+
+00:25:35.030 --> 00:25:37.260 align:middle line:84%
+You bargain for
+a wage and so on.
+
+00:25:37.260 --> 00:25:42.840 align:middle line:84%
+And that thing sticks for
+a year or so at least.
+
+00:25:42.840 --> 00:25:48.480 align:middle line:84%
+Well, obviously if you
+expect, if inflation is zero,
+
+00:25:48.480 --> 00:25:51.870 align:middle line:84%
+you're going to demand a wage
+that is more or less what
+
+00:25:51.870 --> 00:25:54.130 align:middle line:90%
+you need today.
+
+00:25:54.130 --> 00:25:58.060 align:middle line:84%
+If inflation is 10%,
+you say, well, I'm
+
+00:25:58.060 --> 00:26:00.820 align:middle line:84%
+going to have to demand a
+higher wage because I have
+
+00:26:00.820 --> 00:26:02.290 align:middle line:84%
+to live with this
+wage for a year
+
+00:26:02.290 --> 00:26:06.550 align:middle line:84%
+and prices are going to be
+rising when I have this wage.
+
+00:26:06.550 --> 00:26:08.410 align:middle line:84%
+So if they expect
+lots of inflation,
+
+00:26:08.410 --> 00:26:11.110 align:middle line:84%
+if I expect prices to
+be high in the future,
+
+00:26:11.110 --> 00:26:13.120 align:middle line:84%
+then I'm going to ask
+for a higher nominal wage
+
+00:26:13.120 --> 00:26:15.130 align:middle line:84%
+today because I'm
+going to have to live
+
+00:26:15.130 --> 00:26:19.960 align:middle line:84%
+with that wage on average
+for the next year or so.
+
+00:26:19.960 --> 00:26:22.072 align:middle line:84%
+So that's the first
+thing, and it's
+
+00:26:22.072 --> 00:26:23.530 align:middle line:84%
+going to play an
+important role, is
+
+00:26:23.530 --> 00:26:26.680 align:middle line:84%
+that wages are an increasing
+function on the price level
+
+00:26:26.680 --> 00:26:27.880 align:middle line:90%
+workers expect.
+
+00:26:27.880 --> 00:26:30.010 align:middle line:84%
+They expect a higher
+price level in the future
+
+00:26:30.010 --> 00:26:32.120 align:middle line:84%
+or during the life
+of the wage contract,
+
+00:26:32.120 --> 00:26:35.020 align:middle line:84%
+then they obviously are going
+to demand a higher wage,
+
+00:26:35.020 --> 00:26:36.220 align:middle line:90%
+other things equal.
+
+00:26:36.220 --> 00:26:37.630 align:middle line:90%
+What are other things?
+
+00:26:37.630 --> 00:26:40.840 align:middle line:84%
+Well, the arguments of
+this function here--
+
+00:26:40.840 --> 00:26:43.540 align:middle line:90%
+unemployment.
+
+00:26:43.540 --> 00:26:47.590 align:middle line:84%
+For any given expected price, if
+the unemployment rate is high,
+
+00:26:47.590 --> 00:26:50.000 align:middle line:84%
+workers are going to
+demand a lower wage.
+
+00:26:50.000 --> 00:26:50.860 align:middle line:90%
+Why is that?
+
+00:26:50.860 --> 00:26:57.630 align:middle line:90%
+
+
+00:26:57.630 --> 00:27:00.330 align:middle line:84%
+AUDIENCE: Because it's going to
+be harder for them to find a job
+
+00:27:00.330 --> 00:27:01.788 align:middle line:84%
+so they have less
+bargaining power.
+
+00:27:01.788 --> 00:27:04.610 align:middle line:84%
+RICARDO CABALLERO: And they have
+less bargaining power, exactly.
+
+00:27:04.610 --> 00:27:07.670 align:middle line:84%
+And so they're going
+to demand a lower wage.
+
+00:27:07.670 --> 00:27:14.330 align:middle line:84%
+This variable, z, here is a
+catch all variable for strength,
+
+00:27:14.330 --> 00:27:17.300 align:middle line:84%
+workers' strength in the
+bargaining position situation,
+
+00:27:17.300 --> 00:27:18.330 align:middle line:90%
+something like that.
+
+00:27:18.330 --> 00:27:25.790 align:middle line:84%
+So for example, this is things
+like employment protection
+
+00:27:25.790 --> 00:27:29.150 align:middle line:90%
+laws, firing costs.
+
+00:27:29.150 --> 00:27:30.980 align:middle line:84%
+If it's difficult
+to fire someone,
+
+00:27:30.980 --> 00:27:33.390 align:middle line:90%
+the z will tend to be high.
+
+00:27:33.390 --> 00:27:36.770 align:middle line:84%
+So this only tells you that
+given the level of unemployment,
+
+00:27:36.770 --> 00:27:40.130 align:middle line:84%
+if it is very hard
+to fire someone,
+
+00:27:40.130 --> 00:27:46.400 align:middle line:84%
+workers are going to be very
+likely to demand a higher wage.
+
+00:27:46.400 --> 00:27:48.260 align:middle line:90%
+It's hard for you to fire me.
+
+00:27:48.260 --> 00:27:50.960 align:middle line:84%
+I'm going to bargain
+hard for my wage.
+
+00:27:50.960 --> 00:27:54.530 align:middle line:84%
+And these type of
+institutional factors
+
+00:27:54.530 --> 00:27:58.785 align:middle line:84%
+play a huge role in Europe,
+much more than in the US.
+
+00:27:58.785 --> 00:28:01.640 align:middle line:90%
+
+
+00:28:01.640 --> 00:28:02.160 align:middle line:90%
+Good.
+
+00:28:02.160 --> 00:28:04.370 align:middle line:84%
+But as a matter of
+definition, we're
+
+00:28:04.370 --> 00:28:07.520 align:middle line:84%
+going to say an
+increase in z, z is
+
+00:28:07.520 --> 00:28:11.450 align:middle line:84%
+something that increases the
+bargaining power of workers.
+
+00:28:11.450 --> 00:28:13.520 align:middle line:84%
+And therefore, for
+any given level
+
+00:28:13.520 --> 00:28:15.530 align:middle line:84%
+of unemployment and
+expected prices,
+
+00:28:15.530 --> 00:28:17.690 align:middle line:84%
+they're going to lead
+to a higher wage demand.
+
+00:28:17.690 --> 00:28:21.010 align:middle line:84%
+This is the workers'
+demand in a wage.
+
+00:28:21.010 --> 00:28:23.240 align:middle line:84%
+We have to figure out what
+happens in equilibrium.
+
+00:28:23.240 --> 00:28:25.660 align:middle line:84%
+But this is what the
+workers are demanding.
+
+00:28:25.660 --> 00:28:28.980 align:middle line:90%
+
+
+00:28:28.980 --> 00:28:30.690 align:middle line:90%
+Is it clear what we have here?
+
+00:28:30.690 --> 00:28:36.170 align:middle line:90%
+
+
+00:28:36.170 --> 00:28:39.040 align:middle line:84%
+So let's now move
+to the other side.
+
+00:28:39.040 --> 00:28:40.750 align:middle line:84%
+So that's one side
+of the scissor.
+
+00:28:40.750 --> 00:28:41.800 align:middle line:90%
+We have the workers.
+
+00:28:41.800 --> 00:28:45.220 align:middle line:84%
+And they given certain
+macroeconomic conditions
+
+00:28:45.220 --> 00:28:48.190 align:middle line:84%
+summarized by the unemployment
+rate and expected prices.
+
+00:28:48.190 --> 00:28:49.930 align:middle line:90%
+They demand certain wages.
+
+00:28:49.930 --> 00:28:52.000 align:middle line:84%
+Now, we can find
+the equilibrium wage
+
+00:28:52.000 --> 00:28:54.070 align:middle line:84%
+until we don't see the
+other side, what firms
+
+00:28:54.070 --> 00:28:55.910 align:middle line:90%
+are willing to pay and so on.
+
+00:28:55.910 --> 00:28:58.300 align:middle line:84%
+So we need to explore
+this other side.
+
+00:28:58.300 --> 00:29:01.570 align:middle line:84%
+And the starting point
+of that other side
+
+00:29:01.570 --> 00:29:07.930 align:middle line:84%
+is the production
+function, meaning firms
+
+00:29:07.930 --> 00:29:10.180 align:middle line:84%
+are going to end up
+setting prices for goods.
+
+00:29:10.180 --> 00:29:13.750 align:middle line:84%
+But producing those goods will
+take factors of production.
+
+00:29:13.750 --> 00:29:17.750 align:middle line:84%
+They're going to have to use
+something to produce that.
+
+00:29:17.750 --> 00:29:20.780 align:middle line:84%
+And the cost of that something
+will determine, importantly,
+
+00:29:20.780 --> 00:29:23.350 align:middle line:84%
+what is the price
+they end up charging.
+
+00:29:23.350 --> 00:29:26.140 align:middle line:84%
+I'm going to simplify
+things a lot here.
+
+00:29:26.140 --> 00:29:28.080 align:middle line:84%
+I'm going to assume the
+production function is
+
+00:29:28.080 --> 00:29:31.530 align:middle line:84%
+first linear and linear only
+on labels, so no other factors
+
+00:29:31.530 --> 00:29:32.490 align:middle line:90%
+of production.
+
+00:29:32.490 --> 00:29:35.190 align:middle line:84%
+Meaning this says
+that to produce
+
+00:29:35.190 --> 00:29:39.670 align:middle line:84%
+one unit of the aggregate
+good, you need--
+
+00:29:39.670 --> 00:29:46.350 align:middle line:84%
+well, this says that if
+you add an extra worker
+
+00:29:46.350 --> 00:29:49.560 align:middle line:84%
+to the big production
+function of the economy, then
+
+00:29:49.560 --> 00:29:53.380 align:middle line:84%
+you're going to get A
+more units of output.
+
+00:29:53.380 --> 00:29:55.130 align:middle line:90%
+That's what this says.
+
+00:29:55.130 --> 00:29:58.570 align:middle line:84%
+So Y is output, the output
+we've been talking about,
+
+00:29:58.570 --> 00:30:00.940 align:middle line:84%
+measuring the way we have
+been talking about, and so on.
+
+00:30:00.940 --> 00:30:02.920 align:middle line:90%
+N is employment.
+
+00:30:02.920 --> 00:30:04.930 align:middle line:90%
+And A is labor productivity.
+
+00:30:04.930 --> 00:30:07.513 align:middle line:90%
+That is the output per worker.
+
+00:30:07.513 --> 00:30:08.930 align:middle line:84%
+I want to make
+things very simple.
+
+00:30:08.930 --> 00:30:10.720 align:middle line:84%
+We're going to talk a lot about
+in the next part of the course
+
+00:30:10.720 --> 00:30:12.820 align:middle line:84%
+and the part of growth
+about this A, what
+
+00:30:12.820 --> 00:30:16.120 align:middle line:84%
+moves this A over time,
+what it does, and so on.
+
+00:30:16.120 --> 00:30:20.110 align:middle line:84%
+But I'm going to simplify
+things a lot here for now.
+
+00:30:20.110 --> 00:30:22.750 align:middle line:84%
+And I'm going to
+set A equal to 1.
+
+00:30:22.750 --> 00:30:25.158 align:middle line:84%
+So it doesn't get
+any simpler than this
+
+00:30:25.158 --> 00:30:26.200 align:middle line:90%
+as a production function.
+
+00:30:26.200 --> 00:30:28.000 align:middle line:84%
+This production
+function says you
+
+00:30:28.000 --> 00:30:31.090 align:middle line:84%
+want to produce one more good,
+you need one more worker.
+
+00:30:31.090 --> 00:30:34.170 align:middle line:90%
+
+
+00:30:34.170 --> 00:30:35.520 align:middle line:90%
+This is what this says.
+
+00:30:35.520 --> 00:30:38.730 align:middle line:84%
+If you have 10 workers, you
+produce 10 units of good.
+
+00:30:38.730 --> 00:30:41.790 align:middle line:84%
+If you have 11 workers, you
+produce 11 units of goods.
+
+00:30:41.790 --> 00:30:46.245 align:middle line:84%
+To produce one more unit of
+good, you need one worker more.
+
+00:30:46.245 --> 00:30:48.970 align:middle line:90%
+
+
+00:30:48.970 --> 00:30:53.320 align:middle line:84%
+Now, why do you think I'm
+simplifying it so much
+
+00:30:53.320 --> 00:30:57.310 align:middle line:84%
+and I'm even repeating this idea
+that one more worker one more
+
+00:30:57.310 --> 00:31:00.150 align:middle line:90%
+unit of good?
+
+00:31:00.150 --> 00:31:04.470 align:middle line:84%
+That tells you that how much
+does it cost to the firm,
+
+00:31:04.470 --> 00:31:07.020 align:middle line:84%
+to the firm that has
+this production function,
+
+00:31:07.020 --> 00:31:12.300 align:middle line:84%
+to produce one extra
+unit of workers, of one
+
+00:31:12.300 --> 00:31:14.522 align:middle line:90%
+extra unit of goods.
+
+00:31:14.522 --> 00:31:16.230 align:middle line:84%
+Well, you have to ask
+the question, well,
+
+00:31:16.230 --> 00:31:18.120 align:middle line:90%
+what will the firm have to do?
+
+00:31:18.120 --> 00:31:20.660 align:middle line:84%
+Well, the first--
+so suppose a firm
+
+00:31:20.660 --> 00:31:22.580 align:middle line:84%
+wants to produce one
+more unit of goods.
+
+00:31:22.580 --> 00:31:25.382 align:middle line:90%
+What is it that it needs to do?
+
+00:31:25.382 --> 00:31:26.632 align:middle line:90%
+AUDIENCE: Hire another worker.
+
+00:31:26.632 --> 00:31:28.757 align:middle line:84%
+RICARDO CABALLERO: It needs
+to hire another worker.
+
+00:31:28.757 --> 00:31:30.065 align:middle line:90%
+How much will that cost?
+
+00:31:30.065 --> 00:31:36.578 align:middle line:90%
+
+
+00:31:36.578 --> 00:31:37.370 align:middle line:90%
+AUDIENCE: The wage.
+
+00:31:37.370 --> 00:31:38.000 align:middle line:90%
+RICARDO CABALLERO: The wage.
+
+00:31:38.000 --> 00:31:38.840 align:middle line:90%
+Exactly.
+
+00:31:38.840 --> 00:31:40.490 align:middle line:84%
+So now we're beginning
+to [INAUDIBLE]..
+
+00:31:40.490 --> 00:31:42.200 align:middle line:84%
+So this is the
+wage, in this case
+
+00:31:42.200 --> 00:31:44.660 align:middle line:84%
+is the cost per unit of
+production for this guy.
+
+00:31:44.660 --> 00:31:48.110 align:middle line:84%
+So the marginal cost of
+production for this firm
+
+00:31:48.110 --> 00:31:49.400 align:middle line:90%
+is the wage.
+
+00:31:49.400 --> 00:31:52.280 align:middle line:84%
+All the rest, intermediate
+inputs, is all summarized.
+
+00:31:52.280 --> 00:31:56.290 align:middle line:84%
+This value added is
+built on something else.
+
+00:31:56.290 --> 00:31:58.590 align:middle line:84%
+So this production function,
+as simple as it is,
+
+00:31:58.590 --> 00:31:59.400 align:middle line:90%
+says exactly that.
+
+00:31:59.400 --> 00:32:03.390 align:middle line:84%
+The marginal cost of production
+is equal to the wage.
+
+00:32:03.390 --> 00:32:08.440 align:middle line:84%
+So now I'm going to come up with
+a pricing model, a price setting
+
+00:32:08.440 --> 00:32:08.940 align:middle line:90%
+rules.
+
+00:32:08.940 --> 00:32:11.510 align:middle line:84%
+Firms that understand
+how much more it
+
+00:32:11.510 --> 00:32:14.540 align:middle line:84%
+costs to produce an
+extra unit of good
+
+00:32:14.540 --> 00:32:16.430 align:middle line:84%
+now have to decide
+the price they
+
+00:32:16.430 --> 00:32:20.680 align:middle line:84%
+want to charge for that
+extra unit of the good.
+
+00:32:20.680 --> 00:32:24.070 align:middle line:84%
+There is a lot that
+comes into that decision.
+
+00:32:24.070 --> 00:32:27.560 align:middle line:84%
+But we're going to summarize
+it with a markup, very simple.
+
+00:32:27.560 --> 00:32:30.430 align:middle line:84%
+I'm going to say, look, the
+firm will do the following.
+
+00:32:30.430 --> 00:32:33.310 align:middle line:84%
+We'll say, it
+costs me one worker
+
+00:32:33.310 --> 00:32:36.940 align:middle line:84%
+to produce one unit
+of extra of good.
+
+00:32:36.940 --> 00:32:39.640 align:middle line:84%
+A worker costs me
+W. So the price
+
+00:32:39.640 --> 00:32:44.050 align:middle line:84%
+I want to charge is 1 plus is M.
+M is a positive number times W.
+
+00:32:44.050 --> 00:32:46.340 align:middle line:90%
+So M is a number like 0.2.
+
+00:32:46.340 --> 00:32:49.420 align:middle line:90%
+So you pay 100 in the wage.
+
+00:32:49.420 --> 00:32:51.340 align:middle line:90%
+Then you're going to charge--
+
+00:32:51.340 --> 00:32:54.010 align:middle line:90%
+and suppose the wage is 100.
+
+00:32:54.010 --> 00:32:59.500 align:middle line:84%
+If the markup is 20%, you're
+going to set a price of $120.
+
+00:32:59.500 --> 00:33:03.400 align:middle line:84%
+That's the price setting rule
+that we're going to adopt.
+
+00:33:03.400 --> 00:33:07.750 align:middle line:90%
+And again, it's not that crazy.
+
+00:33:07.750 --> 00:33:10.010 align:middle line:90%
+Simple, but not that crazy.
+
+00:33:10.010 --> 00:33:14.210 align:middle line:84%
+So thus, we call this the
+price setting equation.
+
+00:33:14.210 --> 00:33:16.340 align:middle line:84%
+The firm takes the
+wage because that's
+
+00:33:16.340 --> 00:33:21.260 align:middle line:84%
+the marginal cost of production
+and then adds a markup.
+
+00:33:21.260 --> 00:33:23.980 align:middle line:90%
+And that's the final price.
+
+00:33:23.980 --> 00:33:28.540 align:middle line:84%
+Now, we can rewrite this
+price setting equation
+
+00:33:28.540 --> 00:33:31.540 align:middle line:84%
+as a wage equation in
+the following sense.
+
+00:33:31.540 --> 00:33:33.190 align:middle line:84%
+It's still a price
+setting equation.
+
+00:33:33.190 --> 00:33:39.400 align:middle line:84%
+But all that I've done here is I
+divided by P, by P and 1 plus M.
+
+00:33:39.400 --> 00:33:42.940 align:middle line:84%
+And I get that the
+wage, the real wage
+
+00:33:42.940 --> 00:33:46.180 align:middle line:84%
+the firm is willing to
+pay, is equal to 1 over 1
+
+00:33:46.180 --> 00:33:47.200 align:middle line:90%
+plus the market.
+
+00:33:47.200 --> 00:33:48.950 align:middle line:90%
+That's another way of saying it.
+
+00:33:48.950 --> 00:33:49.660 align:middle line:90%
+It's the same.
+
+00:33:49.660 --> 00:33:51.500 align:middle line:84%
+I took this price
+setting equation.
+
+00:33:51.500 --> 00:33:53.110 align:middle line:90%
+And I just rewrote it.
+
+00:33:53.110 --> 00:33:56.050 align:middle line:84%
+I rewrote it this
+way because then when
+
+00:33:56.050 --> 00:33:57.550 align:middle line:84%
+I look at the wage
+setting equation,
+
+00:33:57.550 --> 00:34:01.240 align:middle line:84%
+I also wrote it that
+way, W over something.
+
+00:34:01.240 --> 00:34:03.400 align:middle line:84%
+I want to write the
+price setting equation
+
+00:34:03.400 --> 00:34:06.740 align:middle line:84%
+in the same sort of units
+as my wage setting equation
+
+00:34:06.740 --> 00:34:10.510 align:middle line:84%
+so then I can use one diagram,
+put them together easily,
+
+00:34:10.510 --> 00:34:16.110 align:middle line:84%
+and find an equilibrium
+of something.
+
+00:34:16.110 --> 00:34:19.920 align:middle line:84%
+So what you see here is, for
+example is that the higher is
+
+00:34:19.920 --> 00:34:23.060 align:middle line:84%
+the markup, the lower
+is the real wage
+
+00:34:23.060 --> 00:34:25.800 align:middle line:90%
+the firm is willing to offer.
+
+00:34:25.800 --> 00:34:26.863 align:middle line:90%
+You see that?
+
+00:34:26.863 --> 00:34:29.280 align:middle line:84%
+And this is an equilibrium at
+the level of the economists,
+
+00:34:29.280 --> 00:34:30.600 align:middle line:90%
+not you individually.
+
+00:34:30.600 --> 00:34:32.670 align:middle line:84%
+But on average, that's
+what ends up happening.
+
+00:34:32.670 --> 00:34:35.429 align:middle line:84%
+Firms, on average, end up
+charging a higher markup.
+
+00:34:35.429 --> 00:34:39.780 align:middle line:84%
+It has to be the case that
+in equilibrium the real wage
+
+00:34:39.780 --> 00:34:43.040 align:middle line:90%
+offer by the firms is lower.
+
+00:34:43.040 --> 00:34:45.820 align:middle line:90%
+That's what this is.
+
+00:34:45.820 --> 00:34:49.120 align:middle line:84%
+So if we're in a situation
+where the markup was 0
+
+00:34:49.120 --> 00:34:52.179 align:middle line:84%
+and now all of a sudden
+because of imperfect
+
+00:34:52.179 --> 00:34:55.870 align:middle line:84%
+competition or perhaps some
+price of a key input went up
+
+00:34:55.870 --> 00:35:00.160 align:middle line:84%
+and it's not well measured
+in value added or whatever,
+
+00:35:00.160 --> 00:35:05.270 align:middle line:84%
+if the market goes to 1, then
+the real wage in equilibrium
+
+00:35:05.270 --> 00:35:09.110 align:middle line:84%
+will fall to half
+what it used to be.
+
+00:35:09.110 --> 00:35:13.100 align:middle line:84%
+That's what the
+firms will offer.
+
+00:35:13.100 --> 00:35:15.380 align:middle line:84%
+Well, that's an equilibrium
+or not, we shall see.
+
+00:35:15.380 --> 00:35:17.600 align:middle line:84%
+Or how do we get that
+to be an equilibrium?
+
+00:35:17.600 --> 00:35:18.498 align:middle line:90%
+We shall see.
+
+00:35:18.498 --> 00:35:20.040 align:middle line:84%
+But that's what the
+firms will offer.
+
+00:35:20.040 --> 00:35:21.980 align:middle line:84%
+That's what the price
+setting equation says.
+
+00:35:21.980 --> 00:35:24.902 align:middle line:84%
+In fact, you already
+know from this equation
+
+00:35:24.902 --> 00:35:26.360 align:middle line:84%
+that that's what
+the real wage will
+
+00:35:26.360 --> 00:35:31.322 align:middle line:84%
+be because there is no variable
+here that can adjust to that.
+
+00:35:31.322 --> 00:35:32.780 align:middle line:84%
+What happens is
+something else will
+
+00:35:32.780 --> 00:35:34.020 align:middle line:90%
+have to give in the economy.
+
+00:35:34.020 --> 00:35:37.220 align:middle line:84%
+So this ends up being
+the equilibrium wage.
+
+00:35:37.220 --> 00:35:39.320 align:middle line:84%
+But you'll understand
+that a little later,
+
+00:35:39.320 --> 00:35:41.240 align:middle line:84%
+or you'll understand it
+better a little later.
+
+00:35:41.240 --> 00:35:44.050 align:middle line:90%
+
+
+00:35:44.050 --> 00:35:47.500 align:middle line:84%
+So now, we're almost
+ready to come up with--
+
+00:35:47.500 --> 00:35:52.260 align:middle line:84%
+to discuss a very important
+concept in macroeconomics.
+
+00:35:52.260 --> 00:35:56.920 align:middle line:84%
+And that's the concept of the
+natural rate of unemployment.
+
+00:35:56.920 --> 00:35:59.040 align:middle line:84%
+Now, the first
+warning is that there
+
+00:35:59.040 --> 00:36:02.130 align:middle line:84%
+is nothing natural about the
+natural rate of unemployment.
+
+00:36:02.130 --> 00:36:07.950 align:middle line:84%
+It's not something that God
+gave us or anything like that.
+
+00:36:07.950 --> 00:36:12.510 align:middle line:84%
+I'll say for us, and
+what typically means
+
+00:36:12.510 --> 00:36:14.700 align:middle line:84%
+the natural rate
+of unemployment,
+
+00:36:14.700 --> 00:36:19.830 align:middle line:84%
+simply means what I wrote there,
+which is the unemployment that
+
+00:36:19.830 --> 00:36:26.930 align:middle line:84%
+takes place when the expected
+price is equal to actual prices.
+
+00:36:26.930 --> 00:36:31.250 align:middle line:84%
+That's what we'll define for
+this class, for this course,
+
+00:36:31.250 --> 00:36:33.260 align:middle line:84%
+we'll define the natural
+rate of unemployment.
+
+00:36:33.260 --> 00:36:35.270 align:middle line:84%
+The natural rate
+of unemployment is
+
+00:36:35.270 --> 00:36:38.540 align:middle line:84%
+when the expected price is
+equal to P. That's what we mean.
+
+00:36:38.540 --> 00:36:41.610 align:middle line:84%
+If we ask you any question about
+the natural rate employment,
+
+00:36:41.610 --> 00:36:43.760 align:middle line:84%
+we don't mean that
+that's what is good,
+
+00:36:43.760 --> 00:36:46.100 align:middle line:84%
+that that's what is bad,
+that that's what God decided
+
+00:36:46.100 --> 00:36:47.690 align:middle line:90%
+or someone else decided.
+
+00:36:47.690 --> 00:36:51.350 align:middle line:84%
+This is all that it means,
+is that in any equation where
+
+00:36:51.350 --> 00:36:54.830 align:middle line:84%
+you have P, you can stick in P
+and then solve for equilibrium.
+
+00:36:54.830 --> 00:36:57.110 align:middle line:84%
+And the unemployment
+rate that comes from that
+
+00:36:57.110 --> 00:37:00.420 align:middle line:84%
+is what we call the natural
+rate of unemployment.
+
+00:37:00.420 --> 00:37:04.980 align:middle line:84%
+Because of this, you can also
+think of that unemployment rate
+
+00:37:04.980 --> 00:37:09.360 align:middle line:84%
+as a good proxy for
+what is likely to be
+
+00:37:09.360 --> 00:37:13.560 align:middle line:84%
+the average rate of unemployment
+of an economy over a longer
+
+00:37:13.560 --> 00:37:15.090 align:middle line:90%
+period of time.
+
+00:37:15.090 --> 00:37:17.160 align:middle line:84%
+Because people are
+unlikely to be fooled
+
+00:37:17.160 --> 00:37:18.640 align:middle line:84%
+all the time in
+the same direction.
+
+00:37:18.640 --> 00:37:19.800 align:middle line:84%
+So sometimes they're
+going to expect
+
+00:37:19.800 --> 00:37:22.342 align:middle line:84%
+a higher price [INAUDIBLE],,
+sometimes it's lower, and so on.
+
+00:37:22.342 --> 00:37:25.650 align:middle line:84%
+On average, unless there is
+something very weird going on,
+
+00:37:25.650 --> 00:37:27.573 align:middle line:84%
+they're going to get
+right, because you
+
+00:37:27.573 --> 00:37:30.240 align:middle line:84%
+know more or less what the level
+of inflation of the economy is.
+
+00:37:30.240 --> 00:37:31.230 align:middle line:90%
+Sometimes you miss up.
+
+00:37:31.230 --> 00:37:32.280 align:middle line:90%
+Sometimes you miss down.
+
+00:37:32.280 --> 00:37:33.990 align:middle line:84%
+But on average, you're
+going to be right
+
+00:37:33.990 --> 00:37:36.760 align:middle line:84%
+if you take an average
+over a long period of time.
+
+00:37:36.760 --> 00:37:39.810 align:middle line:84%
+So for that reason, you can
+also interpret this natural rate
+
+00:37:39.810 --> 00:37:41.700 align:middle line:84%
+of unemployment as
+the unemployment
+
+00:37:41.700 --> 00:37:43.387 align:middle line:84%
+rate of the medium
+run, if you will--
+
+00:37:43.387 --> 00:37:44.970 align:middle line:84%
+so when you have
+collected enough data
+
+00:37:44.970 --> 00:37:49.652 align:middle line:84%
+and positive errors are balanced
+with negative errors, and so on.
+
+00:37:49.652 --> 00:37:51.610 align:middle line:84%
+But that's all that we
+mean by the natural rate
+
+00:37:51.610 --> 00:37:54.120 align:middle line:90%
+of unemployment.
+
+00:37:54.120 --> 00:37:57.510 align:middle line:84%
+Now, notice that with
+this assumption, that Pe
+
+00:37:57.510 --> 00:38:01.260 align:middle line:84%
+is equal to P. I can go back to
+my wage setting equation, which
+
+00:38:01.260 --> 00:38:04.920 align:middle line:90%
+was W over Pe equal to F that.
+
+00:38:04.920 --> 00:38:08.440 align:middle line:84%
+I don't remember what I had
+divided by P. But I had P there.
+
+00:38:08.440 --> 00:38:11.610 align:middle line:84%
+And when I divide by
+P both sides, and then
+
+00:38:11.610 --> 00:38:14.130 align:middle line:84%
+I'm going to set Pe
+equal to P. And now
+
+00:38:14.130 --> 00:38:16.530 align:middle line:84%
+I have that my wage
+setting equation
+
+00:38:16.530 --> 00:38:17.940 align:middle line:90%
+can be written this way.
+
+00:38:17.940 --> 00:38:20.280 align:middle line:84%
+And notice that the
+unemployment rate I put here
+
+00:38:20.280 --> 00:38:24.400 align:middle line:84%
+is N. It's a natural
+rate of unemployment.
+
+00:38:24.400 --> 00:38:27.280 align:middle line:84%
+Because once I have a
+model in which I assume
+
+00:38:27.280 --> 00:38:29.230 align:middle line:84%
+that Pe is equal to P,
+the unemployment rate
+
+00:38:29.230 --> 00:38:33.270 align:middle line:84%
+that comes out of that is a
+natural rate of unemployment.
+
+00:38:33.270 --> 00:38:34.800 align:middle line:90%
+That's all that it just means.
+
+00:38:34.800 --> 00:38:38.520 align:middle line:84%
+It says OK, you allow me
+to replace Pe by P, well,
+
+00:38:38.520 --> 00:38:41.250 align:middle line:84%
+then I can call my unemployment
+rate here the natural rate
+
+00:38:41.250 --> 00:38:42.549 align:middle line:90%
+of unemployment.
+
+00:38:42.549 --> 00:38:46.950 align:middle line:90%
+
+
+00:38:46.950 --> 00:38:48.780 align:middle line:90%
+And it has lots of names--
+
+00:38:48.780 --> 00:38:51.570 align:middle line:84%
+natural rate, structural rate
+of unemployment, and so on.
+
+00:38:51.570 --> 00:38:54.670 align:middle line:90%
+
+
+00:38:54.670 --> 00:38:56.940 align:middle line:90%
+Now what this tells you--
+
+00:38:56.940 --> 00:39:00.772 align:middle line:84%
+I mean, you can see the
+slope of this function.
+
+00:39:00.772 --> 00:39:02.230 align:middle line:84%
+If the natural rate
+of unemployment
+
+00:39:02.230 --> 00:39:05.410 align:middle line:84%
+is higher in this
+economy, what is
+
+00:39:05.410 --> 00:39:09.540 align:middle line:84%
+the real wage that comes from
+the wage setting equation?
+
+00:39:09.540 --> 00:39:10.860 align:middle line:90%
+Lower.
+
+00:39:10.860 --> 00:39:14.040 align:middle line:84%
+It's a downward sloping curve in
+the space of wages to real wages
+
+00:39:14.040 --> 00:39:15.150 align:middle line:90%
+to unemployment.
+
+00:39:15.150 --> 00:39:17.070 align:middle line:84%
+So the natural rate
+of unemployment
+
+00:39:17.070 --> 00:39:19.230 align:middle line:84%
+is a downward sloping
+curve for the reasons
+
+00:39:19.230 --> 00:39:21.810 align:middle line:84%
+we discussed before--
+bargaining power and so on.
+
+00:39:21.810 --> 00:39:26.190 align:middle line:84%
+OK, so I can put together--
+remember, the price setting
+
+00:39:26.190 --> 00:39:28.620 align:middle line:84%
+equation led me to
+also an equation
+
+00:39:28.620 --> 00:39:31.468 align:middle line:84%
+the real wage, which was
+not a function of anything.
+
+00:39:31.468 --> 00:39:33.010 align:middle line:84%
+It was only a function
+of parameters.
+
+00:39:33.010 --> 00:39:36.720 align:middle line:84%
+So that's a horizontal curve
+in the space of real wages
+
+00:39:36.720 --> 00:39:38.940 align:middle line:84%
+and unemployment, natural
+rate of unemployment.
+
+00:39:38.940 --> 00:39:41.560 align:middle line:84%
+Here we have a
+downward sloping curve.
+
+00:39:41.560 --> 00:39:44.190 align:middle line:84%
+And the intersection
+of these two curves
+
+00:39:44.190 --> 00:39:47.070 align:middle line:84%
+is the natural rate
+of unemployment.
+
+00:39:47.070 --> 00:39:49.780 align:middle line:84%
+So this was the price
+setting relation.
+
+00:39:49.780 --> 00:39:53.640 align:middle line:84%
+Remember, it's 1 over 1 plus
+M. This is the wage setting
+
+00:39:53.640 --> 00:40:00.610 align:middle line:84%
+equation with the assumption
+that Pe is equal to P.
+
+00:40:00.610 --> 00:40:04.243 align:middle line:84%
+And thus, the natural
+rate of unemployment.
+
+00:40:04.243 --> 00:40:05.660 align:middle line:84%
+And here you can
+understand what I
+
+00:40:05.660 --> 00:40:10.100 align:middle line:84%
+said before is that you see,
+in this economy, the real wage,
+
+00:40:10.100 --> 00:40:12.890 align:middle line:84%
+because this price
+setting equation is flat
+
+00:40:12.890 --> 00:40:17.310 align:middle line:84%
+in this simple economy, the real
+wage is pinned down by the firm,
+
+00:40:17.310 --> 00:40:19.560 align:middle line:90%
+by the firms collectively--
+
+00:40:19.560 --> 00:40:24.425 align:middle line:84%
+and not collectively in
+an oligopsonistic way.
+
+00:40:24.425 --> 00:40:28.360 align:middle line:84%
+It's what happens
+in equilibrium.
+
+00:40:28.360 --> 00:40:29.940 align:middle line:84%
+But the equilibrium
+unemployment,
+
+00:40:29.940 --> 00:40:31.830 align:middle line:84%
+natural rate of
+unemployment, is intersection
+
+00:40:31.830 --> 00:40:36.360 align:middle line:84%
+of the real wage set by the
+firms and the wage setting
+
+00:40:36.360 --> 00:40:40.070 align:middle line:90%
+relationship.
+
+00:40:40.070 --> 00:40:46.500 align:middle line:84%
+So what happens to a
+point, say to the right?
+
+00:40:46.500 --> 00:40:48.480 align:middle line:90%
+What happens in this point here?
+
+00:40:48.480 --> 00:40:50.010 align:middle line:90%
+What is the situation we have?
+
+00:40:50.010 --> 00:40:57.600 align:middle line:90%
+
+
+00:40:57.600 --> 00:41:00.660 align:middle line:84%
+Well, at that high
+level of unemployment,
+
+00:41:00.660 --> 00:41:03.933 align:middle line:84%
+workers are willing to work
+for much lower real wages
+
+00:41:03.933 --> 00:41:05.100 align:middle line:90%
+than the firms are offering.
+
+00:41:05.100 --> 00:41:08.390 align:middle line:90%
+
+
+00:41:08.390 --> 00:41:10.700 align:middle line:84%
+This is what workers, at
+this level of unemployment,
+
+00:41:10.700 --> 00:41:14.420 align:middle line:84%
+very high level of unemployment,
+workers would be fine with this.
+
+00:41:14.420 --> 00:41:15.830 align:middle line:90%
+Firms are paying that.
+
+00:41:15.830 --> 00:41:18.470 align:middle line:90%
+
+
+00:41:18.470 --> 00:41:21.350 align:middle line:84%
+So unemployment is
+very likely to be
+
+00:41:21.350 --> 00:41:24.020 align:middle line:84%
+falling because workers
+are not demanding a lot
+
+00:41:24.020 --> 00:41:28.130 align:middle line:84%
+and firms are going to
+hire all these workers.
+
+00:41:28.130 --> 00:41:30.410 align:middle line:90%
+The opposite here.
+
+00:41:30.410 --> 00:41:32.900 align:middle line:84%
+If here, workers are
+demanding a wage that
+
+00:41:32.900 --> 00:41:36.440 align:middle line:84%
+is much higher than
+firms are willing to pay,
+
+00:41:36.440 --> 00:41:38.240 align:middle line:84%
+that's likely to lead
+to more unemployment
+
+00:41:38.240 --> 00:41:41.300 align:middle line:84%
+because firms are going to
+be very reluctant to hire
+
+00:41:41.300 --> 00:41:43.670 align:middle line:90%
+these very expensive workers.
+
+00:41:43.670 --> 00:41:47.690 align:middle line:84%
+So that's going to be
+unemployment in this direction.
+
+00:41:47.690 --> 00:41:48.530 align:middle line:90%
+Good.
+
+00:41:48.530 --> 00:41:51.200 align:middle line:84%
+So that's the natural
+rate of unemployment.
+
+00:41:51.200 --> 00:41:53.450 align:middle line:84%
+Again, nothing natural
+about it is the equilibrium
+
+00:41:53.450 --> 00:41:56.880 align:middle line:84%
+when you assume the expected
+price is equal to price.
+
+00:41:56.880 --> 00:42:00.300 align:middle line:84%
+So there are some important
+parameters in this diagram here.
+
+00:42:00.300 --> 00:42:03.290 align:middle line:90%
+One is this M, the market.
+
+00:42:03.290 --> 00:42:05.720 align:middle line:84%
+That's a parameter, very
+important markup here.
+
+00:42:05.720 --> 00:42:09.590 align:middle line:84%
+See, if the markup changes, the
+natural rate of unemployment
+
+00:42:09.590 --> 00:42:11.570 align:middle line:90%
+will change.
+
+00:42:11.570 --> 00:42:15.170 align:middle line:84%
+There's another set of
+parameter here, which is z.
+
+00:42:15.170 --> 00:42:16.970 align:middle line:84%
+We took as given
+the institutions
+
+00:42:16.970 --> 00:42:20.780 align:middle line:84%
+that protect the bargaining
+power of workers institutions,
+
+00:42:20.780 --> 00:42:23.690 align:middle line:90%
+supporting institutions, the z.
+
+00:42:23.690 --> 00:42:24.950 align:middle line:90%
+That's a parameter here.
+
+00:42:24.950 --> 00:42:27.170 align:middle line:84%
+If that changes, the
+natural rate of unemployment
+
+00:42:27.170 --> 00:42:30.070 align:middle line:84%
+will change, which
+is, again, something
+
+00:42:30.070 --> 00:42:31.720 align:middle line:84%
+that confirms that
+there is nothing
+
+00:42:31.720 --> 00:42:34.690 align:middle line:84%
+natural about the natural
+rate of unemployment.
+
+00:42:34.690 --> 00:42:37.620 align:middle line:84%
+So let me just do it in
+equations very quickly
+
+00:42:37.620 --> 00:42:43.920 align:middle line:84%
+and then I'll do a couple
+of important shifts.
+
+00:42:43.920 --> 00:42:46.600 align:middle line:84%
+So in terms of equation,
+all that I did is says,
+
+00:42:46.600 --> 00:42:49.710 align:middle line:84%
+look, the wage setting equation,
+the price setting equation
+
+00:42:49.710 --> 00:42:50.790 align:middle line:90%
+gives us that.
+
+00:42:50.790 --> 00:42:53.340 align:middle line:84%
+The wage setting
+equation gives us that.
+
+00:42:53.340 --> 00:42:56.250 align:middle line:84%
+Therefore, that equal to
+that, that's a point we found.
+
+00:42:56.250 --> 00:42:58.530 align:middle line:84%
+That's the natural
+rate of unemployment
+
+00:42:58.530 --> 00:43:02.170 align:middle line:84%
+So from here, that's
+when the two are equal.
+
+00:43:02.170 --> 00:43:03.390 align:middle line:90%
+This was the flat curve.
+
+00:43:03.390 --> 00:43:05.160 align:middle line:84%
+This was the downward
+sloping curve.
+
+00:43:05.160 --> 00:43:10.760 align:middle line:84%
+Well, these two are equal when
+these two things are equal.
+
+00:43:10.760 --> 00:43:12.010 align:middle line:90%
+And that's what you get there.
+
+00:43:12.010 --> 00:43:15.650 align:middle line:84%
+So from there you solve the
+natural rate of unemployment.
+
+00:43:15.650 --> 00:43:18.200 align:middle line:84%
+What do you think happens to
+the natural rate of unemployment
+
+00:43:18.200 --> 00:43:19.430 align:middle line:90%
+is z goes up.
+
+00:43:19.430 --> 00:43:23.480 align:middle line:90%
+
+
+00:43:23.480 --> 00:43:28.250 align:middle line:84%
+Let's just be very mechanic
+at this point, just math.
+
+00:43:28.250 --> 00:43:31.760 align:middle line:84%
+If z goes up, watch
+what happens to F?
+
+00:43:31.760 --> 00:43:36.740 align:middle line:90%
+
+
+00:43:36.740 --> 00:43:39.960 align:middle line:90%
+Goes up if z was positive.
+
+00:43:39.960 --> 00:43:43.570 align:middle line:84%
+Well, the right hand
+side hasn't gone up.
+
+00:43:43.570 --> 00:43:46.240 align:middle line:90%
+So this went up.
+
+00:43:46.240 --> 00:43:49.930 align:middle line:84%
+Something has to give,
+so F comes back down.
+
+00:43:49.930 --> 00:43:52.030 align:middle line:84%
+And the only thing that
+can give, the only thing
+
+00:43:52.030 --> 00:43:53.710 align:middle line:84%
+that's endogenous
+in that picture
+
+00:43:53.710 --> 00:43:55.930 align:middle line:84%
+there is a natural
+rate of unemployment.
+
+00:43:55.930 --> 00:43:57.930 align:middle line:90%
+So if z goes up, F goes up.
+
+00:43:57.930 --> 00:44:00.480 align:middle line:84%
+Well, I need to bring F back
+down because the right hand
+
+00:44:00.480 --> 00:44:03.860 align:middle line:90%
+side hasn't given an inch.
+
+00:44:03.860 --> 00:44:06.760 align:middle line:84%
+So what do I have to do to a
+natural rate of unemployment
+
+00:44:06.760 --> 00:44:10.090 align:middle line:90%
+for F to come back down?
+
+00:44:10.090 --> 00:44:13.300 align:middle line:84%
+Rise-- because that's what
+will weaken bargaining power.
+
+00:44:13.300 --> 00:44:16.610 align:middle line:84%
+Workers' bargaining power got
+stronger because increasing z.
+
+00:44:16.610 --> 00:44:18.130 align:middle line:90%
+Well, I have to weaken it some--
+
+00:44:18.130 --> 00:44:18.950 align:middle line:90%
+I don't have to.
+
+00:44:18.950 --> 00:44:20.740 align:middle line:84%
+Equilibrium will
+weaken it somehow
+
+00:44:20.740 --> 00:44:22.960 align:middle line:84%
+so that we end up in
+the same situation,
+
+00:44:22.960 --> 00:44:25.540 align:middle line:84%
+with the same real wage
+that we had before, which
+
+00:44:25.540 --> 00:44:27.930 align:middle line:90%
+was equal to 1 over 1 plus m.
+
+00:44:27.930 --> 00:44:31.270 align:middle line:90%
+What happens if m goes up?
+
+00:44:31.270 --> 00:44:37.550 align:middle line:84%
+Well, if m goes up, markups go
+up, that means firms real wage--
+
+00:44:37.550 --> 00:44:41.420 align:middle line:84%
+the real way to
+firms offers drops.
+
+00:44:41.420 --> 00:44:44.810 align:middle line:84%
+So if this right
+hand side drops,
+
+00:44:44.810 --> 00:44:48.330 align:middle line:84%
+then I need the left hand
+side to drop, as well.
+
+00:44:48.330 --> 00:44:50.080 align:middle line:84%
+And the only thing
+that is endogenous here
+
+00:44:50.080 --> 00:44:52.860 align:middle line:84%
+is the natural rate
+of unemployment.
+
+00:44:52.860 --> 00:44:59.240 align:middle line:84%
+So I know that I need to drop
+F, what do I need to do to?
+
+00:44:59.240 --> 00:45:01.340 align:middle line:90%
+So I need to bring F down.
+
+00:45:01.340 --> 00:45:04.070 align:middle line:84%
+And the only tool you
+have is not a tool,
+
+00:45:04.070 --> 00:45:09.100 align:middle line:84%
+but in equilibrium anything
+that will can change here is uN.
+
+00:45:09.100 --> 00:45:13.170 align:middle line:84%
+It will increase uN
+because that will
+
+00:45:13.170 --> 00:45:14.940 align:middle line:84%
+reduce bargaining
+power of workers
+
+00:45:14.940 --> 00:45:17.310 align:middle line:84%
+and that will reduce
+the real wage demand.
+
+00:45:17.310 --> 00:45:19.630 align:middle line:84%
+And therefore, you restore
+equilibrium that way.
+
+00:45:19.630 --> 00:45:21.900 align:middle line:84%
+So this environment is
+a very nasty environment
+
+00:45:21.900 --> 00:45:25.440 align:middle line:84%
+for workers in a sense
+because it's always
+
+00:45:25.440 --> 00:45:30.170 align:middle line:84%
+the escape value is the
+natural rate of unemployment.
+
+00:45:30.170 --> 00:45:33.020 align:middle line:84%
+So here you have what I
+just said in pictures.
+
+00:45:33.020 --> 00:45:37.100 align:middle line:84%
+So that's example of z
+going up, bargaining power
+
+00:45:37.100 --> 00:45:38.490 align:middle line:90%
+of workers going up.
+
+00:45:38.490 --> 00:45:42.150 align:middle line:84%
+So suppose you start at
+an equilibrium like this.
+
+00:45:42.150 --> 00:45:45.020 align:middle line:90%
+And now z goes up.
+
+00:45:45.020 --> 00:45:48.110 align:middle line:84%
+Well, that means that
+workers, for any given
+
+00:45:48.110 --> 00:45:50.930 align:middle line:84%
+level of unemployment,
+natural rate of unemployment,
+
+00:45:50.930 --> 00:45:55.010 align:middle line:84%
+want a higher wage because they
+have more bargaining power.
+
+00:45:55.010 --> 00:45:58.040 align:middle line:84%
+Well, that higher wage is
+inconsistent with the wage
+
+00:45:58.040 --> 00:46:00.130 align:middle line:90%
+that firms want to pay.
+
+00:46:00.130 --> 00:46:02.350 align:middle line:84%
+What restores equilibrium
+is unemployment,
+
+00:46:02.350 --> 00:46:06.480 align:middle line:84%
+the natural rate of
+unemployment goes up enough so
+
+00:46:06.480 --> 00:46:10.380 align:middle line:84%
+that the wage demand sort comes
+down to the same original level
+
+00:46:10.380 --> 00:46:14.340 align:middle line:84%
+because this price setting
+equation is completely flat.
+
+00:46:14.340 --> 00:46:16.500 align:middle line:84%
+So there you have
+a situation where
+
+00:46:16.500 --> 00:46:20.490 align:middle line:84%
+bargaining power of workers went
+up and all that end up happening
+
+00:46:20.490 --> 00:46:23.190 align:middle line:84%
+is that, in the
+medium run, at least,
+
+00:46:23.190 --> 00:46:26.920 align:middle line:84%
+that the natural rate
+of unemployment went up.
+
+00:46:26.920 --> 00:46:30.340 align:middle line:84%
+That's very much the story
+of Europe, by the way,
+
+00:46:30.340 --> 00:46:31.180 align:middle line:90%
+in the '80s--
+
+00:46:31.180 --> 00:46:32.530 align:middle line:90%
+France in particular.
+
+00:46:32.530 --> 00:46:37.100 align:middle line:84%
+France had major labor reforms,
+z boosting, if you will,
+
+00:46:37.100 --> 00:46:38.140 align:middle line:90%
+in the 1980.
+
+00:46:38.140 --> 00:46:39.970 align:middle line:84%
+Initially it was a
+great deal for workers.
+
+00:46:39.970 --> 00:46:41.440 align:middle line:90%
+Real wages went up and so on.
+
+00:46:41.440 --> 00:46:42.460 align:middle line:90%
+It was wonderful.
+
+00:46:42.460 --> 00:46:44.480 align:middle line:84%
+But eventually with
+the passage of time,
+
+00:46:44.480 --> 00:46:46.330 align:middle line:84%
+they ended up just with
+a much higher real--
+
+00:46:46.330 --> 00:46:50.080 align:middle line:84%
+not a much higher real wage, but
+a much higher real unemployment
+
+00:46:50.080 --> 00:46:51.020 align:middle line:90%
+rate.
+
+00:46:51.020 --> 00:46:54.970 align:middle line:84%
+That went from single
+digit, low single digits,
+
+00:46:54.970 --> 00:46:58.640 align:middle line:84%
+to 15% unemployment rates
+and things like that.
+
+00:46:58.640 --> 00:47:01.630 align:middle line:84%
+And since then, they have been
+sort of reforming the labor
+
+00:47:01.630 --> 00:47:04.360 align:middle line:90%
+market to fix some of that.
+
+00:47:04.360 --> 00:47:08.140 align:middle line:84%
+But that was very much what
+happened in continental Europe
+
+00:47:08.140 --> 00:47:10.610 align:middle line:90%
+in the '80s.
+
+00:47:10.610 --> 00:47:12.890 align:middle line:84%
+This is the case of
+a markup increase,
+
+00:47:12.890 --> 00:47:15.350 align:middle line:90%
+the other one I described.
+
+00:47:15.350 --> 00:47:20.650 align:middle line:84%
+So if markups go up, then that
+means firms in equilibrium
+
+00:47:20.650 --> 00:47:24.650 align:middle line:84%
+are not willing
+to pay real wages.
+
+00:47:24.650 --> 00:47:27.010 align:middle line:84%
+They want to pay
+a lower real wage.
+
+00:47:27.010 --> 00:47:28.720 align:middle line:84%
+Well, at this level
+of unemployment,
+
+00:47:28.720 --> 00:47:30.247 align:middle line:84%
+workers are not
+going to take it.
+
+00:47:30.247 --> 00:47:32.080 align:middle line:84%
+The only thing that
+will restore equilibrium
+
+00:47:32.080 --> 00:47:33.747 align:middle line:84%
+is that the natural
+rate of unemployment
+
+00:47:33.747 --> 00:47:36.730 align:middle line:84%
+goes up that weakens
+the hand of workers.
+
+00:47:36.730 --> 00:47:39.560 align:middle line:90%
+And you end up with this.
+
+00:47:39.560 --> 00:47:41.570 align:middle line:84%
+And again, there is
+nothing natural about this.
+
+00:47:41.570 --> 00:47:43.120 align:middle line:84%
+I'm not saying this
+is good or bad.
+
+00:47:43.120 --> 00:47:45.040 align:middle line:84%
+I have no idea why
+the markets went up.
+
+00:47:45.040 --> 00:47:47.410 align:middle line:84%
+It is just imperfect
+competition, going up,
+
+00:47:47.410 --> 00:47:49.570 align:middle line:90%
+that's clearly not a good thing.
+
+00:47:49.570 --> 00:47:51.820 align:middle line:84%
+But it may have been something
+else-- the price of oil
+
+00:47:51.820 --> 00:47:53.740 align:middle line:90%
+went up a lot, I don't know.
+
+00:47:53.740 --> 00:47:56.650 align:middle line:84%
+It was a war somewhere and
+then productivity came down,
+
+00:47:56.650 --> 00:47:58.400 align:middle line:90%
+something of that kind.
+
+00:47:58.400 --> 00:48:00.197 align:middle line:90%
+So I don't know what it did.
+
+00:48:00.197 --> 00:48:01.780 align:middle line:84%
+But the only thing
+I'm describing here
+
+00:48:01.780 --> 00:48:02.620 align:middle line:90%
+is the mechanics.
+
+00:48:02.620 --> 00:48:06.320 align:middle line:90%
+
+
+00:48:06.320 --> 00:48:07.850 align:middle line:90%
+Good.
+
+00:48:07.850 --> 00:48:12.030 align:middle line:90%
+So the quiz is up to here.
+
+00:48:12.030 --> 00:48:15.740 align:middle line:90%
+So the quiz ends here.
+
+00:48:15.740 --> 00:48:19.400 align:middle line:84%
+In the next lecture, we're
+going to start the Phillips
+
+00:48:19.400 --> 00:48:22.160 align:middle line:84%
+curve, which is now
+using this model,
+
+00:48:22.160 --> 00:48:23.990 align:middle line:84%
+but looking at
+deviations situations
+
+00:48:23.990 --> 00:48:26.900 align:middle line:84%
+where the price is not equal to
+expected price, or the expected
+
+00:48:26.900 --> 00:48:30.230 align:middle line:84%
+price is not equal
+to the actual price.
+
+00:48:30.230 --> 00:48:33.685 align:middle line:84%
+And that's going to lead
+to interesting situations.
+
+00:48:33.685 --> 00:48:35.810 align:middle line:84%
+And then we're going to be
+talking about inflation.
+
+00:48:35.810 --> 00:48:38.238 align:middle line:84%
+Here, this is not a model
+to talk about inflation.
+
+00:48:38.238 --> 00:48:40.280 align:middle line:84%
+I'm talking about what
+happens in the medium run.
+
+00:48:40.280 --> 00:48:43.070 align:middle line:84%
+I haven't told you whether
+the adjustment happens
+
+00:48:43.070 --> 00:48:45.800 align:middle line:84%
+through the nominal wage,
+through the prices, or what.
+
+00:48:45.800 --> 00:48:50.130 align:middle line:84%
+I mean, there are many ways of
+reaching the same real wage.
+
+00:48:50.130 --> 00:48:53.780 align:middle line:84%
+You could have it--
+you could lower
+
+00:48:53.780 --> 00:49:00.620 align:middle line:84%
+real wages by increasing wages
+by 50% and prices by 60, say.
+
+00:49:00.620 --> 00:49:04.490 align:middle line:84%
+Or you could do it by
+lowering nominal wages by 10
+
+00:49:04.490 --> 00:49:05.670 align:middle line:90%
+and not moving prices.
+
+00:49:05.670 --> 00:49:07.128 align:middle line:84%
+So there are many
+ways of doing it.
+
+00:49:07.128 --> 00:49:09.930 align:middle line:84%
+The Phillips curve is going to
+allow us to get into that part.
+
+00:49:09.930 --> 00:49:12.040 align:middle line:84%
+But it's not going to
+be part of your quiz.
+
+00:49:12.040 --> 00:49:14.680 align:middle line:84%
+The quiz, that's going to
+be part of the second quiz.
+
+00:49:14.680 --> 00:49:16.170 align:middle line:84%
+So in the next
+lecture, I'm going
+
+00:49:16.170 --> 00:49:18.837 align:middle line:84%
+to talk about the Phillips curve
+and then on Wednesday a review.
+
+00:49:18.837 --> 00:49:21.680 align:middle line:90%
+And then you have your quiz.
+
+00:49:21.680 --> 00:49:34.000 align:middle line:90%

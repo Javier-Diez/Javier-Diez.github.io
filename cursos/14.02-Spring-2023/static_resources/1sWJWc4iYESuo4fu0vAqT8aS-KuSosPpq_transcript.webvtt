@@ -1,0 +1,4171 @@
+WEBVTT
+
+00:00:00.000 --> 00:00:17.610 align:middle line:84%
+[SQUEAKING]
+[RUSTLING] [CLICKING]
+
+00:00:17.610 --> 00:00:22.900 align:middle line:84%
+RICARDO CABALLERO: All
+right, let's start.
+
+00:00:22.900 --> 00:00:28.060 align:middle line:84%
+So today I want to talk
+about interest rates.
+
+00:00:28.060 --> 00:00:30.480 align:middle line:84%
+If you have followed
+the news, there
+
+00:00:30.480 --> 00:00:34.620 align:middle line:84%
+is a lot of debate on
+these days on where
+
+00:00:34.620 --> 00:00:36.960 align:middle line:84%
+will the interest
+rate in the US end
+
+00:00:36.960 --> 00:00:40.350 align:middle line:84%
+at the end of this
+tightening cycle.
+
+00:00:40.350 --> 00:00:47.640 align:middle line:90%
+
+
+00:00:47.640 --> 00:00:50.360 align:middle line:90%
+And so I'll show you.
+
+00:00:50.360 --> 00:00:52.700 align:middle line:84%
+There has been a very
+aggressive monetary policy
+
+00:00:52.700 --> 00:00:56.510 align:middle line:84%
+trying to fight the inflationary
+episode we're going through.
+
+00:00:56.510 --> 00:00:59.160 align:middle line:84%
+And that's done
+through interest rates.
+
+00:00:59.160 --> 00:01:02.150 align:middle line:84%
+And the question that
+I want to address today
+
+00:01:02.150 --> 00:01:06.030 align:middle line:84%
+is well, how is it that the
+interest rate is determined?
+
+00:01:06.030 --> 00:01:10.610 align:middle line:84%
+So when a central bank decides
+to hike interest rates,
+
+00:01:10.610 --> 00:01:12.560 align:middle line:90%
+how do they do that?
+
+00:01:12.560 --> 00:01:14.930 align:middle line:84%
+And obviously this is
+about financial markets.
+
+00:01:14.930 --> 00:01:17.510 align:middle line:84%
+Interest rates are set
+in financial markets.
+
+00:01:17.510 --> 00:01:19.980 align:middle line:84%
+And financial markets are
+very, very complicated.
+
+00:01:19.980 --> 00:01:22.750 align:middle line:84%
+So we're going to keep
+it very, very simple.
+
+00:01:22.750 --> 00:01:24.590 align:middle line:84%
+We're going to introduce
+more complexity
+
+00:01:24.590 --> 00:01:25.650 align:middle line:90%
+later on in the course.
+
+00:01:25.650 --> 00:01:27.608 align:middle line:84%
+But still, we're going
+to keep it pretty simple
+
+00:01:27.608 --> 00:01:31.340 align:middle line:84%
+because our main objective
+in studying financial markets
+
+00:01:31.340 --> 00:01:37.760 align:middle line:84%
+is really to achieve some
+sort of understanding of how
+
+00:01:37.760 --> 00:01:41.540 align:middle line:84%
+the interest rate policy that
+the central bank controls
+
+00:01:41.540 --> 00:01:43.980 align:middle line:90%
+is determined.
+
+00:01:43.980 --> 00:01:53.690 align:middle line:84%
+So before I get into specifics,
+let's see some trivia here.
+
+00:01:53.690 --> 00:01:55.670 align:middle line:90%
+Who knows who that person is?
+
+00:01:55.670 --> 00:01:57.640 align:middle line:90%
+OK.
+
+00:01:57.640 --> 00:01:59.144 align:middle line:90%
+You, sir.
+
+00:01:59.144 --> 00:02:00.380 align:middle line:90%
+AUDIENCE: Jerome Powell.
+
+00:02:00.380 --> 00:02:02.130 align:middle line:84%
+RICARDO CABALLERO:
+Jerome Powell, exactly.
+
+00:02:02.130 --> 00:02:03.676 align:middle line:90%
+And who is Jerome Powell?
+
+00:02:03.676 --> 00:02:05.470 align:middle line:84%
+AUDIENCE: The chair of
+the Federal Reserve.
+
+00:02:05.470 --> 00:02:08.770 align:middle line:84%
+RICARDO CABALLERO: The
+chair of the Federal Reserve
+
+00:02:08.770 --> 00:02:12.260 align:middle line:84%
+System in the US, which is
+the central bank of the US.
+
+00:02:12.260 --> 00:02:16.570 align:middle line:90%
+OK, so that was an easy one.
+
+00:02:16.570 --> 00:02:18.580 align:middle line:84%
+And if you are into
+financial markets,
+
+00:02:18.580 --> 00:02:20.770 align:middle line:84%
+everyone is worried about
+what this guy is thinking
+
+00:02:20.770 --> 00:02:23.050 align:middle line:84%
+and his friends are
+thinking at this moment
+
+00:02:23.050 --> 00:02:25.317 align:middle line:84%
+because they determine
+the interest rate.
+
+00:02:25.317 --> 00:02:26.150 align:middle line:90%
+How do they do that?
+
+00:02:26.150 --> 00:02:29.380 align:middle line:84%
+Well, that's what we're
+going to talk about later on.
+
+00:02:29.380 --> 00:02:30.250 align:middle line:90%
+A little trickier.
+
+00:02:30.250 --> 00:02:30.835 align:middle line:90%
+Who is this?
+
+00:02:30.835 --> 00:02:35.100 align:middle line:90%
+
+
+00:02:35.100 --> 00:02:35.600 align:middle line:90%
+No, no.
+
+00:02:35.600 --> 00:02:36.455 align:middle line:90%
+That's cheating.
+
+00:02:36.455 --> 00:02:39.050 align:middle line:90%
+
+
+00:02:39.050 --> 00:02:40.910 align:middle line:90%
+Katsuo Ueda.
+
+00:02:40.910 --> 00:02:45.050 align:middle line:84%
+He's the next president
+of the Bank of Japan,
+
+00:02:45.050 --> 00:02:47.120 align:middle line:90%
+the central bank of Japan.
+
+00:02:47.120 --> 00:02:50.690 align:middle line:84%
+And an interesting-- there are
+many interesting things of him,
+
+00:02:50.690 --> 00:02:53.690 align:middle line:84%
+about him-- but he's a he's
+a graduate from our program,
+
+00:02:53.690 --> 00:02:58.130 align:middle line:84%
+the PhD program,
+which actually is
+
+00:02:58.130 --> 00:03:00.470 align:middle line:84%
+an incredibly successful
+program at producing
+
+00:03:00.470 --> 00:03:02.120 align:middle line:90%
+major central bankers.
+
+00:03:02.120 --> 00:03:04.940 align:middle line:90%
+Ben Bernanke is our alumnus.
+
+00:03:04.940 --> 00:03:08.990 align:middle line:84%
+He was the chairman
+of the central bank,
+
+00:03:08.990 --> 00:03:11.180 align:middle line:84%
+the chair of the
+central bank of the Fed
+
+00:03:11.180 --> 00:03:12.980 align:middle line:90%
+during the financial crisis.
+
+00:03:12.980 --> 00:03:16.650 align:middle line:84%
+Mario Draghi is one
+of our graduates.
+
+00:03:16.650 --> 00:03:21.830 align:middle line:84%
+Mario Draghi was the most
+successful central banker
+
+00:03:21.830 --> 00:03:22.550 align:middle line:90%
+in Europe.
+
+00:03:22.550 --> 00:03:27.170 align:middle line:84%
+He was the president of the
+ECB, European Central Bank,
+
+00:03:27.170 --> 00:03:28.730 align:middle line:84%
+for many years,
+and in particular,
+
+00:03:28.730 --> 00:03:32.458 align:middle line:84%
+during the global financial
+crisis and the European crisis,
+
+00:03:32.458 --> 00:03:34.250 align:middle line:84%
+which followed the
+global financial crisis.
+
+00:03:34.250 --> 00:03:36.770 align:middle line:90%
+
+
+00:03:36.770 --> 00:03:37.940 align:middle line:90%
+But you name it--
+
+00:03:37.940 --> 00:03:41.030 align:middle line:84%
+Stan Fisher in the past
+of the Bank of Israel.
+
+00:03:41.030 --> 00:03:45.710 align:middle line:84%
+And nowadays, Phil Lowe of
+the chair of the Reserve
+
+00:03:45.710 --> 00:03:47.300 align:middle line:90%
+Bank of Australia.
+
+00:03:47.300 --> 00:03:51.620 align:middle line:84%
+In Chile we have had two or
+three presidents and so on.
+
+00:03:51.620 --> 00:03:53.780 align:middle line:84%
+So if this is your career,
+this is a good program.
+
+00:03:53.780 --> 00:03:55.190 align:middle line:90%
+You should join our program.
+
+00:03:55.190 --> 00:03:57.420 align:middle line:90%
+You may end up in a good place.
+
+00:03:57.420 --> 00:04:00.200 align:middle line:84%
+But that's the
+next one for Japan.
+
+00:04:00.200 --> 00:04:02.600 align:middle line:84%
+And Japan is a very
+interesting place
+
+00:04:02.600 --> 00:04:04.940 align:middle line:84%
+from the point of view
+of monetary policy,
+
+00:04:04.940 --> 00:04:08.810 align:middle line:84%
+precisely because they
+haven't had much space to do
+
+00:04:08.810 --> 00:04:10.320 align:middle line:90%
+conventional monetary policy.
+
+00:04:10.320 --> 00:04:12.530 align:middle line:84%
+So they have had to do lots
+of unconventional things
+
+00:04:12.530 --> 00:04:16.550 align:middle line:84%
+from the point of view of what
+a central bank typically does.
+
+00:04:16.550 --> 00:04:18.930 align:middle line:84%
+But today, we're going to
+study conventional things.
+
+00:04:18.930 --> 00:04:21.430 align:middle line:84%
+And we'll talk a little bit
+more about unconventional things
+
+00:04:21.430 --> 00:04:23.280 align:middle line:90%
+later in the course.
+
+00:04:23.280 --> 00:04:25.490 align:middle line:84%
+Now, some institutional
+knowledge--
+
+00:04:25.490 --> 00:04:29.510 align:middle line:84%
+this is, again, in the US,
+the central bank of the US
+
+00:04:29.510 --> 00:04:31.400 align:middle line:84%
+is called the Federal
+Reserve System.
+
+00:04:31.400 --> 00:04:33.410 align:middle line:90%
+And it's a system, really.
+
+00:04:33.410 --> 00:04:41.250 align:middle line:84%
+It has the Board of Governors
+which sits in Washington DC.
+
+00:04:41.250 --> 00:04:43.430 align:middle line:90%
+And there are seven governors.
+
+00:04:43.430 --> 00:04:47.600 align:middle line:84%
+And the governors are
+nominated by the president
+
+00:04:47.600 --> 00:04:50.030 align:middle line:84%
+and then confirmed
+by the Senate.
+
+00:04:50.030 --> 00:04:55.700 align:middle line:84%
+And the president
+of that board is--
+
+00:04:55.700 --> 00:05:01.490 align:middle line:84%
+so the president of the Fed
+will be one of those members.
+
+00:05:01.490 --> 00:05:05.780 align:middle line:84%
+Now, in addition to that, the
+US has a Federal Reserve bank
+
+00:05:05.780 --> 00:05:06.350 align:middle line:90%
+system.
+
+00:05:06.350 --> 00:05:10.240 align:middle line:90%
+There are 12 regional banks.
+
+00:05:10.240 --> 00:05:11.750 align:middle line:90%
+There is one in Boston.
+
+00:05:11.750 --> 00:05:14.330 align:middle line:84%
+In fact, if you look at the
+skyline near the waterfront,
+
+00:05:14.330 --> 00:05:18.470 align:middle line:84%
+there is a building built
+out of recycled aluminum.
+
+00:05:18.470 --> 00:05:21.320 align:middle line:84%
+Well, that's the
+Reserve Bank of Boston.
+
+00:05:21.320 --> 00:05:27.920 align:middle line:84%
+And of those 12 regional
+banks, they rotate.
+
+00:05:27.920 --> 00:05:30.230 align:middle line:84%
+So the policy, the
+policy interest rate,
+
+00:05:30.230 --> 00:05:35.390 align:middle line:84%
+is set in a committee, which is
+called the FOMC, Federal Open
+
+00:05:35.390 --> 00:05:37.160 align:middle line:90%
+Market Committee.
+
+00:05:37.160 --> 00:05:39.860 align:middle line:84%
+And the member of that, the
+voting members of that committee
+
+00:05:39.860 --> 00:05:45.840 align:middle line:84%
+are the seven governors
+plus 4 out of the 12.
+
+00:05:45.840 --> 00:05:46.910 align:middle line:90%
+And they rotate.
+
+00:05:46.910 --> 00:05:48.380 align:middle line:90%
+Most of them rotate.
+
+00:05:48.380 --> 00:05:50.630 align:middle line:84%
+The only one I think
+does not rotate
+
+00:05:50.630 --> 00:05:55.940 align:middle line:84%
+is the president of
+the New York Fed,
+
+00:05:55.940 --> 00:05:57.950 align:middle line:84%
+because they are so
+important, because that's
+
+00:05:57.950 --> 00:06:01.100 align:middle line:84%
+the financial heart of
+the US that you certainly
+
+00:06:01.100 --> 00:06:06.920 align:middle line:84%
+want that president to be
+involved in interest rate
+
+00:06:06.920 --> 00:06:07.700 align:middle line:90%
+decisions.
+
+00:06:07.700 --> 00:06:10.940 align:middle line:84%
+And it's really the Fed that
+is in charge of communication
+
+00:06:10.940 --> 00:06:14.330 align:middle line:84%
+with financial markets, which
+is a huge thing for the Fed.
+
+00:06:14.330 --> 00:06:18.200 align:middle line:84%
+They are in New York and
+they're crucial for that.
+
+00:06:18.200 --> 00:06:22.010 align:middle line:84%
+OK so those are
+the people that--
+
+00:06:22.010 --> 00:06:24.350 align:middle line:84%
+and in most places
+around the world
+
+00:06:24.350 --> 00:06:28.670 align:middle line:84%
+you're going to have at least
+something equivalent to the 7
+
+00:06:28.670 --> 00:06:30.470 align:middle line:90%
+governors out there--
+
+00:06:30.470 --> 00:06:31.490 align:middle line:90%
+most places.
+
+00:06:31.490 --> 00:06:35.130 align:middle line:84%
+Obviously, the ECB is different
+because it's multiple countries.
+
+00:06:35.130 --> 00:06:37.465 align:middle line:84%
+So each country
+sends one member.
+
+00:06:37.465 --> 00:06:40.320 align:middle line:90%
+
+
+00:06:40.320 --> 00:06:45.470 align:middle line:84%
+But otherwise, it
+tends to be like the US
+
+00:06:45.470 --> 00:06:49.560 align:middle line:90%
+without the regional banks.
+
+00:06:49.560 --> 00:06:51.970 align:middle line:84%
+So why do we care
+about monetary policy?
+
+00:06:51.970 --> 00:06:54.050 align:middle line:84%
+Well, because the thing
+is one of the main policy
+
+00:06:54.050 --> 00:06:55.730 align:middle line:84%
+tools you have in the
+short run remember
+
+00:06:55.730 --> 00:06:57.105 align:middle line:84%
+in this part of
+the course, we're
+
+00:06:57.105 --> 00:07:00.150 align:middle line:84%
+trying to understand
+output in the short term.
+
+00:07:00.150 --> 00:07:02.340 align:middle line:84%
+And one of the main
+policy levers--
+
+00:07:02.340 --> 00:07:04.040 align:middle line:84%
+I mean, how can
+you affect output--
+
+00:07:04.040 --> 00:07:06.300 align:middle line:90%
+is monetary policy.
+
+00:07:06.300 --> 00:07:09.700 align:middle line:90%
+Which one is the other one?
+
+00:07:09.700 --> 00:07:11.095 align:middle line:90%
+There are two major ones.
+
+00:07:11.095 --> 00:07:11.560 align:middle line:90%
+AUDIENCE: Fiscal policy.
+
+00:07:11.560 --> 00:07:12.490 align:middle line:84%
+RICARDO CABALLERO:
+Fiscal policy.
+
+00:07:12.490 --> 00:07:13.235 align:middle line:90%
+Exactly.
+
+00:07:13.235 --> 00:07:15.610 align:middle line:84%
+And fiscal policy we did look
+at in the previous lecture.
+
+00:07:15.610 --> 00:07:18.130 align:middle line:84%
+Remember, we said an
+expansionary fiscal policy
+
+00:07:18.130 --> 00:07:20.590 align:middle line:84%
+is an increasing G
+while a decline in T
+
+00:07:20.590 --> 00:07:22.690 align:middle line:84%
+would lead to an expansion
+in aggregate demand.
+
+00:07:22.690 --> 00:07:25.360 align:middle line:90%
+Equilibrium output would go up.
+
+00:07:25.360 --> 00:07:27.670 align:middle line:84%
+So fiscal policy is
+something you always
+
+00:07:27.670 --> 00:07:30.490 align:middle line:90%
+use in deep recessions.
+
+00:07:30.490 --> 00:07:33.820 align:middle line:84%
+But monetary policy
+is much more nimble.
+
+00:07:33.820 --> 00:07:35.440 align:middle line:84%
+I mean, it's a
+bunch of people that
+
+00:07:35.440 --> 00:07:37.870 align:middle line:84%
+need to meet and just
+change the interest rate.
+
+00:07:37.870 --> 00:07:40.930 align:middle line:84%
+Anything that is fiscal, there
+are some automatic stabilizers,
+
+00:07:40.930 --> 00:07:41.560 align:middle line:90%
+by the way.
+
+00:07:41.560 --> 00:07:43.690 align:middle line:84%
+So automatically,
+fiscal policy becomes
+
+00:07:43.690 --> 00:07:46.420 align:middle line:84%
+more expansionary during
+recessions and stuff like that.
+
+00:07:46.420 --> 00:07:49.900 align:middle line:84%
+But any deviation from the
+typical automatic stabilizers
+
+00:07:49.900 --> 00:07:51.730 align:middle line:84%
+require Congress
+to approve things.
+
+00:07:51.730 --> 00:07:53.090 align:middle line:90%
+It's a long process.
+
+00:07:53.090 --> 00:07:55.990 align:middle line:84%
+And so it's not something
+that can react as
+
+00:07:55.990 --> 00:07:59.428 align:middle line:90%
+quickly as monetary policy can.
+
+00:07:59.428 --> 00:08:00.970 align:middle line:84%
+And so that's what
+we're going to do.
+
+00:08:00.970 --> 00:08:04.600 align:middle line:84%
+That's the reason why monetary
+policy is important for us
+
+00:08:04.600 --> 00:08:05.950 align:middle line:90%
+at this point.
+
+00:08:05.950 --> 00:08:08.600 align:middle line:84%
+Then there are medium
+and long run issues.
+
+00:08:08.600 --> 00:08:12.230 align:middle line:84%
+Fiscal policy still
+affects equilibrium output
+
+00:08:12.230 --> 00:08:13.580 align:middle line:90%
+in the medium and long run.
+
+00:08:13.580 --> 00:08:15.950 align:middle line:84%
+Monetary policy is much
+less effective at that.
+
+00:08:15.950 --> 00:08:19.520 align:middle line:84%
+It's very difficult to change
+sort of equilibrium growth
+
+00:08:19.520 --> 00:08:21.260 align:middle line:84%
+or things like that
+with monetary policy.
+
+00:08:21.260 --> 00:08:22.940 align:middle line:90%
+It's very pretty minor.
+
+00:08:22.940 --> 00:08:26.510 align:middle line:84%
+Most of the impact of monetary
+policy in the medium and long
+
+00:08:26.510 --> 00:08:28.820 align:middle line:84%
+run is really on the
+price level and inflation
+
+00:08:28.820 --> 00:08:30.800 align:middle line:90%
+more than on real activity.
+
+00:08:30.800 --> 00:08:33.080 align:middle line:84%
+But in the short run it's
+very powerful for reasons
+
+00:08:33.080 --> 00:08:35.600 align:middle line:84%
+that we're going to discuss
+in this and the next lecture.
+
+00:08:35.600 --> 00:08:41.230 align:middle line:90%
+
+
+00:08:41.230 --> 00:08:44.830 align:middle line:84%
+OK, so as I said,
+monetary policy
+
+00:08:44.830 --> 00:08:46.450 align:middle line:90%
+acts through financial markets.
+
+00:08:46.450 --> 00:08:50.280 align:middle line:84%
+I think it's a very interesting
+part of my research agenda
+
+00:08:50.280 --> 00:08:51.310 align:middle line:90%
+is about that.
+
+00:08:51.310 --> 00:08:54.420 align:middle line:84%
+I think the central bank is
+a very strange institution
+
+00:08:54.420 --> 00:08:57.780 align:middle line:84%
+because most of its mandates
+are in terms of what
+
+00:08:57.780 --> 00:08:59.820 align:middle line:90%
+happens in the goods market.
+
+00:08:59.820 --> 00:09:03.030 align:middle line:84%
+It says try not to
+get into recession.
+
+00:09:03.030 --> 00:09:05.530 align:middle line:84%
+Try to get us out of a
+recession, and so on.
+
+00:09:05.530 --> 00:09:08.970 align:middle line:84%
+But unlike fiscal policy, which
+has tools that are directly
+
+00:09:08.970 --> 00:09:10.870 align:middle line:84%
+aimed at the goods
+market, remember,
+
+00:09:10.870 --> 00:09:13.043 align:middle line:84%
+is a purchases by the
+government of goods.
+
+00:09:13.043 --> 00:09:14.460 align:middle line:84%
+So if there is
+insufficient demand
+
+00:09:14.460 --> 00:09:17.760 align:middle line:84%
+for goods, the fiscal
+policy, the fiscal authority
+
+00:09:17.760 --> 00:09:19.290 align:middle line:90%
+can go out there and buy goods.
+
+00:09:19.290 --> 00:09:21.030 align:middle line:90%
+That creates more demand.
+
+00:09:21.030 --> 00:09:25.230 align:middle line:84%
+The central bank is given
+the same mandate aside
+
+00:09:25.230 --> 00:09:27.240 align:middle line:84%
+from price stability
+and things like that we
+
+00:09:27.240 --> 00:09:28.380 align:middle line:90%
+want to worry about later.
+
+00:09:28.380 --> 00:09:30.150 align:middle line:90%
+But it doesn't have any tools.
+
+00:09:30.150 --> 00:09:32.610 align:middle line:84%
+The central bank, if there
+is insufficient demand,
+
+00:09:32.610 --> 00:09:35.850 align:middle line:84%
+the central bank cannot go
+out there and buy hamburgers.
+
+00:09:35.850 --> 00:09:38.280 align:middle line:84%
+Fiscal policy can do that
+and expand the demand
+
+00:09:38.280 --> 00:09:41.040 align:middle line:84%
+for hamburgers, but
+not monetary policy.
+
+00:09:41.040 --> 00:09:45.570 align:middle line:84%
+What monetary policy can do
+is buy bonds, buy instruments
+
+00:09:45.570 --> 00:09:46.770 align:middle line:90%
+in the financial markets.
+
+00:09:46.770 --> 00:09:49.810 align:middle line:84%
+And through that,
+affects real activity.
+
+00:09:49.810 --> 00:09:54.820 align:middle line:84%
+So it's the fastest policy tool
+but it's the most indirect,
+
+00:09:54.820 --> 00:09:58.690 align:middle line:84%
+in a sense, because it has to
+go through financial markets.
+
+00:09:58.690 --> 00:10:02.210 align:middle line:84%
+And those channels
+can be very complex.
+
+00:10:02.210 --> 00:10:05.950 align:middle line:84%
+But obviously, we're not in the
+business of complicating things
+
+00:10:05.950 --> 00:10:06.980 align:middle line:90%
+in this course.
+
+00:10:06.980 --> 00:10:09.170 align:middle line:84%
+So we're going to make
+it very, very simple.
+
+00:10:09.170 --> 00:10:13.120 align:middle line:84%
+We're going to assume that
+financial markets only
+
+00:10:13.120 --> 00:10:14.920 align:middle line:90%
+have two instruments.
+
+00:10:14.920 --> 00:10:16.600 align:middle line:90%
+Obviously a huge simplification.
+
+00:10:16.600 --> 00:10:19.270 align:middle line:84%
+There are millions of financial
+instruments out there.
+
+00:10:19.270 --> 00:10:21.690 align:middle line:84%
+But I'm going to isolate only
+two instruments because this
+
+00:10:21.690 --> 00:10:27.720 align:middle line:84%
+happens to be the instrument
+where the central banks
+
+00:10:27.720 --> 00:10:30.270 align:middle line:90%
+typically participate.
+
+00:10:30.270 --> 00:10:32.910 align:middle line:84%
+They affect all
+asset prices around.
+
+00:10:32.910 --> 00:10:35.647 align:middle line:84%
+But the direct
+interventions typically--
+
+00:10:35.647 --> 00:10:37.230 align:middle line:84%
+recently has been a
+little different--
+
+00:10:37.230 --> 00:10:41.862 align:middle line:84%
+but typically it's only in
+these kind of instruments.
+
+00:10:41.862 --> 00:10:43.820 align:middle line:84%
+And so we're going to
+focus all of our analysis
+
+00:10:43.820 --> 00:10:45.633 align:middle line:84%
+on those two
+instruments for now.
+
+00:10:45.633 --> 00:10:47.800 align:middle line:84%
+Later on, we're going to
+talk about equity and stuff
+
+00:10:47.800 --> 00:10:49.300 align:middle line:90%
+like that.
+
+00:10:49.300 --> 00:10:53.710 align:middle line:84%
+But just to isolate how
+monetary policy works,
+
+00:10:53.710 --> 00:10:56.920 align:middle line:84%
+it's sufficient to just focus
+on two financial instruments.
+
+00:10:56.920 --> 00:10:58.420 align:middle line:84%
+So we're going to
+assume that people
+
+00:10:58.420 --> 00:11:03.870 align:middle line:84%
+have their wealth in only two
+forms, in two financial assets.
+
+00:11:03.870 --> 00:11:06.950 align:middle line:84%
+One, we're going
+to call it money.
+
+00:11:06.950 --> 00:11:10.490 align:middle line:84%
+And the other one we
+want to call it bonds.
+
+00:11:10.490 --> 00:11:14.570 align:middle line:84%
+Money, the characteristic of
+money, what we call money,
+
+00:11:14.570 --> 00:11:17.190 align:middle line:84%
+there are many definitions of
+money, and 1, and 2, and 3,
+
+00:11:17.190 --> 00:11:17.690 align:middle line:90%
+and 4.
+
+00:11:17.690 --> 00:11:19.960 align:middle line:90%
+But let's keep it very simple.
+
+00:11:19.960 --> 00:11:21.820 align:middle line:84%
+Money essentially
+means something
+
+00:11:21.820 --> 00:11:26.090 align:middle line:84%
+that you can use very
+easily for transactions.
+
+00:11:26.090 --> 00:11:31.895 align:middle line:84%
+So for example, the most
+important example of money--
+
+00:11:31.895 --> 00:11:33.770 align:middle line:84%
+not the largest, but
+the most important one--
+
+00:11:33.770 --> 00:11:37.070 align:middle line:90%
+is cash, currency.
+
+00:11:37.070 --> 00:11:39.140 align:middle line:90%
+You can buy anything with cash.
+
+00:11:39.140 --> 00:11:41.070 align:middle line:90%
+It's no problem whatsoever.
+
+00:11:41.070 --> 00:11:48.370 align:middle line:84%
+Now the characteristics of the
+money typically does not have,
+
+00:11:48.370 --> 00:11:50.830 align:middle line:90%
+it doesn't give you any return.
+
+00:11:50.830 --> 00:11:52.540 align:middle line:90%
+You don't invest in cash.
+
+00:11:52.540 --> 00:11:56.040 align:middle line:84%
+You have cash because you
+need to do transactions.
+
+00:11:56.040 --> 00:11:59.140 align:middle line:84%
+But it's not the way
+you get a return.
+
+00:11:59.140 --> 00:12:02.130 align:middle line:84%
+And so money, that's what
+it's going to mean for us,
+
+00:12:02.130 --> 00:12:04.230 align:middle line:84%
+is something that is
+used in transactions.
+
+00:12:04.230 --> 00:12:06.780 align:middle line:84%
+But it pays no interest
+rate, no interest.
+
+00:12:06.780 --> 00:12:09.000 align:middle line:90%
+There's no interest on that.
+
+00:12:09.000 --> 00:12:11.890 align:middle line:84%
+A bond is going to be
+the polar opposite.
+
+00:12:11.890 --> 00:12:15.190 align:middle line:84%
+It's going to be something that
+pays a positive interest rate.
+
+00:12:15.190 --> 00:12:18.390 align:middle line:84%
+So if you buy a bond
+for 100, for 95,
+
+00:12:18.390 --> 00:12:20.560 align:middle line:84%
+you're going to get
+$100 a year from now.
+
+00:12:20.560 --> 00:12:22.560 align:middle line:84%
+So you get something
+out of that bond.
+
+00:12:22.560 --> 00:12:24.540 align:middle line:84%
+But it's not very
+useful for transactions.
+
+00:12:24.540 --> 00:12:28.110 align:middle line:84%
+I mean, you cannot go and
+buy your lunch with a bond.
+
+00:12:28.110 --> 00:12:29.850 align:middle line:84%
+You get the piece
+of bond for that.
+
+00:12:29.850 --> 00:12:31.840 align:middle line:90%
+And many things cannot be--
+
+00:12:31.840 --> 00:12:33.780 align:middle line:90%
+even within financial markets--
+
+00:12:33.780 --> 00:12:35.400 align:middle line:84%
+you cannot buy
+assets with asset.
+
+00:12:35.400 --> 00:12:38.640 align:middle line:84%
+You have to go through some
+process in which you can sell
+
+00:12:38.640 --> 00:12:41.610 align:middle line:84%
+something, get cash,
+and with cash you
+
+00:12:41.610 --> 00:12:43.770 align:middle line:84%
+pay for that stuff--
+not necessarily cash.
+
+00:12:43.770 --> 00:12:46.740 align:middle line:84%
+It could be other
+forms of money.
+
+00:12:46.740 --> 00:12:48.630 align:middle line:84%
+But typically,
+financial instruments
+
+00:12:48.630 --> 00:12:51.530 align:middle line:84%
+need to be sold before you
+can buy something else.
+
+00:12:51.530 --> 00:12:52.440 align:middle line:90%
+You don't swap them.
+
+00:12:52.440 --> 00:12:54.690 align:middle line:90%
+It's not a barter.
+
+00:12:54.690 --> 00:12:56.310 align:middle line:84%
+But this is what
+it means for us.
+
+00:12:56.310 --> 00:12:59.560 align:middle line:84%
+So this, whenever you
+see something like this,
+
+00:12:59.560 --> 00:13:01.840 align:middle line:84%
+is always interesting
+for an economist.
+
+00:13:01.840 --> 00:13:02.340 align:middle line:90%
+Why?
+
+00:13:02.340 --> 00:13:07.700 align:middle line:90%
+
+
+00:13:07.700 --> 00:13:11.120 align:middle line:84%
+Any economists,
+microeconomists or whatever.
+
+00:13:11.120 --> 00:13:15.860 align:middle line:84%
+What have I done
+there that makes--
+
+00:13:15.860 --> 00:13:17.270 align:middle line:90%
+Economics is about decisions.
+
+00:13:17.270 --> 00:13:19.430 align:middle line:84%
+And then it's about
+the equilibrium--
+
+00:13:19.430 --> 00:13:21.195 align:middle line:90%
+decisions and equilibrium.
+
+00:13:21.195 --> 00:13:23.570 align:middle line:84%
+AUDIENCE: What makes people
+decide how much [INAUDIBLE]??
+
+00:13:23.570 --> 00:13:25.820 align:middle line:84%
+RICARDO CABALLERO: There's
+a decision to be made here.
+
+00:13:25.820 --> 00:13:27.050 align:middle line:90%
+There's a trade off.
+
+00:13:27.050 --> 00:13:30.110 align:middle line:84%
+If I need to do lots
+of transactions,
+
+00:13:30.110 --> 00:13:34.520 align:middle line:84%
+I better bias my portfolio
+towards cash, towards money.
+
+00:13:34.520 --> 00:13:37.040 align:middle line:84%
+If I don't need to do
+lots of transaction
+
+00:13:37.040 --> 00:13:38.760 align:middle line:84%
+and the interest
+rate is very high,
+
+00:13:38.760 --> 00:13:41.000 align:middle line:84%
+particularly, then
+this is an issue today.
+
+00:13:41.000 --> 00:13:42.650 align:middle line:84%
+Today interest
+rates are very high.
+
+00:13:42.650 --> 00:13:47.030 align:middle line:84%
+Nobody cares about bonds
+or anything two years ago
+
+00:13:47.030 --> 00:13:48.290 align:middle line:90%
+when the interest rate was 0.
+
+00:13:48.290 --> 00:13:50.550 align:middle line:90%
+But today interest rate is 5%.
+
+00:13:50.550 --> 00:13:51.477 align:middle line:90%
+So it's an issue.
+
+00:13:51.477 --> 00:13:53.060 align:middle line:84%
+If you want to keep
+it in cash, you're
+
+00:13:53.060 --> 00:13:55.610 align:middle line:84%
+going to give up
+a lot of return.
+
+00:13:55.610 --> 00:13:56.987 align:middle line:84%
+So this is a
+decision to be made.
+
+00:13:56.987 --> 00:13:58.070 align:middle line:90%
+It's a portfolio decision.
+
+00:13:58.070 --> 00:14:01.460 align:middle line:84%
+And that's always
+interesting for economists.
+
+00:14:01.460 --> 00:14:05.720 align:middle line:84%
+So let's talk about
+that decision.
+
+00:14:05.720 --> 00:14:07.040 align:middle line:90%
+And we're going to talk--
+
+00:14:07.040 --> 00:14:10.077 align:middle line:84%
+you can describe this decision
+either from the side of bonds
+
+00:14:10.077 --> 00:14:11.160 align:middle line:90%
+or from the side of money.
+
+00:14:11.160 --> 00:14:13.118 align:middle line:84%
+We're going to describe
+from the side of money.
+
+00:14:13.118 --> 00:14:15.440 align:middle line:84%
+Because there is a total
+amount of wealth and you
+
+00:14:15.440 --> 00:14:19.490 align:middle line:84%
+have to decide what
+to allocate it to.
+
+00:14:19.490 --> 00:14:22.340 align:middle line:84%
+It suffices, if I tell you
+there's a total amount of wealth
+
+00:14:22.340 --> 00:14:25.483 align:middle line:84%
+and if I tell you how much
+you allocate to money,
+
+00:14:25.483 --> 00:14:27.150 align:middle line:84%
+then I'm telling you
+implicitly how much
+
+00:14:27.150 --> 00:14:28.560 align:middle line:90%
+you are allocating to bonds.
+
+00:14:28.560 --> 00:14:30.270 align:middle line:90%
+It's a complement of that.
+
+00:14:30.270 --> 00:14:32.108 align:middle line:84%
+So I cannot do an
+analysis either way.
+
+00:14:32.108 --> 00:14:33.900 align:middle line:84%
+But I'm going to do it
+through money, which
+
+00:14:33.900 --> 00:14:35.880 align:middle line:90%
+is the way it's normally done.
+
+00:14:35.880 --> 00:14:41.430 align:middle line:84%
+So money demand, if I plot
+it in the space of m, money,
+
+00:14:41.430 --> 00:14:46.240 align:middle line:84%
+and the interest rate, it's
+a downward sloping curve.
+
+00:14:46.240 --> 00:14:48.010 align:middle line:84%
+Why is it a downward
+sloping curve?
+
+00:14:48.010 --> 00:14:52.140 align:middle line:90%
+
+
+00:14:52.140 --> 00:14:54.070 align:middle line:84%
+AUDIENCE: The interest
+rate is higher.
+
+00:14:54.070 --> 00:14:56.655 align:middle line:84%
+It pays off more to get
+bonds, your utility shifted.
+
+00:14:56.655 --> 00:14:57.780 align:middle line:90%
+RICARDO CABALLERO: Exactly.
+
+00:14:57.780 --> 00:15:00.300 align:middle line:84%
+Your decision, if the
+interest rate is very high,
+
+00:15:00.300 --> 00:15:02.300 align:middle line:90%
+is to go more towards bond.
+
+00:15:02.300 --> 00:15:04.800 align:middle line:84%
+The interest is very low, I
+don't care too much about bonds.
+
+00:15:04.800 --> 00:15:06.930 align:middle line:84%
+I'd rather keep the thing
+that helps me transact,
+
+00:15:06.930 --> 00:15:09.000 align:middle line:90%
+which is money.
+
+00:15:09.000 --> 00:15:13.590 align:middle line:84%
+And it's interesting because
+for most of your adult life,
+
+00:15:13.590 --> 00:15:16.050 align:middle line:84%
+you have lived in a world
+in which that was not a very
+
+00:15:16.050 --> 00:15:18.390 align:middle line:90%
+interesting decision, actually.
+
+00:15:18.390 --> 00:15:20.805 align:middle line:84%
+Because interest rates
+were very close to zero.
+
+00:15:20.805 --> 00:15:22.680 align:middle line:84%
+Now you're living in a
+different environment.
+
+00:15:22.680 --> 00:15:26.580 align:middle line:84%
+Interest, for the first
+time, sort of high for you.
+
+00:15:26.580 --> 00:15:29.070 align:middle line:84%
+For you, there may be a bigger
+decision between investing
+
+00:15:29.070 --> 00:15:30.600 align:middle line:90%
+in equities and cash.
+
+00:15:30.600 --> 00:15:34.560 align:middle line:84%
+But bonds-- and
+these are safe bonds,
+
+00:15:34.560 --> 00:15:36.840 align:middle line:84%
+by the way, US treasuries
+and things like that.
+
+00:15:36.840 --> 00:15:41.020 align:middle line:84%
+And money is not something
+you have to worry about.
+
+00:15:41.020 --> 00:15:42.855 align:middle line:90%
+OK, good.
+
+00:15:42.855 --> 00:15:44.980 align:middle line:84%
+What I'm saying is interest
+rates were around here.
+
+00:15:44.980 --> 00:15:47.270 align:middle line:84%
+So you were all in cash
+one way or the other.
+
+00:15:47.270 --> 00:15:50.120 align:middle line:84%
+And now interest rates
+are a lot higher.
+
+00:15:50.120 --> 00:15:53.320 align:middle line:84%
+The other thing that-- so that's
+a movement along the curve.
+
+00:15:53.320 --> 00:15:56.980 align:middle line:84%
+I'm plotting something in the
+space of interest rate, money
+
+00:15:56.980 --> 00:15:57.730 align:middle line:90%
+and interest rate.
+
+00:15:57.730 --> 00:16:00.430 align:middle line:84%
+Then when I tell you what
+happens when the interest
+
+00:16:00.430 --> 00:16:06.300 align:middle line:84%
+rate rises, I'm asking you for
+a movement along the curve.
+
+00:16:06.300 --> 00:16:10.790 align:middle line:84%
+So if I raise interest rate,
+I move along the curve up.
+
+00:16:10.790 --> 00:16:13.413 align:middle line:84%
+So the second thing that we
+have there, argument we have
+
+00:16:13.413 --> 00:16:15.580 align:middle line:84%
+is something that shifts
+the curve, because it's not
+
+00:16:15.580 --> 00:16:16.790 align:middle line:90%
+part of my axis.
+
+00:16:16.790 --> 00:16:18.220 align:middle line:90%
+So it will shift the curve.
+
+00:16:18.220 --> 00:16:20.200 align:middle line:84%
+It's a parameter for
+each of these curves.
+
+00:16:20.200 --> 00:16:22.520 align:middle line:90%
+And that's nominal income.
+
+00:16:22.520 --> 00:16:27.670 align:middle line:84%
+So in particular, if
+nominal income goes up,
+
+00:16:27.670 --> 00:16:30.175 align:middle line:84%
+I'm showing you there,
+that money demand goes out.
+
+00:16:30.175 --> 00:16:32.050 align:middle line:84%
+Meaning for any given
+level of interest rate,
+
+00:16:32.050 --> 00:16:34.570 align:middle line:84%
+you're going to
+demand more money.
+
+00:16:34.570 --> 00:16:36.950 align:middle line:84%
+Why do you think
+that's the case?
+
+00:16:36.950 --> 00:16:39.370 align:middle line:84%
+And again, I'm looking
+here at the aggregate.
+
+00:16:39.370 --> 00:16:42.130 align:middle line:84%
+But it applies to an
+individual, as well.
+
+00:16:42.130 --> 00:16:45.660 align:middle line:90%
+
+
+00:16:45.660 --> 00:16:52.670 align:middle line:84%
+So for the same level of wealth,
+now nominal GDP is higher.
+
+00:16:52.670 --> 00:16:55.700 align:middle line:84%
+Remember that nominal GDP is
+the same as nominal expenditure
+
+00:16:55.700 --> 00:16:57.500 align:middle line:90%
+here.
+
+00:16:57.500 --> 00:16:59.872 align:middle line:84%
+So if nominal GDP
+is higher, then that
+
+00:16:59.872 --> 00:17:02.330 align:middle line:84%
+means there's going to be more
+transactions because there's
+
+00:17:02.330 --> 00:17:05.770 align:middle line:90%
+going to be more expenditure.
+
+00:17:05.770 --> 00:17:07.990 align:middle line:84%
+and therefore, you need
+more of the thing that
+
+00:17:07.990 --> 00:17:11.000 align:middle line:90%
+is useful for transactions.
+
+00:17:11.000 --> 00:17:12.020 align:middle line:90%
+Money demand goes up.
+
+00:17:12.020 --> 00:17:16.829 align:middle line:84%
+The second point to highlight
+is that while, in most places,
+
+00:17:16.829 --> 00:17:20.150 align:middle line:84%
+we use Y, here I'm using
+dollar y, nominal y.
+
+00:17:20.150 --> 00:17:21.290 align:middle line:90%
+Why do you think is that?
+
+00:17:21.290 --> 00:17:25.400 align:middle line:84%
+Why don't I just put there real
+GDP rather than nominal GDP?
+
+00:17:25.400 --> 00:17:30.300 align:middle line:90%
+
+
+00:17:30.300 --> 00:17:31.010 align:middle line:90%
+Is it a typo?
+
+00:17:31.010 --> 00:17:35.690 align:middle line:90%
+
+
+00:17:35.690 --> 00:17:38.110 align:middle line:90%
+Let's go into steps.
+
+00:17:38.110 --> 00:17:44.790 align:middle line:84%
+Suppose that prices are totally
+fixed and real GDP goes up.
+
+00:17:44.790 --> 00:17:47.090 align:middle line:84%
+That means that this economy
+needs more transactions
+
+00:17:47.090 --> 00:17:49.610 align:middle line:84%
+because it's going to
+be more expenditure.
+
+00:17:49.610 --> 00:17:54.300 align:middle line:84%
+So that explains that yeah,
+when real output goes up,
+
+00:17:54.300 --> 00:17:55.640 align:middle line:90%
+then money demand goes up.
+
+00:17:55.640 --> 00:17:57.230 align:middle line:84%
+When I say money
+demand goes up, I
+
+00:17:57.230 --> 00:18:01.790 align:middle line:84%
+said for any given interest
+rate we have more money demand.
+
+00:18:01.790 --> 00:18:04.242 align:middle line:90%
+Now fix real output.
+
+00:18:04.242 --> 00:18:06.575 align:middle line:84%
+And I tell you, suppose that
+the price of goods doubles.
+
+00:18:06.575 --> 00:18:09.860 align:middle line:90%
+
+
+00:18:09.860 --> 00:18:12.190 align:middle line:84%
+Do you think you need
+more money to transact?
+
+00:18:12.190 --> 00:18:15.070 align:middle line:84%
+Of course, because
+it's the same.
+
+00:18:15.070 --> 00:18:16.540 align:middle line:90%
+It's equivalent.
+
+00:18:16.540 --> 00:18:17.710 align:middle line:90%
+Money is dollars.
+
+00:18:17.710 --> 00:18:19.030 align:middle line:90%
+I have $10.
+
+00:18:19.030 --> 00:18:21.190 align:middle line:84%
+And now prices are twice
+what they used to be.
+
+00:18:21.190 --> 00:18:25.000 align:middle line:84%
+Well, I'm going to need
+more dollars to transact.
+
+00:18:25.000 --> 00:18:27.430 align:middle line:84%
+So that's the reason we
+have nominal GDP here
+
+00:18:27.430 --> 00:18:28.795 align:middle line:90%
+rather than real GDP.
+
+00:18:28.795 --> 00:18:33.990 align:middle line:90%
+
+
+00:18:33.990 --> 00:18:35.920 align:middle line:84%
+Let's now determine
+the interest rate.
+
+00:18:35.920 --> 00:18:38.310 align:middle line:84%
+And I'm to do it in the
+simplest possible model first.
+
+00:18:38.310 --> 00:18:42.780 align:middle line:84%
+And by simplest, I mean here
+in particular, no banks.
+
+00:18:42.780 --> 00:18:44.010 align:middle line:90%
+No intermediaries.
+
+00:18:44.010 --> 00:18:46.812 align:middle line:84%
+OK, so there's only a
+central bank and people.
+
+00:18:46.812 --> 00:18:49.910 align:middle line:90%
+
+
+00:18:49.910 --> 00:18:54.500 align:middle line:84%
+OK, so suppose that
+the central bank
+
+00:18:54.500 --> 00:18:58.040 align:middle line:84%
+decides that it wants to-- this
+is the way monetary policy used
+
+00:18:58.040 --> 00:18:58.940 align:middle line:90%
+to be conducted.
+
+00:18:58.940 --> 00:19:02.090 align:middle line:84%
+Suppose the size that
+it wants to offer
+
+00:19:02.090 --> 00:19:04.670 align:middle line:90%
+m dollars to the economy.
+
+00:19:04.670 --> 00:19:07.490 align:middle line:84%
+And the central bank is
+the one that produces at--
+
+00:19:07.490 --> 00:19:11.180 align:middle line:84%
+this moment in which I
+have no intermediaries,
+
+00:19:11.180 --> 00:19:15.210 align:middle line:90%
+money is really currency.
+
+00:19:15.210 --> 00:19:19.320 align:middle line:84%
+The only one that can produce
+currency-- forget Bitcoin--
+
+00:19:19.320 --> 00:19:24.240 align:middle line:84%
+only one that can produce
+currency is the central bank.
+
+00:19:24.240 --> 00:19:25.710 align:middle line:90%
+I mean dollars.
+
+00:19:25.710 --> 00:19:28.590 align:middle line:90%
+No one else can produce dollars.
+
+00:19:28.590 --> 00:19:30.510 align:middle line:84%
+Watch out when we talk
+about banks later on.
+
+00:19:30.510 --> 00:19:33.307 align:middle line:84%
+In this economy I'm
+describing, there are no banks.
+
+00:19:33.307 --> 00:19:34.890 align:middle line:84%
+The only one that
+can produce dollars,
+
+00:19:34.890 --> 00:19:37.410 align:middle line:90%
+currency, is the central bank.
+
+00:19:37.410 --> 00:19:40.680 align:middle line:84%
+Any other one that produces
+dollars, that's illegal.
+
+00:19:40.680 --> 00:19:42.490 align:middle line:90%
+So it's a central bank.
+
+00:19:42.490 --> 00:19:46.350 align:middle line:84%
+So the central bank can decide
+how much money to supply.
+
+00:19:46.350 --> 00:19:49.500 align:middle line:84%
+And suppose it
+decides to supply m.
+
+00:19:49.500 --> 00:19:51.000 align:middle line:90%
+That's it.
+
+00:19:51.000 --> 00:19:52.850 align:middle line:90%
+It's a decision.
+
+00:19:52.850 --> 00:19:55.070 align:middle line:90%
+Well, what is now?
+
+00:19:55.070 --> 00:19:58.560 align:middle line:84%
+For the first time I can
+answer the question is, well,
+
+00:19:58.560 --> 00:20:00.480 align:middle line:84%
+what is the interest
+rate in this environment?
+
+00:20:00.480 --> 00:20:02.070 align:middle line:90%
+Why do I know that?
+
+00:20:02.070 --> 00:20:04.130 align:middle line:90%
+Because I have a money supply.
+
+00:20:04.130 --> 00:20:05.540 align:middle line:90%
+I have a money demand.
+
+00:20:05.540 --> 00:20:09.062 align:middle line:84%
+The intersection at this level
+of money supply, the equilibrium
+
+00:20:09.062 --> 00:20:10.520 align:middle line:84%
+interest rate, that
+is the interest
+
+00:20:10.520 --> 00:20:13.220 align:middle line:84%
+rate is consistent with money
+demand equal to money supply,
+
+00:20:13.220 --> 00:20:14.840 align:middle line:90%
+is that one.
+
+00:20:14.840 --> 00:20:20.700 align:middle line:90%
+
+
+00:20:20.700 --> 00:20:21.420 align:middle line:90%
+Is it clear?
+
+00:20:21.420 --> 00:20:23.920 align:middle line:90%
+So I have my money demand.
+
+00:20:23.920 --> 00:20:27.780 align:middle line:84%
+And I'm saying the central bank,
+suppose the central bank decides
+
+00:20:27.780 --> 00:20:28.740 align:middle line:90%
+to supply m.
+
+00:20:28.740 --> 00:20:33.270 align:middle line:84%
+Well, in equilibrium, that
+will be the interest rate.
+
+00:20:33.270 --> 00:20:36.950 align:middle line:84%
+That's the way the interest
+rate is determined.
+
+00:20:36.950 --> 00:20:43.680 align:middle line:84%
+Now, suppose that the
+central bank increases.
+
+00:20:43.680 --> 00:20:46.290 align:middle line:84%
+Remember, the goal
+of this lecture
+
+00:20:46.290 --> 00:20:50.160 align:middle line:84%
+is that we get to understand how
+is it that the interest rate is
+
+00:20:50.160 --> 00:20:51.420 align:middle line:90%
+determined.
+
+00:20:51.420 --> 00:20:53.430 align:middle line:84%
+How is it that the
+Fed, the central bank,
+
+00:20:53.430 --> 00:20:54.840 align:middle line:90%
+determines the interest rate?
+
+00:20:54.840 --> 00:20:57.630 align:middle line:84%
+Here, we said, look,
+the central bank
+
+00:20:57.630 --> 00:20:59.370 align:middle line:84%
+decides on certain
+amount of money.
+
+00:20:59.370 --> 00:21:03.200 align:middle line:84%
+And then the market determines
+what the interest rate is.
+
+00:21:03.200 --> 00:21:06.380 align:middle line:84%
+And this is the way monetary
+policy used to be conducted.
+
+00:21:06.380 --> 00:21:08.330 align:middle line:84%
+The central banks
+would typically
+
+00:21:08.330 --> 00:21:10.290 align:middle line:84%
+decide the amount of
+money in the system.
+
+00:21:10.290 --> 00:21:12.320 align:middle line:84%
+It was called
+monetary aggregates.
+
+00:21:12.320 --> 00:21:14.720 align:middle line:84%
+The amount of money in the
+system and then the market
+
+00:21:14.720 --> 00:21:17.260 align:middle line:84%
+would determine
+the interest rate.
+
+00:21:17.260 --> 00:21:20.330 align:middle line:84%
+It turned out that
+was a nightmare.
+
+00:21:20.330 --> 00:21:23.620 align:middle line:84%
+And so now that's not
+what central banks do.
+
+00:21:23.620 --> 00:21:27.100 align:middle line:84%
+And it was a nightmare
+because this money demand that
+
+00:21:27.100 --> 00:21:29.320 align:middle line:84%
+looked so peaceful
+here, in practice
+
+00:21:29.320 --> 00:21:33.340 align:middle line:84%
+is moving around all the time
+for a variety of reasons.
+
+00:21:33.340 --> 00:21:36.190 align:middle line:84%
+Even holidays affect the
+money demand and all that.
+
+00:21:36.190 --> 00:21:38.860 align:middle line:84%
+So if you fix the
+monetary aggregates,
+
+00:21:38.860 --> 00:21:41.875 align:middle line:84%
+and money is moving all over
+the place, what happens?
+
+00:21:41.875 --> 00:21:45.113 align:middle line:90%
+
+
+00:21:45.113 --> 00:21:46.530 align:middle line:84%
+Suppose that the
+central bank says
+
+00:21:46.530 --> 00:21:49.193 align:middle line:84%
+I'm going to offer this
+amount of m, that's it.
+
+00:21:49.193 --> 00:21:51.610 align:middle line:84%
+And now I tell you the money
+is moving all over the place.
+
+00:21:51.610 --> 00:21:55.230 align:middle line:84%
+There are weeks that have
+three days of weekend that
+
+00:21:55.230 --> 00:21:58.560 align:middle line:84%
+have no vacations in between,
+or there is a Super Bowl
+
+00:21:58.560 --> 00:22:03.960 align:middle line:84%
+and lots of people decide to buy
+tickets or whatever, or beer, so
+
+00:22:03.960 --> 00:22:05.922 align:middle line:90%
+whatever.
+
+00:22:05.922 --> 00:22:06.850 align:middle line:90%
+AUDIENCE: [INAUDIBLE]
+
+00:22:06.850 --> 00:22:08.017 align:middle line:90%
+RICARDO CABALLERO: Well, no.
+
+00:22:08.017 --> 00:22:11.270 align:middle line:90%
+
+
+00:22:11.270 --> 00:22:13.630 align:middle line:90%
+Because when you say shortage--
+
+00:22:13.630 --> 00:22:16.785 align:middle line:84%
+I mean, it depends what
+you mean by shortage.
+
+00:22:16.785 --> 00:22:18.910 align:middle line:84%
+So you could be right with
+that part of the answer.
+
+00:22:18.910 --> 00:22:21.670 align:middle line:84%
+But when you say excess
+demand, then I have a problem.
+
+00:22:21.670 --> 00:22:26.460 align:middle line:84%
+Because that's true only if
+the interest rate doesn't move.
+
+00:22:26.460 --> 00:22:30.000 align:middle line:84%
+But in a situation in which
+a central bank fix em.
+
+00:22:30.000 --> 00:22:34.620 align:middle line:84%
+And let the market do its thing,
+then the interest rate will not
+
+00:22:34.620 --> 00:22:35.220 align:middle line:90%
+be fixed.
+
+00:22:35.220 --> 00:22:37.470 align:middle line:84%
+And that's exactly the
+problem, that the interest rate
+
+00:22:37.470 --> 00:22:40.140 align:middle line:90%
+becomes very, very volatile.
+
+00:22:40.140 --> 00:22:42.600 align:middle line:84%
+If you do it only through
+monetary aggregates
+
+00:22:42.600 --> 00:22:45.760 align:middle line:84%
+because this guy is
+moving all over the place.
+
+00:22:45.760 --> 00:22:47.293 align:middle line:90%
+And so imagine what happens.
+
+00:22:47.293 --> 00:22:49.710 align:middle line:84%
+If this demand shift up, then
+an equilibrium interest rate
+
+00:22:49.710 --> 00:22:52.950 align:middle line:84%
+goes up, precisely to
+avoid your excess demand.
+
+00:22:52.950 --> 00:22:56.413 align:middle line:84%
+Because if this thing goes
+up, I have an excess demand
+
+00:22:56.413 --> 00:22:57.330 align:middle line:90%
+at that interest rate.
+
+00:22:57.330 --> 00:22:58.788 align:middle line:84%
+But what will happen
+in equilibrium
+
+00:22:58.788 --> 00:23:02.550 align:middle line:84%
+is the interest rate will go
+up until the excess demand
+
+00:23:02.550 --> 00:23:05.000 align:middle line:90%
+disappears.
+
+00:23:05.000 --> 00:23:09.370 align:middle line:84%
+Now in central banks like
+the US, central bank the Fed,
+
+00:23:09.370 --> 00:23:11.580 align:middle line:84%
+they can control this
+stuff fairly well.
+
+00:23:11.580 --> 00:23:13.330 align:middle line:84%
+Many of the central
+banks don't have that.
+
+00:23:13.330 --> 00:23:17.030 align:middle line:84%
+If you look at
+the Bank of China,
+
+00:23:17.030 --> 00:23:19.427 align:middle line:84%
+for example, they have lots
+of high frequency movements
+
+00:23:19.427 --> 00:23:21.010 align:middle line:84%
+in interest rates
+because they are not
+
+00:23:21.010 --> 00:23:22.760 align:middle line:90%
+very good at doing this stuff.
+
+00:23:22.760 --> 00:23:27.970 align:middle line:84%
+It's not that easy to control
+an interest rate, for example,
+
+00:23:27.970 --> 00:23:29.260 align:middle line:90%
+to keep it fixed.
+
+00:23:29.260 --> 00:23:31.602 align:middle line:84%
+But the central bank
+used to do that.
+
+00:23:31.602 --> 00:23:32.560 align:middle line:90%
+That's what I'm saying.
+
+00:23:32.560 --> 00:23:33.790 align:middle line:90%
+It used to do that.
+
+00:23:33.790 --> 00:23:35.920 align:middle line:84%
+I'm saying in
+practice this system
+
+00:23:35.920 --> 00:23:38.380 align:middle line:84%
+wasn't very good because
+in practice, the money
+
+00:23:38.380 --> 00:23:41.960 align:middle line:84%
+is moving around for a lot
+of idiosyncratic reasons.
+
+00:23:41.960 --> 00:23:43.210 align:middle line:90%
+Some of them are using credit.
+
+00:23:43.210 --> 00:23:45.010 align:middle line:84%
+Some of them are
+very predictable.
+
+00:23:45.010 --> 00:23:49.990 align:middle line:84%
+There was a lot of panic around
+the shift of the year 2000
+
+00:23:49.990 --> 00:23:52.970 align:middle line:84%
+that the ATMs would stop
+working and stuff like that.
+
+00:23:52.970 --> 00:23:55.240 align:middle line:84%
+So there was a massive
+increase in money demand
+
+00:23:55.240 --> 00:23:57.970 align:middle line:84%
+because people wanted to have
+cash just in case ATMs stopped
+
+00:23:57.970 --> 00:23:59.650 align:middle line:90%
+working.
+
+00:23:59.650 --> 00:24:02.710 align:middle line:84%
+and so there are some things
+that are predictable and some.
+
+00:24:02.710 --> 00:24:04.710 align:middle line:84%
+But you can get very
+large fluctuations.
+
+00:24:04.710 --> 00:24:09.140 align:middle line:84%
+So in practice, what central
+banks do nowadays is really
+
+00:24:09.140 --> 00:24:11.120 align:middle line:84%
+is they tell you what
+the interest rate is.
+
+00:24:11.120 --> 00:24:14.270 align:middle line:84%
+And then they offer
+whatever m the market needs
+
+00:24:14.270 --> 00:24:15.390 align:middle line:90%
+for that interest rate.
+
+00:24:15.390 --> 00:24:17.930 align:middle line:84%
+That's the way modern
+monetary policy works.
+
+00:24:17.930 --> 00:24:20.220 align:middle line:84%
+OK, I'll tell you a little
+bit more about that.
+
+00:24:20.220 --> 00:24:22.678 align:middle line:84%
+So let's see what
+happens here if--
+
+00:24:22.678 --> 00:24:26.800 align:middle line:90%
+
+
+00:24:26.800 --> 00:24:31.070 align:middle line:84%
+suppose the Fed, for reasons
+that you will understand better
+
+00:24:31.070 --> 00:24:33.590 align:middle line:84%
+in the next lecture,
+suppose the Fed
+
+00:24:33.590 --> 00:24:37.100 align:middle line:84%
+decides that they want to have
+an expansionary monetary policy.
+
+00:24:37.100 --> 00:24:41.450 align:middle line:84%
+Expansionary monetary policy
+means it's going to expand m.
+
+00:24:41.450 --> 00:24:43.490 align:middle line:84%
+It was offering a
+certain amount of m.
+
+00:24:43.490 --> 00:24:47.650 align:middle line:84%
+And now it decides to
+offer more of that m.
+
+00:24:47.650 --> 00:24:50.090 align:middle line:90%
+So what happens in equilibrium?
+
+00:24:50.090 --> 00:24:52.940 align:middle line:84%
+Well, we start from
+an equilibrium here.
+
+00:24:52.940 --> 00:24:55.100 align:middle line:84%
+If the interest rate
+remains at that level,
+
+00:24:55.100 --> 00:24:59.960 align:middle line:84%
+now we have an excess
+supply of money.
+
+00:24:59.960 --> 00:25:02.330 align:middle line:84%
+And the only way to
+restore that equilibrium
+
+00:25:02.330 --> 00:25:05.690 align:middle line:84%
+is by people
+demanding more money.
+
+00:25:05.690 --> 00:25:09.340 align:middle line:84%
+And when will people
+demand more money?
+
+00:25:09.340 --> 00:25:12.380 align:middle line:84%
+Well, when the
+interest rate is lower.
+
+00:25:12.380 --> 00:25:15.290 align:middle line:84%
+So excess demand, the
+interest rates are declining.
+
+00:25:15.290 --> 00:25:18.500 align:middle line:84%
+Then the demand for money starts
+catching up with the new hire
+
+00:25:18.500 --> 00:25:20.870 align:middle line:90%
+supply of money.
+
+00:25:20.870 --> 00:25:24.380 align:middle line:84%
+And you end up with a
+lower interest rate.
+
+00:25:24.380 --> 00:25:26.480 align:middle line:84%
+So that's an expansionary
+monetary policy,
+
+00:25:26.480 --> 00:25:30.290 align:middle line:84%
+an increase in m that leads to
+a decline in the interest rate.
+
+00:25:30.290 --> 00:25:33.050 align:middle line:84%
+Again, modern central
+banks don't tell you
+
+00:25:33.050 --> 00:25:35.570 align:middle line:84%
+we're going to
+increase m by 20%.
+
+00:25:35.570 --> 00:25:37.160 align:middle line:84%
+What they tell
+you is we're going
+
+00:25:37.160 --> 00:25:42.160 align:middle line:84%
+to cut interest rate by,
+say, 50 basis points.
+
+00:25:42.160 --> 00:25:43.750 align:middle line:84%
+When they tell you
+that they're going
+
+00:25:43.750 --> 00:25:45.970 align:middle line:84%
+to cut interest by
+50 basis points,
+
+00:25:45.970 --> 00:25:48.120 align:middle line:90%
+they're reading you this axis.
+
+00:25:48.120 --> 00:25:54.090 align:middle line:84%
+But behind that operation
+there must have been
+
+00:25:54.090 --> 00:25:56.280 align:middle line:90%
+an increase in money supply.
+
+00:25:56.280 --> 00:25:58.200 align:middle line:84%
+And then it comes
+all the fine tuning
+
+00:25:58.200 --> 00:26:01.680 align:middle line:84%
+that they have to do now so
+the interest remains there
+
+00:26:01.680 --> 00:26:04.150 align:middle line:84%
+when the money is vibrating
+around that thing there.
+
+00:26:04.150 --> 00:26:07.260 align:middle line:84%
+But when we say an
+expansionary monetary policy,
+
+00:26:07.260 --> 00:26:10.290 align:middle line:84%
+we really mean cutting
+interest rates.
+
+00:26:10.290 --> 00:26:13.380 align:middle line:84%
+How is that the interest
+rate is cut effectively?
+
+00:26:13.380 --> 00:26:15.438 align:middle line:84%
+By an increase in
+the money supply.
+
+00:26:15.438 --> 00:26:17.480 align:middle line:84%
+But they don't tell you
+that they are doing that.
+
+00:26:17.480 --> 00:26:18.730 align:middle line:90%
+But that's what they're doing.
+
+00:26:18.730 --> 00:26:23.410 align:middle line:90%
+
+
+00:26:23.410 --> 00:26:24.430 align:middle line:90%
+Good.
+
+00:26:24.430 --> 00:26:27.220 align:middle line:84%
+So nowadays, we're in
+the opposite process.
+
+00:26:27.220 --> 00:26:30.950 align:middle line:90%
+We're moving that way, up.
+
+00:26:30.950 --> 00:26:33.890 align:middle line:84%
+But you seen, in
+every single meeting
+
+00:26:33.890 --> 00:26:35.790 align:middle line:84%
+now for the last
+seven meetings or so,
+
+00:26:35.790 --> 00:26:39.440 align:middle line:84%
+we have seen a hike
+in interest rates.
+
+00:26:39.440 --> 00:26:41.695 align:middle line:90%
+Well, they don't tell you that.
+
+00:26:41.695 --> 00:26:43.820 align:middle line:84%
+But they're saying, we're
+going to cut money supply
+
+00:26:43.820 --> 00:26:45.406 align:middle line:90%
+and moving in that direction.
+
+00:26:45.406 --> 00:26:48.515 align:middle line:90%
+
+
+00:26:48.515 --> 00:26:50.140 align:middle line:84%
+Because if they move
+in that direction,
+
+00:26:50.140 --> 00:26:53.430 align:middle line:90%
+then interest rate go up.
+
+00:26:53.430 --> 00:26:55.620 align:middle line:90%
+It's clear.
+
+00:26:55.620 --> 00:26:56.120 align:middle line:90%
+Good.
+
+00:26:56.120 --> 00:26:59.570 align:middle line:90%
+
+
+00:26:59.570 --> 00:27:02.750 align:middle line:90%
+What else shifts?
+
+00:27:02.750 --> 00:27:05.360 align:middle line:84%
+This is a different
+kind of shift.
+
+00:27:05.360 --> 00:27:07.740 align:middle line:84%
+Suppose that nominal
+income goes up.
+
+00:27:07.740 --> 00:27:09.260 align:middle line:84%
+And this is happening
+all the time.
+
+00:27:09.260 --> 00:27:12.090 align:middle line:84%
+Nominal income is growing in
+most economies most of the time.
+
+00:27:12.090 --> 00:27:14.500 align:middle line:84%
+Unless you're in a recession,
+nominal income is growing.
+
+00:27:14.500 --> 00:27:15.750 align:middle line:90%
+It's growing for two reasons--
+
+00:27:15.750 --> 00:27:17.083 align:middle line:90%
+one, because you have inflation.
+
+00:27:17.083 --> 00:27:19.460 align:middle line:84%
+And the other one is because
+of real output is growing.
+
+00:27:19.460 --> 00:27:24.040 align:middle line:84%
+That means that typically
+in an average year,
+
+00:27:24.040 --> 00:27:25.840 align:middle line:84%
+money demand is
+shifting to the right.
+
+00:27:25.840 --> 00:27:28.460 align:middle line:90%
+
+
+00:27:28.460 --> 00:27:32.030 align:middle line:84%
+So if money demand shift to
+the right and money supply
+
+00:27:32.030 --> 00:27:35.600 align:middle line:84%
+does not change, then what
+happens to the interest rate?
+
+00:27:35.600 --> 00:27:39.360 align:middle line:90%
+
+
+00:27:39.360 --> 00:27:42.780 align:middle line:84%
+Money demand goes up, money
+supplies doesn't change.
+
+00:27:42.780 --> 00:27:45.840 align:middle line:84%
+What happens to
+the interest rate?
+
+00:27:45.840 --> 00:27:48.960 align:middle line:84%
+Increases because at
+this interest rate
+
+00:27:48.960 --> 00:27:52.060 align:middle line:84%
+here, we have an excess
+demand for money.
+
+00:27:52.060 --> 00:27:55.300 align:middle line:84%
+So we have to reduce
+the money demand.
+
+00:27:55.300 --> 00:27:56.550 align:middle line:90%
+How do we reduce money demand?
+
+00:27:56.550 --> 00:27:58.970 align:middle line:90%
+By increasing the interest rate.
+
+00:27:58.970 --> 00:28:00.910 align:middle line:90%
+That's the way we get there.
+
+00:28:00.910 --> 00:28:04.440 align:middle line:84%
+So that's yet another reason
+why it's not a good idea
+
+00:28:04.440 --> 00:28:06.930 align:middle line:84%
+to be targeting
+monetary aggregates.
+
+00:28:06.930 --> 00:28:11.700 align:middle line:84%
+The Fed tells you we want
+the interest rate at 5%, say.
+
+00:28:11.700 --> 00:28:14.015 align:middle line:84%
+And then the economy will
+be growing and so on.
+
+00:28:14.015 --> 00:28:15.390 align:middle line:84%
+And what the Fed
+will be doing is
+
+00:28:15.390 --> 00:28:17.700 align:middle line:84%
+if they want to maintain
+the interest rate at 5%,
+
+00:28:17.700 --> 00:28:21.780 align:middle line:84%
+well, they keep expanding m so
+the interest rate doesn't go up.
+
+00:28:21.780 --> 00:28:24.090 align:middle line:84%
+That's the way it's
+normally conducted.
+
+00:28:24.090 --> 00:28:27.660 align:middle line:84%
+But if the Fed stays
+sleepy and they have
+
+00:28:27.660 --> 00:28:28.980 align:middle line:90%
+an increase in money demand.
+
+00:28:28.980 --> 00:28:31.770 align:middle line:84%
+Then the interest rate
+will tend to go up.
+
+00:28:31.770 --> 00:28:36.340 align:middle line:90%
+
+
+00:28:36.340 --> 00:28:44.670 align:middle line:84%
+So I told you that the central
+bank is moving m, increasing
+
+00:28:44.670 --> 00:28:46.390 align:middle line:90%
+m, reducing m, or whatever.
+
+00:28:46.390 --> 00:28:48.840 align:middle line:90%
+So how do they do that.
+
+00:28:48.840 --> 00:28:52.140 align:middle line:90%
+I mean, it's not that they--
+
+00:28:52.140 --> 00:28:54.420 align:middle line:84%
+although that policy
+has been advocated.
+
+00:28:54.420 --> 00:28:57.150 align:middle line:84%
+It's not that they go in a
+helicopter and sort of fly
+
+00:28:57.150 --> 00:28:59.130 align:middle line:90%
+builds on top of all of us.
+
+00:28:59.130 --> 00:29:00.540 align:middle line:90%
+They don't do that.
+
+00:29:00.540 --> 00:29:03.390 align:middle line:84%
+Although, again, it has been
+advocated in extreme cases
+
+00:29:03.390 --> 00:29:04.930 align:middle line:90%
+of recessions, and so on.
+
+00:29:04.930 --> 00:29:06.590 align:middle line:84%
+And it's called
+helicopter money.
+
+00:29:06.590 --> 00:29:07.680 align:middle line:90%
+Just give money away.
+
+00:29:07.680 --> 00:29:11.210 align:middle line:90%
+
+
+00:29:11.210 --> 00:29:12.960 align:middle line:84%
+But that's not the way
+it's normally done.
+
+00:29:12.960 --> 00:29:15.520 align:middle line:84%
+For normal operations,
+is not done that way.
+
+00:29:15.520 --> 00:29:16.965 align:middle line:90%
+So how is it done?
+
+00:29:16.965 --> 00:29:18.840 align:middle line:84%
+Remember that we have
+a financial system that
+
+00:29:18.840 --> 00:29:20.160 align:middle line:90%
+is very simple for now.
+
+00:29:20.160 --> 00:29:22.750 align:middle line:90%
+We have money and bonds.
+
+00:29:22.750 --> 00:29:25.713 align:middle line:84%
+So what the central bank
+does, the central bank
+
+00:29:25.713 --> 00:29:27.380 align:middle line:84%
+wants to change the
+portfolio of people.
+
+00:29:27.380 --> 00:29:30.240 align:middle line:84%
+They want people to have less
+bonds, say, and more money.
+
+00:29:30.240 --> 00:29:32.440 align:middle line:84%
+That's to raise
+the interest rate.
+
+00:29:32.440 --> 00:29:35.070 align:middle line:84%
+So what the central
+bank does is goes out
+
+00:29:35.070 --> 00:29:37.260 align:middle line:84%
+there and expansionary
+open market operation.
+
+00:29:37.260 --> 00:29:39.990 align:middle line:84%
+Open market is because they
+go into the open market
+
+00:29:39.990 --> 00:29:45.750 align:middle line:84%
+to buy bonds, the as opposed to
+an operation that happens behind
+
+00:29:45.750 --> 00:29:46.770 align:middle line:90%
+doors.
+
+00:29:46.770 --> 00:29:49.500 align:middle line:84%
+If the Fed went directly to
+the Treasury and bought bonds,
+
+00:29:49.500 --> 00:29:52.200 align:middle line:84%
+that would not be an
+open market operation.
+
+00:29:52.200 --> 00:29:55.320 align:middle line:84%
+But what they do is they
+go to the financial system
+
+00:29:55.320 --> 00:29:58.660 align:middle line:84%
+and they go with a big
+bag of money and say,
+
+00:29:58.660 --> 00:30:01.350 align:middle line:90%
+OK, we want bonds.
+
+00:30:01.350 --> 00:30:07.610 align:middle line:84%
+And so the public sells bonds
+to them in exchange for money.
+
+00:30:07.610 --> 00:30:09.330 align:middle line:90%
+That's an expansionary market.
+
+00:30:09.330 --> 00:30:13.550 align:middle line:84%
+So what we saw before when
+m shift to the right, what
+
+00:30:13.550 --> 00:30:17.330 align:middle line:84%
+the central bank really did is
+went out there and bought bonds
+
+00:30:17.330 --> 00:30:19.290 align:middle line:90%
+from the public.
+
+00:30:19.290 --> 00:30:25.390 align:middle line:84%
+The public sold the bonds and
+got the cash at some price.
+
+00:30:25.390 --> 00:30:27.610 align:middle line:84%
+When I show you equilibrium
+in the money market,
+
+00:30:27.610 --> 00:30:30.680 align:middle line:84%
+that means also an equilibrium
+in the bond market necessarily.
+
+00:30:30.680 --> 00:30:35.140 align:middle line:84%
+So it has to be the price
+is right for the portfolio
+
+00:30:35.140 --> 00:30:36.370 align:middle line:90%
+of individuals.
+
+00:30:36.370 --> 00:30:38.960 align:middle line:84%
+A contractionary open market
+operation is the opposite.
+
+00:30:38.960 --> 00:30:42.400 align:middle line:84%
+It's a central bank goes
+out there and sells bonds
+
+00:30:42.400 --> 00:30:45.520 align:middle line:84%
+to the market and
+takes the cash back.
+
+00:30:45.520 --> 00:30:47.330 align:middle line:84%
+That's a contractionary
+monetary policy.
+
+00:30:47.330 --> 00:30:48.640 align:middle line:90%
+So when the Fed wants to--
+
+00:30:48.640 --> 00:30:50.500 align:middle line:90%
+Yeah, let me finish.
+
+00:30:50.500 --> 00:30:53.380 align:middle line:84%
+When the Fed wants to
+cut interest rates, what
+
+00:30:53.380 --> 00:30:56.540 align:middle line:84%
+the Fed does is an
+expansionary monetary policy,
+
+00:30:56.540 --> 00:30:59.410 align:middle line:84%
+which means it goes out there
+and buys bonds from the market
+
+00:30:59.410 --> 00:31:00.970 align:middle line:90%
+and gives cash to the market.
+
+00:31:00.970 --> 00:31:02.475 align:middle line:90%
+OK, yeah.
+
+00:31:02.475 --> 00:31:04.600 align:middle line:84%
+AUDIENCE: How can a central
+bank, in this instance,
+
+00:31:04.600 --> 00:31:08.170 align:middle line:84%
+guarantee that someone's
+going to buy their bonds?
+
+00:31:08.170 --> 00:31:11.050 align:middle line:84%
+If their government didn't
+have the financial stability,
+
+00:31:11.050 --> 00:31:13.480 align:middle line:84%
+I guess, the United
+States has, how
+
+00:31:13.480 --> 00:31:15.878 align:middle line:84%
+would they guarantee
+that these bonds will be
+
+00:31:15.878 --> 00:31:17.170 align:middle line:90%
+worth anything in the long run?
+
+00:31:17.170 --> 00:31:18.370 align:middle line:84%
+RICARDO CABALLERO:
+Well, I mean, you're
+
+00:31:18.370 --> 00:31:19.660 align:middle line:90%
+talking about risk premium.
+
+00:31:19.660 --> 00:31:24.250 align:middle line:90%
+And that's an additional issue.
+
+00:31:24.250 --> 00:31:30.610 align:middle line:84%
+Typically central banks
+intervene in very short duration
+
+00:31:30.610 --> 00:31:31.250 align:middle line:90%
+bonds.
+
+00:31:31.250 --> 00:31:35.200 align:middle line:84%
+So it's not the typical bond
+that is risky in many sense.
+
+00:31:35.200 --> 00:31:39.160 align:middle line:84%
+It's very, very, very short
+duration bonds, treasuries,
+
+00:31:39.160 --> 00:31:40.130 align:middle line:90%
+very short duration.
+
+00:31:40.130 --> 00:31:42.280 align:middle line:90%
+In fact, it's even less.
+
+00:31:42.280 --> 00:31:44.230 align:middle line:84%
+Nowadays central
+banks really intervene
+
+00:31:44.230 --> 00:31:47.500 align:middle line:90%
+in the overnight market.
+
+00:31:47.500 --> 00:31:51.340 align:middle line:84%
+But you're that countries
+that don't have a bond
+
+00:31:51.340 --> 00:31:53.530 align:middle line:84%
+market, a well-developed
+bond market,
+
+00:31:53.530 --> 00:31:55.697 align:middle line:84%
+have problems with the
+management of monetary policy
+
+00:31:55.697 --> 00:31:57.697 align:middle line:84%
+and so on because they
+have a credit spread that
+
+00:31:57.697 --> 00:31:59.030 align:middle line:90%
+is moving around, as well.
+
+00:31:59.030 --> 00:32:01.240 align:middle line:84%
+But they tend to focus on
+the type of instruments.
+
+00:32:01.240 --> 00:32:02.770 align:middle line:84%
+That thing becomes
+very important.
+
+00:32:02.770 --> 00:32:07.240 align:middle line:84%
+I mean, for Japan, even big
+guys, very big guys, now
+
+00:32:07.240 --> 00:32:10.240 align:middle line:84%
+they have an issue because
+they have been buying bonds,
+
+00:32:10.240 --> 00:32:11.810 align:middle line:90%
+very long duration bonds--
+
+00:32:11.810 --> 00:32:14.610 align:middle line:84%
+so 10 year bonds
+and stuff like that.
+
+00:32:14.610 --> 00:32:16.683 align:middle line:84%
+And there it's a
+little trickier.
+
+00:32:16.683 --> 00:32:18.600 align:middle line:84%
+Market needs to trust
+you a lot more if you're
+
+00:32:18.600 --> 00:32:21.360 align:middle line:84%
+dealing with 10 years things and
+you're dealing with three month
+
+00:32:21.360 --> 00:32:24.460 align:middle line:90%
+horizons and so on.
+
+00:32:24.460 --> 00:32:30.840 align:middle line:84%
+In other instances,
+for example, Chile
+
+00:32:30.840 --> 00:32:32.910 align:middle line:84%
+has a situation like
+that, the central bank
+
+00:32:32.910 --> 00:32:35.430 align:middle line:90%
+itself can issue bonds.
+
+00:32:35.430 --> 00:32:38.160 align:middle line:84%
+And so those are bonds
+issued by central banks.
+
+00:32:38.160 --> 00:32:40.260 align:middle line:84%
+And they tend to be
+very reliable bonds
+
+00:32:40.260 --> 00:32:42.897 align:middle line:84%
+because these are bonds that
+are issuing your same currency.
+
+00:32:42.897 --> 00:32:44.730 align:middle line:84%
+So you have the currency
+to always pay them.
+
+00:32:44.730 --> 00:32:47.410 align:middle line:84%
+You can always print money
+and pay for those bonds.
+
+00:32:47.410 --> 00:32:49.440 align:middle line:84%
+So it rarely happens
+that there is
+
+00:32:49.440 --> 00:32:51.135 align:middle line:90%
+default on bonds of that kind.
+
+00:32:51.135 --> 00:32:54.030 align:middle line:90%
+
+
+00:32:54.030 --> 00:32:56.280 align:middle line:84%
+The typical bonds,
+government bond,
+
+00:32:56.280 --> 00:33:00.030 align:middle line:84%
+that defaults is a
+bond that is issuing
+
+00:33:00.030 --> 00:33:01.800 align:middle line:84%
+a currency different
+from the one you have
+
+00:33:01.800 --> 00:33:03.550 align:middle line:84%
+because then you may
+not have the currency
+
+00:33:03.550 --> 00:33:04.710 align:middle line:90%
+to pay for the stuff.
+
+00:33:04.710 --> 00:33:07.380 align:middle line:84%
+And that's the reason emerging
+markets run into trouble
+
+00:33:07.380 --> 00:33:10.580 align:middle line:90%
+and things of that kind.
+
+00:33:10.580 --> 00:33:13.200 align:middle line:84%
+So in terms of the balance
+sheet of the central bank,
+
+00:33:13.200 --> 00:33:15.350 align:middle line:84%
+how does an open
+market operation look?
+
+00:33:15.350 --> 00:33:17.630 align:middle line:84%
+So if you look at
+the balance sheet,
+
+00:33:17.630 --> 00:33:19.970 align:middle line:84%
+this is an incredibly simplified
+version of the balance
+
+00:33:19.970 --> 00:33:22.190 align:middle line:90%
+sheet of the Fed.
+
+00:33:22.190 --> 00:33:24.920 align:middle line:84%
+They have lots of things,
+more assets, gold,
+
+00:33:24.920 --> 00:33:26.430 align:middle line:90%
+and all sorts of stuff.
+
+00:33:26.430 --> 00:33:31.250 align:middle line:84%
+But in our simple economy,
+the government, the Fed,
+
+00:33:31.250 --> 00:33:33.800 align:middle line:84%
+the assets of the Fed,
+they have some bonds.
+
+00:33:33.800 --> 00:33:35.780 align:middle line:84%
+It has already some
+bonds out there.
+
+00:33:35.780 --> 00:33:38.300 align:middle line:84%
+And the liabilities is
+the money they issue.
+
+00:33:38.300 --> 00:33:39.590 align:middle line:90%
+They owe that to people.
+
+00:33:39.590 --> 00:33:41.550 align:middle line:90%
+I mean, they issue currency.
+
+00:33:41.550 --> 00:33:44.660 align:middle line:90%
+But that's a liability.
+
+00:33:44.660 --> 00:33:47.060 align:middle line:84%
+People can do things with and
+buy things with that money
+
+00:33:47.060 --> 00:33:47.560 align:middle line:90%
+and so on.
+
+00:33:47.560 --> 00:33:48.600 align:middle line:90%
+It's a liability.
+
+00:33:48.600 --> 00:33:51.230 align:middle line:84%
+So that's the way the
+balance sheet looks.
+
+00:33:51.230 --> 00:33:56.000 align:middle line:84%
+So when the Fed decides to do
+an expansionary open market
+
+00:33:56.000 --> 00:34:00.620 align:middle line:84%
+operation, then what it
+does is it goes out there.
+
+00:34:00.620 --> 00:34:05.703 align:middle line:84%
+It issues, say, a $1
+million expansionary
+
+00:34:05.703 --> 00:34:06.620 align:middle line:90%
+open market operation.
+
+00:34:06.620 --> 00:34:08.719 align:middle line:84%
+They do it in much
+bigger tickets on this.
+
+00:34:08.719 --> 00:34:10.560 align:middle line:90%
+But let's make it simple.
+
+00:34:10.560 --> 00:34:13.290 align:middle line:84%
+$1 million of an
+expansionary operation.
+
+00:34:13.290 --> 00:34:17.159 align:middle line:84%
+When they go there,
+they print $1 million
+
+00:34:17.159 --> 00:34:21.870 align:middle line:84%
+and they buy $1 million
+from the market.
+
+00:34:21.870 --> 00:34:27.330 align:middle line:84%
+And so at the end, the balance
+sheet ends like it used to be.
+
+00:34:27.330 --> 00:34:30.120 align:middle line:84%
+There is an extra $1
+million of liabilities
+
+00:34:30.120 --> 00:34:31.710 align:middle line:84%
+because now there's
+a million more
+
+00:34:31.710 --> 00:34:35.370 align:middle line:84%
+of dollars
+circulating out there.
+
+00:34:35.370 --> 00:34:39.030 align:middle line:84%
+But against that, the central
+bank also has a million more
+
+00:34:39.030 --> 00:34:40.200 align:middle line:90%
+of bonds holdings.
+
+00:34:40.200 --> 00:34:42.870 align:middle line:90%
+
+
+00:34:42.870 --> 00:34:45.719 align:middle line:90%
+So that's what happens.
+
+00:34:45.719 --> 00:34:48.060 align:middle line:84%
+With an expansionary
+monetary policy,
+
+00:34:48.060 --> 00:34:50.520 align:middle line:84%
+the balance sheet of the
+central bank expands.
+
+00:34:50.520 --> 00:34:54.929 align:middle line:84%
+Both sides expand by the
+same amount, but expands.
+
+00:34:54.929 --> 00:34:58.560 align:middle line:84%
+And one of the big
+themes of recent years,
+
+00:34:58.560 --> 00:35:00.570 align:middle line:84%
+starting from the
+global financial crisis,
+
+00:35:00.570 --> 00:35:02.790 align:middle line:84%
+is that these
+balance sheets used
+
+00:35:02.790 --> 00:35:06.540 align:middle line:84%
+to be small peanuts type
+things, for $1 trillion
+
+00:35:06.540 --> 00:35:10.380 align:middle line:84%
+or something like that for
+something like the US, the size.
+
+00:35:10.380 --> 00:35:12.900 align:middle line:84%
+Nowadays they're much,
+much larger than that
+
+00:35:12.900 --> 00:35:15.507 align:middle line:84%
+because they have done so many
+operations to first get us out
+
+00:35:15.507 --> 00:35:18.090 align:middle line:84%
+of the global financial crisis
+and then to get us out of COVID
+
+00:35:18.090 --> 00:35:22.290 align:middle line:84%
+and so on, that these balance
+sheets are now an order
+
+00:35:22.290 --> 00:35:26.250 align:middle line:84%
+or two orders of magnitude
+larger than they used to be.
+
+00:35:26.250 --> 00:35:28.650 align:middle line:84%
+But in other words,
+they have had
+
+00:35:28.650 --> 00:35:31.290 align:middle line:84%
+to do lots of expansionary
+monetary policy
+
+00:35:31.290 --> 00:35:33.030 align:middle line:90%
+over the last couple of decades.
+
+00:35:33.030 --> 00:35:38.250 align:middle line:90%
+
+
+00:35:38.250 --> 00:35:42.500 align:middle line:84%
+So let me talk a little bit
+about interest rate and bond
+
+00:35:42.500 --> 00:35:46.520 align:middle line:84%
+prices because that's the
+other side of this thing.
+
+00:35:46.520 --> 00:35:50.063 align:middle line:84%
+So what is the connection--
+because sometimes it's
+
+00:35:50.063 --> 00:35:51.980 align:middle line:84%
+easier to understand
+things in terms of prices
+
+00:35:51.980 --> 00:35:53.650 align:middle line:90%
+and in terms of bonds?
+
+00:35:53.650 --> 00:35:57.920 align:middle line:84%
+So suppose a bond pays
+$100 a year from now
+
+00:35:57.920 --> 00:35:59.490 align:middle line:90%
+and no coupon in between.
+
+00:35:59.490 --> 00:36:02.630 align:middle line:84%
+So if you buy a bond
+now for some price PB,
+
+00:36:02.630 --> 00:36:05.820 align:middle line:90%
+you get $100 a year from now.
+
+00:36:05.820 --> 00:36:08.270 align:middle line:84%
+So what is the interest
+rate of that bond?
+
+00:36:08.270 --> 00:36:10.520 align:middle line:84%
+That is, what is the excess
+return that you get out
+
+00:36:10.520 --> 00:36:14.040 align:middle line:84%
+of that, or the return you
+get out of buying that bond?
+
+00:36:14.040 --> 00:36:18.260 align:middle line:84%
+Well, it's going to be $100
+minus whatever you pay today--
+
+00:36:18.260 --> 00:36:21.350 align:middle line:90%
+say you pay $95, then $5--
+
+00:36:21.350 --> 00:36:24.510 align:middle line:84%
+divided by your investment,
+initial investment,
+
+00:36:24.510 --> 00:36:26.330 align:middle line:90%
+which was 95.
+
+00:36:26.330 --> 00:36:32.493 align:middle line:84%
+So that's a bond that gives
+you a little bit more than 5%.
+
+00:36:32.493 --> 00:36:33.410 align:middle line:90%
+OK, that's the return.
+
+00:36:33.410 --> 00:36:34.243 align:middle line:90%
+That's the interest.
+
+00:36:34.243 --> 00:36:37.280 align:middle line:84%
+So that's the connection between
+interest rate and prices.
+
+00:36:37.280 --> 00:36:41.010 align:middle line:84%
+And notice that this
+is an inverse relation.
+
+00:36:41.010 --> 00:36:44.770 align:middle line:84%
+When the price of
+a bone goes up,
+
+00:36:44.770 --> 00:36:47.282 align:middle line:84%
+the interest rate goes down
+because you're paying more
+
+00:36:47.282 --> 00:36:48.240 align:middle line:90%
+for the same principal.
+
+00:36:48.240 --> 00:36:49.360 align:middle line:90%
+You're going to get 100.
+
+00:36:49.360 --> 00:36:50.840 align:middle line:84%
+But now you're
+paying more for it.
+
+00:36:50.840 --> 00:36:53.340 align:middle line:84%
+Well, that means the interest
+rate, the return on that bond,
+
+00:36:53.340 --> 00:36:53.970 align:middle line:90%
+went down.
+
+00:36:53.970 --> 00:36:57.010 align:middle line:90%
+
+
+00:36:57.010 --> 00:36:58.810 align:middle line:84%
+Conversely, you can
+say that I went around.
+
+00:36:58.810 --> 00:37:02.050 align:middle line:84%
+The high is the interest rate,
+the lower is the price of bond.
+
+00:37:02.050 --> 00:37:04.885 align:middle line:84%
+So for example, today
+the interest rate is 5%.
+
+00:37:04.885 --> 00:37:08.230 align:middle line:90%
+
+
+00:37:08.230 --> 00:37:11.110 align:middle line:84%
+If I want to issue a bond
+that doesn't pay any coupon
+
+00:37:11.110 --> 00:37:15.060 align:middle line:84%
+and I'm completely safe,
+so I'm the US Treasury,
+
+00:37:15.060 --> 00:37:19.080 align:middle line:84%
+I'm going to be able to
+sell that bond for 95.
+
+00:37:19.080 --> 00:37:22.400 align:middle line:84%
+Two years ago, when the
+interest rate was 0,
+
+00:37:22.400 --> 00:37:27.870 align:middle line:84%
+the Fed would have been able
+to sell that bond for 100.
+
+00:37:27.870 --> 00:37:29.400 align:middle line:84%
+So there is an
+inverse relationship
+
+00:37:29.400 --> 00:37:31.960 align:middle line:84%
+between the interest rate
+and the price of bonds.
+
+00:37:31.960 --> 00:37:35.980 align:middle line:84%
+And now I can take you back
+to my open market operations.
+
+00:37:35.980 --> 00:37:37.313 align:middle line:90%
+So remember what I said.
+
+00:37:37.313 --> 00:37:38.730 align:middle line:84%
+There's another
+way of remembering
+
+00:37:38.730 --> 00:37:41.880 align:middle line:90%
+which way these signs go.
+
+00:37:41.880 --> 00:37:44.400 align:middle line:84%
+Remember when you have an
+expansionary monetary operation,
+
+00:37:44.400 --> 00:37:46.800 align:middle line:84%
+I said the Fed goes out
+there with a bag of money
+
+00:37:46.800 --> 00:37:49.480 align:middle line:90%
+and buys bonds from the market.
+
+00:37:49.480 --> 00:37:51.907 align:middle line:84%
+When bonds, when
+you buy something,
+
+00:37:51.907 --> 00:37:53.740 align:middle line:84%
+when there is an enormous
+increase in demand
+
+00:37:53.740 --> 00:37:55.407 align:middle line:84%
+for something, what
+do you think happens
+
+00:37:55.407 --> 00:37:58.150 align:middle line:90%
+to the price of that something?
+
+00:37:58.150 --> 00:38:01.280 align:middle line:84%
+Goes up for anything--
+cars, whatever it is.
+
+00:38:01.280 --> 00:38:05.290 align:middle line:84%
+It's a lot more demand,
+then prices will go up.
+
+00:38:05.290 --> 00:38:08.360 align:middle line:90%
+And the Fed has a lot of cash.
+
+00:38:08.360 --> 00:38:12.050 align:middle line:84%
+So he can really buy
+large amounts of bonds.
+
+00:38:12.050 --> 00:38:14.140 align:middle line:84%
+And so when the
+Fed goes out there
+
+00:38:14.140 --> 00:38:16.540 align:middle line:84%
+and does an expansionary
+open market operation,
+
+00:38:16.540 --> 00:38:19.090 align:middle line:84%
+means it goes out there
+and buys a lot of bonds.
+
+00:38:19.090 --> 00:38:21.260 align:middle line:84%
+The price of those
+bonds goes up.
+
+00:38:21.260 --> 00:38:24.500 align:middle line:84%
+And by that formula, that means
+the interest rate is going down.
+
+00:38:24.500 --> 00:38:27.540 align:middle line:84%
+So that's another way of
+understanding how is it
+
+00:38:27.540 --> 00:38:31.130 align:middle line:84%
+an expansion open market
+operation lowers the interest
+
+00:38:31.130 --> 00:38:33.380 align:middle line:84%
+rate, because it raises
+the price of the bonds
+
+00:38:33.380 --> 00:38:35.470 align:middle line:90%
+that it's demanding.
+
+00:38:35.470 --> 00:38:37.220 align:middle line:84%
+And when you raise the
+price of the bonds,
+
+00:38:37.220 --> 00:38:38.595 align:middle line:84%
+then the interest
+rate goes down.
+
+00:38:38.595 --> 00:38:49.700 align:middle line:90%
+
+
+00:38:49.700 --> 00:38:52.570 align:middle line:84%
+So really, the only
+thing I really--
+
+00:38:52.570 --> 00:38:55.640 align:middle line:84%
+I want you to understand
+what I just said well
+
+00:38:55.640 --> 00:38:57.920 align:middle line:90%
+because we're going to use it.
+
+00:38:57.920 --> 00:39:02.260 align:middle line:84%
+I want you to understand
+what comes next ideally well,
+
+00:39:02.260 --> 00:39:05.270 align:middle line:84%
+but it's OK if you don't
+understand it too well.
+
+00:39:05.270 --> 00:39:07.270 align:middle line:84%
+And I'm going to tell you
+when you have to start
+
+00:39:07.270 --> 00:39:09.340 align:middle line:90%
+understanding very well again.
+
+00:39:09.340 --> 00:39:13.330 align:middle line:84%
+For now, this is a piece in
+which, what I'm doing here
+
+00:39:13.330 --> 00:39:16.000 align:middle line:84%
+is making things a little
+bit more realistic.
+
+00:39:16.000 --> 00:39:18.670 align:middle line:90%
+The message will be similar.
+
+00:39:18.670 --> 00:39:21.310 align:middle line:84%
+But it's a little
+bit more complicated.
+
+00:39:21.310 --> 00:39:25.690 align:middle line:84%
+That's the reason,
+substantively,
+
+00:39:25.690 --> 00:39:28.090 align:middle line:84%
+I already told you what
+I wanted to tell you.
+
+00:39:28.090 --> 00:39:29.995 align:middle line:84%
+What I'm going to tell
+you now will give you
+
+00:39:29.995 --> 00:39:31.870 align:middle line:84%
+a little bit more realism,
+and therefore will
+
+00:39:31.870 --> 00:39:33.370 align:middle line:84%
+allow you to
+understand a little bit
+
+00:39:33.370 --> 00:39:37.960 align:middle line:84%
+better a technical description
+of monetary policy or something
+
+00:39:37.960 --> 00:39:39.080 align:middle line:90%
+like that.
+
+00:39:39.080 --> 00:39:43.600 align:middle line:84%
+So in practice in the
+economy I just described,
+
+00:39:43.600 --> 00:39:47.650 align:middle line:84%
+you had sort of households and
+firms and the central bank.
+
+00:39:47.650 --> 00:39:51.580 align:middle line:84%
+But in practice, there are lots
+of financial intermediaries.
+
+00:39:51.580 --> 00:39:54.190 align:middle line:84%
+And in financial intermediaries,
+the most prominent of them,
+
+00:39:54.190 --> 00:39:57.227 align:middle line:84%
+for especially for monetary
+policy, are the banks.
+
+00:39:57.227 --> 00:39:58.810 align:middle line:84%
+And there are certain
+banks, actually,
+
+00:39:58.810 --> 00:40:00.518 align:middle line:84%
+that are even more
+important than others.
+
+00:40:00.518 --> 00:40:03.610 align:middle line:84%
+But banks are financial
+intermediaries.
+
+00:40:03.610 --> 00:40:06.730 align:middle line:84%
+They take money from someone
+or they post it from someone
+
+00:40:06.730 --> 00:40:09.940 align:middle line:84%
+and lend it to someone else,
+or buy some instruments.
+
+00:40:09.940 --> 00:40:12.940 align:middle line:84%
+So the intermediate
+the funds of somebody
+
+00:40:12.940 --> 00:40:16.780 align:middle line:84%
+that wants to save in the bank,
+a deposit and a deposit account
+
+00:40:16.780 --> 00:40:20.910 align:middle line:84%
+or something, and
+they lend that money,
+
+00:40:20.910 --> 00:40:26.340 align:middle line:84%
+effectively in the name of the
+other person, to someone else.
+
+00:40:26.340 --> 00:40:32.700 align:middle line:84%
+So banks do two things to
+the model I just described.
+
+00:40:32.700 --> 00:40:36.330 align:middle line:84%
+The first is that they
+produce money, as well.
+
+00:40:36.330 --> 00:40:39.040 align:middle line:90%
+
+
+00:40:39.040 --> 00:40:43.280 align:middle line:84%
+Because money is
+made of currency,
+
+00:40:43.280 --> 00:40:45.370 align:middle line:84%
+which is issued by
+the central bank.
+
+00:40:45.370 --> 00:40:49.390 align:middle line:84%
+But it's also made of
+checkable deposits.
+
+00:40:49.390 --> 00:40:52.240 align:middle line:84%
+If you have a checking
+account, something
+
+00:40:52.240 --> 00:40:56.380 align:middle line:84%
+you can have a debit card
+against or something like that,
+
+00:40:56.380 --> 00:40:59.420 align:middle line:90%
+then that's money for you.
+
+00:40:59.420 --> 00:41:05.950 align:middle line:84%
+If you deposit in a bank in a
+checking account, that's money.
+
+00:41:05.950 --> 00:41:09.040 align:middle line:84%
+And so banks, the
+liabilities of banks,
+
+00:41:09.040 --> 00:41:12.152 align:middle line:84%
+the deposits is part
+of money, is something
+
+00:41:12.152 --> 00:41:13.360 align:middle line:90%
+you can use for transactions.
+
+00:41:13.360 --> 00:41:14.235 align:middle line:90%
+You can write checks.
+
+00:41:14.235 --> 00:41:16.930 align:middle line:84%
+You can use your debit
+card and stuff like that.
+
+00:41:16.930 --> 00:41:20.490 align:middle line:84%
+So that's the first
+thing that banks do.
+
+00:41:20.490 --> 00:41:27.300 align:middle line:84%
+The other thing the banks do is
+they, themselves, have a deposit
+
+00:41:27.300 --> 00:41:28.950 align:middle line:90%
+account at the central bank.
+
+00:41:28.950 --> 00:41:31.640 align:middle line:90%
+
+
+00:41:31.640 --> 00:41:35.470 align:middle line:84%
+So they, themselves, take
+part of this deposit.
+
+00:41:35.470 --> 00:41:37.150 align:middle line:90%
+They take the deposit.
+
+00:41:37.150 --> 00:41:40.130 align:middle line:84%
+Part of the deposit they
+lend to other people.
+
+00:41:40.130 --> 00:41:42.770 align:middle line:84%
+Another part they buy
+financial instruments, bonds,
+
+00:41:42.770 --> 00:41:43.690 align:middle line:90%
+and stuff like that.
+
+00:41:43.690 --> 00:41:45.910 align:middle line:84%
+In this economy
+would be only bonds.
+
+00:41:45.910 --> 00:41:49.390 align:middle line:84%
+And the other part, smaller
+part, 10% or something
+
+00:41:49.390 --> 00:41:54.330 align:middle line:84%
+like that, they deposit
+at the central bank.
+
+00:41:54.330 --> 00:41:58.730 align:middle line:84%
+That deposit at the central
+bank is called reserves.
+
+00:41:58.730 --> 00:42:02.550 align:middle line:84%
+So when you hear the word
+reserves or the banking sector,
+
+00:42:02.550 --> 00:42:08.610 align:middle line:84%
+this is the deposits of the
+banks at the central bank.
+
+00:42:08.610 --> 00:42:11.880 align:middle line:84%
+And that's also a liability
+for the central bank.
+
+00:42:11.880 --> 00:42:14.160 align:middle line:84%
+The central bank is holding
+that deposit of the banks.
+
+00:42:14.160 --> 00:42:15.810 align:middle line:84%
+It's not the central
+bank's money.
+
+00:42:15.810 --> 00:42:17.932 align:middle line:90%
+It's the bank's money.
+
+00:42:17.932 --> 00:42:19.140 align:middle line:90%
+And they're holding it there.
+
+00:42:19.140 --> 00:42:20.505 align:middle line:90%
+It's a liability, as well.
+
+00:42:20.505 --> 00:42:23.390 align:middle line:90%
+
+
+00:42:23.390 --> 00:42:27.930 align:middle line:84%
+So now, if you look at how
+the balance sheets look,
+
+00:42:27.930 --> 00:42:30.380 align:middle line:84%
+our central bank
+now has more things.
+
+00:42:30.380 --> 00:42:31.865 align:middle line:90%
+It has assets.
+
+00:42:31.865 --> 00:42:33.320 align:middle line:90%
+It's going to be bonds.
+
+00:42:33.320 --> 00:42:35.570 align:middle line:84%
+In this economy, it's the
+only thing you can have.
+
+00:42:35.570 --> 00:42:37.970 align:middle line:84%
+But now it will
+have the currency
+
+00:42:37.970 --> 00:42:40.500 align:middle line:84%
+that it had before and
+in the liabilities,
+
+00:42:40.500 --> 00:42:42.410 align:middle line:84%
+but also will have the
+reserves, the deposits
+
+00:42:42.410 --> 00:42:44.330 align:middle line:90%
+of the banks themselves.
+
+00:42:44.330 --> 00:42:49.800 align:middle line:90%
+
+
+00:42:49.800 --> 00:42:52.170 align:middle line:84%
+OK, and this is
+called-- this stuff here
+
+00:42:52.170 --> 00:42:54.150 align:middle line:90%
+is called central bank money.
+
+00:42:54.150 --> 00:42:57.570 align:middle line:84%
+In contrast, it's called central
+bank-- has so many names--
+
+00:42:57.570 --> 00:43:00.120 align:middle line:84%
+it's called central
+bank money, high power
+
+00:43:00.120 --> 00:43:03.480 align:middle line:90%
+money, some other name.
+
+00:43:03.480 --> 00:43:04.380 align:middle line:90%
+They have it some.
+
+00:43:04.380 --> 00:43:06.220 align:middle line:90%
+But it has several names.
+
+00:43:06.220 --> 00:43:07.080 align:middle line:90%
+And what is it?
+
+00:43:07.080 --> 00:43:08.850 align:middle line:84%
+I like the name
+central bank money
+
+00:43:08.850 --> 00:43:12.220 align:middle line:84%
+because that's in contrast
+with this kind of money.
+
+00:43:12.220 --> 00:43:14.370 align:middle line:84%
+It's the money that the
+banking sector produces,
+
+00:43:14.370 --> 00:43:16.620 align:middle line:90%
+the checkable deposits.
+
+00:43:16.620 --> 00:43:19.260 align:middle line:84%
+So this is the money
+produced by the central bank.
+
+00:43:19.260 --> 00:43:23.340 align:middle line:84%
+And then through deposits, the
+financial system, the banks
+
+00:43:23.340 --> 00:43:26.730 align:middle line:90%
+themselves produce more money.
+
+00:43:26.730 --> 00:43:29.990 align:middle line:84%
+So the total money in
+the system is much more
+
+00:43:29.990 --> 00:43:36.070 align:middle line:84%
+than the central bank money
+because deposits is a big thing.
+
+00:43:36.070 --> 00:43:41.350 align:middle line:84%
+This is much larger
+than that in practice.
+
+00:43:41.350 --> 00:43:42.200 align:middle line:90%
+Good.
+
+00:43:42.200 --> 00:43:44.020 align:middle line:84%
+So how does this
+change our model?
+
+00:43:44.020 --> 00:43:45.210 align:middle line:90%
+Not really much.
+
+00:43:45.210 --> 00:43:48.160 align:middle line:84%
+And so that's the reason I don't
+care too much if you understand
+
+00:43:48.160 --> 00:43:49.880 align:middle line:90%
+this last two slides.
+
+00:43:49.880 --> 00:43:55.450 align:middle line:84%
+So let me rederive what
+we had with this approach,
+
+00:43:55.450 --> 00:43:58.270 align:middle line:90%
+with this extension.
+
+00:43:58.270 --> 00:44:00.792 align:middle line:84%
+So money, the money is
+the same as it used to be.
+
+00:44:00.792 --> 00:44:02.500 align:middle line:84%
+What happens is you're
+going to demand it
+
+00:44:02.500 --> 00:44:04.930 align:middle line:84%
+in the form of currency or
+checking accounts or something
+
+00:44:04.930 --> 00:44:05.590 align:middle line:90%
+like that.
+
+00:44:05.590 --> 00:44:10.590 align:middle line:84%
+But the total money demand
+is exactly as it used to be.
+
+00:44:10.590 --> 00:44:14.470 align:middle line:90%
+Banks typically hold a share.
+
+00:44:14.470 --> 00:44:16.860 align:middle line:84%
+And assume for now that
+there is no currency.
+
+00:44:16.860 --> 00:44:19.350 align:middle line:84%
+So everything is in
+deposit, otherwise
+
+00:44:19.350 --> 00:44:21.840 align:middle line:84%
+you get a more
+complicated formula.
+
+00:44:21.840 --> 00:44:24.780 align:middle line:84%
+So no one holds cash, which
+is probably quite realistic
+
+00:44:24.780 --> 00:44:25.710 align:middle line:90%
+nowadays.
+
+00:44:25.710 --> 00:44:31.180 align:middle line:84%
+So everyone has a checking
+account, and that's it.
+
+00:44:31.180 --> 00:44:40.280 align:middle line:84%
+So the banks typically hold,
+for regulatory reasons,
+
+00:44:40.280 --> 00:44:42.110 align:middle line:90%
+a share of their deposit.
+
+00:44:42.110 --> 00:44:44.300 align:middle line:84%
+They have a minimum
+for regulatory reasons,
+
+00:44:44.300 --> 00:44:47.660 align:middle line:84%
+a minimum share of
+the deposit they have
+
+00:44:47.660 --> 00:44:50.750 align:middle line:84%
+that they need to hold
+in the form of reserves.
+
+00:44:50.750 --> 00:44:53.880 align:middle line:84%
+And I'm going to call that
+a fixed fraction, theta.
+
+00:44:53.880 --> 00:44:58.040 align:middle line:84%
+So if all the money is held
+in the form of deposits,
+
+00:44:58.040 --> 00:45:00.980 align:middle line:84%
+then theta, which is
+a number like 0.1,
+
+00:45:00.980 --> 00:45:04.850 align:middle line:84%
+say, times the deposit,
+which is money demand,
+
+00:45:04.850 --> 00:45:10.130 align:middle line:84%
+is equal to the reserves,
+is equal to the demand
+
+00:45:10.130 --> 00:45:12.392 align:middle line:90%
+for central bank money.
+
+00:45:12.392 --> 00:45:14.100 align:middle line:84%
+This is the demand
+for central bank money
+
+00:45:14.100 --> 00:45:18.240 align:middle line:84%
+because these are the
+reserves that the banks want
+
+00:45:18.240 --> 00:45:20.350 align:middle line:90%
+to have at the central bank.
+
+00:45:20.350 --> 00:45:23.010 align:middle line:84%
+So the demand, they want to
+have this amount of deposits
+
+00:45:23.010 --> 00:45:24.690 align:middle line:90%
+at the central bank.
+
+00:45:24.690 --> 00:45:25.950 align:middle line:90%
+This we'll call Hd.
+
+00:45:25.950 --> 00:45:28.390 align:middle line:90%
+It's theta times Md.
+
+00:45:28.390 --> 00:45:31.278 align:middle line:84%
+And so now, rather than M,
+what the central bank controls
+
+00:45:31.278 --> 00:45:33.820 align:middle line:84%
+really-- because it's the only
+thing you can really control--
+
+00:45:33.820 --> 00:45:39.070 align:middle line:84%
+is the money that it issues,
+which is the central bank money.
+
+00:45:39.070 --> 00:45:41.540 align:middle line:84%
+Supplying M, which
+used to be currency.
+
+00:45:41.540 --> 00:45:43.810 align:middle line:84%
+Now M is a bigger thing
+because of deposits
+
+00:45:43.810 --> 00:45:45.110 align:middle line:90%
+and all sort of stuff.
+
+00:45:45.110 --> 00:45:46.690 align:middle line:84%
+But the central
+bank is the one that
+
+00:45:46.690 --> 00:45:49.840 align:middle line:84%
+controls how much high power
+money, how much central bank
+
+00:45:49.840 --> 00:45:51.520 align:middle line:90%
+money, it issues.
+
+00:45:51.520 --> 00:45:54.850 align:middle line:90%
+And we're going to call that H.
+
+00:45:54.850 --> 00:45:58.450 align:middle line:84%
+So if you go back to
+my balance sheet here,
+
+00:45:58.450 --> 00:46:01.150 align:middle line:84%
+the central bank cannot control
+total money because it cannot
+
+00:46:01.150 --> 00:46:04.210 align:middle line:84%
+control the amount of checkable
+deposits in the economy.
+
+00:46:04.210 --> 00:46:07.250 align:middle line:84%
+But it can control
+this money here.
+
+00:46:07.250 --> 00:46:09.560 align:middle line:84%
+And since we have no
+currency in my example,
+
+00:46:09.560 --> 00:46:14.180 align:middle line:84%
+it really can control how much
+supply of reserves it can do.
+
+00:46:14.180 --> 00:46:16.100 align:middle line:84%
+And so now we have a
+demand for reserves,
+
+00:46:16.100 --> 00:46:17.950 align:middle line:84%
+which is just proportional
+to money demand,
+
+00:46:17.950 --> 00:46:20.410 align:middle line:84%
+equal to some fixed
+amount, H, which
+
+00:46:20.410 --> 00:46:24.190 align:middle line:84%
+is the supply of high powered
+money by the central bank.
+
+00:46:24.190 --> 00:46:28.038 align:middle line:84%
+And then the equilibrium
+looks exactly like before.
+
+00:46:28.038 --> 00:46:29.830 align:middle line:84%
+It's going to be some--
+remember, before we
+
+00:46:29.830 --> 00:46:34.240 align:middle line:90%
+have M equal to dollar YLi.
+
+00:46:34.240 --> 00:46:37.660 align:middle line:84%
+Now we're saying it's not
+M. It's theta times M,
+
+00:46:37.660 --> 00:46:42.760 align:middle line:84%
+really, because it's a
+fraction only of total money.
+
+00:46:42.760 --> 00:46:46.910 align:middle line:90%
+Has to be equal to money demand.
+
+00:46:46.910 --> 00:46:48.250 align:middle line:90%
+It's not total money demand.
+
+00:46:48.250 --> 00:46:49.840 align:middle line:84%
+It's the money
+that ends up being
+
+00:46:49.840 --> 00:46:51.460 align:middle line:90%
+demand for central bank money.
+
+00:46:51.460 --> 00:46:56.360 align:middle line:84%
+Because total money demand
+is the checking account.
+
+00:46:56.360 --> 00:46:58.850 align:middle line:84%
+That leads to demand
+for central bank money
+
+00:46:58.850 --> 00:47:02.930 align:middle line:84%
+by the banks, which is theta
+times those deposits, not
+
+00:47:02.930 --> 00:47:03.797 align:middle line:90%
+the full deposits.
+
+00:47:03.797 --> 00:47:06.380 align:middle line:84%
+They don't take all the deposits
+and deposit the central bank.
+
+00:47:06.380 --> 00:47:08.330 align:middle line:84%
+They say only 10%
+of those deposits
+
+00:47:08.330 --> 00:47:10.230 align:middle line:84%
+will keep them at
+the central bank.
+
+00:47:10.230 --> 00:47:14.750 align:middle line:84%
+So $100 in deposit, if theta
+is 0.1, $100 in deposit
+
+00:47:14.750 --> 00:47:16.760 align:middle line:84%
+leads to a demand
+for reserves, that
+
+00:47:16.760 --> 00:47:19.730 align:middle line:84%
+is for deposits by the bank
+and the central bank, of $10.
+
+00:47:19.730 --> 00:47:22.300 align:middle line:90%
+
+
+00:47:22.300 --> 00:47:24.310 align:middle line:84%
+And that is the thing
+that the central bank
+
+00:47:24.310 --> 00:47:26.330 align:middle line:90%
+can control very well.
+
+00:47:26.330 --> 00:47:28.810 align:middle line:84%
+It's the demand
+that comes to me.
+
+00:47:28.810 --> 00:47:30.400 align:middle line:90%
+The central bank is $10.
+
+00:47:30.400 --> 00:47:33.700 align:middle line:84%
+And I decide whether
+we do $10 or not.
+
+00:47:33.700 --> 00:47:36.910 align:middle line:84%
+We can do 5 and then we're going
+to have the interest rate sort
+
+00:47:36.910 --> 00:47:39.850 align:middle line:90%
+out 5 to be an equilibrium.
+
+00:47:39.850 --> 00:47:42.820 align:middle line:84%
+So if the banking
+sector wanted 10
+
+00:47:42.820 --> 00:47:45.153 align:middle line:84%
+and I'm only going to
+supply 5, then something,
+
+00:47:45.153 --> 00:47:46.570 align:middle line:84%
+the interest rate
+is going to have
+
+00:47:46.570 --> 00:47:51.910 align:middle line:84%
+to rise so that the deposits
+decline, less demand for money,
+
+00:47:51.910 --> 00:47:57.040 align:middle line:84%
+and the final demand that
+gets to me is 5, not 10.
+
+00:47:57.040 --> 00:47:58.960 align:middle line:84%
+But the mechanism
+is exactly the same.
+
+00:47:58.960 --> 00:48:00.910 align:middle line:84%
+I know this can be
+a little confusing.
+
+00:48:00.910 --> 00:48:03.520 align:middle line:84%
+But the mechanism
+is exactly the same.
+
+00:48:03.520 --> 00:48:05.980 align:middle line:90%
+This just illustrates--
+
+00:48:05.980 --> 00:48:11.080 align:middle line:84%
+I mean, this is
+important because it's
+
+00:48:11.080 --> 00:48:14.080 align:middle line:84%
+institutional important, more
+than conceptually important.
+
+00:48:14.080 --> 00:48:17.125 align:middle line:84%
+Because this is the market where
+really the interest rate is set.
+
+00:48:17.125 --> 00:48:20.130 align:middle line:90%
+
+
+00:48:20.130 --> 00:48:21.480 align:middle line:90%
+Okay?
+
+00:48:21.480 --> 00:48:24.330 align:middle line:84%
+That market, the market
+for reserves, really,
+
+00:48:24.330 --> 00:48:25.890 align:middle line:84%
+because what the
+banks do is they
+
+00:48:25.890 --> 00:48:29.010 align:middle line:84%
+want reserves, deposit
+at the central bank.
+
+00:48:29.010 --> 00:48:31.170 align:middle line:84%
+That market for reserves,
+the interest rate
+
+00:48:31.170 --> 00:48:35.400 align:middle line:84%
+in that market for reserves, is
+called the Federal Funds Rate.
+
+00:48:35.400 --> 00:48:37.420 align:middle line:84%
+And it's called the
+Federal Funds Rate
+
+00:48:37.420 --> 00:48:39.850 align:middle line:84%
+because the federal
+reserves controls that rate.
+
+00:48:39.850 --> 00:48:43.760 align:middle line:84%
+So when there is a meeting by
+the Fed or a policy announcement
+
+00:48:43.760 --> 00:48:46.470 align:middle line:84%
+and it tell you that the Fed has
+increased the rate by 50 basis
+
+00:48:46.470 --> 00:48:49.140 align:middle line:84%
+points, it means
+it has increased
+
+00:48:49.140 --> 00:48:53.580 align:middle line:84%
+the interest rate in that
+market by 50 basis points.
+
+00:48:53.580 --> 00:48:57.120 align:middle line:84%
+So the interest rate that the
+central bank controls directly
+
+00:48:57.120 --> 00:48:58.980 align:middle line:84%
+is called the
+Federal Funds Rate.
+
+00:48:58.980 --> 00:49:01.710 align:middle line:84%
+And the Federal Funds
+Rate is that market,
+
+00:49:01.710 --> 00:49:04.180 align:middle line:84%
+is the market for reserve
+for high powered money.
+
+00:49:04.180 --> 00:49:07.250 align:middle line:84%
+So all the operations
+happen there.
+
+00:49:07.250 --> 00:49:09.685 align:middle line:84%
+They don't participate
+in the deposit
+
+00:49:09.685 --> 00:49:10.810 align:middle line:90%
+market, anything like that.
+
+00:49:10.810 --> 00:49:13.960 align:middle line:84%
+They participate in that
+market, which every night is
+
+00:49:13.960 --> 00:49:15.790 align:middle line:90%
+a huge number of transactions.
+
+00:49:15.790 --> 00:49:18.570 align:middle line:84%
+Every night because I put
+all the banks together.
+
+00:49:18.570 --> 00:49:20.320 align:middle line:84%
+But what happens every
+night is some banks
+
+00:49:20.320 --> 00:49:21.610 align:middle line:84%
+have more reserves
+than they need.
+
+00:49:21.610 --> 00:49:23.735 align:middle line:84%
+Some other banks have less
+reserves than they need.
+
+00:49:23.735 --> 00:49:27.970 align:middle line:84%
+So the supply and demand within
+the banking sector for reserves,
+
+00:49:27.970 --> 00:49:30.340 align:middle line:84%
+and there is an interest rate
+that tends to equilibrate,
+
+00:49:30.340 --> 00:49:32.212 align:middle line:84%
+if too many banks
+are short reserves,
+
+00:49:32.212 --> 00:49:34.420 align:middle line:84%
+then there is going to be
+lots of demand for reserves
+
+00:49:34.420 --> 00:49:36.503 align:middle line:84%
+and the interest rates are
+going to tend to go up.
+
+00:49:36.503 --> 00:49:38.260 align:middle line:84%
+If the Fed doesn't
+want that interest rate
+
+00:49:38.260 --> 00:49:40.610 align:middle line:84%
+to go up, then what
+it will do overnight,
+
+00:49:40.610 --> 00:49:42.580 align:middle line:84%
+it will go there
+and inject reserves
+
+00:49:42.580 --> 00:49:44.240 align:middle line:84%
+into the system,
+high power money.
+
+00:49:44.240 --> 00:49:47.230 align:middle line:84%
+So the interest rate in
+that market comes down.
+
+00:49:47.230 --> 00:49:49.840 align:middle line:84%
+And that's the way
+the Fed operates.
+
+00:49:49.840 --> 00:49:51.190 align:middle line:90%
+That's the way it controls it.
+
+00:49:51.190 --> 00:49:52.660 align:middle line:90%
+Participates in that market.
+
+00:49:52.660 --> 00:49:54.160 align:middle line:84%
+Controls the amount
+of high power
+
+00:49:54.160 --> 00:49:58.490 align:middle line:84%
+money, which regulates the
+rate in the reserves market.
+
+00:49:58.490 --> 00:49:59.950 align:middle line:90%
+And here it's only--
+
+00:49:59.950 --> 00:50:07.070 align:middle line:84%
+and then so here you have the
+major banks participating here.
+
+00:50:07.070 --> 00:50:10.070 align:middle line:84%
+And then this leaks into
+the other interest rates
+
+00:50:10.070 --> 00:50:14.090 align:middle line:84%
+in the economy, into the deposit
+rates, to bond rates, and so on.
+
+00:50:14.090 --> 00:50:16.220 align:middle line:84%
+But the real rate
+they control, the rate
+
+00:50:16.220 --> 00:50:20.290 align:middle line:84%
+that they control most
+directly, is that right here.
+
+00:50:20.290 --> 00:50:22.040 align:middle line:84%
+And that's the reason
+I wanted to give you
+
+00:50:22.040 --> 00:50:24.440 align:middle line:90%
+a little bit of institutional--
+
+00:50:24.440 --> 00:50:30.640 align:middle line:84%
+I mean, to add
+complexity, so you
+
+00:50:30.640 --> 00:50:33.500 align:middle line:84%
+could get to this word,
+Federal Funds Rate
+
+00:50:33.500 --> 00:50:35.800 align:middle line:84%
+because that's what you want
+to read in the newspapers.
+
+00:50:35.800 --> 00:50:38.800 align:middle line:84%
+The Fed increased the federal
+funds target, it's going to say.
+
+00:50:38.800 --> 00:50:39.700 align:middle line:90%
+Because they target.
+
+00:50:39.700 --> 00:50:41.680 align:middle line:84%
+They cannot guarantee
+there's going to be a target
+
+00:50:41.680 --> 00:50:42.460 align:middle line:90%
+in an interest rate.
+
+00:50:42.460 --> 00:50:44.030 align:middle line:84%
+And typically, they
+give you a range.
+
+00:50:44.030 --> 00:50:45.310 align:middle line:90%
+It's a very narrow range.
+
+00:50:45.310 --> 00:50:48.040 align:middle line:90%
+
+
+00:50:48.040 --> 00:50:51.280 align:middle line:84%
+Let me just conclude by
+showing you how that rate has
+
+00:50:51.280 --> 00:50:55.270 align:middle line:90%
+looked in the US recently.
+
+00:50:55.270 --> 00:50:56.630 align:middle line:90%
+And I finish here.
+
+00:50:56.630 --> 00:51:01.090 align:middle line:90%
+So here is before COVID.
+
+00:51:01.090 --> 00:51:04.270 align:middle line:84%
+The interest rate, the Fed was
+already hiking interest rates.
+
+00:51:04.270 --> 00:51:07.210 align:middle line:84%
+It had overdone it there so it
+was beginning to lower interest
+
+00:51:07.210 --> 00:51:07.710 align:middle line:90%
+rates.
+
+00:51:07.710 --> 00:51:11.520 align:middle line:84%
+And then COVID came and they cut
+interest rate very aggressively.
+
+00:51:11.520 --> 00:51:13.145 align:middle line:84%
+This is the maximum
+they can cut it to.
+
+00:51:13.145 --> 00:51:15.437 align:middle line:84%
+And we're going to talk about
+that briefly in the next,
+
+00:51:15.437 --> 00:51:16.390 align:middle line:90%
+to zero.
+
+00:51:16.390 --> 00:51:17.710 align:middle line:90%
+You cannot go below zero.
+
+00:51:17.710 --> 00:51:20.830 align:middle line:84%
+You cannot pay negative interest
+rate because then I don't demand
+
+00:51:20.830 --> 00:51:21.340 align:middle line:90%
+money.
+
+00:51:21.340 --> 00:51:22.450 align:middle line:90%
+I don't demand bonds.
+
+00:51:22.450 --> 00:51:24.400 align:middle line:84%
+Why should I hold
+a bond that pays me
+
+00:51:24.400 --> 00:51:27.640 align:middle line:84%
+a negative interest rate
+when cash pays 0, always 0?
+
+00:51:27.640 --> 00:51:30.183 align:middle line:84%
+I can keep it under
+the mattress and I
+
+00:51:30.183 --> 00:51:31.350 align:middle line:90%
+don't pay anything negative.
+
+00:51:31.350 --> 00:51:33.200 align:middle line:84%
+So the interest rate,
+the lowest can be 0.
+
+00:51:33.200 --> 00:51:35.510 align:middle line:84%
+And you see that they did
+the maximum they could
+
+00:51:35.510 --> 00:51:37.020 align:middle line:84%
+in terms of cutting
+interest rate.
+
+00:51:37.020 --> 00:51:38.750 align:middle line:90%
+They went to 0, effectively 0.
+
+00:51:38.750 --> 00:51:40.580 align:middle line:84%
+And now they have been
+trying to catch up
+
+00:51:40.580 --> 00:51:41.910 align:middle line:90%
+because inflation is very high.
+
+00:51:41.910 --> 00:51:44.060 align:middle line:84%
+And so they're trying
+to hike interest rates.
+
+00:51:44.060 --> 00:51:45.920 align:middle line:90%
+And you see what they're doing.
+
+00:51:45.920 --> 00:51:49.280 align:middle line:84%
+Well, all those interventions
+happen in the reserve market.
+
+00:51:49.280 --> 00:51:50.450 align:middle line:90%
+That's what this is.
+
+00:51:50.450 --> 00:51:54.960 align:middle line:84%
+That's the rate, is in
+that market over there.
+
+00:51:54.960 --> 00:51:59.450 align:middle line:84%
+OK, so I think we're meeting
+on Tuesday next week.
+
+00:51:59.450 --> 00:52:01.540 align:middle line:90%
+I think that's the plan.
+
+00:52:01.540 --> 00:52:15.000 align:middle line:90%

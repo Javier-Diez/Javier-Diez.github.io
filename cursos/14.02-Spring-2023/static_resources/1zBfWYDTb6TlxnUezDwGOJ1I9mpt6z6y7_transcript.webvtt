@@ -1,0 +1,2533 @@
+WEBVTT
+
+00:00:00.000 --> 00:00:02.425 align:middle line:90%
+[SQUEAKING]
+
+00:00:02.425 --> 00:00:04.850 align:middle line:90%
+[RUSTLING]
+
+00:00:04.850 --> 00:00:08.245 align:middle line:90%
+[CLICKING]
+
+00:00:08.245 --> 00:00:15.798 align:middle line:90%
+
+
+00:00:15.798 --> 00:00:16.840 align:middle line:90%
+RICARDO J. CABALLERO: OK.
+
+00:00:16.840 --> 00:00:19.660 align:middle line:90%
+Let's start.
+
+00:00:19.660 --> 00:00:22.520 align:middle line:90%
+So hello, everyone.
+
+00:00:22.520 --> 00:00:28.180 align:middle line:84%
+Welcome to 1402, Introduction
+to Macroeconomics.
+
+00:00:28.180 --> 00:00:31.030 align:middle line:90%
+And I won't teach today.
+
+00:00:31.030 --> 00:00:32.409 align:middle line:90%
+So that's a good news.
+
+00:00:32.409 --> 00:00:34.220 align:middle line:90%
+I will start on Wednesday.
+
+00:00:34.220 --> 00:00:36.970 align:middle line:84%
+So what I want to do today
+is essentially tell you
+
+00:00:36.970 --> 00:00:39.190 align:middle line:84%
+what macro is about,
+macroeconomics
+
+00:00:39.190 --> 00:00:44.470 align:middle line:84%
+is about, and also
+the rules of the game.
+
+00:00:44.470 --> 00:00:48.190 align:middle line:84%
+So what a difference
+a single letter makes.
+
+00:00:48.190 --> 00:00:50.500 align:middle line:84%
+Many of you must
+have taken 1401.
+
+00:00:50.500 --> 00:00:53.440 align:middle line:84%
+In fact, some of you may
+be taking it concurrently,
+
+00:00:53.440 --> 00:00:54.940 align:middle line:90%
+a lecture right before mine.
+
+00:00:54.940 --> 00:00:57.490 align:middle line:90%
+
+
+00:00:57.490 --> 00:01:00.130 align:middle line:90%
+And that's Microeconomics, 1401.
+
+00:01:00.130 --> 00:01:01.600 align:middle line:90%
+This is macroeconomics.
+
+00:01:01.600 --> 00:01:03.550 align:middle line:84%
+And it doesn't take
+a lot of imagination
+
+00:01:03.550 --> 00:01:07.180 align:middle line:84%
+to realize that this
+course is about big things.
+
+00:01:07.180 --> 00:01:08.980 align:middle line:90%
+We don't look at small things.
+
+00:01:08.980 --> 00:01:10.300 align:middle line:90%
+That's what micro is about.
+
+00:01:10.300 --> 00:01:15.310 align:middle line:84%
+Micro looks at a household,
+at a firm, at an industry.
+
+00:01:15.310 --> 00:01:17.120 align:middle line:90%
+In macro we don't do that.
+
+00:01:17.120 --> 00:01:19.060 align:middle line:90%
+We look at the whole economy.
+
+00:01:19.060 --> 00:01:20.590 align:middle line:90%
+We think about the US.
+
+00:01:20.590 --> 00:01:22.750 align:middle line:90%
+We think about China.
+
+00:01:22.750 --> 00:01:24.580 align:middle line:84%
+We don't think about
+an individual price.
+
+00:01:24.580 --> 00:01:28.370 align:middle line:84%
+We think about inflation, so the
+rate of change of all prices.
+
+00:01:28.370 --> 00:01:30.610 align:middle line:84%
+We don't think about
+whether a particular worker
+
+00:01:30.610 --> 00:01:31.810 align:middle line:90%
+is employed or unemployed.
+
+00:01:31.810 --> 00:01:33.970 align:middle line:84%
+We think of whether the
+rate of unemployment
+
+00:01:33.970 --> 00:01:36.970 align:middle line:84%
+is very high or low,
+things of that kind.
+
+00:01:36.970 --> 00:01:38.410 align:middle line:84%
+When we look at
+two countries, we
+
+00:01:38.410 --> 00:01:40.952 align:middle line:84%
+look at the exchange rate, which
+is the relative price of two
+
+00:01:40.952 --> 00:01:43.220 align:middle line:84%
+currencies, not to
+individual goods in two
+
+00:01:43.220 --> 00:01:45.990 align:middle line:84%
+different countries, but the
+whole currency and so on.
+
+00:01:45.990 --> 00:01:48.620 align:middle line:90%
+So that's what macro is about.
+
+00:01:48.620 --> 00:01:51.140 align:middle line:84%
+Now, you could think that
+macro is nothing else
+
+00:01:51.140 --> 00:01:53.330 align:middle line:90%
+than the sum of lots of micros.
+
+00:01:53.330 --> 00:01:55.490 align:middle line:84%
+After all, that's what
+an economy is made of.
+
+00:01:55.490 --> 00:01:57.230 align:middle line:84%
+A population, a
+whole population is
+
+00:01:57.230 --> 00:01:59.420 align:middle line:84%
+made of lots of
+individuals that can
+
+00:01:59.420 --> 00:02:01.670 align:middle line:84%
+be analyzed with
+the tools of 1401
+
+00:02:01.670 --> 00:02:05.450 align:middle line:84%
+and the sequence
+that follows 1401.
+
+00:02:05.450 --> 00:02:06.950 align:middle line:90%
+But that doesn't work.
+
+00:02:06.950 --> 00:02:09.770 align:middle line:84%
+And there are parallels in
+physics about this and so on.
+
+00:02:09.770 --> 00:02:11.713 align:middle line:84%
+The way you want to
+study sort of big bodies
+
+00:02:11.713 --> 00:02:13.130 align:middle line:84%
+is different from
+the way you want
+
+00:02:13.130 --> 00:02:16.640 align:middle line:84%
+to understand the movements
+of small elements.
+
+00:02:16.640 --> 00:02:18.964 align:middle line:90%
+And that's the case in macro.
+
+00:02:18.964 --> 00:02:22.550 align:middle line:84%
+In macro there's a
+big line of research
+
+00:02:22.550 --> 00:02:26.840 align:middle line:84%
+that has to do with the micro
+foundations of macro economics.
+
+00:02:26.840 --> 00:02:31.100 align:middle line:84%
+But even in that case, which
+is very close to micro,
+
+00:02:31.100 --> 00:02:34.880 align:middle line:84%
+most of the action ended up
+happening in the non-micro part,
+
+00:02:34.880 --> 00:02:37.640 align:middle line:84%
+in the interactions,
+in the equilibrium
+
+00:02:37.640 --> 00:02:39.420 align:middle line:90%
+aspects of the system.
+
+00:02:39.420 --> 00:02:41.790 align:middle line:84%
+So it's a much more
+complicated object.
+
+00:02:41.790 --> 00:02:43.700 align:middle line:84%
+And if you were to
+build it from the micro,
+
+00:02:43.700 --> 00:02:45.980 align:middle line:84%
+it would be an incredibly
+complicated object.
+
+00:02:45.980 --> 00:02:49.130 align:middle line:84%
+So one of the things we
+need to do in macroeconomics
+
+00:02:49.130 --> 00:02:52.220 align:middle line:90%
+is take some shortcuts.
+
+00:02:52.220 --> 00:02:54.660 align:middle line:84%
+That's what makes
+macro a lot of an art.
+
+00:02:54.660 --> 00:02:56.420 align:middle line:90%
+It's not a science, per se.
+
+00:02:56.420 --> 00:02:58.100 align:middle line:90%
+It's some sort of a science.
+
+00:02:58.100 --> 00:02:59.750 align:middle line:90%
+It has the tools of a science.
+
+00:02:59.750 --> 00:03:02.150 align:middle line:84%
+But it's a lot about
+shortcuts and tricks
+
+00:03:02.150 --> 00:03:04.400 align:middle line:84%
+and so on to capture the
+essence of a problem that
+
+00:03:04.400 --> 00:03:06.650 align:middle line:84%
+is very complex if
+you were to model it
+
+00:03:06.650 --> 00:03:08.465 align:middle line:90%
+in all the gory details.
+
+00:03:08.465 --> 00:03:11.450 align:middle line:90%
+
+
+00:03:11.450 --> 00:03:15.260 align:middle line:84%
+And in this course, we're going
+to exaggerate on that sense.
+
+00:03:15.260 --> 00:03:18.063 align:middle line:84%
+We're not going to do anything
+complicated, I promise you that.
+
+00:03:18.063 --> 00:03:20.480 align:middle line:84%
+Some occasionally conceptually
+things will be complicated.
+
+00:03:20.480 --> 00:03:24.350 align:middle line:84%
+But the math will
+not be complicated.
+
+00:03:24.350 --> 00:03:26.510 align:middle line:84%
+So we're going to keep
+things very, very simple.
+
+00:03:26.510 --> 00:03:28.430 align:middle line:84%
+I want to communicate
+the essence
+
+00:03:28.430 --> 00:03:31.560 align:middle line:84%
+of the big macroeconomic
+relationships.
+
+00:03:31.560 --> 00:03:33.540 align:middle line:90%
+This is not a PhD course.
+
+00:03:33.540 --> 00:03:36.140 align:middle line:84%
+If you were to take a
+PhD course in macro,
+
+00:03:36.140 --> 00:03:38.180 align:middle line:84%
+it would be a very
+mathy type course.
+
+00:03:38.180 --> 00:03:42.260 align:middle line:84%
+In fact, most of the people that
+do apply in micro in our PhD
+
+00:03:42.260 --> 00:03:44.900 align:middle line:84%
+program complain against
+macro because they find it too
+
+00:03:44.900 --> 00:03:46.102 align:middle line:90%
+mathy and so on.
+
+00:03:46.102 --> 00:03:47.810 align:middle line:84%
+But that's not going
+to be the case here.
+
+00:03:47.810 --> 00:03:50.990 align:middle line:84%
+That's not what this
+course is about.
+
+00:03:50.990 --> 00:03:54.900 align:middle line:84%
+My goal-- so if this
+is a successful course,
+
+00:03:54.900 --> 00:03:57.810 align:middle line:84%
+it's not that you come out
+being a researcher in macro
+
+00:03:57.810 --> 00:03:58.440 align:middle line:90%
+out of this.
+
+00:03:58.440 --> 00:04:00.300 align:middle line:84%
+Hopefully you'll have
+a career eventually
+
+00:04:00.300 --> 00:04:02.950 align:middle line:84%
+and do all the next steps
+that you need to do that.
+
+00:04:02.950 --> 00:04:05.580 align:middle line:84%
+But I want you to
+be able to do is
+
+00:04:05.580 --> 00:04:07.870 align:middle line:84%
+to read something like this--
+this is a World Economic
+
+00:04:07.870 --> 00:04:08.370 align:middle line:90%
+Outlook.
+
+00:04:08.370 --> 00:04:11.010 align:middle line:84%
+It's a publication
+that the IMF puts out
+
+00:04:11.010 --> 00:04:14.880 align:middle line:84%
+every six months in which it
+tells you how it sees the world
+
+00:04:14.880 --> 00:04:16.920 align:middle line:84%
+and where we're
+heading and so on.
+
+00:04:16.920 --> 00:04:18.089 align:middle line:90%
+No equations there.
+
+00:04:18.089 --> 00:04:19.980 align:middle line:84%
+Lots of tables and
+stuff like that.
+
+00:04:19.980 --> 00:04:22.980 align:middle line:84%
+I'd like you to be able to
+read that kind of document
+
+00:04:22.980 --> 00:04:24.060 align:middle line:90%
+very clearly.
+
+00:04:24.060 --> 00:04:26.880 align:middle line:84%
+I would like you to be able to
+read something in say, the Wall
+
+00:04:26.880 --> 00:04:29.550 align:middle line:84%
+Street Journal and
+read even critically,
+
+00:04:29.550 --> 00:04:31.710 align:middle line:84%
+sometimes disagreeing
+with what is in there--
+
+00:04:31.710 --> 00:04:33.630 align:middle line:90%
+Financial Times, The Economist.
+
+00:04:33.630 --> 00:04:34.950 align:middle line:90%
+That's a goal of this course.
+
+00:04:34.950 --> 00:04:36.550 align:middle line:90%
+It's not a lot more than that.
+
+00:04:36.550 --> 00:04:37.470 align:middle line:90%
+It's just that.
+
+00:04:37.470 --> 00:04:39.750 align:middle line:84%
+If you do a summer
+internship in Wall Street
+
+00:04:39.750 --> 00:04:42.480 align:middle line:84%
+and you work in a macro
+hedge fund or whatever,
+
+00:04:42.480 --> 00:04:44.440 align:middle line:84%
+this is going to be a
+good course for that.
+
+00:04:44.440 --> 00:04:46.350 align:middle line:84%
+I mean, this is what
+traders really know.
+
+00:04:46.350 --> 00:04:47.580 align:middle line:84%
+They don't know a
+lot more than that.
+
+00:04:47.580 --> 00:04:48.830 align:middle line:90%
+Many traders should know that.
+
+00:04:48.830 --> 00:04:49.510 align:middle line:90%
+They don't.
+
+00:04:49.510 --> 00:04:52.860 align:middle line:84%
+But this does a
+level of knowledge.
+
+00:04:52.860 --> 00:04:55.650 align:middle line:84%
+If it gets to be very
+complicated, I'm failing.
+
+00:04:55.650 --> 00:04:59.010 align:middle line:84%
+That's not what I
+want to do here.
+
+00:04:59.010 --> 00:05:02.250 align:middle line:84%
+The typical lecture-- again,
+this is not a lecture.
+
+00:05:02.250 --> 00:05:04.230 align:middle line:84%
+The first lecture
+will be on Wednesday.
+
+00:05:04.230 --> 00:05:06.637 align:middle line:84%
+The typical lecture--
+and not in the first part
+
+00:05:06.637 --> 00:05:08.220 align:middle line:84%
+of the course because
+you're not going
+
+00:05:08.220 --> 00:05:11.040 align:middle line:84%
+to have the tools, the
+definitions and so on to do it.
+
+00:05:11.040 --> 00:05:17.560 align:middle line:84%
+What I want to do is spend
+5 to 10 minutes early on.
+
+00:05:17.560 --> 00:05:19.060 align:middle line:84%
+Again, the first
+part of the course,
+
+00:05:19.060 --> 00:05:22.240 align:middle line:84%
+we can do that because you don't
+have the knowledge to do that.
+
+00:05:22.240 --> 00:05:25.290 align:middle line:84%
+But as you start
+building tools, I
+
+00:05:25.290 --> 00:05:29.190 align:middle line:84%
+want to be able to talk about
+current events, something that
+
+00:05:29.190 --> 00:05:31.950 align:middle line:84%
+is happening out there
+that I find interesting
+
+00:05:31.950 --> 00:05:36.450 align:middle line:84%
+or something I received
+that morning, the morning
+
+00:05:36.450 --> 00:05:38.760 align:middle line:84%
+of the lecture, which
+I find interesting.
+
+00:05:38.760 --> 00:05:41.460 align:middle line:84%
+And if I think you already have
+the tools to begin to understand
+
+00:05:41.460 --> 00:05:43.030 align:middle line:90%
+it, I'm going to be repetitive.
+
+00:05:43.030 --> 00:05:45.330 align:middle line:84%
+I'm going to come back
+two, three, four times
+
+00:05:45.330 --> 00:05:46.380 align:middle line:90%
+to the same topic.
+
+00:05:46.380 --> 00:05:49.625 align:middle line:84%
+Hopefully you'll be more
+advanced in your knowledge
+
+00:05:49.625 --> 00:05:51.000 align:middle line:84%
+in the later stages
+and you'll be
+
+00:05:51.000 --> 00:05:53.400 align:middle line:84%
+able to understand
+it more and more.
+
+00:05:53.400 --> 00:05:55.650 align:middle line:84%
+The typical lecture will
+have 5 to 10 minutes
+
+00:05:55.650 --> 00:05:58.410 align:middle line:84%
+in which we'll talk about
+some facts, something
+
+00:05:58.410 --> 00:05:59.630 align:middle line:90%
+that is going on.
+
+00:05:59.630 --> 00:06:01.660 align:middle line:84%
+For example, a
+picture like this.
+
+00:06:01.660 --> 00:06:02.950 align:middle line:90%
+This I received this morning.
+
+00:06:02.950 --> 00:06:05.980 align:middle line:84%
+I think this came from Goldman,
+I think, Goldman Sachs.
+
+00:06:05.980 --> 00:06:06.820 align:middle line:90%
+Yes.
+
+00:06:06.820 --> 00:06:09.190 align:middle line:84%
+And what you have in
+that picture-- again,
+
+00:06:09.190 --> 00:06:11.110 align:middle line:84%
+don't worry about
+details today--
+
+00:06:11.110 --> 00:06:13.090 align:middle line:90%
+is you have two lines.
+
+00:06:13.090 --> 00:06:20.650 align:middle line:84%
+One of them is a measure of
+wages, wage growth, compensation
+
+00:06:20.650 --> 00:06:21.580 align:middle line:90%
+to workers.
+
+00:06:21.580 --> 00:06:24.010 align:middle line:84%
+And another one is a
+measure of inflation.
+
+00:06:24.010 --> 00:06:25.540 align:middle line:84%
+Again, all those
+definitions will
+
+00:06:25.540 --> 00:06:28.670 align:middle line:84%
+come in the next
+lecture on inflation.
+
+00:06:28.670 --> 00:06:29.820 align:middle line:90%
+So it's the rate at which--
+
+00:06:29.820 --> 00:06:31.640 align:middle line:84%
+you must have heard
+about inflation.
+
+00:06:31.640 --> 00:06:33.850 align:middle line:84%
+It's something,
+prices are rising.
+
+00:06:33.850 --> 00:06:36.610 align:middle line:84%
+And what that picture shows
+you is that these two series
+
+00:06:36.610 --> 00:06:39.260 align:middle line:90%
+are very highly correlated.
+
+00:06:39.260 --> 00:06:44.000 align:middle line:84%
+So when wage growth is high,
+inflation tends to be high.
+
+00:06:44.000 --> 00:06:45.770 align:middle line:84%
+And that's a big
+issue on these days.
+
+00:06:45.770 --> 00:06:47.570 align:middle line:84%
+There's a lot of concern
+about this stuff.
+
+00:06:47.570 --> 00:06:50.750 align:middle line:90%
+
+
+00:06:50.750 --> 00:06:52.730 align:middle line:84%
+So let me try to explain
+a little bit what
+
+00:06:52.730 --> 00:06:54.350 align:middle line:90%
+is a concern on these days.
+
+00:06:54.350 --> 00:06:58.120 align:middle line:84%
+Again, if you don't understand
+anything, doesn't matter.
+
+00:06:58.120 --> 00:06:59.620 align:middle line:84%
+If you don't
+understand anything I'm
+
+00:06:59.620 --> 00:07:02.740 align:middle line:84%
+saying right now in the last
+lecture, then it matters.
+
+00:07:02.740 --> 00:07:04.400 align:middle line:90%
+But now it doesn't matter.
+
+00:07:04.400 --> 00:07:06.850 align:middle line:84%
+I'm just trying to give you a
+flavor of the kind of things
+
+00:07:06.850 --> 00:07:08.720 align:middle line:90%
+we'll be talking about.
+
+00:07:08.720 --> 00:07:11.360 align:middle line:84%
+That picture there,
+again, a variable
+
+00:07:11.360 --> 00:07:13.340 align:middle line:84%
+that will define in the
+next lecture, not now,
+
+00:07:13.340 --> 00:07:14.870 align:middle line:90%
+shows you the unemployment rate.
+
+00:07:14.870 --> 00:07:17.330 align:middle line:84%
+You don't need any
+specific definition
+
+00:07:17.330 --> 00:07:20.120 align:middle line:84%
+to know that to feel,
+at least get a sense,
+
+00:07:20.120 --> 00:07:23.790 align:middle line:84%
+that, well, if unemployment is
+high, workers aren't very happy.
+
+00:07:23.790 --> 00:07:25.970 align:middle line:84%
+It's not a good thing to
+have lots of unemployment.
+
+00:07:25.970 --> 00:07:28.760 align:middle line:84%
+And what that series
+shows you the shaded areas
+
+00:07:28.760 --> 00:07:30.680 align:middle line:90%
+are recessions in the US.
+
+00:07:30.680 --> 00:07:33.890 align:middle line:84%
+What that series shows you is
+that typically in recessions,
+
+00:07:33.890 --> 00:07:34.990 align:middle line:90%
+unemployment goes up.
+
+00:07:34.990 --> 00:07:36.240 align:middle line:90%
+So that's one of the features.
+
+00:07:36.240 --> 00:07:37.865 align:middle line:84%
+One of the main
+features of a recession
+
+00:07:37.865 --> 00:07:40.220 align:middle line:90%
+is that unemployment is high.
+
+00:07:40.220 --> 00:07:45.160 align:middle line:84%
+This episode here, it's
+called the Great Recession--
+
+00:07:45.160 --> 00:07:47.290 align:middle line:84%
+as a parallel for
+the Great Depression.
+
+00:07:47.290 --> 00:07:49.420 align:middle line:84%
+The US had the Great
+Depression in the '30s.
+
+00:07:49.420 --> 00:07:51.970 align:middle line:84%
+This is the Great
+Recession, the biggest sort
+
+00:07:51.970 --> 00:07:55.270 align:middle line:84%
+of recession outside of the
+Great Depression in the US.
+
+00:07:55.270 --> 00:07:58.750 align:middle line:84%
+And it's also known as the
+Global Financial Crisis
+
+00:07:58.750 --> 00:08:01.400 align:middle line:84%
+because this was a recession
+all around the world.
+
+00:08:01.400 --> 00:08:04.930 align:middle line:84%
+And what you can see is that
+unemployment went very high.
+
+00:08:04.930 --> 00:08:07.150 align:middle line:84%
+That's a very feature,
+a telltale sign
+
+00:08:07.150 --> 00:08:09.050 align:middle line:90%
+of a big recession.
+
+00:08:09.050 --> 00:08:10.640 align:middle line:90%
+And then it took a long time.
+
+00:08:10.640 --> 00:08:13.000 align:middle line:90%
+This was in recovering.
+
+00:08:13.000 --> 00:08:15.945 align:middle line:84%
+COVID was a massive
+shock to the labor market
+
+00:08:15.945 --> 00:08:18.070 align:middle line:84%
+So not surprisingly,
+unemployment, the unemployment
+
+00:08:18.070 --> 00:08:19.690 align:middle line:90%
+rate spike there.
+
+00:08:19.690 --> 00:08:22.000 align:middle line:84%
+But then it also
+recover, a lot faster
+
+00:08:22.000 --> 00:08:23.560 align:middle line:90%
+than it recovered from that.
+
+00:08:23.560 --> 00:08:26.230 align:middle line:84%
+And today we have
+unemployment rates that
+
+00:08:26.230 --> 00:08:28.120 align:middle line:90%
+are at historically low levels.
+
+00:08:28.120 --> 00:08:30.220 align:middle line:90%
+And that's a big issue.
+
+00:08:30.220 --> 00:08:32.299 align:middle line:84%
+The rate of
+unemployment in the US
+
+00:08:32.299 --> 00:08:35.450 align:middle line:90%
+is at historically low levels--
+
+00:08:35.450 --> 00:08:38.330 align:middle line:90%
+way below what is normal.
+
+00:08:38.330 --> 00:08:41.510 align:middle line:84%
+Forget recessions, obviously
+way below what is it
+
+00:08:41.510 --> 00:08:44.660 align:middle line:84%
+happens in recessions, but
+even way below what is normal,
+
+00:08:44.660 --> 00:08:46.040 align:middle line:84%
+what happens during
+normal times.
+
+00:08:46.040 --> 00:08:49.340 align:middle line:90%
+
+
+00:08:49.340 --> 00:08:53.410 align:middle line:84%
+Closely related to
+that is wage growth.
+
+00:08:53.410 --> 00:08:59.410 align:middle line:84%
+I have just one measure of wages
+there, is a series of wage that
+
+00:08:59.410 --> 00:09:01.090 align:middle line:90%
+is particularly--
+
+00:09:01.090 --> 00:09:03.770 align:middle line:84%
+what I'm about to say
+is particularly sharp,
+
+00:09:03.770 --> 00:09:07.360 align:middle line:84%
+which is the wages of in the
+accommodation and food service
+
+00:09:07.360 --> 00:09:08.060 align:middle line:90%
+sectors.
+
+00:09:08.060 --> 00:09:12.040 align:middle line:84%
+So wages have been rising very
+steadily and very fast recently
+
+00:09:12.040 --> 00:09:14.230 align:middle line:84%
+everywhere,
+particularly in sectors
+
+00:09:14.230 --> 00:09:16.600 align:middle line:84%
+like this, where we
+have some problems which
+
+00:09:16.600 --> 00:09:17.830 align:middle line:90%
+we call labor supply.
+
+00:09:17.830 --> 00:09:19.962 align:middle line:90%
+But I'll get back to that.
+
+00:09:19.962 --> 00:09:20.920 align:middle line:90%
+So those are two facts.
+
+00:09:20.920 --> 00:09:23.440 align:middle line:84%
+We have unemployment
+at extremely low levels
+
+00:09:23.440 --> 00:09:27.670 align:middle line:84%
+and we have wage growth
+at a very fast pace.
+
+00:09:27.670 --> 00:09:29.290 align:middle line:90%
+Now, that sounds wonderful, no?
+
+00:09:29.290 --> 00:09:32.110 align:middle line:84%
+I mean, what else do you want,
+an economy which is few people
+
+00:09:32.110 --> 00:09:37.210 align:middle line:84%
+unemployed and wages
+are growing a lot.
+
+00:09:37.210 --> 00:09:40.120 align:middle line:84%
+I mean, if this was micro,
+this would be fantastic.
+
+00:09:40.120 --> 00:09:43.300 align:middle line:84%
+OK, look the guy is employed
+and he's getting a high wage.
+
+00:09:43.300 --> 00:09:45.250 align:middle line:90%
+This is great.
+
+00:09:45.250 --> 00:09:48.600 align:middle line:90%
+Well, not so fast for macro.
+
+00:09:48.600 --> 00:09:51.990 align:middle line:84%
+Not so fast because I already
+showed you in the first picture
+
+00:09:51.990 --> 00:09:53.490 align:middle line:84%
+that I showed you,
+[INAUDIBLE] there
+
+00:09:53.490 --> 00:09:56.682 align:middle line:84%
+is a connection between
+wage growth and inflation.
+
+00:09:56.682 --> 00:09:58.140 align:middle line:84%
+And that's what
+we're experiencing.
+
+00:09:58.140 --> 00:10:01.080 align:middle line:84%
+The normal level of inflation
+for an economy like the US
+
+00:10:01.080 --> 00:10:02.340 align:middle line:90%
+is around 2%.
+
+00:10:02.340 --> 00:10:03.120 align:middle line:90%
+That's normal.
+
+00:10:03.120 --> 00:10:06.540 align:middle line:84%
+That's what central banks
+target in an economy like the US
+
+00:10:06.540 --> 00:10:08.310 align:middle line:90%
+in the Euro area.
+
+00:10:08.310 --> 00:10:11.790 align:middle line:84%
+Japan has been dreaming with 2%,
+but hasn't been able for decades
+
+00:10:11.790 --> 00:10:12.840 align:middle line:90%
+to get it.
+
+00:10:12.840 --> 00:10:15.210 align:middle line:90%
+Although now they are.
+
+00:10:15.210 --> 00:10:17.940 align:middle line:84%
+But they weren't, for a couple
+of decades, to get to 2%.
+
+00:10:17.940 --> 00:10:20.700 align:middle line:84%
+But that's about-- and we will
+discuss later in the course
+
+00:10:20.700 --> 00:10:24.300 align:middle line:84%
+why 2% is about right for
+economies of the size of the US
+
+00:10:24.300 --> 00:10:26.500 align:middle line:90%
+and so on.
+
+00:10:26.500 --> 00:10:29.130 align:middle line:84%
+Obviously in recessions,
+these things can go low.
+
+00:10:29.130 --> 00:10:32.400 align:middle line:84%
+And that's why in
+the COVID recessions
+
+00:10:32.400 --> 00:10:35.040 align:middle line:84%
+inflation went to
+zero, essentially.
+
+00:10:35.040 --> 00:10:36.870 align:middle line:90%
+But then it began to pick up.
+
+00:10:36.870 --> 00:10:41.060 align:middle line:84%
+And it's now at levels, which
+are unheard of in the US since
+
+00:10:41.060 --> 00:10:42.740 align:middle line:90%
+the '80s.
+
+00:10:42.740 --> 00:10:46.370 align:middle line:84%
+So depending on the particular
+measure you use of inflation,
+
+00:10:46.370 --> 00:10:48.840 align:middle line:90%
+it's around 6.5% to 8%.
+
+00:10:48.840 --> 00:10:50.400 align:middle line:84%
+That's a level of
+inflation we have,
+
+00:10:50.400 --> 00:10:53.870 align:middle line:84%
+which is way, way above
+what is considered
+
+00:10:53.870 --> 00:10:57.140 align:middle line:84%
+a normal or reasonable
+target for the central banks
+
+00:10:57.140 --> 00:10:58.430 align:middle line:90%
+for inflation.
+
+00:10:58.430 --> 00:10:59.390 align:middle line:90%
+So that's a problem.
+
+00:10:59.390 --> 00:11:02.780 align:middle line:84%
+We have had some good news
+recently in that inflation
+
+00:11:02.780 --> 00:11:04.910 align:middle line:90%
+clearly peaked already--
+
+00:11:04.910 --> 00:11:07.550 align:middle line:84%
+again, definition of inflation,
+formal definition of inflation
+
+00:11:07.550 --> 00:11:09.000 align:middle line:90%
+happens in the next lecture.
+
+00:11:09.000 --> 00:11:11.108 align:middle line:90%
+But it already peaked.
+
+00:11:11.108 --> 00:11:11.900 align:middle line:90%
+And it's declining.
+
+00:11:11.900 --> 00:11:14.415 align:middle line:84%
+But it's still a very,
+very high levels.
+
+00:11:14.415 --> 00:11:15.290 align:middle line:90%
+And that's a problem.
+
+00:11:15.290 --> 00:11:16.923 align:middle line:84%
+That's a big
+macroeconomic problem.
+
+00:11:16.923 --> 00:11:19.340 align:middle line:84%
+And one of the things we want
+to understand in this course
+
+00:11:19.340 --> 00:11:21.680 align:middle line:90%
+is, well, what to do about it.
+
+00:11:21.680 --> 00:11:22.860 align:middle line:90%
+How do you deal with that?
+
+00:11:22.860 --> 00:11:26.390 align:middle line:84%
+What do central banks need to
+do in order to deal with that?
+
+00:11:26.390 --> 00:11:29.090 align:middle line:84%
+Now, I've been
+talking about the US.
+
+00:11:29.090 --> 00:11:33.180 align:middle line:84%
+But this is not
+specific to the US.
+
+00:11:33.180 --> 00:11:37.520 align:middle line:84%
+This episode this
+recovery from COVID
+
+00:11:37.520 --> 00:11:41.060 align:middle line:84%
+is incredibly common across
+different regions of the world.
+
+00:11:41.060 --> 00:11:43.290 align:middle line:84%
+I mean, you see it everywhere
+with a few exceptions.
+
+00:11:43.290 --> 00:11:47.090 align:middle line:84%
+And I'm going to talk about one
+major exception in a minute.
+
+00:11:47.090 --> 00:11:49.460 align:middle line:90%
+But it's widespread.
+
+00:11:49.460 --> 00:11:52.610 align:middle line:84%
+It's a widespread phenomenon
+that we had high unemployment.
+
+00:11:52.610 --> 00:11:56.480 align:middle line:90%
+Then we had sort of very high--
+
+00:11:56.480 --> 00:11:58.740 align:middle line:84%
+well, I haven't told
+you that part yet.
+
+00:11:58.740 --> 00:12:00.590 align:middle line:84%
+But then we had sort
+of low inflation.
+
+00:12:00.590 --> 00:12:02.300 align:middle line:84%
+Then inflation
+picked up enormously.
+
+00:12:02.300 --> 00:12:04.610 align:middle line:84%
+And now we're all worried
+about these very high levels
+
+00:12:04.610 --> 00:12:05.610 align:middle line:90%
+of inflation.
+
+00:12:05.610 --> 00:12:09.860 align:middle line:84%
+In fact, if you look
+at what happened
+
+00:12:09.860 --> 00:12:12.410 align:middle line:84%
+between the Great Recession
+and the COVID recession,
+
+00:12:12.410 --> 00:12:15.140 align:middle line:84%
+it was pretty normal
+to have 70% to 80%
+
+00:12:15.140 --> 00:12:17.900 align:middle line:84%
+of the economies in the
+world having inflation
+
+00:12:17.900 --> 00:12:20.340 align:middle line:90%
+levels at or below 2%.
+
+00:12:20.340 --> 00:12:21.805 align:middle line:90%
+So that's a norm.
+
+00:12:21.805 --> 00:12:23.180 align:middle line:84%
+If they throw you
+into a country,
+
+00:12:23.180 --> 00:12:26.180 align:middle line:84%
+they drop you into a country,
+the normal thing would be well,
+
+00:12:26.180 --> 00:12:27.020 align:middle line:90%
+it's about 2%.
+
+00:12:27.020 --> 00:12:28.190 align:middle line:90%
+That's a level of inflation.
+
+00:12:28.190 --> 00:12:29.898 align:middle line:84%
+Obviously, if I dropped
+you in Argentina,
+
+00:12:29.898 --> 00:12:32.450 align:middle line:84%
+you're going to find a much
+bigger number, you know,
+
+00:12:32.450 --> 00:12:34.370 align:middle line:90%
+10,000%.
+
+00:12:34.370 --> 00:12:39.360 align:middle line:84%
+But the bulk of the countries
+were around 2% or so.
+
+00:12:39.360 --> 00:12:44.640 align:middle line:84%
+Today you don't find any
+country with inflation below 2%.
+
+00:12:44.640 --> 00:12:48.060 align:middle line:84%
+Not even Japan, for years
+we're in deflation and trying
+
+00:12:48.060 --> 00:12:50.670 align:middle line:90%
+to get sort of above zero.
+
+00:12:50.670 --> 00:12:52.410 align:middle line:90%
+That's all they wanted.
+
+00:12:52.410 --> 00:12:55.600 align:middle line:84%
+Not even in Japan you have
+inflation below 2% today.
+
+00:12:55.600 --> 00:12:57.630 align:middle line:90%
+So this thing I showed you.
+
+00:12:57.630 --> 00:13:00.420 align:middle line:84%
+And for more or less
+the same reasons,
+
+00:13:00.420 --> 00:13:02.220 align:middle line:90%
+it's happening everywhere.
+
+00:13:02.220 --> 00:13:04.510 align:middle line:90%
+Not exactly the same factors.
+
+00:13:04.510 --> 00:13:08.400 align:middle line:84%
+It's the same
+episode, for example,
+
+00:13:08.400 --> 00:13:11.940 align:middle line:84%
+with differences depending on
+the structure of the economy
+
+00:13:11.940 --> 00:13:13.380 align:middle line:90%
+or in additional shocks.
+
+00:13:13.380 --> 00:13:17.290 align:middle line:84%
+In Europe, for example they
+had very high inflation.
+
+00:13:17.290 --> 00:13:18.960 align:middle line:90%
+But the problem is not--
+
+00:13:18.960 --> 00:13:22.830 align:middle line:84%
+the origin of the problem,
+the bulk of the problem
+
+00:13:22.830 --> 00:13:25.410 align:middle line:90%
+is the same as in the US.
+
+00:13:25.410 --> 00:13:27.300 align:middle line:84%
+But at the margin
+they are different.
+
+00:13:27.300 --> 00:13:29.460 align:middle line:84%
+In Europe, the big
+driver of inflation,
+
+00:13:29.460 --> 00:13:32.220 align:middle line:84%
+the big recent
+driver of inflation,
+
+00:13:32.220 --> 00:13:35.840 align:middle line:84%
+is unlike the US, which is
+aggregate demand, a concept
+
+00:13:35.840 --> 00:13:36.840 align:middle line:90%
+you'll understand later.
+
+00:13:36.840 --> 00:13:38.547 align:middle line:84%
+It's essentially
+the war in Ukraine.
+
+00:13:38.547 --> 00:13:41.130 align:middle line:84%
+That has increased the price of
+energy and the price of energy
+
+00:13:41.130 --> 00:13:43.180 align:middle line:90%
+has led to lots of inflation.
+
+00:13:43.180 --> 00:13:44.530 align:middle line:90%
+So there are different reasons.
+
+00:13:44.530 --> 00:13:47.080 align:middle line:84%
+But all of them are sort
+of different reasons
+
+00:13:47.080 --> 00:13:50.110 align:middle line:84%
+that you add on top of what
+is a common story, which
+
+00:13:50.110 --> 00:13:55.600 align:middle line:84%
+is that we overheated coming
+out of the COVID episode
+
+00:13:55.600 --> 00:14:00.040 align:middle line:84%
+and now we're
+struggling with that.
+
+00:14:00.040 --> 00:14:01.690 align:middle line:84%
+Now, the main tool--
+and we're going
+
+00:14:01.690 --> 00:14:03.380 align:middle line:84%
+to talk a lot about
+in this course--
+
+00:14:03.380 --> 00:14:06.910 align:middle line:84%
+the main tool that central banks
+have to deal with inflation
+
+00:14:06.910 --> 00:14:08.740 align:middle line:90%
+is the interest rate.
+
+00:14:08.740 --> 00:14:11.980 align:middle line:84%
+So for reasons you'll
+understand later,
+
+00:14:11.980 --> 00:14:15.250 align:middle line:84%
+although you may have intuition
+about some of those now,
+
+00:14:15.250 --> 00:14:18.550 align:middle line:84%
+obviously when the central
+bank lowers the interest rates,
+
+00:14:18.550 --> 00:14:22.190 align:middle line:84%
+then that helps the
+economy to expand.
+
+00:14:22.190 --> 00:14:25.150 align:middle line:84%
+And when it increases interest
+rate, then it does the opposite.
+
+00:14:25.150 --> 00:14:27.640 align:middle line:84%
+Rising Interest rate makes
+mortgages more expensive,
+
+00:14:27.640 --> 00:14:30.340 align:middle line:84%
+make everything more expensive
+so people tend to consume less.
+
+00:14:30.340 --> 00:14:32.380 align:middle line:84%
+Firms tend to invest
+less and so on
+
+00:14:32.380 --> 00:14:35.920 align:middle line:84%
+because it's more expensive
+to invest, to borrow, to do
+
+00:14:35.920 --> 00:14:36.970 align:middle line:90%
+something.
+
+00:14:36.970 --> 00:14:40.780 align:middle line:90%
+And there you see it.
+
+00:14:40.780 --> 00:14:43.930 align:middle line:84%
+I mean, this was the level of
+the interest rate in the US
+
+00:14:43.930 --> 00:14:45.040 align:middle line:90%
+before COVID.
+
+00:14:45.040 --> 00:14:46.120 align:middle line:90%
+When COVID came, boom.
+
+00:14:46.120 --> 00:14:47.563 align:middle line:84%
+They brought it
+all the way down.
+
+00:14:47.563 --> 00:14:49.480 align:middle line:84%
+It happens that you can
+not bring the interest
+
+00:14:49.480 --> 00:14:51.580 align:middle line:90%
+rate a lot lower than zero.
+
+00:14:51.580 --> 00:14:53.590 align:middle line:84%
+That's the reason it
+stayed close to zero.
+
+00:14:53.590 --> 00:14:55.660 align:middle line:84%
+We're going to talk
+about that later on.
+
+00:14:55.660 --> 00:14:57.253 align:middle line:84%
+But then eventually
+they realized
+
+00:14:57.253 --> 00:14:58.420 align:middle line:90%
+that we're behind the curve.
+
+00:14:58.420 --> 00:15:00.700 align:middle line:84%
+Inflation had picked up a
+lot and the central banks
+
+00:15:00.700 --> 00:15:02.630 align:middle line:90%
+were behind the curve.
+
+00:15:02.630 --> 00:15:05.710 align:middle line:84%
+So they began to hike
+rates in a hurry.
+
+00:15:05.710 --> 00:15:10.030 align:middle line:84%
+And that's what we have been
+experiencing for the last year
+
+00:15:10.030 --> 00:15:14.120 align:middle line:84%
+or so, very fast increase
+in the interest rate.
+
+00:15:14.120 --> 00:15:16.360 align:middle line:84%
+Now, this is, of course,
+about macroeconomics.
+
+00:15:16.360 --> 00:15:17.860 align:middle line:84%
+But I happen to do
+a lot of research
+
+00:15:17.860 --> 00:15:19.510 align:middle line:90%
+between macro and finance.
+
+00:15:19.510 --> 00:15:22.900 align:middle line:84%
+So I'm going to put a little bit
+more of a component of finance
+
+00:15:22.900 --> 00:15:24.430 align:middle line:90%
+into--
+
+00:15:24.430 --> 00:15:26.590 align:middle line:84%
+I think I'm going
+to do most of that
+
+00:15:26.590 --> 00:15:28.510 align:middle line:90%
+in the last third of the course.
+
+00:15:28.510 --> 00:15:34.150 align:middle line:84%
+But monetary policy has lots
+of implications for finance,
+
+00:15:34.150 --> 00:15:36.940 align:middle line:84%
+for equity, values,
+for the stock market,
+
+00:15:36.940 --> 00:15:38.180 align:middle line:90%
+and stuff like that.
+
+00:15:38.180 --> 00:15:46.170 align:middle line:84%
+So what you see here, this
+line here, is the SPX 500.
+
+00:15:46.170 --> 00:15:51.775 align:middle line:84%
+It's the main index of
+equity in the US of shares.
+
+00:15:51.775 --> 00:15:52.900 align:middle line:90%
+There are several indices--
+
+00:15:52.900 --> 00:15:55.850 align:middle line:90%
+NASDAQ, S&P, Dow, and so on.
+
+00:15:55.850 --> 00:15:58.000 align:middle line:84%
+This is the main index,
+the most comprehensive,
+
+00:15:58.000 --> 00:16:01.640 align:middle line:84%
+the one that takes
+the largest companies,
+
+00:16:01.640 --> 00:16:03.727 align:middle line:90%
+and so on and so forth.
+
+00:16:03.727 --> 00:16:05.310 align:middle line:84%
+And what you can see
+what happens here
+
+00:16:05.310 --> 00:16:09.690 align:middle line:84%
+is that when COVID happened,
+the surprise that we had,
+
+00:16:09.690 --> 00:16:13.410 align:middle line:84%
+really a pandemia, then
+the stock market crash,
+
+00:16:13.410 --> 00:16:16.500 align:middle line:84%
+declined like 30% or something
+like that at the time.
+
+00:16:16.500 --> 00:16:17.800 align:middle line:90%
+That's interesting facets.
+
+00:16:17.800 --> 00:16:21.990 align:middle line:84%
+I mean, that's one
+characteristic of equity
+
+00:16:21.990 --> 00:16:23.250 align:middle line:90%
+that I like a lot.
+
+00:16:23.250 --> 00:16:28.140 align:middle line:84%
+Other risky assets, as well, but
+they anticipate what happens.
+
+00:16:28.140 --> 00:16:30.930 align:middle line:84%
+What happened there
+is the stock market,
+
+00:16:30.930 --> 00:16:33.420 align:middle line:84%
+the shareholders, realized
+that something big
+
+00:16:33.420 --> 00:16:36.180 align:middle line:84%
+was-- negative and big-- was
+happening in front of us.
+
+00:16:36.180 --> 00:16:38.080 align:middle line:90%
+So it was time to sell.
+
+00:16:38.080 --> 00:16:40.480 align:middle line:84%
+And so the equity
+market collapsed.
+
+00:16:40.480 --> 00:16:42.250 align:middle line:84%
+What happens next is
+even more interesting
+
+00:16:42.250 --> 00:16:47.328 align:middle line:84%
+for a macro economist,
+which is this big boom here.
+
+00:16:47.328 --> 00:16:48.370 align:middle line:90%
+There's an enormous boom.
+
+00:16:48.370 --> 00:16:51.250 align:middle line:84%
+The economy here still
+was at levels of activity
+
+00:16:51.250 --> 00:16:53.085 align:middle line:90%
+below what it had before COVID.
+
+00:16:53.085 --> 00:16:55.210 align:middle line:84%
+But the stock market, the
+value in the stock market
+
+00:16:55.210 --> 00:17:01.150 align:middle line:84%
+had way exceeded the level
+we had before the pandemic.
+
+00:17:01.150 --> 00:17:04.720 align:middle line:84%
+And the main driver of that,
+I've shown that in some papers,
+
+00:17:04.720 --> 00:17:06.670 align:middle line:90%
+the main driver of that is not--
+
+00:17:06.670 --> 00:17:10.040 align:middle line:84%
+I mean people tell lots
+of stories of Amazon
+
+00:17:10.040 --> 00:17:12.099 align:middle line:84%
+and so on, Tesla,
+bla, blah, blah.
+
+00:17:12.099 --> 00:17:15.490 align:middle line:84%
+If you look at the aggregate,
+the main reason for that rise
+
+00:17:15.490 --> 00:17:16.930 align:middle line:90%
+was monetary policy.
+
+00:17:16.930 --> 00:17:20.740 align:middle line:84%
+You can explain all that
+increase in the equity value
+
+00:17:20.740 --> 00:17:23.500 align:middle line:84%
+in the US of the index--
+not the individual shares,
+
+00:17:23.500 --> 00:17:24.369 align:middle line:90%
+of the index--
+
+00:17:24.369 --> 00:17:26.510 align:middle line:90%
+by the effect of interest rates.
+
+00:17:26.510 --> 00:17:29.300 align:middle line:84%
+So monetary policy
+plays a big role.
+
+00:17:29.300 --> 00:17:30.850 align:middle line:84%
+If you care about
+finance, well, it
+
+00:17:30.850 --> 00:17:33.310 align:middle line:84%
+plays a huge role in
+the value of assets.
+
+00:17:33.310 --> 00:17:35.170 align:middle line:84%
+When monetary policy
+is very loose,
+
+00:17:35.170 --> 00:17:37.730 align:middle line:84%
+that tends to increase
+the value of assets.
+
+00:17:37.730 --> 00:17:40.400 align:middle line:84%
+And that's one of the
+mechanisms the central banks
+
+00:17:40.400 --> 00:17:42.695 align:middle line:84%
+use to expand aggregate
+demand when they want
+
+00:17:42.695 --> 00:17:43.820 align:middle line:90%
+to expand aggregate demand.
+
+00:17:43.820 --> 00:17:45.903 align:middle line:84%
+They want people to feel--
+you are in a recession,
+
+00:17:45.903 --> 00:17:48.470 align:middle line:84%
+you want people to feel richer
+so they spend more and so on
+
+00:17:48.470 --> 00:17:50.380 align:middle line:90%
+and so forth.
+
+00:17:50.380 --> 00:17:51.730 align:middle line:90%
+What happened here?
+
+00:17:51.730 --> 00:17:54.468 align:middle line:84%
+This decline, you can
+also explain it fully
+
+00:17:54.468 --> 00:17:55.760 align:middle line:90%
+with the hike in interest rate.
+
+00:17:55.760 --> 00:17:57.885 align:middle line:84%
+Remember, I showed you that
+the interest rate began
+
+00:17:57.885 --> 00:17:59.620 align:middle line:90%
+to rise very rapidly here.
+
+00:17:59.620 --> 00:18:02.770 align:middle line:84%
+Well, last year the
+equity market in the US
+
+00:18:02.770 --> 00:18:05.050 align:middle line:84%
+and most major equity
+markets around the world
+
+00:18:05.050 --> 00:18:07.150 align:middle line:90%
+declined by 20% or more.
+
+00:18:07.150 --> 00:18:09.550 align:middle line:84%
+You can explain all
+that decline simply
+
+00:18:09.550 --> 00:18:11.030 align:middle line:90%
+by increasing the interest rate.
+
+00:18:11.030 --> 00:18:12.905 align:middle line:84%
+So that's another thing
+we need to understand
+
+00:18:12.905 --> 00:18:15.490 align:middle line:84%
+is why is it that the interest--
+why is the interest rate
+
+00:18:15.490 --> 00:18:17.660 align:middle line:84%
+matter so much for
+something like equity?
+
+00:18:17.660 --> 00:18:19.900 align:middle line:84%
+So when a value assets,
+and when I see what
+
+00:18:19.900 --> 00:18:21.490 align:middle line:84%
+is the effect of
+the interest rate,
+
+00:18:21.490 --> 00:18:23.330 align:middle line:84%
+and then we're going
+to think about, well,
+
+00:18:23.330 --> 00:18:26.810 align:middle line:84%
+why would the central bank worry
+or not worry about these things,
+
+00:18:26.810 --> 00:18:27.860 align:middle line:90%
+and so on and so forth.
+
+00:18:27.860 --> 00:18:32.410 align:middle line:84%
+But the truth is that financial
+markets and the central banks
+
+00:18:32.410 --> 00:18:33.850 align:middle line:90%
+interact all the time.
+
+00:18:33.850 --> 00:18:38.860 align:middle line:84%
+I mean, if you are into
+Wall Street type thing,
+
+00:18:38.860 --> 00:18:41.410 align:middle line:84%
+you are going to be watching
+every day, every time
+
+00:18:41.410 --> 00:18:42.763 align:middle line:90%
+that the monetary minutes.
+
+00:18:42.763 --> 00:18:44.680 align:middle line:84%
+The minutes of the central
+banks are released,
+
+00:18:44.680 --> 00:18:48.130 align:middle line:84%
+you're going to be watching
+because it has a big implication
+
+00:18:48.130 --> 00:18:51.105 align:middle line:90%
+for the value of your equity.
+
+00:18:51.105 --> 00:18:53.230 align:middle line:84%
+Actually, something very
+interesting of this nature
+
+00:18:53.230 --> 00:18:54.340 align:middle line:90%
+happened last week.
+
+00:18:54.340 --> 00:19:00.160 align:middle line:84%
+On Friday, last
+Friday, there was
+
+00:19:00.160 --> 00:19:02.170 align:middle line:90%
+a release of payroll numbers.
+
+00:19:02.170 --> 00:19:06.010 align:middle line:84%
+So it's an employment
+index, employment numbers.
+
+00:19:06.010 --> 00:19:13.460 align:middle line:84%
+And people expected the
+payroll to increase,
+
+00:19:13.460 --> 00:19:15.688 align:middle line:90%
+so to add nonfarm payroll--
+
+00:19:15.688 --> 00:19:17.230 align:middle line:84%
+we'll talk about
+these things later--
+
+00:19:17.230 --> 00:19:21.310 align:middle line:90%
+by about 190,000 workers.
+
+00:19:21.310 --> 00:19:24.700 align:middle line:84%
+At 8:30-- well and this,
+you're seeing here,
+
+00:19:24.700 --> 00:19:27.370 align:middle line:84%
+is the behavior of the same
+index I showed you before,
+
+00:19:27.370 --> 00:19:30.250 align:middle line:84%
+but the futures, so things you
+can trade before the market
+
+00:19:30.250 --> 00:19:31.210 align:middle line:90%
+actually opens.
+
+00:19:31.210 --> 00:19:33.670 align:middle line:84%
+The market in the
+US opens at 9:30 AM.
+
+00:19:33.670 --> 00:19:38.020 align:middle line:84%
+But you can trade
+futures since Asia times.
+
+00:19:38.020 --> 00:19:39.400 align:middle line:90%
+Anyway, so this is the path.
+
+00:19:39.400 --> 00:19:40.810 align:middle line:90%
+It's all very quiet, tranquil.
+
+00:19:40.810 --> 00:19:44.620 align:middle line:84%
+Everyone is waiting the release
+of this news at 8:30 AM.
+
+00:19:44.620 --> 00:19:48.595 align:middle line:84%
+At 8:30 AM, great news
+for the labor market.
+
+00:19:48.595 --> 00:19:51.730 align:middle line:90%
+
+
+00:19:51.730 --> 00:19:55.990 align:middle line:84%
+The actual change in the
+payroll was not 190k.
+
+00:19:55.990 --> 00:19:58.600 align:middle line:90%
+It was over a 500,000k.
+
+00:19:58.600 --> 00:20:02.428 align:middle line:84%
+So enormous addition
+of jobs to the economy.
+
+00:20:02.428 --> 00:20:04.220 align:middle line:84%
+And look what happens
+to the equity market.
+
+00:20:04.220 --> 00:20:05.360 align:middle line:90%
+Boom.
+
+00:20:05.360 --> 00:20:07.080 align:middle line:90%
+It imploded immediately.
+
+00:20:07.080 --> 00:20:10.520 align:middle line:84%
+So this is wonderful news now
+for the economy-- lots of jobs.
+
+00:20:10.520 --> 00:20:14.780 align:middle line:84%
+The equity market imploded
+as a result of that.
+
+00:20:14.780 --> 00:20:18.132 align:middle line:90%
+Why do you think that happened?
+
+00:20:18.132 --> 00:20:19.590 align:middle line:84%
+I've already given
+you a little bit
+
+00:20:19.590 --> 00:20:22.740 align:middle line:84%
+of the ingredients
+for why, for an answer
+
+00:20:22.740 --> 00:20:26.590 align:middle line:90%
+in the previous slides?
+
+00:20:26.590 --> 00:20:31.380 align:middle line:84%
+The reason I'm showing you
+this is because in 15 minutes,
+
+00:20:31.380 --> 00:20:34.130 align:middle line:84%
+it summarizes all that I was
+talking about in the previous 30
+
+00:20:34.130 --> 00:20:36.870 align:middle line:90%
+minutes.
+
+00:20:36.870 --> 00:20:38.570 align:middle line:90%
+Why do you think that happened?
+
+00:20:38.570 --> 00:20:40.430 align:middle line:90%
+This is wonderful news.
+
+00:20:40.430 --> 00:20:44.210 align:middle line:84%
+Why the stock market should
+crash like 2% from top
+
+00:20:44.210 --> 00:20:46.100 align:middle line:90%
+to bottom as a result of that?
+
+00:20:46.100 --> 00:20:49.070 align:middle line:90%
+
+
+00:20:49.070 --> 00:20:50.800 align:middle line:84%
+AUDIENCE: There's
+a lot more labor
+
+00:20:50.800 --> 00:20:57.490 align:middle line:84%
+because that gives a lot
+more supply of that thing,
+
+00:20:57.490 --> 00:21:02.490 align:middle line:84%
+and thus, it decreases price
+because of high supply.
+
+00:21:02.490 --> 00:21:03.930 align:middle line:90%
+RICARDO J. CABALLERO: No, but--
+
+00:21:03.930 --> 00:21:09.180 align:middle line:84%
+OK, that's an
+interesting explanation.
+
+00:21:09.180 --> 00:21:12.150 align:middle line:90%
+It's not the one I have in mind.
+
+00:21:12.150 --> 00:21:16.390 align:middle line:84%
+The explanation says, look, that
+means firms hire lots of people.
+
+00:21:16.390 --> 00:21:18.750 align:middle line:84%
+So the price, that
+means they're going
+
+00:21:18.750 --> 00:21:21.330 align:middle line:84%
+to be lots of supply of whatever
+goods they're producing.
+
+00:21:21.330 --> 00:21:22.990 align:middle line:84%
+The price of those goods
+is going to decline.
+
+00:21:22.990 --> 00:21:24.210 align:middle line:84%
+And that's going to
+be bad for profits.
+
+00:21:24.210 --> 00:21:25.502 align:middle line:90%
+That's a story you had in mind.
+
+00:21:25.502 --> 00:21:27.920 align:middle line:90%
+
+
+00:21:27.920 --> 00:21:29.210 align:middle line:90%
+Maybe there's some of that.
+
+00:21:29.210 --> 00:21:31.970 align:middle line:84%
+But I'm willing to bet that
+it's not the main thing.
+
+00:21:31.970 --> 00:21:35.320 align:middle line:90%
+
+
+00:21:35.320 --> 00:21:38.290 align:middle line:84%
+So the only clue I give
+you is that I already
+
+00:21:38.290 --> 00:21:40.450 align:middle line:84%
+talk about these things
+five minutes ago.
+
+00:21:40.450 --> 00:21:44.660 align:middle line:90%
+
+
+00:21:44.660 --> 00:21:48.260 align:middle line:84%
+AUDIENCE: Employment
+is very closely related
+
+00:21:48.260 --> 00:21:49.490 align:middle line:90%
+to inflation rates.
+
+00:21:49.490 --> 00:21:51.352 align:middle line:90%
+[INAUDIBLE] up to 0.81.
+
+00:21:51.352 --> 00:21:53.060 align:middle line:84%
+So this could be a
+result of expectations
+
+00:21:53.060 --> 00:21:54.887 align:middle line:84%
+of continued high
+inflation rates.
+
+00:21:54.887 --> 00:21:56.720 align:middle line:84%
+RICARDO J. CABALLERO:
+OK, you're very close.
+
+00:21:56.720 --> 00:21:57.740 align:middle line:90%
+One step more.
+
+00:21:57.740 --> 00:21:59.240 align:middle line:90%
+Yes.
+
+00:21:59.240 --> 00:22:01.130 align:middle line:90%
+That means that--
+
+00:22:01.130 --> 00:22:03.453 align:middle line:90%
+AUDIENCE: [INAUDIBLE]
+
+00:22:03.453 --> 00:22:05.120 align:middle line:84%
+RICARDO J. CABALLERO:
+OK, there you are.
+
+00:22:05.120 --> 00:22:07.310 align:middle line:90%
+So what happens?
+
+00:22:07.310 --> 00:22:11.150 align:middle line:84%
+The shareholders wouldn't
+have done anything
+
+00:22:11.150 --> 00:22:13.280 align:middle line:84%
+if they thought that
+the Fed would not
+
+00:22:13.280 --> 00:22:14.870 align:middle line:90%
+be able to see this data.
+
+00:22:14.870 --> 00:22:17.150 align:middle line:84%
+But they know that the
+Fed also sees this data
+
+00:22:17.150 --> 00:22:18.740 align:middle line:84%
+and say, whoa,
+these guys are going
+
+00:22:18.740 --> 00:22:20.030 align:middle line:84%
+to be worried because
+the economy is
+
+00:22:20.030 --> 00:22:21.050 align:middle line:90%
+going to keep overheating.
+
+00:22:21.050 --> 00:22:22.633 align:middle line:84%
+They're going to
+have to hike interest
+
+00:22:22.633 --> 00:22:26.430 align:middle line:84%
+rates even more in order
+to cool down this economy.
+
+00:22:26.430 --> 00:22:28.910 align:middle line:84%
+I already showed you that what
+happens in the labor market
+
+00:22:28.910 --> 00:22:31.370 align:middle line:84%
+is very connected to what
+happens with inflation.
+
+00:22:31.370 --> 00:22:33.470 align:middle line:90%
+The central bank knows that.
+
+00:22:33.470 --> 00:22:36.560 align:middle line:84%
+And now we get this big surprise
+that means they're not really
+
+00:22:36.560 --> 00:22:38.840 align:middle line:84%
+being able to-- they're
+not being successful
+
+00:22:38.840 --> 00:22:42.090 align:middle line:84%
+at really slowing down one of
+the main drivers of inflation.
+
+00:22:42.090 --> 00:22:45.270 align:middle line:84%
+And so financial markets
+are very forward looking.
+
+00:22:45.270 --> 00:22:46.760 align:middle line:90%
+They say, whoa, this is coming.
+
+00:22:46.760 --> 00:22:49.640 align:middle line:84%
+This only means that
+financial markets
+
+00:22:49.640 --> 00:22:52.430 align:middle line:84%
+were betting that
+the Fed was going
+
+00:22:52.430 --> 00:22:57.390 align:middle line:84%
+to begin to cut interest rates
+in four months more or so.
+
+00:22:57.390 --> 00:23:00.350 align:middle line:84%
+And if you look at what
+the forwards did there,
+
+00:23:00.350 --> 00:23:01.430 align:middle line:90%
+what the market--
+
+00:23:01.430 --> 00:23:03.420 align:middle line:84%
+you can extract what
+the market thinks.
+
+00:23:03.420 --> 00:23:06.780 align:middle line:84%
+Right after this, it got
+immediately pushed out
+
+00:23:06.780 --> 00:23:08.880 align:middle line:90%
+to the end of the year.
+
+00:23:08.880 --> 00:23:09.608 align:middle line:90%
+So it's precise.
+
+00:23:09.608 --> 00:23:11.400 align:middle line:84%
+It's the anticipation
+that the central bank
+
+00:23:11.400 --> 00:23:12.760 align:middle line:90%
+will have to do something.
+
+00:23:12.760 --> 00:23:15.870 align:middle line:84%
+And so I thought it
+was very interesting
+
+00:23:15.870 --> 00:23:19.160 align:middle line:90%
+for that point of view.
+
+00:23:19.160 --> 00:23:21.230 align:middle line:90%
+Recessions-- well, look.
+
+00:23:21.230 --> 00:23:23.650 align:middle line:84%
+And these are all
+very good news.
+
+00:23:23.650 --> 00:23:28.310 align:middle line:84%
+But everyone knows that the Fed
+needs to cool off the economy.
+
+00:23:28.310 --> 00:23:32.620 align:middle line:84%
+So despite the fact that
+we're getting good news now,
+
+00:23:32.620 --> 00:23:35.110 align:middle line:84%
+people expect, the
+majority of people
+
+00:23:35.110 --> 00:23:38.245 align:middle line:84%
+expect a recession in
+the US for this year.
+
+00:23:38.245 --> 00:23:40.120 align:middle line:84%
+I'm not going to explain
+this bar graph here.
+
+00:23:40.120 --> 00:23:41.780 align:middle line:90%
+But these are forecasts.
+
+00:23:41.780 --> 00:23:43.480 align:middle line:84%
+These are professional
+forecasters.
+
+00:23:43.480 --> 00:23:47.060 align:middle line:90%
+And more than half of them--
+
+00:23:47.060 --> 00:23:51.040 align:middle line:84%
+so the median of them thinks
+that there is a 65% probability
+
+00:23:51.040 --> 00:23:55.510 align:middle line:84%
+that there is a recession
+in the US this year.
+
+00:23:55.510 --> 00:23:57.670 align:middle line:84%
+And we're going to
+talk a lot about this
+
+00:23:57.670 --> 00:24:00.160 align:middle line:84%
+and probably we're going to
+be getting news about this
+
+00:24:00.160 --> 00:24:01.458 align:middle line:90%
+while we're taking the course.
+
+00:24:01.458 --> 00:24:03.250 align:middle line:84%
+So this is going to be
+a picture that we're
+
+00:24:03.250 --> 00:24:06.610 align:middle line:90%
+going to discuss extensively.
+
+00:24:06.610 --> 00:24:10.180 align:middle line:84%
+And the reason for the
+recession is nothing else than--
+
+00:24:10.180 --> 00:24:13.000 align:middle line:84%
+The reason you ask this
+forecast, why do you
+
+00:24:13.000 --> 00:24:14.360 align:middle line:90%
+think we may have a recession?
+
+00:24:14.360 --> 00:24:17.712 align:middle line:84%
+Well, because the Fed is
+trying to fight inflation.
+
+00:24:17.712 --> 00:24:19.420 align:middle line:84%
+It's going to keep
+hiking interest rates.
+
+00:24:19.420 --> 00:24:23.090 align:middle line:84%
+And at some point, it
+may break something.
+
+00:24:23.090 --> 00:24:25.040 align:middle line:90%
+And that's the reason.
+
+00:24:25.040 --> 00:24:26.840 align:middle line:84%
+But all these
+things you are going
+
+00:24:26.840 --> 00:24:30.980 align:middle line:84%
+to be able to understand
+very clearly through models.
+
+00:24:30.980 --> 00:24:35.000 align:middle line:84%
+The last thing I want to
+say before telling you
+
+00:24:35.000 --> 00:24:37.160 align:middle line:84%
+a little bit the
+rules of the game
+
+00:24:37.160 --> 00:24:40.730 align:middle line:84%
+is that I said before that the
+story I told you about the US
+
+00:24:40.730 --> 00:24:42.860 align:middle line:84%
+is more or less what is
+happening all around.
+
+00:24:42.860 --> 00:24:46.790 align:middle line:90%
+I was in Chile a month ago.
+
+00:24:46.790 --> 00:24:47.390 align:middle line:90%
+I'm Chilean.
+
+00:24:47.390 --> 00:24:49.247 align:middle line:90%
+And they have the same story.
+
+00:24:49.247 --> 00:24:51.830 align:middle line:84%
+They start hiking interest rates
+a little earlier because they
+
+00:24:51.830 --> 00:24:53.647 align:middle line:90%
+had more inflation than the US.
+
+00:24:53.647 --> 00:24:55.355 align:middle line:84%
+But they're going
+through the same cycle.
+
+00:24:55.355 --> 00:24:57.980 align:middle line:90%
+
+
+00:24:57.980 --> 00:25:00.650 align:middle line:84%
+There's one big economy,
+the second largest economy
+
+00:25:00.650 --> 00:25:05.330 align:middle line:84%
+in the world, that has not been
+part of this, which is China.
+
+00:25:05.330 --> 00:25:09.190 align:middle line:84%
+China was very aggressive
+in the COVID policy,
+
+00:25:09.190 --> 00:25:10.930 align:middle line:90%
+so zero COVID policy.
+
+00:25:10.930 --> 00:25:12.945 align:middle line:84%
+So they really slowed
+down their economy.
+
+00:25:12.945 --> 00:25:13.820 align:middle line:90%
+That's a consequence.
+
+00:25:13.820 --> 00:25:14.987 align:middle line:90%
+They didn't want to do that.
+
+00:25:14.987 --> 00:25:17.170 align:middle line:84%
+But as a result of a
+very strict COVID policy,
+
+00:25:17.170 --> 00:25:20.110 align:middle line:84%
+they essentially shut down
+big parts of the economy
+
+00:25:20.110 --> 00:25:21.100 align:middle line:90%
+for a long time.
+
+00:25:21.100 --> 00:25:24.700 align:middle line:84%
+That, by the way, had big
+impact in the rest of the world,
+
+00:25:24.700 --> 00:25:26.635 align:middle line:84%
+through the network
+of production,
+
+00:25:26.635 --> 00:25:28.510 align:middle line:84%
+the chains of production
+and stuff like that.
+
+00:25:28.510 --> 00:25:30.460 align:middle line:90%
+That was inflationary in itself.
+
+00:25:30.460 --> 00:25:33.010 align:middle line:90%
+That part is dissipating.
+
+00:25:33.010 --> 00:25:36.460 align:middle line:84%
+But for their own economy,
+for the domestic economy,
+
+00:25:36.460 --> 00:25:40.870 align:middle line:84%
+that really slowed down China,
+an economy that grew typically
+
+00:25:40.870 --> 00:25:44.960 align:middle line:84%
+at 5 and 1/2 to 6%, a
+lot higher 15 years ago.
+
+00:25:44.960 --> 00:25:47.210 align:middle line:84%
+We're going to try to
+understand why later on.
+
+00:25:47.210 --> 00:25:51.370 align:middle line:84%
+But last year, I don't
+know, it was 3% or less.
+
+00:25:51.370 --> 00:25:57.410 align:middle line:84%
+Numbers in China were
+difficult to figure it out.
+
+00:25:57.410 --> 00:26:00.160 align:middle line:84%
+They're not equally
+transparent to other numbers.
+
+00:26:00.160 --> 00:26:02.050 align:middle line:84%
+But in any event,
+it's very clear
+
+00:26:02.050 --> 00:26:04.580 align:middle line:90%
+that China slowed down a lot.
+
+00:26:04.580 --> 00:26:07.130 align:middle line:84%
+And that policy
+recently changed.
+
+00:26:07.130 --> 00:26:10.020 align:middle line:90%
+The zero-COVID policy changed.
+
+00:26:10.020 --> 00:26:11.660 align:middle line:84%
+And so there is
+great expectation
+
+00:26:11.660 --> 00:26:13.970 align:middle line:84%
+that now there is going
+to be a big boom in China
+
+00:26:13.970 --> 00:26:15.650 align:middle line:90%
+because they are lagging behind.
+
+00:26:15.650 --> 00:26:19.010 align:middle line:84%
+I mean, in the US when
+COVID began to dissipate,
+
+00:26:19.010 --> 00:26:20.643 align:middle line:90%
+we got a huge boost to growth.
+
+00:26:20.643 --> 00:26:23.060 align:middle line:84%
+And that's part of the reason
+we got all this inflation is
+
+00:26:23.060 --> 00:26:26.780 align:middle line:84%
+because we had lots of growth
+coming out of the recession that
+
+00:26:26.780 --> 00:26:27.800 align:middle line:90%
+happened in COVID.
+
+00:26:27.800 --> 00:26:30.500 align:middle line:84%
+And more or less the same
+is expected in China.
+
+00:26:30.500 --> 00:26:34.220 align:middle line:84%
+And one of the big reasons
+behind those big bounce backs
+
+00:26:34.220 --> 00:26:35.428 align:middle line:90%
+is when people are desperate.
+
+00:26:35.428 --> 00:26:36.762 align:middle line:90%
+They want to spend on something.
+
+00:26:36.762 --> 00:26:39.588 align:middle line:84%
+They want to go to restaurants
+and cinemas and stuff like that.
+
+00:26:39.588 --> 00:26:41.630 align:middle line:84%
+And the other one is they
+have the means to do it
+
+00:26:41.630 --> 00:26:44.630 align:middle line:84%
+because they couldn't spend
+on anything for a while.
+
+00:26:44.630 --> 00:26:48.230 align:middle line:84%
+And so they can travel
+and stuff like that.
+
+00:26:48.230 --> 00:26:52.160 align:middle line:84%
+So people expect-- and this
+is a very large economy
+
+00:26:52.160 --> 00:26:55.220 align:middle line:90%
+that suddenly sort of wakes up.
+
+00:26:55.220 --> 00:26:57.350 align:middle line:84%
+No, that's a big
+thing for China.
+
+00:26:57.350 --> 00:27:00.280 align:middle line:84%
+But it's also a big
+thing for the world.
+
+00:27:00.280 --> 00:27:02.810 align:middle line:84%
+What happens in China
+doesn't stay in China.
+
+00:27:02.810 --> 00:27:04.010 align:middle line:90%
+It's a big giant.
+
+00:27:04.010 --> 00:27:05.180 align:middle line:90%
+So it moves.
+
+00:27:05.180 --> 00:27:07.430 align:middle line:84%
+And for some countries
+it's very, very important.
+
+00:27:07.430 --> 00:27:08.990 align:middle line:84%
+And this picture
+here shows you what
+
+00:27:08.990 --> 00:27:10.940 align:middle line:84%
+is the impact on
+different regions
+
+00:27:10.940 --> 00:27:13.550 align:middle line:84%
+of the world on the growth
+rate and different regions
+
+00:27:13.550 --> 00:27:17.760 align:middle line:84%
+of the world of an increase
+by 1% in the rate of growth
+
+00:27:17.760 --> 00:27:18.260 align:middle line:90%
+of China.
+
+00:27:18.260 --> 00:27:22.120 align:middle line:90%
+
+
+00:27:22.120 --> 00:27:25.030 align:middle line:84%
+Obviously all the
+neighbors benefit a lot.
+
+00:27:25.030 --> 00:27:27.920 align:middle line:84%
+But Latin America
+benefits even more.
+
+00:27:27.920 --> 00:27:28.700 align:middle line:90%
+Why is that?
+
+00:27:28.700 --> 00:27:30.730 align:middle line:84%
+Well, because Latin
+America produces
+
+00:27:30.730 --> 00:27:33.280 align:middle line:84%
+lots of commodities
+and China consumes
+
+00:27:33.280 --> 00:27:36.230 align:middle line:84%
+lots of commodities when it's
+building and stuff like that.
+
+00:27:36.230 --> 00:27:38.540 align:middle line:84%
+And so that's the reason
+big impact on Latin America.
+
+00:27:38.540 --> 00:27:42.340 align:middle line:84%
+So this is a piece of good
+news for the world in the sense
+
+00:27:42.340 --> 00:27:44.530 align:middle line:90%
+that activity will go up.
+
+00:27:44.530 --> 00:27:48.940 align:middle line:90%
+But it's good news on average.
+
+00:27:48.940 --> 00:27:51.890 align:middle line:84%
+But it may be too much
+of a good thing, as well.
+
+00:27:51.890 --> 00:27:52.510 align:middle line:90%
+Why?
+
+00:27:52.510 --> 00:27:54.910 align:middle line:84%
+Because many economists
+are going through what
+
+00:27:54.910 --> 00:27:55.760 align:middle line:90%
+we described before.
+
+00:27:55.760 --> 00:27:57.010 align:middle line:84%
+They're trying to
+bring down inflation.
+
+00:27:57.010 --> 00:27:58.177 align:middle line:90%
+They don't want more demand.
+
+00:27:58.177 --> 00:28:00.130 align:middle line:84%
+They want less for
+now because we're
+
+00:28:00.130 --> 00:28:02.290 align:middle line:84%
+going to understand that
+connection later on how
+
+00:28:02.290 --> 00:28:04.510 align:middle line:90%
+demand connects to inflation.
+
+00:28:04.510 --> 00:28:05.770 align:middle line:90%
+But you want less.
+
+00:28:05.770 --> 00:28:10.000 align:middle line:84%
+And now you're going to get this
+impulse from China, which is
+
+00:28:10.000 --> 00:28:11.305 align:middle line:90%
+going to fuel more inflation.
+
+00:28:11.305 --> 00:28:13.930 align:middle line:84%
+It's OK for China because they
+don't have an inflation problem.
+
+00:28:13.930 --> 00:28:16.000 align:middle line:84%
+But it may be a problem
+for many of the countries
+
+00:28:16.000 --> 00:28:22.180 align:middle line:84%
+that are trying to undo the
+inflationary consequences
+
+00:28:22.180 --> 00:28:26.050 align:middle line:84%
+of the previous expansion, the
+expansion that followed COVID.
+
+00:28:26.050 --> 00:28:26.710 align:middle line:90%
+OK, anyways.
+
+00:28:26.710 --> 00:28:30.580 align:middle line:84%
+But this is the kind of things
+we're going to be talking about.
+
+00:28:30.580 --> 00:28:32.620 align:middle line:84%
+I said the course is
+not going to be mathy,
+
+00:28:32.620 --> 00:28:34.540 align:middle line:84%
+but it's going to
+be all about models.
+
+00:28:34.540 --> 00:28:36.370 align:middle line:84%
+The next lecture is
+the most boring lecture
+
+00:28:36.370 --> 00:28:38.470 align:middle line:84%
+of the course I tell you
+in advance because it's
+
+00:28:38.470 --> 00:28:39.010 align:middle line:90%
+definitions.
+
+00:28:39.010 --> 00:28:40.552 align:middle line:84%
+I need to go through
+the definitions.
+
+00:28:40.552 --> 00:28:42.490 align:middle line:90%
+At least I get bored.
+
+00:28:42.490 --> 00:28:45.080 align:middle line:84%
+But the rest, there's
+always little models
+
+00:28:45.080 --> 00:28:46.150 align:middle line:90%
+but it's simple models.
+
+00:28:46.150 --> 00:28:48.970 align:middle line:84%
+OK, but the models
+are going to try
+
+00:28:48.970 --> 00:28:51.740 align:middle line:84%
+to explain the kind of
+things I discussed today.
+
+00:28:51.740 --> 00:28:55.150 align:middle line:84%
+So that's what this
+course is about.
+
+00:28:55.150 --> 00:28:57.333 align:middle line:84%
+Ideally, if we're
+successful, you're
+
+00:28:57.333 --> 00:28:58.750 align:middle line:84%
+going to be able
+to read something
+
+00:28:58.750 --> 00:29:01.090 align:middle line:84%
+like the World Economic
+Outlook, which will have
+
+00:29:01.090 --> 00:29:02.860 align:middle line:90%
+lots of pictures like this.
+
+00:29:02.860 --> 00:29:05.525 align:middle line:84%
+And you're going to be able to
+write a little equation very
+
+00:29:05.525 --> 00:29:07.150 align:middle line:84%
+simple on the side
+to try to understand
+
+00:29:07.150 --> 00:29:10.240 align:middle line:84%
+what is going on there, and to
+catch the mistakes, as well.
+
+00:29:10.240 --> 00:29:13.690 align:middle line:84%
+OK, WEO has less mistakes
+than the Wall Street Journal,
+
+00:29:13.690 --> 00:29:15.940 align:middle line:84%
+but you will catch
+mistakes, you'll see,
+
+00:29:15.940 --> 00:29:18.420 align:middle line:90%
+you'll be proud of those.
+
+00:29:18.420 --> 00:29:30.000 align:middle line:90%

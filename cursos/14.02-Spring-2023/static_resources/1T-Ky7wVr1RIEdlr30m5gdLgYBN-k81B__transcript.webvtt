@@ -1,0 +1,3391 @@
+WEBVTT
+
+00:00:00.000 --> 00:00:01.461 align:middle line:90%
+
+
+00:00:01.461 --> 00:00:02.435 align:middle line:90%
+[SQUEAKING]
+
+00:00:02.435 --> 00:00:03.896 align:middle line:90%
+[RUSTLING]
+
+00:00:03.896 --> 00:00:05.844 align:middle line:90%
+[CLICKING]
+
+00:00:05.844 --> 00:00:17.540 align:middle line:90%
+
+
+00:00:17.540 --> 00:00:18.530 align:middle line:90%
+RICARDO CABALLERO: OK.
+
+00:00:18.530 --> 00:00:20.540 align:middle line:90%
+Let's start.
+
+00:00:20.540 --> 00:00:25.520 align:middle line:84%
+So the plan for today is to
+wrap up this growth theory
+
+00:00:25.520 --> 00:00:27.420 align:middle line:90%
+section of the course.
+
+00:00:27.420 --> 00:00:33.945 align:middle line:84%
+And I want to conclude by
+showing you what we can
+
+00:00:33.945 --> 00:00:36.320 align:middle line:84%
+and cannot explain with the
+models we have looked up till
+
+00:00:36.320 --> 00:00:37.110 align:middle line:90%
+now.
+
+00:00:37.110 --> 00:00:39.980 align:middle line:84%
+And almost as a
+matter of accounting,
+
+00:00:39.980 --> 00:00:42.630 align:middle line:84%
+I will tell you, what
+do we need to fill--
+
+00:00:42.630 --> 00:00:44.450 align:middle line:84%
+which gaps do we
+need to fill in order
+
+00:00:44.450 --> 00:00:48.500 align:middle line:84%
+to explain the great dispersion
+we see in income per capita
+
+00:00:48.500 --> 00:00:49.790 align:middle line:90%
+across the world.
+
+00:00:49.790 --> 00:00:53.695 align:middle line:84%
+But before I do that, I need
+to finish the previous lecture.
+
+00:00:53.695 --> 00:00:58.040 align:middle line:90%
+
+
+00:00:58.040 --> 00:01:00.920 align:middle line:90%
+And so let me do that.
+
+00:01:00.920 --> 00:01:02.450 align:middle line:90%
+I had shown you this table.
+
+00:01:02.450 --> 00:01:05.150 align:middle line:84%
+Remember, in the complete
+model-- the model
+
+00:01:05.150 --> 00:01:10.730 align:middle line:84%
+that has a productivity growth,
+unemployment, and population
+
+00:01:10.730 --> 00:01:16.220 align:middle line:84%
+growth, we concluded
+that in balanced growth,
+
+00:01:16.220 --> 00:01:18.650 align:middle line:90%
+the following happened.
+
+00:01:18.650 --> 00:01:20.990 align:middle line:84%
+Obviously, if we pick
+the right normalization--
+
+00:01:20.990 --> 00:01:25.350 align:middle line:84%
+the right normalization,
+here, was effective workers.
+
+00:01:25.350 --> 00:01:31.320 align:middle line:84%
+So the productivity times
+population or workers.
+
+00:01:31.320 --> 00:01:34.460 align:middle line:84%
+And so if we normalize
+the variables by that,
+
+00:01:34.460 --> 00:01:36.250 align:middle line:90%
+we get, obviously, zero growth.
+
+00:01:36.250 --> 00:01:38.750 align:middle line:84%
+That's what it means to have a
+balanced growth, in which all
+
+00:01:38.750 --> 00:01:42.260 align:middle line:84%
+the relevant variables are
+growing at the same rate.
+
+00:01:42.260 --> 00:01:46.830 align:middle line:84%
+So capital per effective
+worker will be a steady state.
+
+00:01:46.830 --> 00:01:48.470 align:middle line:90%
+That's the diagram we plot.
+
+00:01:48.470 --> 00:01:50.810 align:middle line:84%
+Remember, the
+diagram we plot was
+
+00:01:50.810 --> 00:01:54.260 align:middle line:84%
+output per effective
+worker against capital
+
+00:01:54.260 --> 00:01:55.320 align:middle line:90%
+per effective worker.
+
+00:01:55.320 --> 00:01:57.500 align:middle line:84%
+And that diagram
+has a steady state.
+
+00:01:57.500 --> 00:02:00.060 align:middle line:84%
+And that steady state--
+at the steady state
+
+00:02:00.060 --> 00:02:02.280 align:middle line:84%
+or the balanced
+growth point, then we
+
+00:02:02.280 --> 00:02:06.960 align:middle line:84%
+have that the normalized
+variables grow at the rate of 0.
+
+00:02:06.960 --> 00:02:11.160 align:middle line:84%
+Capital per worker has
+to grow at the rate gA
+
+00:02:11.160 --> 00:02:14.110 align:middle line:84%
+because capital per effective
+worker is not growing.
+
+00:02:14.110 --> 00:02:17.220 align:middle line:84%
+So capital per worker will
+be growing at the rate gA.
+
+00:02:17.220 --> 00:02:19.910 align:middle line:84%
+The same applies for
+output per worker.
+
+00:02:19.910 --> 00:02:21.932 align:middle line:84%
+Output per effective
+worker is not growing.
+
+00:02:21.932 --> 00:02:22.890 align:middle line:90%
+That's balanced growth.
+
+00:02:22.890 --> 00:02:27.000 align:middle line:84%
+But therefore, output per worker
+will be growing at a rate gA.
+
+00:02:27.000 --> 00:02:29.810 align:middle line:90%
+
+
+00:02:29.810 --> 00:02:31.850 align:middle line:84%
+These are the
+exogenous drivers--
+
+00:02:31.850 --> 00:02:35.840 align:middle line:90%
+output per worker, we assume--
+
+00:02:35.840 --> 00:02:37.400 align:middle line:90%
+well, sorry.
+
+00:02:37.400 --> 00:02:41.040 align:middle line:84%
+Labor is exogenous
+in this model.
+
+00:02:41.040 --> 00:02:42.110 align:middle line:90%
+And so is gN.
+
+00:02:42.110 --> 00:02:45.110 align:middle line:84%
+Population growth is
+some constant we take.
+
+00:02:45.110 --> 00:02:47.460 align:middle line:84%
+It's not something we try
+to explain within the model.
+
+00:02:47.460 --> 00:02:51.710 align:middle line:84%
+But the two drivers of absolute
+growth will be gA and gN.
+
+00:02:51.710 --> 00:02:53.690 align:middle line:84%
+And so capital in
+the steady state
+
+00:02:53.690 --> 00:02:56.270 align:middle line:84%
+will be growing at
+the rate gA plus gN.
+
+00:02:56.270 --> 00:02:59.150 align:middle line:84%
+Output will be growing
+at the rate gA plus gN.
+
+00:02:59.150 --> 00:03:01.290 align:middle line:90%
+So that's balanced growth.
+
+00:03:01.290 --> 00:03:04.580 align:middle line:84%
+Now, let me give you an
+example so you can do--
+
+00:03:04.580 --> 00:03:07.220 align:middle line:84%
+suppose that our production
+function is this.
+
+00:03:07.220 --> 00:03:11.840 align:middle line:84%
+We call that the Cobb-Douglas
+production function.
+
+00:03:11.840 --> 00:03:14.640 align:middle line:84%
+K to the 1 minus
+alpha AN to the alpha.
+
+00:03:14.640 --> 00:03:19.400 align:middle line:84%
+Does this function have
+constant returns to scale?
+
+00:03:19.400 --> 00:03:23.570 align:middle line:84%
+Yes, the sum of
+the exponents is 1.
+
+00:03:23.570 --> 00:03:26.870 align:middle line:84%
+But-- so take the
+log of both sides.
+
+00:03:26.870 --> 00:03:29.250 align:middle line:84%
+The change in the log
+is the rate of growth.
+
+00:03:29.250 --> 00:03:32.060 align:middle line:84%
+And so you get that the
+rate of growth of output
+
+00:03:32.060 --> 00:03:35.180 align:middle line:84%
+is equal to 1 minus alpha,
+the rate of growth of capital,
+
+00:03:35.180 --> 00:03:39.170 align:middle line:84%
+plus alpha times the rate of
+growth of effective workers.
+
+00:03:39.170 --> 00:03:42.080 align:middle line:84%
+So in balanced
+growth, gK will be
+
+00:03:42.080 --> 00:03:43.970 align:middle line:90%
+growing at the rate gA plus gN.
+
+00:03:43.970 --> 00:03:45.800 align:middle line:84%
+And therefore,
+output will also be
+
+00:03:45.800 --> 00:03:47.780 align:middle line:90%
+growing at the rate gA plus gN.
+
+00:03:47.780 --> 00:03:50.070 align:middle line:84%
+OK, so that's what
+you have in the table.
+
+00:03:50.070 --> 00:03:53.510 align:middle line:84%
+And if you want to look at a
+variable like this, capital
+
+00:03:53.510 --> 00:03:56.060 align:middle line:84%
+per worker, then
+output per worker,
+
+00:03:56.060 --> 00:03:59.990 align:middle line:90%
+then you need gY minus gN.
+
+00:03:59.990 --> 00:04:03.420 align:middle line:84%
+So subtract the gN, and you
+can subtract on both sides.
+
+00:04:03.420 --> 00:04:05.120 align:middle line:84%
+Then it's going
+to be equal to gA.
+
+00:04:05.120 --> 00:04:09.170 align:middle line:84%
+And subtract gN from
+the right-hand side.
+
+00:04:09.170 --> 00:04:10.970 align:middle line:84%
+This one and that
+one cancel, and I
+
+00:04:10.970 --> 00:04:12.780 align:middle line:90%
+get gA on the right-hand side.
+
+00:04:12.780 --> 00:04:15.830 align:middle line:84%
+So that's the way you use
+that expression to fill
+
+00:04:15.830 --> 00:04:18.390 align:middle line:90%
+all these blanks.
+
+00:04:18.390 --> 00:04:20.649 align:middle line:90%
+That's steady state.
+
+00:04:20.649 --> 00:04:23.440 align:middle line:84%
+So I think I stopped
+right before that--
+
+00:04:23.440 --> 00:04:28.450 align:middle line:84%
+this slide or at this
+slide, which is--
+
+00:04:28.450 --> 00:04:31.420 align:middle line:84%
+if I look at this, this
+table, gN is pretty easy
+
+00:04:31.420 --> 00:04:33.290 align:middle line:90%
+to compute in most places.
+
+00:04:33.290 --> 00:04:36.070 align:middle line:84%
+There are places in the world
+where we cannot even measure
+
+00:04:36.070 --> 00:04:40.300 align:middle line:84%
+birth and death, so it's
+difficult. But in most places,
+
+00:04:40.300 --> 00:04:44.020 align:middle line:84%
+you can measure gN, the rate
+of growth of population,
+
+00:04:44.020 --> 00:04:45.435 align:middle line:90%
+quite accurately.
+
+00:04:45.435 --> 00:04:46.810 align:middle line:84%
+And the question
+we have, though,
+
+00:04:46.810 --> 00:04:48.685 align:middle line:84%
+is, how do we measure
+technological progress?
+
+00:04:48.685 --> 00:04:51.895 align:middle line:84%
+It's also easy to measure the
+growth in the stock of capital.
+
+00:04:51.895 --> 00:04:54.640 align:middle line:84%
+It's investment
+minus depreciation.
+
+00:04:54.640 --> 00:05:00.140 align:middle line:84%
+But how do we measure gA, the
+rate of technological progress?
+
+00:05:00.140 --> 00:05:06.670 align:middle line:84%
+And the first proposal on how
+to do it was also by Bob Solow.
+
+00:05:06.670 --> 00:05:10.280 align:middle line:84%
+That was the second contribution
+he had in growth theory.
+
+00:05:10.280 --> 00:05:11.960 align:middle line:84%
+Well, it was also
+growth measurement.
+
+00:05:11.960 --> 00:05:13.348 align:middle line:90%
+How do we measure gA?
+
+00:05:13.348 --> 00:05:14.890 align:middle line:84%
+It turns out that
+the only way you're
+
+00:05:14.890 --> 00:05:17.950 align:middle line:84%
+going to have output per capita
+growing over time or output
+
+00:05:17.950 --> 00:05:20.520 align:middle line:84%
+per person growing
+over time is due to gA.
+
+00:05:20.520 --> 00:05:22.340 align:middle line:84%
+So we might as
+well try to measure
+
+00:05:22.340 --> 00:05:25.130 align:middle line:84%
+that since it's such
+an important variable
+
+00:05:25.130 --> 00:05:28.430 align:middle line:90%
+for the growth of--
+
+00:05:28.430 --> 00:05:31.380 align:middle line:90%
+the growth of happiness.
+
+00:05:31.380 --> 00:05:35.060 align:middle line:84%
+If you give one indicator of
+happiness is output per worker,
+
+00:05:35.060 --> 00:05:37.040 align:middle line:84%
+well, such an
+important driver-- we
+
+00:05:37.040 --> 00:05:39.320 align:middle line:90%
+need to be able to measure it.
+
+00:05:39.320 --> 00:05:41.570 align:middle line:84%
+And the basic idea
+that Bob Solow has is,
+
+00:05:41.570 --> 00:05:45.050 align:middle line:84%
+is essentially something you
+could have taken from 1401.
+
+00:05:45.050 --> 00:05:46.610 align:middle line:90%
+It's extremely simple.
+
+00:05:46.610 --> 00:05:51.150 align:middle line:84%
+It says-- there are some
+assumptions behind this.
+
+00:05:51.150 --> 00:05:54.590 align:middle line:84%
+But in the basic
+competitive model,
+
+00:05:54.590 --> 00:05:59.420 align:middle line:84%
+you have that you can
+compute the contribution
+
+00:05:59.420 --> 00:06:05.390 align:middle line:84%
+of each factor of production
+to output by the payment
+
+00:06:05.390 --> 00:06:06.560 align:middle line:90%
+it receives.
+
+00:06:06.560 --> 00:06:12.260 align:middle line:84%
+So under this assumption,
+suppose that you're spending,
+
+00:06:12.260 --> 00:06:16.670 align:middle line:90%
+in workers, $30,000 a year.
+
+00:06:16.670 --> 00:06:20.100 align:middle line:84%
+So that means, in a competitive
+equilibrium in the labor market
+
+00:06:20.100 --> 00:06:23.510 align:middle line:84%
+and so on, that the worker is
+contributing, to production,
+
+00:06:23.510 --> 00:06:25.658 align:middle line:90%
+$30,000.
+
+00:06:25.658 --> 00:06:27.950 align:middle line:84%
+I'm not going to deal with
+markups and things like that
+
+00:06:27.950 --> 00:06:28.450 align:middle line:90%
+here.
+
+00:06:28.450 --> 00:06:29.730 align:middle line:90%
+But that's the basic idea.
+
+00:06:29.730 --> 00:06:32.420 align:middle line:84%
+You can adjust all these
+formulas to include markups.
+
+00:06:32.420 --> 00:06:34.100 align:middle line:90%
+But let me not do that.
+
+00:06:34.100 --> 00:06:45.230 align:middle line:84%
+So that also tells you that if
+you increase employment by 10%,
+
+00:06:45.230 --> 00:06:48.140 align:middle line:84%
+you're also going
+to increase output
+
+00:06:48.140 --> 00:06:53.030 align:middle line:84%
+by 10% times whatever is the
+contribution of labor to output.
+
+00:06:53.030 --> 00:06:54.780 align:middle line:90%
+And that's what I have here.
+
+00:06:54.780 --> 00:07:00.650 align:middle line:84%
+The contribution to
+output of adding workers
+
+00:07:00.650 --> 00:07:04.130 align:middle line:84%
+is going to be
+that times delta N.
+
+00:07:04.130 --> 00:07:09.410 align:middle line:84%
+I can divide, by Y, both
+sides, and here, multiply
+
+00:07:09.410 --> 00:07:10.700 align:middle line:90%
+and divide by N.
+
+00:07:10.700 --> 00:07:15.710 align:middle line:84%
+And I get that
+the rate of growth
+
+00:07:15.710 --> 00:07:22.970 align:middle line:84%
+in output due to a rate
+of growth in employment
+
+00:07:22.970 --> 00:07:24.800 align:middle line:90%
+is equal to the labor share.
+
+00:07:24.800 --> 00:07:26.300 align:middle line:84%
+That's called the
+labor share-- it's
+
+00:07:26.300 --> 00:07:33.200 align:middle line:84%
+the wage bill, W times N
+divided by total revenue sales
+
+00:07:33.200 --> 00:07:40.460 align:middle line:84%
+and times the rate of growth
+of a population or workers
+
+00:07:40.460 --> 00:07:41.550 align:middle line:90%
+is the same here.
+
+00:07:41.550 --> 00:07:44.450 align:middle line:90%
+So I'm going to call this gYN--
+
+00:07:44.450 --> 00:07:48.770 align:middle line:84%
+is the rate of growth of output
+due to the rate of growth in
+
+00:07:48.770 --> 00:07:52.760 align:middle line:84%
+population is equal to
+this labor share, which--
+
+00:07:52.760 --> 00:07:54.590 align:middle line:90%
+I'm going to call that alpha--
+
+00:07:54.590 --> 00:07:57.350 align:middle line:90%
+times Gn
+
+00:07:57.350 --> 00:07:59.637 align:middle line:84%
+I can do exactly the
+same with capital.
+
+00:07:59.637 --> 00:08:01.970 align:middle line:84%
+And you can do-- if you have
+more factors of production,
+
+00:08:01.970 --> 00:08:04.340 align:middle line:84%
+you can do the same for
+each factor of production.
+
+00:08:04.340 --> 00:08:07.280 align:middle line:84%
+But in this simple example,
+we have only two factors
+
+00:08:07.280 --> 00:08:09.200 align:middle line:84%
+of production--
+labor and capital.
+
+00:08:09.200 --> 00:08:11.010 align:middle line:84%
+So I can do the
+same for capital.
+
+00:08:11.010 --> 00:08:15.590 align:middle line:84%
+And I can say the
+contribution of capital growth
+
+00:08:15.590 --> 00:08:19.370 align:middle line:84%
+to output growth is going
+to be equal to the capital
+
+00:08:19.370 --> 00:08:22.050 align:middle line:84%
+share, which is the
+complement of the labor share.
+
+00:08:22.050 --> 00:08:26.810 align:middle line:84%
+So it's total revenue minus the
+wage payment, the wage bill,
+
+00:08:26.810 --> 00:08:31.460 align:middle line:84%
+divided by total revenue, times
+the rate of growth of capital.
+
+00:08:31.460 --> 00:08:35.510 align:middle line:84%
+So the contribution
+to output growth
+
+00:08:35.510 --> 00:08:39.950 align:middle line:84%
+of the rate of growth of
+capital is 1 minus alpha,
+
+00:08:39.950 --> 00:08:44.480 align:middle line:84%
+which is the share of capital,
+times the rate of growth
+
+00:08:44.480 --> 00:08:45.560 align:middle line:90%
+of capital.
+
+00:08:45.560 --> 00:08:50.990 align:middle line:84%
+So that means if I sum
+the contribution of labor
+
+00:08:50.990 --> 00:08:56.210 align:middle line:84%
+and capital, I'm left with
+a residual, which is--
+
+00:08:56.210 --> 00:08:58.660 align:middle line:84%
+whatever is the rate of
+growth I have in output--
+
+00:08:58.660 --> 00:09:00.630 align:middle line:84%
+I know how much I'm
+getting from labor.
+
+00:09:00.630 --> 00:09:02.772 align:middle line:84%
+I know how much I'm
+getting from capital.
+
+00:09:02.772 --> 00:09:04.230 align:middle line:84%
+If there is any
+difference, it must
+
+00:09:04.230 --> 00:09:06.600 align:middle line:84%
+be due to that thing
+I do not observe,
+
+00:09:06.600 --> 00:09:08.640 align:middle line:90%
+which is technological progress.
+
+00:09:08.640 --> 00:09:10.505 align:middle line:84%
+That's the logic
+of all this stuff.
+
+00:09:10.505 --> 00:09:13.297 align:middle line:90%
+
+
+00:09:13.297 --> 00:09:15.380 align:middle line:84%
+Go back, for example, to
+this production function.
+
+00:09:15.380 --> 00:09:16.838 align:middle line:84%
+I'm saying, I know
+the contribution
+
+00:09:16.838 --> 00:09:21.200 align:middle line:90%
+that K has to output growth.
+
+00:09:21.200 --> 00:09:24.170 align:middle line:84%
+I know the contribution
+that N has to output growth.
+
+00:09:24.170 --> 00:09:27.280 align:middle line:84%
+Well, the only thing I'm
+missing is the contribution
+
+00:09:27.280 --> 00:09:30.400 align:middle line:84%
+that A has to output growth,
+which I don't observe,
+
+00:09:30.400 --> 00:09:32.240 align:middle line:90%
+but I observe output growth.
+
+00:09:32.240 --> 00:09:35.000 align:middle line:84%
+I observe capital growth,
+employment growth.
+
+00:09:35.000 --> 00:09:40.240 align:middle line:84%
+So I can solve out what is
+the technological progress--
+
+00:09:40.240 --> 00:09:41.240 align:middle line:90%
+A growth.
+
+00:09:41.240 --> 00:09:46.250 align:middle line:84%
+And thus, it's called the
+Solow residual, by the way.
+
+00:09:46.250 --> 00:09:50.650 align:middle line:84%
+But that's the way, the rate
+of growth of A is measured.
+
+00:09:50.650 --> 00:09:54.010 align:middle line:84%
+The rate of growth of the output
+minus the contribution to growth
+
+00:09:54.010 --> 00:09:58.575 align:middle line:84%
+of employment,
+population and capital.
+
+00:09:58.575 --> 00:10:01.130 align:middle line:90%
+
+
+00:10:01.130 --> 00:10:03.820 align:middle line:90%
+Any question about that?
+
+00:10:03.820 --> 00:10:04.580 align:middle line:90%
+Nope?
+
+00:10:04.580 --> 00:10:06.500 align:middle line:90%
+Makes sense?
+
+00:10:06.500 --> 00:10:08.360 align:middle line:90%
+Somewhat?
+
+00:10:08.360 --> 00:10:10.100 align:middle line:90%
+OK, good.
+
+00:10:10.100 --> 00:10:12.770 align:middle line:84%
+So anyway-- so there's
+a huge industry
+
+00:10:12.770 --> 00:10:16.890 align:middle line:84%
+of measuring these kind
+of things, of course.
+
+00:10:16.890 --> 00:10:22.560 align:middle line:84%
+Let me give you an example on
+how to use this accounting.
+
+00:10:22.560 --> 00:10:26.310 align:middle line:90%
+So China '78, 2017--
+
+00:10:26.310 --> 00:10:30.120 align:middle line:84%
+that's an episode in which China
+was growing very, very strongly.
+
+00:10:30.120 --> 00:10:36.570 align:middle line:84%
+On average, China grew
+at over 7%, output--
+
+00:10:36.570 --> 00:10:38.440 align:middle line:90%
+over 7%.
+
+00:10:38.440 --> 00:10:41.740 align:middle line:84%
+Now, by the formula
+I showed you before,
+
+00:10:41.740 --> 00:10:43.330 align:middle line:84%
+if I asked you the
+question, well,
+
+00:10:43.330 --> 00:10:45.710 align:middle line:90%
+what was behind that growth?
+
+00:10:45.710 --> 00:10:47.600 align:middle line:84%
+How much was the
+contribution of labor?
+
+00:10:47.600 --> 00:10:49.520 align:middle line:84%
+How much was the
+contribution of capital?
+
+00:10:49.520 --> 00:10:51.110 align:middle line:84%
+And how much was
+the contribution
+
+00:10:51.110 --> 00:10:52.820 align:middle line:90%
+of technological progress?
+
+00:10:52.820 --> 00:10:56.970 align:middle line:84%
+Well, there are several things
+we can measure fairly well.
+
+00:10:56.970 --> 00:11:00.710 align:middle line:84%
+Population growth during this
+period in China was around 1.7%
+
+00:11:00.710 --> 00:11:02.890 align:middle line:90%
+per year.
+
+00:11:02.890 --> 00:11:06.380 align:middle line:84%
+There was a massive
+amount of investment.
+
+00:11:06.380 --> 00:11:10.760 align:middle line:84%
+The capital stock was growing
+at a rate of 9.2% per year.
+
+00:11:10.760 --> 00:11:13.700 align:middle line:84%
+And the residual-- you can
+compute it using the Solow
+
+00:11:13.700 --> 00:11:14.960 align:middle line:90%
+approach--
+
+00:11:14.960 --> 00:11:18.410 align:middle line:90%
+is around 4.2%.
+
+00:11:18.410 --> 00:11:22.820 align:middle line:84%
+So that's-- 7.2% is a result of
+the weighted average of these
+
+00:11:22.820 --> 00:11:25.680 align:middle line:90%
+three things.
+
+00:11:25.680 --> 00:11:30.990 align:middle line:84%
+So that's basic
+explanation of growth
+
+00:11:30.990 --> 00:11:33.390 align:middle line:90%
+in China during that period.
+
+00:11:33.390 --> 00:11:36.520 align:middle line:90%
+Now, just looking at this--
+
+00:11:36.520 --> 00:11:39.480 align:middle line:90%
+don't look at the diagram.
+
+00:11:39.480 --> 00:11:42.810 align:middle line:90%
+What jumps immediately?
+
+00:11:42.810 --> 00:11:44.060 align:middle line:90%
+If you just look at this part.
+
+00:11:44.060 --> 00:11:47.370 align:middle line:90%
+
+
+00:11:47.370 --> 00:11:50.210 align:middle line:90%
+What jumps to you immediately?
+
+00:11:50.210 --> 00:11:51.720 align:middle line:90%
+Let me ask you differently.
+
+00:11:51.720 --> 00:11:53.980 align:middle line:84%
+Does it look like
+balanced growth?
+
+00:11:53.980 --> 00:11:57.060 align:middle line:90%
+
+
+00:11:57.060 --> 00:12:01.730 align:middle line:84%
+Do you think that
+that's balanced growth?
+
+00:12:01.730 --> 00:12:03.680 align:middle line:84%
+In other words, do
+you think that China
+
+00:12:03.680 --> 00:12:08.570 align:middle line:84%
+had arrived to its steady
+state, and that growth
+
+00:12:08.570 --> 00:12:12.025 align:middle line:84%
+is a result of what was
+happening in that steady state?
+
+00:12:12.025 --> 00:12:17.090 align:middle line:90%
+
+
+00:12:17.090 --> 00:12:17.690 align:middle line:90%
+No.
+
+00:12:17.690 --> 00:12:21.600 align:middle line:84%
+[LAUGHS] But what
+is it that looks--
+
+00:12:21.600 --> 00:12:24.095 align:middle line:84%
+that tells you that that's
+not the steady state?
+
+00:12:24.095 --> 00:12:27.700 align:middle line:90%
+
+
+00:12:27.700 --> 00:12:29.320 align:middle line:84%
+Balanced growth
+is when everything
+
+00:12:29.320 --> 00:12:30.620 align:middle line:90%
+is growing at the same rate.
+
+00:12:30.620 --> 00:12:34.020 align:middle line:90%
+
+
+00:12:34.020 --> 00:12:40.630 align:middle line:84%
+Meaning all the endogenous
+variables are normalized,
+
+00:12:40.630 --> 00:12:45.620 align:middle line:84%
+are growing at the same rate
+as the exogenous variables.
+
+00:12:45.620 --> 00:12:48.180 align:middle line:90%
+
+
+00:12:48.180 --> 00:12:53.000 align:middle line:84%
+So what is it that it would
+merely jump to me here is that--
+
+00:12:53.000 --> 00:12:55.110 align:middle line:90%
+uh-oh, 7.2%--
+
+00:12:55.110 --> 00:12:59.180 align:middle line:84%
+that's less than the rate
+of growth of capital.
+
+00:12:59.180 --> 00:13:03.780 align:middle line:84%
+So I know that there, capital
+over output was rising.
+
+00:13:03.780 --> 00:13:05.570 align:middle line:90%
+So that's not a steady state.
+
+00:13:05.570 --> 00:13:07.480 align:middle line:90%
+I know that.
+
+00:13:07.480 --> 00:13:09.580 align:middle line:90%
+I can see it in a different way.
+
+00:13:09.580 --> 00:13:15.680 align:middle line:84%
+I know that in a steady
+state, in balanced growth,
+
+00:13:15.680 --> 00:13:18.560 align:middle line:84%
+the rate of growth of
+output and of capital
+
+00:13:18.560 --> 00:13:21.050 align:middle line:84%
+should be the sum of the
+rate of growth of population
+
+00:13:21.050 --> 00:13:25.990 align:middle line:84%
+plus the rate of
+technological progress.
+
+00:13:25.990 --> 00:13:28.420 align:middle line:90%
+That's 5.9%.
+
+00:13:28.420 --> 00:13:34.970 align:middle line:84%
+But capital was growing
+at 9.2%, not 5.9%.
+
+00:13:34.970 --> 00:13:38.560 align:middle line:84%
+So I do know that that's
+a period in which.
+
+00:13:38.560 --> 00:13:43.360 align:middle line:84%
+China was growing beyond its
+steady state or balanced growth
+
+00:13:43.360 --> 00:13:45.250 align:middle line:90%
+rate of growth.
+
+00:13:45.250 --> 00:13:46.820 align:middle line:90%
+And I know more than that.
+
+00:13:46.820 --> 00:13:48.550 align:middle line:84%
+I know that the reason
+that was happening
+
+00:13:48.550 --> 00:13:49.990 align:middle line:84%
+is because there
+was more capital
+
+00:13:49.990 --> 00:13:54.730 align:middle line:84%
+accumulation than you would
+expect in the steady state.
+
+00:13:54.730 --> 00:13:57.970 align:middle line:84%
+When are you likely to
+see a situation like that
+
+00:13:57.970 --> 00:14:01.300 align:middle line:84%
+in which capital accumulation is
+faster than the rate of growth
+
+00:14:01.300 --> 00:14:03.850 align:middle line:84%
+of capital in the steady
+state and is faster
+
+00:14:03.850 --> 00:14:05.450 align:middle line:84%
+than the rate of
+growth of output?
+
+00:14:05.450 --> 00:14:08.620 align:middle line:84%
+That is, that's a
+period in which we
+
+00:14:08.620 --> 00:14:12.940 align:middle line:84%
+have transitional
+growth being pulled--
+
+00:14:12.940 --> 00:14:15.340 align:middle line:84%
+growth above the
+steady state growth
+
+00:14:15.340 --> 00:14:19.350 align:middle line:84%
+is being pulled by
+capital accumulation.
+
+00:14:19.350 --> 00:14:20.495 align:middle line:90%
+When does that happen?
+
+00:14:20.495 --> 00:14:28.265 align:middle line:90%
+
+
+00:14:28.265 --> 00:14:29.640 align:middle line:84%
+STUDENT: Two things
+come to mind.
+
+00:14:29.640 --> 00:14:33.230 align:middle line:84%
+First is economies that are
+transitioning from command
+
+00:14:33.230 --> 00:14:34.985 align:middle line:90%
+market economies, I believe?
+
+00:14:34.985 --> 00:14:36.860 align:middle line:84%
+And also, the second
+thing that comes to mind
+
+00:14:36.860 --> 00:14:44.930 align:middle line:84%
+is, potentially, countries
+recovering from war periods.
+
+00:14:44.930 --> 00:14:47.660 align:middle line:84%
+RICARDO CABALLERO: OK,
+that's deep answer.
+
+00:14:47.660 --> 00:14:52.010 align:middle line:84%
+I wanted something
+simpler, which is--
+
+00:14:52.010 --> 00:14:53.330 align:middle line:90%
+I wanted to say--
+
+00:14:53.330 --> 00:14:55.630 align:middle line:84%
+so the economy is not
+in a steady state.
+
+00:14:55.630 --> 00:14:56.790 align:middle line:90%
+That's clear.
+
+00:14:56.790 --> 00:14:58.980 align:middle line:90%
+But what do we also know?
+
+00:14:58.980 --> 00:15:02.420 align:middle line:84%
+We know that the capital stock
+is below its steady state level.
+
+00:15:02.420 --> 00:15:07.110 align:middle line:84%
+And that could be as a result
+of the things you described.
+
+00:15:07.110 --> 00:15:09.950 align:middle line:84%
+You had a war, so capital
+stock was wiped out.
+
+00:15:09.950 --> 00:15:14.150 align:middle line:84%
+Or you had a period in which
+saving rate was very low.
+
+00:15:14.150 --> 00:15:16.970 align:middle line:84%
+And now you're going
+to a high saving rate.
+
+00:15:16.970 --> 00:15:19.940 align:middle line:84%
+[INAUDIBLE] A lot of that is
+what happened in Southeast Asia,
+
+00:15:19.940 --> 00:15:20.870 align:middle line:90%
+in particular.
+
+00:15:20.870 --> 00:15:24.200 align:middle line:84%
+Actually, it was a fast
+increase in the rate--
+
+00:15:24.200 --> 00:15:26.730 align:middle line:90%
+a sharp rise in the saving rate.
+
+00:15:26.730 --> 00:15:29.010 align:middle line:84%
+But the bottom-- so
+what I had in mind
+
+00:15:29.010 --> 00:15:32.430 align:middle line:84%
+is for one of these
+reasons, that's
+
+00:15:32.430 --> 00:15:34.560 align:middle line:84%
+a situation where the
+initial capital stock was
+
+00:15:34.560 --> 00:15:35.902 align:middle line:90%
+below the steady state.
+
+00:15:35.902 --> 00:15:37.860 align:middle line:84%
+And so you have a period
+of transitional growth
+
+00:15:37.860 --> 00:15:39.420 align:middle line:84%
+in which the
+investment rate is more
+
+00:15:39.420 --> 00:15:42.990 align:middle line:84%
+than you need to do to
+maintain the stock of capital
+
+00:15:42.990 --> 00:15:44.610 align:middle line:90%
+per effective worker.
+
+00:15:44.610 --> 00:15:50.920 align:middle line:84%
+It's a positive gap between the
+green line and the red line.
+
+00:15:50.920 --> 00:15:53.280 align:middle line:84%
+And that's what leads
+to transitional growth
+
+00:15:53.280 --> 00:15:55.770 align:middle line:90%
+until you reach a steady state.
+
+00:15:55.770 --> 00:15:59.550 align:middle line:84%
+If things do not change,
+meaning population growth
+
+00:15:59.550 --> 00:16:02.280 align:middle line:84%
+remain the same
+as in that period,
+
+00:16:02.280 --> 00:16:06.630 align:middle line:84%
+and the rate of
+technological progress
+
+00:16:06.630 --> 00:16:08.620 align:middle line:84%
+remains the same
+as in that period--
+
+00:16:08.620 --> 00:16:12.115 align:middle line:84%
+we know that the balanced
+growth rate of China is 5.9%.
+
+00:16:12.115 --> 00:16:15.955 align:middle line:90%
+
+
+00:16:15.955 --> 00:16:22.860 align:middle line:84%
+It's 5.9%, because
+it's 0.017 plus 0.42.
+
+00:16:22.860 --> 00:16:26.348 align:middle line:84%
+So that's 7.2% average
+that you are likely to see.
+
+00:16:26.348 --> 00:16:27.890 align:middle line:84%
+And actually, this
+is an average that
+
+00:16:27.890 --> 00:16:34.160 align:middle line:84%
+has numbers like 15% very
+early on to close to 6% or so
+
+00:16:34.160 --> 00:16:36.470 align:middle line:90%
+on the last stage.
+
+00:16:36.470 --> 00:16:39.230 align:middle line:90%
+So that would be a steady state.
+
+00:16:39.230 --> 00:16:41.720 align:middle line:84%
+Now, that, I think,
+is an overestimate
+
+00:16:41.720 --> 00:16:46.100 align:middle line:84%
+because we know that the
+rate of population growth
+
+00:16:46.100 --> 00:16:50.630 align:middle line:84%
+is declining very rapidly in
+China-- is turning negative.
+
+00:16:50.630 --> 00:16:53.570 align:middle line:84%
+So for the rate of
+growth of output, China--
+
+00:16:53.570 --> 00:16:56.030 align:middle line:84%
+unless there's a big change
+in technological progress--
+
+00:16:56.030 --> 00:16:57.738 align:middle line:84%
+in the process of
+technological progress,
+
+00:16:57.738 --> 00:16:59.870 align:middle line:84%
+it's going to be pretty
+difficult for China
+
+00:16:59.870 --> 00:17:04.490 align:middle line:84%
+to grow a lot more than
+5%, I think, going forward.
+
+00:17:04.490 --> 00:17:06.180 align:middle line:90%
+And that creates some problems.
+
+00:17:06.180 --> 00:17:07.685 align:middle line:90%
+But that's what it is.
+
+00:17:07.685 --> 00:17:09.060 align:middle line:84%
+That's what this
+model tells you.
+
+00:17:09.060 --> 00:17:10.310 align:middle line:90%
+You need to change something.
+
+00:17:10.310 --> 00:17:12.990 align:middle line:84%
+And the things you can change
+in this model are what?
+
+00:17:12.990 --> 00:17:15.030 align:middle line:84%
+Well, you could induce
+higher saving rate.
+
+00:17:15.030 --> 00:17:17.060 align:middle line:84%
+You could get more
+transitional growth out
+
+00:17:17.060 --> 00:17:18.839 align:middle line:84%
+of that, more
+capital accumulation.
+
+00:17:18.839 --> 00:17:19.710 align:middle line:90%
+That's costly.
+
+00:17:19.710 --> 00:17:22.280 align:middle line:84%
+That means less
+consumption and so on.
+
+00:17:22.280 --> 00:17:25.190 align:middle line:84%
+Or it could be some
+technological breakthrough,
+
+00:17:25.190 --> 00:17:28.950 align:middle line:84%
+but that probably would affect
+the whole world, in any event.
+
+00:17:28.950 --> 00:17:33.375 align:middle line:84%
+But that's the kind
+of things you expect.
+
+00:17:33.375 --> 00:17:33.875 align:middle line:90%
+Good.
+
+00:17:33.875 --> 00:17:37.710 align:middle line:90%
+
+
+00:17:37.710 --> 00:17:43.070 align:middle line:84%
+So the models we
+have developed here
+
+00:17:43.070 --> 00:17:47.180 align:middle line:84%
+are quite good to explain
+catching up processes,
+
+00:17:47.180 --> 00:17:51.090 align:middle line:84%
+catching up growth,
+and to understand
+
+00:17:51.090 --> 00:17:55.670 align:middle line:84%
+where are the economists
+converging over time.
+
+00:17:55.670 --> 00:17:57.440 align:middle line:90%
+What I want to do next is--
+
+00:17:57.440 --> 00:17:59.760 align:middle line:84%
+I want to end up
+trying to explain--
+
+00:17:59.760 --> 00:18:02.270 align:middle line:84%
+remember, one of the plots
+I showed you very early on
+
+00:18:02.270 --> 00:18:07.940 align:middle line:84%
+is that there's great dispersion
+in income per person, per capita
+
+00:18:07.940 --> 00:18:09.060 align:middle line:90%
+across the world.
+
+00:18:09.060 --> 00:18:13.850 align:middle line:84%
+And also, some countries are
+not catching up, especially
+
+00:18:13.850 --> 00:18:15.990 align:middle line:90%
+in Africa and so on.
+
+00:18:15.990 --> 00:18:17.550 align:middle line:84%
+And I want to try
+to understand--
+
+00:18:17.550 --> 00:18:19.130 align:middle line:84%
+so people have
+put lots of effort
+
+00:18:19.130 --> 00:18:23.450 align:middle line:84%
+in trying to understand why
+do we have these differences.
+
+00:18:23.450 --> 00:18:25.190 align:middle line:84%
+And so I'm going to
+expand, a little bit,
+
+00:18:25.190 --> 00:18:30.230 align:middle line:84%
+the model we have to show you a
+few things people have explored.
+
+00:18:30.230 --> 00:18:33.530 align:middle line:84%
+And then I'm going to conclude
+that those things that people
+
+00:18:33.530 --> 00:18:36.870 align:middle line:84%
+have explored sort of
+can't explain it either.
+
+00:18:36.870 --> 00:18:39.440 align:middle line:84%
+And then I'm going to go
+back sort of to growth
+
+00:18:39.440 --> 00:18:43.880 align:middle line:84%
+accounting. so the sort of thing
+I did for China there, and try
+
+00:18:43.880 --> 00:18:50.720 align:middle line:84%
+to explain what seems to be
+behind these big disparities
+
+00:18:50.720 --> 00:18:51.980 align:middle line:90%
+we have in the world.
+
+00:18:51.980 --> 00:18:54.860 align:middle line:84%
+So the first thing I'm
+going to do is just--
+
+00:18:54.860 --> 00:18:58.890 align:middle line:84%
+it's useful as an
+exercise, even.
+
+00:18:58.890 --> 00:19:01.510 align:middle line:84%
+I'm going to modify the
+Solow model a little bit.
+
+00:19:01.510 --> 00:19:04.780 align:middle line:84%
+So this is like the production
+function I showed you before.
+
+00:19:04.780 --> 00:19:06.480 align:middle line:84%
+But rather than
+having N here, I'm
+
+00:19:06.480 --> 00:19:11.430 align:middle line:84%
+going to have H.
+And H is just N--
+
+00:19:11.430 --> 00:19:14.370 align:middle line:84%
+our old N-- population,
+labor force over there,
+
+00:19:14.370 --> 00:19:18.280 align:middle line:84%
+but it's scale up by this
+human capital factor.
+
+00:19:18.280 --> 00:19:26.940 align:middle line:84%
+So what this says is that
+human capital is really--
+
+00:19:26.940 --> 00:19:30.550 align:middle line:84%
+is the population
+times something
+
+00:19:30.550 --> 00:19:34.370 align:middle line:84%
+that controls for the level of
+schooling of that population.
+
+00:19:34.370 --> 00:19:36.880 align:middle line:84%
+So a big candidate for
+difference across the world
+
+00:19:36.880 --> 00:19:40.360 align:middle line:84%
+is certain populations are
+far more educated than others.
+
+00:19:40.360 --> 00:19:44.680 align:middle line:90%
+So this does exactly that.
+
+00:19:44.680 --> 00:19:47.410 align:middle line:84%
+Size is an increasing
+function of the numbers
+
+00:19:47.410 --> 00:19:48.800 align:middle line:90%
+of years of schooling.
+
+00:19:48.800 --> 00:19:52.060 align:middle line:84%
+And there is a big micro
+evidence-- literature
+
+00:19:52.060 --> 00:19:54.430 align:middle line:84%
+trying to estimate what
+is the value of that side.
+
+00:19:54.430 --> 00:19:57.010 align:middle line:84%
+What is the value of an
+extra unit of schooling
+
+00:19:57.010 --> 00:19:59.780 align:middle line:90%
+for human capital and so on.
+
+00:19:59.780 --> 00:20:03.070 align:middle line:84%
+And the estimate depends
+on what kind of schooling
+
+00:20:03.070 --> 00:20:05.250 align:middle line:84%
+are we talking about--
+primary, secondary, tertiary,
+
+00:20:05.250 --> 00:20:05.750 align:middle line:90%
+or whatever.
+
+00:20:05.750 --> 00:20:08.900 align:middle line:84%
+But on average, that's
+a number around 0.1.
+
+00:20:08.900 --> 00:20:13.420 align:middle line:84%
+So one extra year of
+schooling raises human capital
+
+00:20:13.420 --> 00:20:15.682 align:middle line:84%
+by about 10% So the
+whole population
+
+00:20:15.682 --> 00:20:17.140 align:middle line:84%
+increases, the
+average by one year.
+
+00:20:17.140 --> 00:20:20.290 align:middle line:90%
+
+
+00:20:20.290 --> 00:20:22.850 align:middle line:84%
+That adds about 10%
+to human capital.
+
+00:20:22.850 --> 00:20:26.420 align:middle line:84%
+So it's as if you had
+increased population by 10%.
+
+00:20:26.420 --> 00:20:28.160 align:middle line:90%
+So it makes a difference.
+
+00:20:28.160 --> 00:20:32.420 align:middle line:84%
+Now, it's pretty hard
+to raise, for a country,
+
+00:20:32.420 --> 00:20:34.950 align:middle line:84%
+one year of schooling
+for the average.
+
+00:20:34.950 --> 00:20:36.225 align:middle line:90%
+It takes a lot of time.
+
+00:20:36.225 --> 00:20:37.850 align:middle line:84%
+But when you look in
+the cross-section,
+
+00:20:37.850 --> 00:20:40.400 align:middle line:84%
+there is huge difference across
+the world between numbers
+
+00:20:40.400 --> 00:20:41.790 align:middle line:90%
+of years of schooling.
+
+00:20:41.790 --> 00:20:44.480 align:middle line:84%
+And that accounts for a
+big part of the difference
+
+00:20:44.480 --> 00:20:46.970 align:middle line:90%
+in income per capita.
+
+00:20:46.970 --> 00:20:51.440 align:middle line:84%
+Anyways-- so let me
+do a balance growth
+
+00:20:51.440 --> 00:20:54.410 align:middle line:84%
+exercise with this
+expanded model
+
+00:20:54.410 --> 00:20:57.703 align:middle line:90%
+and see how far we can get.
+
+00:20:57.703 --> 00:20:59.120 align:middle line:84%
+So the first thing
+I'm going to do
+
+00:20:59.120 --> 00:21:02.180 align:middle line:84%
+is I'm going to normalize
+everything by effective work--
+
+00:21:02.180 --> 00:21:03.960 align:middle line:90%
+sorry, by workers.
+
+00:21:03.960 --> 00:21:06.105 align:middle line:90%
+So I'm going to divide--
+
+00:21:06.105 --> 00:21:07.730 align:middle line:84%
+all the variables
+I'm going to show you
+
+00:21:07.730 --> 00:21:10.740 align:middle line:90%
+are going to be divided by N.
+
+00:21:10.740 --> 00:21:15.960 align:middle line:84%
+Now, notice that I'm
+dividing by N, not
+
+00:21:15.960 --> 00:21:24.300 align:middle line:84%
+by A times N or A times H.
+So there is a difference
+
+00:21:24.300 --> 00:21:26.550 align:middle line:90%
+with the previous analysis.
+
+00:21:26.550 --> 00:21:28.410 align:middle line:90%
+And I can always divide.
+
+00:21:28.410 --> 00:21:29.590 align:middle line:90%
+The model we had--
+
+00:21:29.590 --> 00:21:33.090 align:middle line:84%
+I can always divide by whatever
+I want, all my variables.
+
+00:21:33.090 --> 00:21:35.190 align:middle line:84%
+I divide it by effective
+workers because I
+
+00:21:35.190 --> 00:21:37.560 align:middle line:84%
+wanted to have a diagram
+where the curves were not
+
+00:21:37.560 --> 00:21:38.790 align:middle line:90%
+moving around.
+
+00:21:38.790 --> 00:21:41.960 align:middle line:84%
+But I can divide
+by whatever I want.
+
+00:21:41.960 --> 00:21:43.680 align:middle line:84%
+And I will divide
+by different things
+
+00:21:43.680 --> 00:21:46.030 align:middle line:84%
+depending on the analysis
+I want to conduct.
+
+00:21:46.030 --> 00:21:48.780 align:middle line:84%
+Now, I know that once I
+divide by population only,
+
+00:21:48.780 --> 00:21:53.610 align:middle line:84%
+not by A times a population
+and education, perhaps,
+
+00:21:53.610 --> 00:21:55.650 align:middle line:84%
+I cannot draw my
+previous diagram--
+
+00:21:55.650 --> 00:22:00.808 align:middle line:84%
+the diagram with the saving,
+with output per worker,
+
+00:22:00.808 --> 00:22:03.100 align:middle line:84%
+and so on, because those
+curves are going to be moving,
+
+00:22:03.100 --> 00:22:04.230 align:middle line:90%
+so it's not very friendly.
+
+00:22:04.230 --> 00:22:05.980 align:middle line:84%
+But I can divide
+by whatever I want.
+
+00:22:05.980 --> 00:22:09.670 align:middle line:84%
+But I want to divide,
+here, by just population.
+
+00:22:09.670 --> 00:22:15.630 align:middle line:84%
+So little h will be
+simply big H divided by N.
+
+00:22:15.630 --> 00:22:19.470 align:middle line:84%
+Remember that big H was just
+e to epsi psi u times N.
+
+00:22:19.470 --> 00:22:21.180 align:middle line:90%
+So that's that.
+
+00:22:21.180 --> 00:22:24.970 align:middle line:90%
+Output per worker will be just--
+
+00:22:24.970 --> 00:22:31.120 align:middle line:84%
+will be K capital divided
+by N. And here is big
+
+00:22:31.120 --> 00:22:33.670 align:middle line:84%
+H divided by N,
+which is little h.
+
+00:22:33.670 --> 00:22:37.720 align:middle line:84%
+So all this, now, is
+measured as output per worker
+
+00:22:37.720 --> 00:22:41.120 align:middle line:90%
+or per population--
+
+00:22:41.120 --> 00:22:43.430 align:middle line:90%
+per person.
+
+00:22:43.430 --> 00:22:46.250 align:middle line:84%
+Now, remember, what I
+can do here is-- then I
+
+00:22:46.250 --> 00:22:49.130 align:middle line:84%
+know that the rate of
+growth of output per person
+
+00:22:49.130 --> 00:22:51.230 align:middle line:84%
+is going to be equal
+to 1 minus alpha
+
+00:22:51.230 --> 00:22:54.710 align:middle line:84%
+times the rate of growth
+of capital per person
+
+00:22:54.710 --> 00:22:58.100 align:middle line:84%
+plus alpha times the
+rate of growth of A times
+
+00:22:58.100 --> 00:23:00.560 align:middle line:84%
+the rate of growth
+of h, in which
+
+00:23:00.560 --> 00:23:05.870 align:middle line:84%
+h is this years of
+schooling transformation.
+
+00:23:05.870 --> 00:23:09.530 align:middle line:84%
+Now, if you think
+about the steady state,
+
+00:23:09.530 --> 00:23:11.465 align:middle line:90%
+it doesn't make any sense that--
+
+00:23:11.465 --> 00:23:13.320 align:middle line:84%
+gH, at some point,
+will become 0.
+
+00:23:13.320 --> 00:23:15.050 align:middle line:84%
+I mean, we can
+increase education.
+
+00:23:15.050 --> 00:23:19.550 align:middle line:84%
+But at some point, we cannot
+be all going to 150 years
+
+00:23:19.550 --> 00:23:21.080 align:middle line:90%
+of education.
+
+00:23:21.080 --> 00:23:23.550 align:middle line:84%
+Unlike capital and
+things like that--
+
+00:23:23.550 --> 00:23:26.600 align:middle line:84%
+you can increase, for
+a while, education.
+
+00:23:26.600 --> 00:23:28.320 align:middle line:84%
+But at some point,
+there is a limit.
+
+00:23:28.320 --> 00:23:31.110 align:middle line:84%
+I mean, you're not going to do a
+post post, post post, PHD, blah,
+
+00:23:31.110 --> 00:23:31.910 align:middle line:90%
+blah, blah, blah.
+
+00:23:31.910 --> 00:23:35.120 align:middle line:84%
+So in a steady state,
+we know that eventually,
+
+00:23:35.120 --> 00:23:38.990 align:middle line:84%
+in the long run, this
+gH is equal to 0.
+
+00:23:38.990 --> 00:23:44.850 align:middle line:84%
+So this economy-- expanded to
+include years of schooling--
+
+00:23:44.850 --> 00:23:47.310 align:middle line:84%
+has the same sort of balanced
+growth characteristics
+
+00:23:47.310 --> 00:23:49.410 align:middle line:84%
+of the economy I just
+showed you before.
+
+00:23:49.410 --> 00:23:55.770 align:middle line:84%
+So in that economy, capital per
+person will grow at a rate gA,
+
+00:23:55.770 --> 00:23:59.340 align:middle line:84%
+and output per person
+will grow at the rate gA.
+
+00:23:59.340 --> 00:24:01.710 align:middle line:84%
+Output will grow at
+the rate gA plus gN.
+
+00:24:01.710 --> 00:24:05.040 align:middle line:84%
+So exactly the same
+as we had before.
+
+00:24:05.040 --> 00:24:09.960 align:middle line:84%
+Up to now, adding human capital
+doesn't change our conclusions
+
+00:24:09.960 --> 00:24:11.850 align:middle line:90%
+about balanced growth.
+
+00:24:11.850 --> 00:24:14.170 align:middle line:84%
+It will change some
+conclusions that are important.
+
+00:24:14.170 --> 00:24:16.390 align:middle line:84%
+So that's the reason I'm
+introducing this variable.
+
+00:24:16.390 --> 00:24:18.940 align:middle line:84%
+But it doesn't change
+this conclusion.
+
+00:24:18.940 --> 00:24:21.940 align:middle line:84%
+So this model, which is a little
+expansion of the previous model,
+
+00:24:21.940 --> 00:24:24.870 align:middle line:84%
+we had, has the same balanced
+growth characteristics
+
+00:24:24.870 --> 00:24:28.720 align:middle line:84%
+as the model I
+showed you before.
+
+00:24:28.720 --> 00:24:32.530 align:middle line:84%
+So let me do a little
+bit of algebra with it.
+
+00:24:32.530 --> 00:24:36.550 align:middle line:84%
+So from the capital accumulation
+equation, I know that--
+
+00:24:36.550 --> 00:24:40.720 align:middle line:84%
+so let me-- remember, the
+capital accumulation--
+
+00:24:40.720 --> 00:24:46.420 align:middle line:90%
+now written in per person--
+
+00:24:46.420 --> 00:24:52.170 align:middle line:90%
+will be kt plus 1--
+
+00:24:52.170 --> 00:24:54.110 align:middle line:90%
+this is little k--
+
+00:24:54.110 --> 00:25:11.046 align:middle line:84%
+minus kt equal to s times
+yt minus delta plus m kt.
+
+00:25:11.046 --> 00:25:14.980 align:middle line:90%
+
+
+00:25:14.980 --> 00:25:19.790 align:middle line:84%
+Wait, why don't I have a delta
+plus n minus plus gA there?
+
+00:25:19.790 --> 00:25:23.320 align:middle line:84%
+Remember that in the previous
+model I have a delta plus m
+
+00:25:23.320 --> 00:25:24.225 align:middle line:90%
+plus gA there.
+
+00:25:24.225 --> 00:25:27.410 align:middle line:90%
+
+
+00:25:27.410 --> 00:25:28.285 align:middle line:90%
+Did I make a mistake?
+
+00:25:28.285 --> 00:25:33.010 align:middle line:90%
+
+
+00:25:33.010 --> 00:25:35.120 align:middle line:84%
+Actually, this is a
+useful exercise for you.
+
+00:25:35.120 --> 00:25:38.330 align:middle line:90%
+
+
+00:25:38.330 --> 00:25:44.530 align:middle line:84%
+You remember that I had a
+delta plus m plus gA there, no?
+
+00:25:44.530 --> 00:25:47.070 align:middle line:90%
+What's wrong?
+
+00:25:47.070 --> 00:25:48.900 align:middle line:84%
+I just told you
+that this economy,
+
+00:25:48.900 --> 00:25:52.410 align:middle line:84%
+at least in balanced
+growth, is exactly the same.
+
+00:25:52.410 --> 00:25:54.380 align:middle line:90%
+So did I make a mistake?
+
+00:25:54.380 --> 00:26:00.710 align:middle line:90%
+
+
+00:26:00.710 --> 00:26:02.610 align:middle line:90%
+No.
+
+00:26:02.610 --> 00:26:05.070 align:middle line:84%
+The reason I had the
+gA there is because I
+
+00:26:05.070 --> 00:26:09.880 align:middle line:84%
+was looking at the change in
+capital per effective worker.
+
+00:26:09.880 --> 00:26:12.330 align:middle line:84%
+I'm looking, now, at the
+change in capital per worker,
+
+00:26:12.330 --> 00:26:13.420 align:middle line:90%
+not per effective worker.
+
+00:26:13.420 --> 00:26:15.778 align:middle line:84%
+So I don't have that
+A in the denominator.
+
+00:26:15.778 --> 00:26:17.820 align:middle line:84%
+So I don't need to account
+for the rate of growth
+
+00:26:17.820 --> 00:26:22.260 align:middle line:84%
+of the denominator due to
+an increase in technology.
+
+00:26:22.260 --> 00:26:23.020 align:middle line:90%
+I don't need that.
+
+00:26:23.020 --> 00:26:25.930 align:middle line:90%
+
+
+00:26:25.930 --> 00:26:30.605 align:middle line:84%
+And so what I can do is
+divide both sides by kt--
+
+00:26:30.605 --> 00:26:33.330 align:middle line:90%
+
+
+00:26:33.330 --> 00:26:34.190 align:middle line:90%
+that's kt.
+
+00:26:34.190 --> 00:26:38.250 align:middle line:90%
+
+
+00:26:38.250 --> 00:26:46.930 align:middle line:84%
+And this is the rate
+of growth of k, no?
+
+00:26:46.930 --> 00:26:48.350 align:middle line:90%
+It's the rate of growth of k.
+
+00:26:48.350 --> 00:26:52.070 align:middle line:90%
+
+
+00:26:52.070 --> 00:26:55.220 align:middle line:84%
+But in a steady state,
+the rate of growth of k,
+
+00:26:55.220 --> 00:26:57.085 align:middle line:84%
+capital per worker,
+is equal to what?
+
+00:26:57.085 --> 00:27:01.540 align:middle line:90%
+
+
+00:27:01.540 --> 00:27:04.720 align:middle line:84%
+gA is the rate of
+growth of technology.
+
+00:27:04.720 --> 00:27:13.450 align:middle line:84%
+So this-- in a steady
+state, this is equal to gA.
+
+00:27:13.450 --> 00:27:16.960 align:middle line:90%
+And so what I wrote there is--
+
+00:27:16.960 --> 00:27:19.800 align:middle line:84%
+I think it should
+be exactly that.
+
+00:27:19.800 --> 00:27:20.300 align:middle line:90%
+Is it?
+
+00:27:20.300 --> 00:27:22.930 align:middle line:90%
+Yes, good.
+
+00:27:22.930 --> 00:27:25.100 align:middle line:90%
+That's what I did.
+
+00:27:25.100 --> 00:27:28.050 align:middle line:90%
+And why did I do this for?
+
+00:27:28.050 --> 00:27:35.780 align:middle line:84%
+Well, because now I can-- you
+know that I can measure delta--
+
+00:27:35.780 --> 00:27:36.780 align:middle line:90%
+I can measure delta.
+
+00:27:36.780 --> 00:27:37.675 align:middle line:90%
+I can measure n.
+
+00:27:37.675 --> 00:27:40.230 align:middle line:90%
+
+
+00:27:40.230 --> 00:27:44.320 align:middle line:90%
+And I can measure gA.
+
+00:27:44.320 --> 00:27:49.660 align:middle line:84%
+So this implies that
+I can solve out,
+
+00:27:49.660 --> 00:27:53.350 align:middle line:84%
+in a steady state, for what
+is the level of capital
+
+00:27:53.350 --> 00:27:58.120 align:middle line:90%
+per effective worker.
+
+00:27:58.120 --> 00:28:00.280 align:middle line:84%
+I can solve from this
+equation, and it's
+
+00:28:00.280 --> 00:28:02.200 align:middle line:90%
+equal to this expression here.
+
+00:28:02.200 --> 00:28:04.870 align:middle line:84%
+Notice a few
+interesting things here.
+
+00:28:04.870 --> 00:28:07.030 align:middle line:90%
+Capital per worker--
+
+00:28:07.030 --> 00:28:10.750 align:middle line:84%
+Each of them is divided by n,
+so I can also look at big K
+
+00:28:10.750 --> 00:28:17.050 align:middle line:84%
+over A times big H. It's
+increasing the savings rate.
+
+00:28:17.050 --> 00:28:19.550 align:middle line:84%
+That you already had in the
+model we discussed before.
+
+00:28:19.550 --> 00:28:21.400 align:middle line:84%
+If the saving rate is
+higher, then you're
+
+00:28:21.400 --> 00:28:26.350 align:middle line:84%
+going to end up with a higher
+capital per effective worker
+
+00:28:26.350 --> 00:28:27.940 align:middle line:90%
+ratio in the steady state.
+
+00:28:27.940 --> 00:28:31.030 align:middle line:84%
+It's decreasing in
+population growth.
+
+00:28:31.030 --> 00:28:34.210 align:middle line:84%
+All these things you
+already saw before.
+
+00:28:34.210 --> 00:28:39.550 align:middle line:84%
+So now that I have this
+expression for K over H,
+
+00:28:39.550 --> 00:28:44.690 align:middle line:84%
+I can go back to my
+production function, to this.
+
+00:28:44.690 --> 00:28:47.600 align:middle line:90%
+And it's sticking there--
+
+00:28:47.600 --> 00:28:48.590 align:middle line:90%
+this value.
+
+00:28:48.590 --> 00:28:51.260 align:middle line:84%
+And I get that
+output at time, t.
+
+00:28:51.260 --> 00:28:53.390 align:middle line:84%
+Once you are in the
+balanced growth path,
+
+00:28:53.390 --> 00:28:59.800 align:middle line:84%
+it's equal to A (t)
+times h times k over Ah
+
+00:28:59.800 --> 00:29:00.670 align:middle line:90%
+to 1 minus alpha.
+
+00:29:00.670 --> 00:29:02.290 align:middle line:90%
+Just solve for that.
+
+00:29:02.290 --> 00:29:06.420 align:middle line:84%
+And the point being is that
+now I can write this as y(t) is
+
+00:29:06.420 --> 00:29:09.280 align:middle line:90%
+equal to a t times--
+
+00:29:09.280 --> 00:29:12.140 align:middle line:84%
+so human capital times
+this expression here.
+
+00:29:12.140 --> 00:29:15.760 align:middle line:84%
+So the point is, human capital
+doesn't affect the steady state
+
+00:29:15.760 --> 00:29:21.800 align:middle line:84%
+growth, but it does affect the
+income per capita that you have.
+
+00:29:21.800 --> 00:29:23.260 align:middle line:90%
+And it makes a big difference.
+
+00:29:23.260 --> 00:29:24.050 align:middle line:90%
+I'll show you.
+
+00:29:24.050 --> 00:29:27.850 align:middle line:90%
+
+
+00:29:27.850 --> 00:29:30.750 align:middle line:84%
+So when people try to explain
+differences across the world,
+
+00:29:30.750 --> 00:29:33.580 align:middle line:84%
+they notice that they were
+missing a big component.
+
+00:29:33.580 --> 00:29:37.120 align:middle line:84%
+And that big component
+is education.
+
+00:29:37.120 --> 00:29:39.250 align:middle line:90%
+So let's compare.
+
+00:29:39.250 --> 00:29:41.290 align:middle line:90%
+What I want to do next is--
+
+00:29:41.290 --> 00:29:44.450 align:middle line:84%
+I can do this for every
+country in the world.
+
+00:29:44.450 --> 00:29:49.080 align:middle line:84%
+And I can compare
+it with the US.
+
+00:29:49.080 --> 00:29:53.255 align:middle line:84%
+OK, I can do this for
+every country in the world.
+
+00:29:53.255 --> 00:29:55.630 align:middle line:84%
+And I can compare it with any
+other country in the world.
+
+00:29:55.630 --> 00:29:58.830 align:middle line:84%
+But just-- let's compare it with
+the largest country in the world
+
+00:29:58.830 --> 00:30:00.010 align:middle line:90%
+in terms of output.
+
+00:30:00.010 --> 00:30:01.120 align:middle line:90%
+That's the US.
+
+00:30:01.120 --> 00:30:03.610 align:middle line:90%
+So let's see what we get.
+
+00:30:03.610 --> 00:30:08.640 align:middle line:84%
+So I'm going to take output
+per capita everywhere
+
+00:30:08.640 --> 00:30:13.520 align:middle line:84%
+and divide it by the same
+expression for the US
+
+00:30:13.520 --> 00:30:17.470 align:middle line:84%
+and then define that
+variable as yi hat.
+
+00:30:17.470 --> 00:30:19.370 align:middle line:90%
+So for country i--
+
+00:30:19.370 --> 00:30:23.690 align:middle line:84%
+say, Singapore-- we
+take output per capita
+
+00:30:23.690 --> 00:30:29.410 align:middle line:84%
+and we divide it by output per
+capita per person in the US.
+
+00:30:29.410 --> 00:30:31.990 align:middle line:90%
+Assume-- big, if.
+
+00:30:31.990 --> 00:30:34.480 align:middle line:90%
+This is a huge, if.
+
+00:30:34.480 --> 00:30:37.300 align:middle line:84%
+But you can do that for
+the US versus Singapore.
+
+00:30:37.300 --> 00:30:40.720 align:middle line:84%
+Probably is not a crazy
+assumption to make.
+
+00:30:40.720 --> 00:30:43.450 align:middle line:84%
+Assume that they
+have the same rate
+
+00:30:43.450 --> 00:30:46.940 align:middle line:84%
+of technological progress and
+the same technology and so on.
+
+00:30:46.940 --> 00:30:49.010 align:middle line:84%
+Well, the same rate of
+technological progress--
+
+00:30:49.010 --> 00:30:50.830 align:middle line:84%
+I'm going to assume
+that for now.
+
+00:30:50.830 --> 00:30:53.260 align:middle line:90%
+So then this yi hat--
+
+00:30:53.260 --> 00:30:55.730 align:middle line:90%
+you can write this--
+
+00:30:55.730 --> 00:31:02.860 align:middle line:84%
+it's just this for Singapore
+divided by this for the US.
+
+00:31:02.860 --> 00:31:04.865 align:middle line:84%
+It turns out to be
+this expression here.
+
+00:31:04.865 --> 00:31:09.190 align:middle line:90%
+
+
+00:31:09.190 --> 00:31:12.160 align:middle line:84%
+Solow did something
+like this and said,
+
+00:31:12.160 --> 00:31:17.500 align:middle line:84%
+OK, assume that technology
+is the same across the world
+
+00:31:17.500 --> 00:31:21.970 align:middle line:84%
+because, at least
+for major economies,
+
+00:31:21.970 --> 00:31:25.360 align:middle line:90%
+technology can be imported.
+
+00:31:25.360 --> 00:31:29.470 align:middle line:90%
+And we can have the same--
+
+00:31:29.470 --> 00:31:31.640 align:middle line:84%
+more or less, the same
+technology across the world.
+
+00:31:31.640 --> 00:31:34.060 align:middle line:84%
+So assume that this
+guy is equal to 1
+
+00:31:34.060 --> 00:31:39.632 align:middle line:84%
+and that both Singapore and the
+US have the same rate of growth.
+
+00:31:39.632 --> 00:31:47.620 align:middle line:84%
+And so that means that countries
+that have higher savings rate
+
+00:31:47.620 --> 00:31:49.065 align:middle line:90%
+will tend to have--
+
+00:31:49.065 --> 00:31:50.440 align:middle line:84%
+we know that as
+[INAUDIBLE] goes,
+
+00:31:50.440 --> 00:31:53.320 align:middle line:84%
+we'll tend to have
+higher output per capita.
+
+00:31:53.320 --> 00:31:56.600 align:middle line:84%
+So Singapore has a higher
+savings rate than the US.
+
+00:31:56.600 --> 00:32:03.370 align:middle line:84%
+That will tend to give Singapore
+a higher income per capita.
+
+00:32:03.370 --> 00:32:07.240 align:middle line:84%
+If a country has a
+higher population growth,
+
+00:32:07.240 --> 00:32:11.440 align:middle line:84%
+then it will tend to have
+a lower income per capita
+
+00:32:11.440 --> 00:32:13.120 align:middle line:90%
+and so on and so forth.
+
+00:32:13.120 --> 00:32:14.800 align:middle line:84%
+And so the question
+is, well, suppose
+
+00:32:14.800 --> 00:32:19.420 align:middle line:84%
+you make this assumption of
+equal technology and take the--
+
+00:32:19.420 --> 00:32:21.462 align:middle line:84%
+we can measure the saving
+rate in different parts
+
+00:32:21.462 --> 00:32:23.670 align:middle line:84%
+of the world, the population
+rates in different parts
+
+00:32:23.670 --> 00:32:24.260 align:middle line:90%
+of the world.
+
+00:32:24.260 --> 00:32:25.480 align:middle line:84%
+And we're assuming that
+there's the same rate
+
+00:32:25.480 --> 00:32:27.410 align:middle line:84%
+of technological
+progress everywhere.
+
+00:32:27.410 --> 00:32:31.750 align:middle line:84%
+How much of of the difference
+we observe in income per capita
+
+00:32:31.750 --> 00:32:35.080 align:middle line:84%
+across the world can
+be accounted by that?
+
+00:32:35.080 --> 00:32:38.080 align:middle line:84%
+So that was the
+first question, is--
+
+00:32:38.080 --> 00:32:41.500 align:middle line:84%
+well, suppose that
+technology is the same,
+
+00:32:41.500 --> 00:32:45.110 align:middle line:84%
+but we measure all these other
+things-- saving rate, population
+
+00:32:45.110 --> 00:32:48.980 align:middle line:84%
+growth, common rate of
+technological progress,
+
+00:32:48.980 --> 00:32:51.710 align:middle line:84%
+common depreciation across
+the world, and so on.
+
+00:32:51.710 --> 00:32:54.990 align:middle line:84%
+How much can we explain
+of the income disparity?
+
+00:32:54.990 --> 00:32:57.750 align:middle line:84%
+And the conclusion
+is the following.
+
+00:32:57.750 --> 00:33:02.600 align:middle line:84%
+The conclusion of that
+experiment is that--
+
+00:33:02.600 --> 00:33:07.970 align:middle line:84%
+if the only difference
+behind income per capita
+
+00:33:07.970 --> 00:33:11.390 align:middle line:84%
+were years of schooling--
+sorry, a key thing
+
+00:33:11.390 --> 00:33:14.070 align:middle line:84%
+that I forgot to measure
+is years of schooling.
+
+00:33:14.070 --> 00:33:16.830 align:middle line:84%
+So if a country has
+more years of schooling,
+
+00:33:16.830 --> 00:33:19.350 align:middle line:84%
+it will tend to have a higher
+income per capita and so on.
+
+00:33:19.350 --> 00:33:22.580 align:middle line:84%
+So if you try to explain the
+differences in income per capita
+
+00:33:22.580 --> 00:33:24.500 align:middle line:84%
+across the world,
+using variables
+
+00:33:24.500 --> 00:33:27.410 align:middle line:84%
+like years of
+schooling, difference
+
+00:33:27.410 --> 00:33:30.890 align:middle line:84%
+in saving rate, difference in
+population growth, and so on,
+
+00:33:30.890 --> 00:33:34.560 align:middle line:84%
+the world would be a lot more
+egalitarian than it actually is.
+
+00:33:34.560 --> 00:33:37.370 align:middle line:90%
+It would look a lot flatter.
+
+00:33:37.370 --> 00:33:40.160 align:middle line:84%
+So this is how much
+you can account.
+
+00:33:40.160 --> 00:33:43.640 align:middle line:84%
+Here, you put a bunch
+of lots of countries--
+
+00:33:43.640 --> 00:33:45.950 align:middle line:90%
+Africa and so on here.
+
+00:33:45.950 --> 00:33:48.850 align:middle line:84%
+And if you just stick,
+in this equation,
+
+00:33:48.850 --> 00:33:52.900 align:middle line:84%
+the corresponding saving rate,
+education levels, and so on,
+
+00:33:52.900 --> 00:33:54.860 align:middle line:84%
+the world would be
+a lot more similar.
+
+00:33:54.860 --> 00:33:56.860 align:middle line:84%
+There wouldn't be the
+kind of disparities
+
+00:33:56.860 --> 00:34:01.120 align:middle line:84%
+we see between some African
+countries and Singapore, say.
+
+00:34:01.120 --> 00:34:02.390 align:middle line:90%
+We're talking about Singapore.
+
+00:34:02.390 --> 00:34:05.150 align:middle line:84%
+But the world doesn't
+look like that.
+
+00:34:05.150 --> 00:34:06.050 align:middle line:90%
+That's the point.
+
+00:34:06.050 --> 00:34:08.380 align:middle line:84%
+So if you take all
+these things that
+
+00:34:08.380 --> 00:34:11.335 align:middle line:84%
+make a lot of sense--
+education, saving rate, and all
+
+00:34:11.335 --> 00:34:15.639 align:middle line:84%
+that-- you're going to explain
+a small share of the differences
+
+00:34:15.639 --> 00:34:18.190 align:middle line:84%
+in income per capita
+across the world.
+
+00:34:18.190 --> 00:34:18.690 align:middle line:90%
+Sorry.
+
+00:34:18.690 --> 00:34:25.380 align:middle line:84%
+In this plot here, L is
+our N. L, labor, is our N.
+
+00:34:25.380 --> 00:34:28.159 align:middle line:84%
+So this is y over N. Our
+little y in this thing.
+
+00:34:28.159 --> 00:34:31.090 align:middle line:90%
+
+
+00:34:31.090 --> 00:34:32.360 align:middle line:90%
+So we can get so far.
+
+00:34:32.360 --> 00:34:33.530 align:middle line:90%
+We need something else.
+
+00:34:33.530 --> 00:34:38.980 align:middle line:84%
+So what else do we need
+to add to really explain
+
+00:34:38.980 --> 00:34:42.320 align:middle line:90%
+the amount of disparity we have?
+
+00:34:42.320 --> 00:34:47.989 align:middle line:84%
+Well, the answer is,
+again, the Solow residual.
+
+00:34:47.989 --> 00:34:50.550 align:middle line:84%
+It turns out that the
+assumption that As
+
+00:34:50.550 --> 00:34:52.440 align:middle line:90%
+are the same across the world--
+
+00:34:52.440 --> 00:34:54.659 align:middle line:84%
+that the level and
+the rate of growth
+
+00:34:54.659 --> 00:35:00.350 align:middle line:84%
+are the same around the world--
+is just a very bad assumption.
+
+00:35:00.350 --> 00:35:04.620 align:middle line:84%
+The level of technology is very
+different across different parts
+
+00:35:04.620 --> 00:35:05.450 align:middle line:90%
+of the world.
+
+00:35:05.450 --> 00:35:08.280 align:middle line:84%
+So the next step was
+to say, OK, let's
+
+00:35:08.280 --> 00:35:13.780 align:middle line:84%
+measure the difference in
+technologies across the world.
+
+00:35:13.780 --> 00:35:15.800 align:middle line:84%
+And it turns out that
+if you try to explain--
+
+00:35:15.800 --> 00:35:18.430 align:middle line:84%
+so if you go out there and you
+measure the level of technology
+
+00:35:18.430 --> 00:35:19.450 align:middle line:90%
+across the world--
+
+00:35:19.450 --> 00:35:27.490 align:middle line:84%
+different places-- Zimbabwe,
+Singapore, South Korea,
+
+00:35:27.490 --> 00:35:29.230 align:middle line:90%
+and so on and so forth--
+
+00:35:29.230 --> 00:35:33.640 align:middle line:84%
+well-- and then you plot that,
+the level of technology that
+
+00:35:33.640 --> 00:35:38.540 align:middle line:84%
+countries have, vis-a-vis their
+output per capita, per worker--
+
+00:35:38.540 --> 00:35:40.650 align:middle line:90%
+you explain a big share of it.
+
+00:35:40.650 --> 00:35:43.660 align:middle line:84%
+So here is what you
+have-- is the relative A.
+
+00:35:43.660 --> 00:35:45.890 align:middle line:84%
+So everything is
+relative to the US here.
+
+00:35:45.890 --> 00:35:49.150 align:middle line:90%
+So the A that we measure--
+
+00:35:49.150 --> 00:35:50.960 align:middle line:90%
+the level of A that we measure--
+
+00:35:50.960 --> 00:35:54.102 align:middle line:84%
+I don't remember
+which year was this.
+
+00:35:54.102 --> 00:35:55.310 align:middle line:90%
+I don't remember when it was.
+
+00:35:55.310 --> 00:35:58.350 align:middle line:90%
+
+
+00:35:58.350 --> 00:36:00.150 align:middle line:90%
+Doesn't matter.
+
+00:36:00.150 --> 00:36:03.900 align:middle line:84%
+So if you measured the relative
+level of technology in country
+
+00:36:03.900 --> 00:36:07.050 align:middle line:84%
+I, relative to the US,
+and then you measure
+
+00:36:07.050 --> 00:36:09.420 align:middle line:84%
+the relative output per
+capita in that country
+
+00:36:09.420 --> 00:36:10.650 align:middle line:90%
+relative to the US--
+
+00:36:10.650 --> 00:36:12.240 align:middle line:84%
+and forget about
+everything else--
+
+00:36:12.240 --> 00:36:14.020 align:middle line:84%
+education and so
+on and so forth--
+
+00:36:14.020 --> 00:36:18.090 align:middle line:84%
+you can get a pretty good
+relationship between the two.
+
+00:36:18.090 --> 00:36:22.770 align:middle line:84%
+So between one half and 2/3 of
+the difference in output per
+
+00:36:22.770 --> 00:36:26.400 align:middle line:84%
+worker across different
+countries in the world can be
+
+00:36:26.400 --> 00:36:29.700 align:middle line:84%
+attributed to the difference
+in technology level.
+
+00:36:29.700 --> 00:36:33.530 align:middle line:84%
+So that's a conclusion
+that we have.
+
+00:36:33.530 --> 00:36:39.440 align:middle line:84%
+Now, let me revisit this
+issue of convergence.
+
+00:36:39.440 --> 00:36:43.310 align:middle line:84%
+And so what you do is you
+take countries that have,
+
+00:36:43.310 --> 00:36:46.430 align:middle line:84%
+more or less, the
+same A and that
+
+00:36:46.430 --> 00:36:50.810 align:middle line:84%
+have more or less the
+same levels of education.
+
+00:36:50.810 --> 00:36:54.710 align:middle line:84%
+And you look at the path
+of their output per capita.
+
+00:36:54.710 --> 00:36:56.900 align:middle line:84%
+You get that the models we
+have been discussing here
+
+00:36:56.900 --> 00:36:58.780 align:middle line:90%
+work extremely well.
+
+00:36:58.780 --> 00:37:02.910 align:middle line:84%
+So here, you see that they are,
+more or less, growing together.
+
+00:37:02.910 --> 00:37:04.830 align:middle line:84%
+There are wars and
+stuff like that here.
+
+00:37:04.830 --> 00:37:07.920 align:middle line:84%
+So there are great recessions
+and things like that.
+
+00:37:07.920 --> 00:37:13.520 align:middle line:84%
+But on average, you see the
+countries that were behind
+
+00:37:13.520 --> 00:37:15.890 align:middle line:90%
+caught up and so on.
+
+00:37:15.890 --> 00:37:17.460 align:middle line:90%
+Big dispersion here.
+
+00:37:17.460 --> 00:37:19.260 align:middle line:90%
+They were all growing together.
+
+00:37:19.260 --> 00:37:23.210 align:middle line:84%
+And as more time passes, the
+closer they get to each other
+
+00:37:23.210 --> 00:37:24.960 align:middle line:90%
+because they are converging.
+
+00:37:24.960 --> 00:37:28.790 align:middle line:84%
+These guys-- the US and the
+UK were already very close
+
+00:37:28.790 --> 00:37:34.470 align:middle line:84%
+to a steady state, in the 1870s,
+while Japan was way behind.
+
+00:37:34.470 --> 00:37:36.920 align:middle line:84%
+But it was sort of in the
+same class of countries
+
+00:37:36.920 --> 00:37:41.490 align:middle line:84%
+in terms of technology and
+in terms of education levels
+
+00:37:41.490 --> 00:37:43.530 align:middle line:90%
+and so on.
+
+00:37:43.530 --> 00:37:45.960 align:middle line:90%
+So it works pretty well.
+
+00:37:45.960 --> 00:37:49.830 align:middle line:90%
+This is for more countries.
+
+00:37:49.830 --> 00:37:54.190 align:middle line:84%
+And you plot per-capita
+income in 1870--
+
+00:37:54.190 --> 00:37:58.560 align:middle line:84%
+again, for countries that
+have similar As and Ks--
+
+00:37:58.560 --> 00:38:00.072 align:middle line:90%
+A's and h.
+
+00:38:00.072 --> 00:38:01.530 align:middle line:84%
+And you look at
+the rate of growth,
+
+00:38:01.530 --> 00:38:03.280 align:middle line:84%
+and you get exactly
+what you would expect.
+
+00:38:03.280 --> 00:38:06.450 align:middle line:84%
+Countries that were
+further behind caught up.
+
+00:38:06.450 --> 00:38:07.210 align:middle line:90%
+That's Japan.
+
+00:38:07.210 --> 00:38:08.490 align:middle line:90%
+Very fast rate of growth.
+
+00:38:08.490 --> 00:38:10.920 align:middle line:84%
+And you get this very
+negative relationship.
+
+00:38:10.920 --> 00:38:12.690 align:middle line:84%
+So this is the
+convergence model.
+
+00:38:12.690 --> 00:38:16.890 align:middle line:84%
+It works extremely well,
+conditional on having the same A
+
+00:38:16.890 --> 00:38:17.490 align:middle line:90%
+and h.
+
+00:38:17.490 --> 00:38:19.710 align:middle line:84%
+So that's the contribution
+of this lecture.
+
+00:38:19.710 --> 00:38:21.720 align:middle line:84%
+I already told you that
+this convergence model
+
+00:38:21.720 --> 00:38:23.720 align:middle line:90%
+works quite well.
+
+00:38:23.720 --> 00:38:26.930 align:middle line:84%
+The point is now that
+it works very well.
+
+00:38:26.930 --> 00:38:28.670 align:middle line:90%
+And I had told you early on--
+
+00:38:28.670 --> 00:38:30.530 align:middle line:84%
+I think in the first
+lecture on growth--
+
+00:38:30.530 --> 00:38:33.160 align:middle line:84%
+that this worked very well for
+certain kinds of countries.
+
+00:38:33.160 --> 00:38:34.910 align:middle line:84%
+But then when we put
+all of them together,
+
+00:38:34.910 --> 00:38:36.910 align:middle line:84%
+there were some countries
+that were clearly off.
+
+00:38:36.910 --> 00:38:38.540 align:middle line:84%
+And they were mostly
+in Africa, but you
+
+00:38:38.540 --> 00:38:41.570 align:middle line:84%
+had countries that had
+low per capita income
+
+00:38:41.570 --> 00:38:45.620 align:middle line:84%
+and they grew very little during
+that-- the sample I showed you.
+
+00:38:45.620 --> 00:38:47.603 align:middle line:90%
+So here, I'm refining that.
+
+00:38:47.603 --> 00:38:50.270 align:middle line:84%
+I'm saying, OK, now I'm going to
+tell you a little bit more what
+
+00:38:50.270 --> 00:38:53.010 align:middle line:84%
+I mean by countries
+being similar.
+
+00:38:53.010 --> 00:38:57.060 align:middle line:84%
+And what I mean here is that
+they have similar A and h.
+
+00:38:57.060 --> 00:39:01.130 align:middle line:84%
+So when I look at countries
+that have similar A and h,
+
+00:39:01.130 --> 00:39:04.830 align:middle line:84%
+the models we have discussed
+work extremely well.
+
+00:39:04.830 --> 00:39:06.790 align:middle line:84%
+This is over a short
+period of time,
+
+00:39:06.790 --> 00:39:09.040 align:middle line:84%
+so you have more fluctuations
+and more countries.
+
+00:39:09.040 --> 00:39:13.110 align:middle line:84%
+But still-- you can argue that
+Mexico and Chile probably do not
+
+00:39:13.110 --> 00:39:15.240 align:middle line:84%
+belong with many of
+these other countries,
+
+00:39:15.240 --> 00:39:17.520 align:middle line:84%
+but you still get this
+negative relationship.
+
+00:39:17.520 --> 00:39:19.960 align:middle line:90%
+It's quite clear.
+
+00:39:19.960 --> 00:39:22.465 align:middle line:84%
+Now, if you don't
+control by A and h
+
+00:39:22.465 --> 00:39:24.310 align:middle line:84%
+and you put everything
+together, then
+
+00:39:24.310 --> 00:39:27.910 align:middle line:84%
+the plot looks like the
+plot I showed you earlier.
+
+00:39:27.910 --> 00:39:33.450 align:middle line:84%
+So if I control by A and h,
+the models work very well.
+
+00:39:33.450 --> 00:39:36.970 align:middle line:84%
+If I don't control for
+A and h, then the models
+
+00:39:36.970 --> 00:39:40.832 align:middle line:90%
+do not look that nice.
+
+00:39:40.832 --> 00:39:42.780 align:middle line:84%
+So this led to a
+literature, which
+
+00:39:42.780 --> 00:39:46.020 align:middle line:84%
+is called the conditional
+convergence literature.
+
+00:39:46.020 --> 00:39:49.080 align:middle line:84%
+And the idea-- it's
+almost accounting,
+
+00:39:49.080 --> 00:39:50.730 align:middle line:90%
+but the idea is the following.
+
+00:39:50.730 --> 00:39:53.310 align:middle line:90%
+So the question that--
+
+00:39:53.310 --> 00:39:55.830 align:middle line:84%
+what's behind this literature
+is, well, why is it
+
+00:39:55.830 --> 00:39:58.660 align:middle line:90%
+that we have some countries--
+
+00:39:58.660 --> 00:40:04.060 align:middle line:84%
+say, here-- that have a
+very low income per capita
+
+00:40:04.060 --> 00:40:05.480 align:middle line:90%
+and grow very slowly?
+
+00:40:05.480 --> 00:40:06.430 align:middle line:90%
+That's the puzzle.
+
+00:40:06.430 --> 00:40:09.730 align:middle line:84%
+How can it happen
+that we have that?
+
+00:40:09.730 --> 00:40:14.380 align:middle line:84%
+And the story-- but again,
+it's more accounting than
+
+00:40:14.380 --> 00:40:16.060 align:middle line:90%
+an explanation, in my view--
+
+00:40:16.060 --> 00:40:19.140 align:middle line:84%
+is what is called
+conditional convergence.
+
+00:40:19.140 --> 00:40:21.490 align:middle line:90%
+It says for some reason--
+
+00:40:21.490 --> 00:40:23.650 align:middle line:84%
+probably it has to
+be explained in terms
+
+00:40:23.650 --> 00:40:28.330 align:middle line:84%
+of institutions, political
+instability, or whatever.
+
+00:40:28.330 --> 00:40:32.740 align:middle line:84%
+For some reason, some countries
+have just lower steady state
+
+00:40:32.740 --> 00:40:35.680 align:middle line:84%
+levels of technology, lower
+steady states because they
+
+00:40:35.680 --> 00:40:37.180 align:middle line:84%
+have lower technologies,
+and they're
+
+00:40:37.180 --> 00:40:39.350 align:middle line:84%
+stuck with lower
+technologies and so on.
+
+00:40:39.350 --> 00:40:43.750 align:middle line:90%
+
+
+00:40:43.750 --> 00:40:45.520 align:middle line:84%
+So what this literature
+does-- it says,
+
+00:40:45.520 --> 00:40:48.610 align:middle line:84%
+OK, let's compute
+the steady state.
+
+00:40:48.610 --> 00:40:51.130 align:middle line:84%
+So let's accept that
+some countries will
+
+00:40:51.130 --> 00:40:53.300 align:middle line:90%
+have lower level of technology.
+
+00:40:53.300 --> 00:40:54.335 align:middle line:90%
+That's what it is.
+
+00:40:54.335 --> 00:40:56.210 align:middle line:84%
+Maybe at some point,
+they'll flip from there.
+
+00:40:56.210 --> 00:40:59.163 align:middle line:84%
+But they have been,
+for a long time,
+
+00:40:59.163 --> 00:41:03.250 align:middle line:84%
+in the stack that let's assume
+that they have a different level
+
+00:41:03.250 --> 00:41:04.240 align:middle line:90%
+of technology.
+
+00:41:04.240 --> 00:41:07.570 align:middle line:84%
+So that means-- let's
+compute, for each country,
+
+00:41:07.570 --> 00:41:10.990 align:middle line:84%
+its steady state,
+its own steady state,
+
+00:41:10.990 --> 00:41:14.570 align:middle line:84%
+using its own technology and
+its own level of education.
+
+00:41:14.570 --> 00:41:18.190 align:middle line:90%
+
+
+00:41:18.190 --> 00:41:23.110 align:middle line:84%
+So in particular, in this
+plot, I'm going to show you-
+
+00:41:23.110 --> 00:41:24.340 align:middle line:90%
+take the values--
+
+00:41:24.340 --> 00:41:28.080 align:middle line:90%
+the value of A for 1970.
+
+00:41:28.080 --> 00:41:30.000 align:middle line:84%
+That's the plot I'm
+going to show you.
+
+00:41:30.000 --> 00:41:32.770 align:middle line:84%
+The value that each
+country has in 1970.
+
+00:41:32.770 --> 00:41:36.360 align:middle line:84%
+Compute the steady state
+level of output corresponding
+
+00:41:36.360 --> 00:41:43.170 align:middle line:84%
+to that A. A-- and over time, it
+will be growing at gA, whatever.
+
+00:41:43.170 --> 00:41:46.430 align:middle line:90%
+But take the A of 1970.
+
+00:41:46.430 --> 00:41:49.960 align:middle line:84%
+Compute the steady
+state value of that.
+
+00:41:49.960 --> 00:41:53.270 align:middle line:84%
+Compare it with the
+current output over that.
+
+00:41:53.270 --> 00:41:54.910 align:middle line:84%
+If the current
+output is below that,
+
+00:41:54.910 --> 00:41:56.650 align:middle line:84%
+that means that
+this country still
+
+00:41:56.650 --> 00:41:58.570 align:middle line:84%
+needs to catch up--
+not with respect
+
+00:41:58.570 --> 00:42:00.820 align:middle line:84%
+to some universal steady
+state, but with respect
+
+00:42:00.820 --> 00:42:03.250 align:middle line:84%
+to its own steady state,
+with its lower technology
+
+00:42:03.250 --> 00:42:04.480 align:middle line:90%
+and whatever.
+
+00:42:04.480 --> 00:42:09.380 align:middle line:84%
+And then look at whether
+we see convergence or not.
+
+00:42:09.380 --> 00:42:14.200 align:middle line:84%
+And the answer is that you start
+recovering this downward sloping
+
+00:42:14.200 --> 00:42:14.860 align:middle line:90%
+curve.
+
+00:42:14.860 --> 00:42:16.150 align:middle line:90%
+So what does this say?
+
+00:42:16.150 --> 00:42:18.140 align:middle line:84%
+What is the big
+story telling us?
+
+00:42:18.140 --> 00:42:20.500 align:middle line:84%
+It's saying, look,
+some countries,
+
+00:42:20.500 --> 00:42:24.340 align:middle line:84%
+for reasons that are
+beyond this model,
+
+00:42:24.340 --> 00:42:28.690 align:middle line:84%
+just simply have much
+lower steady state.
+
+00:42:28.690 --> 00:42:29.320 align:middle line:90%
+Yep.
+
+00:42:29.320 --> 00:42:30.560 align:middle line:90%
+They have lower technologies.
+
+00:42:30.560 --> 00:42:33.400 align:middle line:84%
+They don't know how to use
+more complicated technology.
+
+00:42:33.400 --> 00:42:35.020 align:middle line:90%
+I don't know.
+
+00:42:35.020 --> 00:42:36.260 align:middle line:90%
+But that's what it is.
+
+00:42:36.260 --> 00:42:37.900 align:middle line:90%
+They have lower technologies.
+
+00:42:37.900 --> 00:42:40.180 align:middle line:84%
+And so they have their
+own steady states,
+
+00:42:40.180 --> 00:42:43.330 align:middle line:84%
+which can be steady states
+with very low levels of income
+
+00:42:43.330 --> 00:42:44.910 align:middle line:90%
+per capita.
+
+00:42:44.910 --> 00:42:48.340 align:middle line:84%
+Now, for those countries,
+it still applies--
+
+00:42:48.340 --> 00:42:50.070 align:middle line:84%
+and that's what
+this picture shows--
+
+00:42:50.070 --> 00:42:53.730 align:middle line:84%
+that if they are not
+at their steady state,
+
+00:42:53.730 --> 00:42:57.750 align:middle line:84%
+they still have lower
+capital per effective worker
+
+00:42:57.750 --> 00:42:59.880 align:middle line:84%
+than they need to have
+in their steady state--
+
+00:42:59.880 --> 00:43:02.730 align:middle line:84%
+that they will have
+transitional growth.
+
+00:43:02.730 --> 00:43:06.260 align:middle line:84%
+So they will grow
+faster than their growth
+
+00:43:06.260 --> 00:43:10.500 align:middle line:90%
+in their own steady state.
+
+00:43:10.500 --> 00:43:12.630 align:middle line:84%
+And that's what
+this picture shows.
+
+00:43:12.630 --> 00:43:15.360 align:middle line:84%
+These are countries
+that grew very little.
+
+00:43:15.360 --> 00:43:17.685 align:middle line:84%
+Look, we have Japan here
+together with Botswana.
+
+00:43:17.685 --> 00:43:21.100 align:middle line:90%
+
+
+00:43:21.100 --> 00:43:25.040 align:middle line:84%
+And maybe they won
+in the same place.
+
+00:43:25.040 --> 00:43:27.820 align:middle line:84%
+So these are countries that
+still had lots of growth to do,
+
+00:43:27.820 --> 00:43:30.190 align:middle line:84%
+relative to their
+own steady state.
+
+00:43:30.190 --> 00:43:32.228 align:middle line:90%
+And they did grow a lot.
+
+00:43:32.228 --> 00:43:33.020 align:middle line:90%
+How do I know that?
+
+00:43:33.020 --> 00:43:35.620 align:middle line:84%
+Well, because the
+output I compute--
+
+00:43:35.620 --> 00:43:37.870 align:middle line:84%
+the output I compute,
+relative to the steady state
+
+00:43:37.870 --> 00:43:41.330 align:middle line:84%
+at the beginning of my
+sample, was much lower than 1.
+
+00:43:41.330 --> 00:43:45.450 align:middle line:84%
+That means that you're
+not at your steady state.
+
+00:43:45.450 --> 00:43:48.570 align:middle line:84%
+So this variable
+here is the output
+
+00:43:48.570 --> 00:43:52.260 align:middle line:84%
+you have at the beginning of
+the sample, relative to what
+
+00:43:52.260 --> 00:43:53.520 align:middle line:90%
+the steady state--
+
+00:43:53.520 --> 00:43:55.560 align:middle line:90%
+your steady state is.
+
+00:43:55.560 --> 00:43:57.060 align:middle line:84%
+How do you compute
+the steady state?
+
+00:43:57.060 --> 00:43:59.310 align:middle line:84%
+Well, you input the
+level of technology.
+
+00:43:59.310 --> 00:44:00.510 align:middle line:90%
+You input the saving rate.
+
+00:44:00.510 --> 00:44:03.400 align:middle line:84%
+You input the population growth
+and all those kind of things.
+
+00:44:03.400 --> 00:44:05.120 align:middle line:84%
+So you have a
+number lower than 1.
+
+00:44:05.120 --> 00:44:06.870 align:middle line:84%
+It means you still
+have catching up growth
+
+00:44:06.870 --> 00:44:11.250 align:middle line:84%
+to do, not with respect to the
+global universal steady state,
+
+00:44:11.250 --> 00:44:13.480 align:middle line:84%
+but with respect to
+your own steady state.
+
+00:44:13.480 --> 00:44:16.620 align:middle line:84%
+And when you do that, you
+see that some countries that
+
+00:44:16.620 --> 00:44:20.010 align:middle line:84%
+are in the total sample looked
+like they are not growing and so
+
+00:44:20.010 --> 00:44:20.680 align:middle line:90%
+on and so forth.
+
+00:44:20.680 --> 00:44:21.550 align:middle line:90%
+They are growing.
+
+00:44:21.550 --> 00:44:25.590 align:middle line:84%
+They are just growing relative
+to their own steady state, which
+
+00:44:25.590 --> 00:44:28.170 align:middle line:84%
+has little growth, and it
+has low levels of technology
+
+00:44:28.170 --> 00:44:29.640 align:middle line:90%
+and so on.
+
+00:44:29.640 --> 00:44:34.290 align:middle line:84%
+And so that's the conclusion
+of this conditional convergence
+
+00:44:34.290 --> 00:44:35.430 align:middle line:90%
+literature.
+
+00:44:35.430 --> 00:44:40.560 align:middle line:84%
+Now, it turns out that the world
+has become very unequal, also,
+
+00:44:40.560 --> 00:44:42.910 align:middle line:90%
+along this dimension over time.
+
+00:44:42.910 --> 00:44:47.650 align:middle line:84%
+This shows you the ratio of
+GDP per worker of the 90th
+
+00:44:47.650 --> 00:44:50.060 align:middle line:84%
+percentile to the 10th
+percentile country.
+
+00:44:50.060 --> 00:44:52.240 align:middle line:84%
+And so you have not
+only big differences
+
+00:44:52.240 --> 00:44:53.800 align:middle line:90%
+in technology across the world.
+
+00:44:53.800 --> 00:44:56.020 align:middle line:84%
+But also, you have
+very different rates
+
+00:44:56.020 --> 00:44:58.750 align:middle line:84%
+of growth in technology
+across different countries
+
+00:44:58.750 --> 00:44:59.540 align:middle line:90%
+in the world.
+
+00:44:59.540 --> 00:45:05.216 align:middle line:84%
+So this difference is sort of
+increasing quite dramatically.
+
+00:45:05.216 --> 00:45:06.615 align:middle line:90%
+I don't know what happened here.
+
+00:45:06.615 --> 00:45:13.040 align:middle line:90%
+[LAUGHS] These are the same.
+
+00:45:13.040 --> 00:45:16.480 align:middle line:84%
+So the world started with
+countries-- this is telling you
+
+00:45:16.480 --> 00:45:19.720 align:middle line:84%
+it started with countries
+that were richer than others,
+
+00:45:19.720 --> 00:45:25.610 align:middle line:84%
+and that distance has
+been rising over time that
+
+00:45:25.610 --> 00:45:27.380 align:middle line:84%
+towards the end, we
+began to change here.
+
+00:45:27.380 --> 00:45:30.040 align:middle line:90%
+
+
+00:45:30.040 --> 00:45:32.655 align:middle line:84%
+I think that has a
+lot to do with China.
+
+00:45:32.655 --> 00:45:34.030 align:middle line:84%
+That was a poor
+economy that grew
+
+00:45:34.030 --> 00:45:36.112 align:middle line:90%
+very fast during that period.
+
+00:45:36.112 --> 00:45:38.570 align:middle line:84%
+And it wasn't very large here,
+so it didn't matter as much.
+
+00:45:38.570 --> 00:45:40.450 align:middle line:84%
+But then it began
+to count a lot.
+
+00:45:40.450 --> 00:45:41.410 align:middle line:90%
+I think.
+
+00:45:41.410 --> 00:45:42.430 align:middle line:90%
+I'm not completely sure.
+
+00:45:42.430 --> 00:45:43.390 align:middle line:90%
+That's it.
+
+00:45:43.390 --> 00:45:47.260 align:middle line:84%
+Anyways-- but that's the
+state of knowledge in this--
+
+00:45:47.260 --> 00:45:51.970 align:middle line:84%
+obviously, there's a big
+literature around all of this,
+
+00:45:51.970 --> 00:45:54.680 align:middle line:84%
+and very complex,
+even, literature.
+
+00:45:54.680 --> 00:45:58.360 align:middle line:84%
+But there is-- we
+understand-- we
+
+00:45:58.360 --> 00:46:04.420 align:middle line:84%
+know that we have good
+ways of explaining
+
+00:46:04.420 --> 00:46:08.800 align:middle line:84%
+how a country converges
+to its own steady state,
+
+00:46:08.800 --> 00:46:12.850 align:middle line:84%
+that we have very poor models,
+certainly, within economics.
+
+00:46:12.850 --> 00:46:15.970 align:middle line:90%
+
+
+00:46:15.970 --> 00:46:19.430 align:middle line:84%
+Or within growth
+theory, per se, there
+
+00:46:19.430 --> 00:46:22.730 align:middle line:84%
+is little institutions and stuff
+like that explain some of that.
+
+00:46:22.730 --> 00:46:25.420 align:middle line:84%
+But we have very poor
+models, in general,
+
+00:46:25.420 --> 00:46:31.930 align:middle line:84%
+to understand what gives rise to
+this big disparity in technology
+
+00:46:31.930 --> 00:46:34.810 align:middle line:90%
+adoption and so on.
+
+00:46:34.810 --> 00:46:39.360 align:middle line:84%
+So that's all that I
+want to say about growth.
+
+00:46:39.360 --> 00:46:41.847 align:middle line:84%
+The next topic is we're
+going to open the economy.
+
+00:46:41.847 --> 00:46:43.680 align:middle line:84%
+We're going to go back
+to the type of models
+
+00:46:43.680 --> 00:46:48.620 align:middle line:84%
+we had very early on, but now in
+the context of an open economy.
+
+00:46:48.620 --> 00:47:01.000 align:middle line:90%

@@ -1,0 +1,3326 @@
+WEBVTT
+
+00:00:00.000 --> 00:00:01.956 align:middle line:90%
+[SQUEAKING]
+
+00:00:01.956 --> 00:00:03.912 align:middle line:90%
+[RUSTLING]
+
+00:00:03.912 --> 00:00:06.846 align:middle line:90%
+[CLICKING]
+
+00:00:06.846 --> 00:00:16.362 align:middle line:90%
+
+
+00:00:16.362 --> 00:00:18.070 align:middle line:84%
+RICARDO J. CABALLERO:
+I expect that there
+
+00:00:18.070 --> 00:00:20.380 align:middle line:84%
+will be many fun
+lectures in the sense
+
+00:00:20.380 --> 00:00:24.010 align:middle line:84%
+that we're going to be
+discussing a little more exactly
+
+00:00:24.010 --> 00:00:26.770 align:middle line:84%
+at the right time in
+which that issue is
+
+00:00:26.770 --> 00:00:31.250 align:middle line:84%
+an important issue, at least
+as described in the newspapers.
+
+00:00:31.250 --> 00:00:34.930 align:middle line:84%
+And, you know, we are going
+through a very interesting time
+
+00:00:34.930 --> 00:00:36.310 align:middle line:90%
+for macroeconomics.
+
+00:00:36.310 --> 00:00:38.210 align:middle line:90%
+Inflation is unusually high.
+
+00:00:38.210 --> 00:00:41.290 align:middle line:84%
+Something needs to
+be done about that.
+
+00:00:41.290 --> 00:00:44.980 align:middle line:84%
+And we still have problems
+on the supply side
+
+00:00:44.980 --> 00:00:48.040 align:middle line:84%
+of the economy as
+a result of COVID,
+
+00:00:48.040 --> 00:00:51.370 align:middle line:84%
+as a result of the slow
+reopening of China.
+
+00:00:51.370 --> 00:00:53.890 align:middle line:84%
+And we have a war
+going on, which
+
+00:00:53.890 --> 00:00:56.440 align:middle line:84%
+is affecting also
+the price of energy,
+
+00:00:56.440 --> 00:00:59.270 align:middle line:84%
+and is particularly
+impacting Europe.
+
+00:00:59.270 --> 00:01:02.420 align:middle line:84%
+And all these things, the
+situation is very fluid.
+
+00:01:02.420 --> 00:01:05.090 align:middle line:84%
+All of them can
+change at any moment.
+
+00:01:05.090 --> 00:01:10.360 align:middle line:84%
+And policymakers are, therefore,
+paying very close attention
+
+00:01:10.360 --> 00:01:11.600 align:middle line:90%
+to all these things.
+
+00:01:11.600 --> 00:01:12.850 align:middle line:90%
+It's not a normal time.
+
+00:01:12.850 --> 00:01:19.280 align:middle line:84%
+If you're a policymaker,
+macroeconomist policymaker,
+
+00:01:19.280 --> 00:01:21.840 align:middle line:84%
+you are not sleeping
+a lot these days.
+
+00:01:21.840 --> 00:01:25.010 align:middle line:84%
+And so I expect that we
+will have plenty of time
+
+00:01:25.010 --> 00:01:30.590 align:middle line:84%
+to discuss interesting
+things and analyze them
+
+00:01:30.590 --> 00:01:33.740 align:middle line:84%
+at a slightly higher level
+than you can do at this moment.
+
+00:01:33.740 --> 00:01:37.460 align:middle line:84%
+Now, I also told you
+in the introduction
+
+00:01:37.460 --> 00:01:44.960 align:middle line:84%
+that this particular lecture is
+not going to be of that kind.
+
+00:01:44.960 --> 00:01:47.480 align:middle line:84%
+It's going to be very
+boring in the sense
+
+00:01:47.480 --> 00:01:49.560 align:middle line:84%
+that we need to start
+with definitions.
+
+00:01:49.560 --> 00:01:51.570 align:middle line:84%
+And I don't know, who
+likes definitions?
+
+00:01:51.570 --> 00:01:52.130 align:middle line:90%
+I don't.
+
+00:01:52.130 --> 00:01:53.480 align:middle line:90%
+It's very boring.
+
+00:01:53.480 --> 00:01:57.230 align:middle line:84%
+Now, there is an
+interesting, a curious side
+
+00:01:57.230 --> 00:01:59.630 align:middle line:84%
+of the definitions
+we're going to discuss,
+
+00:01:59.630 --> 00:02:04.067 align:middle line:84%
+which is that if you were
+taking 1401, microeconomics,
+
+00:02:04.067 --> 00:02:05.900 align:middle line:84%
+many of the concepts
+we're going to describe
+
+00:02:05.900 --> 00:02:07.260 align:middle line:90%
+require no definition.
+
+00:02:07.260 --> 00:02:07.950 align:middle line:90%
+They're obvious.
+
+00:02:07.950 --> 00:02:11.750 align:middle line:84%
+I mean, if I ask for an output
+of a factory that produces cars,
+
+00:02:11.750 --> 00:02:14.040 align:middle line:84%
+it's pretty obvious that
+it's a number of cars.
+
+00:02:14.040 --> 00:02:16.490 align:middle line:84%
+If I ask you for the
+prices of those cars,
+
+00:02:16.490 --> 00:02:19.470 align:middle line:84%
+it's pretty obvious what
+the price of a car is.
+
+00:02:19.470 --> 00:02:21.630 align:middle line:84%
+Not so for macro,
+because if I ask you
+
+00:02:21.630 --> 00:02:24.750 align:middle line:84%
+what is the output of
+the US economy, well,
+
+00:02:24.750 --> 00:02:26.620 align:middle line:84%
+there's millions of
+goods and services
+
+00:02:26.620 --> 00:02:27.970 align:middle line:90%
+are produced at the same time.
+
+00:02:27.970 --> 00:02:31.950 align:middle line:84%
+So what do we mean by output,
+a single measure of output?
+
+00:02:31.950 --> 00:02:34.800 align:middle line:84%
+Or if I ask you about the
+price level or the inflation,
+
+00:02:34.800 --> 00:02:37.380 align:middle line:84%
+the rate at which that
+price level is changing.
+
+00:02:37.380 --> 00:02:38.740 align:middle line:90%
+Well, what are we talking about?
+
+00:02:38.740 --> 00:02:41.350 align:middle line:84%
+It's very easy to see whether
+the price of a car is going up.
+
+00:02:41.350 --> 00:02:44.880 align:middle line:84%
+But if we're mixing sort of
+millions of different goods
+
+00:02:44.880 --> 00:02:47.948 align:middle line:84%
+and services, then
+it's a little harder.
+
+00:02:47.948 --> 00:02:49.740 align:middle line:84%
+And that's the reason
+we need this lecture,
+
+00:02:49.740 --> 00:02:51.870 align:middle line:84%
+because it's a little
+harder than 1401
+
+00:02:51.870 --> 00:02:54.100 align:middle line:84%
+and we need to
+define basic things.
+
+00:02:54.100 --> 00:02:55.920 align:middle line:84%
+But they have a
+trick because you're
+
+00:02:55.920 --> 00:02:57.540 align:middle line:90%
+summing apples and oranges--
+
+00:02:57.540 --> 00:03:00.600 align:middle line:84%
+not only apples and
+oranges, apples, oranges,
+
+00:03:00.600 --> 00:03:02.550 align:middle line:84%
+health services,
+financial services,
+
+00:03:02.550 --> 00:03:04.960 align:middle line:90%
+all of them in one piece.
+
+00:03:04.960 --> 00:03:06.880 align:middle line:90%
+And so it's a little trickier.
+
+00:03:06.880 --> 00:03:09.190 align:middle line:84%
+And that's the reason we
+need this boring lecture.
+
+00:03:09.190 --> 00:03:14.160 align:middle line:84%
+We need to go through that
+slightly trickier definition
+
+00:03:14.160 --> 00:03:16.840 align:middle line:90%
+of output prices and so on.
+
+00:03:16.840 --> 00:03:22.540 align:middle line:90%
+
+
+00:03:22.540 --> 00:03:26.140 align:middle line:84%
+So let me start with
+the most basic thing--
+
+00:03:26.140 --> 00:03:27.230 align:middle line:90%
+aggregate output.
+
+00:03:27.230 --> 00:03:29.860 align:middle line:84%
+At the end of the day when
+the economy is in a recession
+
+00:03:29.860 --> 00:03:32.980 align:middle line:84%
+or not, and so we don't
+like it or we do like,
+
+00:03:32.980 --> 00:03:35.630 align:middle line:84%
+it depends on what is
+happening to output.
+
+00:03:35.630 --> 00:03:38.290 align:middle line:84%
+Is output growing at the
+pace it used to grow?
+
+00:03:38.290 --> 00:03:40.670 align:middle line:84%
+Or is it growing less
+or it's declining?
+
+00:03:40.670 --> 00:03:43.780 align:middle line:84%
+Well, that's very
+important for macro
+
+00:03:43.780 --> 00:03:45.670 align:middle line:84%
+and to understand the
+health of an economy,
+
+00:03:45.670 --> 00:03:47.570 align:middle line:84%
+the macroeconomic
+health of an economy.
+
+00:03:47.570 --> 00:03:52.090 align:middle line:84%
+But we need to start by
+defining what we mean by output.
+
+00:03:52.090 --> 00:03:55.150 align:middle line:84%
+And because it's a
+tricky thing to do
+
+00:03:55.150 --> 00:03:57.520 align:middle line:84%
+when you're adding so
+many apples, oranges,
+
+00:03:57.520 --> 00:04:00.670 align:middle line:84%
+financial services,
+entertainment,
+
+00:04:00.670 --> 00:04:04.960 align:middle line:84%
+and lots of things that
+are very different,
+
+00:04:04.960 --> 00:04:07.570 align:middle line:84%
+we didn't have a good
+way of doing that.
+
+00:04:07.570 --> 00:04:10.870 align:middle line:84%
+In fact, the National accounts
+as we know them in the US is
+
+00:04:10.870 --> 00:04:14.530 align:middle line:84%
+something that we have since
+the post-war period in the late
+
+00:04:14.530 --> 00:04:17.800 align:middle line:84%
+'40s that we developed the
+techniques, the approach,
+
+00:04:17.800 --> 00:04:20.190 align:middle line:84%
+to come up with a measure
+of aggregate output.
+
+00:04:20.190 --> 00:04:23.680 align:middle line:84%
+Before that, we had
+measures, proxies.
+
+00:04:23.680 --> 00:04:25.450 align:middle line:84%
+Industrial production
+is very high,
+
+00:04:25.450 --> 00:04:28.090 align:middle line:84%
+meaning we're producing lots
+of cars, stuff like that.
+
+00:04:28.090 --> 00:04:31.360 align:middle line:84%
+But something systematic
+like we have today
+
+00:04:31.360 --> 00:04:34.660 align:middle line:90%
+is a pretty recent thing.
+
+00:04:34.660 --> 00:04:36.340 align:middle line:90%
+OK we call that NIPA--
+
+00:04:36.340 --> 00:04:39.970 align:middle line:84%
+the National Income
+and Product Account.
+
+00:04:39.970 --> 00:04:42.160 align:middle line:84%
+Income and product--
+that's going
+
+00:04:42.160 --> 00:04:46.720 align:middle line:84%
+to be very important for macro,
+as you'll see in a minute.
+
+00:04:46.720 --> 00:04:48.910 align:middle line:84%
+So the main measure
+of aggregate output
+
+00:04:48.910 --> 00:04:53.390 align:middle line:84%
+is what we call gross domestic
+product, or simply, GDP.
+
+00:04:53.390 --> 00:04:56.740 align:middle line:84%
+You hear GDP, that means
+output of an economy.
+
+00:04:56.740 --> 00:04:58.670 align:middle line:90%
+Why is gross and not net?
+
+00:04:58.670 --> 00:05:01.180 align:middle line:84%
+You're not going to worry
+about that in this course.
+
+00:05:01.180 --> 00:05:01.790 align:middle line:90%
+But that's it.
+
+00:05:01.790 --> 00:05:06.560 align:middle line:84%
+You hear GDP, most macroeconomic
+wouldn't say output.
+
+00:05:06.560 --> 00:05:07.420 align:middle line:90%
+They would say GDP.
+
+00:05:07.420 --> 00:05:08.230 align:middle line:90%
+It's very short.
+
+00:05:08.230 --> 00:05:09.830 align:middle line:90%
+It's efficient, and so on.
+
+00:05:09.830 --> 00:05:12.340 align:middle line:84%
+Well, that's what it means,
+is the output of an economy.
+
+00:05:12.340 --> 00:05:14.060 align:middle line:90%
+But how do we define It?
+
+00:05:14.060 --> 00:05:15.730 align:middle line:84%
+As I said before,
+it's much harder
+
+00:05:15.730 --> 00:05:18.340 align:middle line:84%
+than when you have
+an individual good.
+
+00:05:18.340 --> 00:05:23.620 align:middle line:84%
+By the way, I will be, most
+of the time, I will say goods.
+
+00:05:23.620 --> 00:05:26.590 align:middle line:84%
+But really it's
+goods and services.
+
+00:05:26.590 --> 00:05:29.680 align:middle line:84%
+But it's very long to
+say goods and services.
+
+00:05:29.680 --> 00:05:33.655 align:middle line:84%
+So whenever I say goods, I'm not
+trying to play any trick on you.
+
+00:05:33.655 --> 00:05:35.030 align:middle line:84%
+I really mean
+goods and services.
+
+00:05:35.030 --> 00:05:36.350 align:middle line:90%
+I just be lazy.
+
+00:05:36.350 --> 00:05:39.650 align:middle line:84%
+And most people
+are lazy that way.
+
+00:05:39.650 --> 00:05:41.960 align:middle line:84%
+Now, what is the difference
+between goods and services?
+
+00:05:41.960 --> 00:05:44.440 align:middle line:84%
+You're not going to worry
+a lot about that in this.
+
+00:05:44.440 --> 00:05:47.480 align:middle line:84%
+You're not going to worry at
+all about that in this course.
+
+00:05:47.480 --> 00:05:51.730 align:middle line:84%
+But just to get a sense, goods
+are things that are tangible.
+
+00:05:51.730 --> 00:05:54.820 align:middle line:84%
+Services are things that
+are not that tangible.
+
+00:05:54.820 --> 00:05:56.980 align:middle line:84%
+They're benefits that you
+receive from the tasks
+
+00:05:56.980 --> 00:05:58.550 align:middle line:84%
+that someone else
+operates on you.
+
+00:05:58.550 --> 00:06:02.900 align:middle line:90%
+So you go to the Medical Center.
+
+00:06:02.900 --> 00:06:05.680 align:middle line:84%
+You don't come up with a
+piece of a machine to--
+
+00:06:05.680 --> 00:06:07.450 align:middle line:84%
+well, they may
+lend you something.
+
+00:06:07.450 --> 00:06:10.970 align:middle line:84%
+But you don't come
+out with an objective.
+
+00:06:10.970 --> 00:06:14.420 align:middle line:84%
+You come out with a service
+provided by a doctor to you.
+
+00:06:14.420 --> 00:06:17.070 align:middle line:84%
+And the same happens
+if you go to a bank.
+
+00:06:17.070 --> 00:06:19.820 align:middle line:84%
+You don't come with
+an ATM with you.
+
+00:06:19.820 --> 00:06:21.320 align:middle line:84%
+But you come up
+with is the service
+
+00:06:21.320 --> 00:06:23.720 align:middle line:84%
+of having done a
+transaction or deposit
+
+00:06:23.720 --> 00:06:25.980 align:middle line:84%
+or gotten a mortgage
+or something like that.
+
+00:06:25.980 --> 00:06:27.000 align:middle line:90%
+It's a service.
+
+00:06:27.000 --> 00:06:30.760 align:middle line:84%
+If you go to a restaurant,
+again, you don't--
+
+00:06:30.760 --> 00:06:33.180 align:middle line:90%
+what you have is an experience.
+
+00:06:33.180 --> 00:06:36.480 align:middle line:84%
+It's people provided
+an experience to you.
+
+00:06:36.480 --> 00:06:38.930 align:middle line:84%
+Things are a little tricky
+because if you do a take out,
+
+00:06:38.930 --> 00:06:42.240 align:middle line:84%
+well, it's not an experience,
+or it's really the good.
+
+00:06:42.240 --> 00:06:45.470 align:middle line:84%
+So, if you get into those
+details, which we're not going
+
+00:06:45.470 --> 00:06:47.100 align:middle line:90%
+to get, it gets to be tricky.
+
+00:06:47.100 --> 00:06:53.830 align:middle line:84%
+But just to get a sense, on
+average, a consumer in the US,
+
+00:06:53.830 --> 00:06:58.240 align:middle line:84%
+2/3 of the consumption is
+in services, not in goods.
+
+00:06:58.240 --> 00:07:00.680 align:middle line:84%
+It's not the bananas
+and so on that you buy.
+
+00:07:00.680 --> 00:07:03.400 align:middle line:84%
+It's a lot of the financial
+services, health services,
+
+00:07:03.400 --> 00:07:06.670 align:middle line:84%
+and entertainment, and
+things like that, traveling.
+
+00:07:06.670 --> 00:07:09.820 align:middle line:84%
+That's where you spend
+most of your time.
+
+00:07:09.820 --> 00:07:13.860 align:middle line:84%
+Having clarified that,
+you can forget that.
+
+00:07:13.860 --> 00:07:15.525 align:middle line:84%
+From now on, I'm
+going to say goods.
+
+00:07:15.525 --> 00:07:17.400 align:middle line:84%
+So occasionally I may
+say goods and services.
+
+00:07:17.400 --> 00:07:18.930 align:middle line:90%
+But I always mean the same.
+
+00:07:18.930 --> 00:07:21.430 align:middle line:90%
+OK, good.
+
+00:07:21.430 --> 00:07:24.880 align:middle line:84%
+So how do we measure
+these things?
+
+00:07:24.880 --> 00:07:29.510 align:middle line:84%
+Well, there are different
+ways of doing this.
+
+00:07:29.510 --> 00:07:32.970 align:middle line:84%
+Something happened
+to my slide there.
+
+00:07:32.970 --> 00:07:35.820 align:middle line:90%
+OK, there we are.
+
+00:07:35.820 --> 00:07:41.133 align:middle line:84%
+And so suppose that you have
+an economy that is very simple.
+
+00:07:41.133 --> 00:07:43.300 align:middle line:84%
+I don't need to tell you
+how simple this economy is.
+
+00:07:43.300 --> 00:07:46.600 align:middle line:90%
+It has just two firms.
+
+00:07:46.600 --> 00:07:49.150 align:middle line:84%
+Suppose that we have an
+economy that is very simple.
+
+00:07:49.150 --> 00:07:50.620 align:middle line:90%
+It has two firms.
+
+00:07:50.620 --> 00:07:54.820 align:middle line:84%
+One firm produces a steel and
+the other one produces cars.
+
+00:07:54.820 --> 00:07:57.310 align:middle line:84%
+And the company
+that produces cars
+
+00:07:57.310 --> 00:07:59.770 align:middle line:84%
+buys all the steel
+from the company.
+
+00:07:59.770 --> 00:08:03.120 align:middle line:84%
+You, as a consumer,
+don't buy steel directly.
+
+00:08:03.120 --> 00:08:05.330 align:middle line:90%
+The car company buys the steel.
+
+00:08:05.330 --> 00:08:06.640 align:middle line:90%
+It uses to produce a car.
+
+00:08:06.640 --> 00:08:07.820 align:middle line:90%
+And you buy the car.
+
+00:08:07.820 --> 00:08:09.710 align:middle line:90%
+So that's our simple economy.
+
+00:08:09.710 --> 00:08:13.280 align:middle line:84%
+And those are the accounts
+of the simple economy.
+
+00:08:13.280 --> 00:08:16.310 align:middle line:90%
+So there you have a company.
+
+00:08:16.310 --> 00:08:18.200 align:middle line:90%
+One has a revenue from sales.
+
+00:08:18.200 --> 00:08:20.920 align:middle line:90%
+It sells 100.
+
+00:08:20.920 --> 00:08:25.870 align:middle line:84%
+So price of steel
+times steel is 100.
+
+00:08:25.870 --> 00:08:35.747 align:middle line:84%
+The second company buys steel,
+uses workers, and sells 200.
+
+00:08:35.747 --> 00:08:37.789 align:middle line:84%
+So the question I asked
+you, the first question I
+
+00:08:37.789 --> 00:08:40.200 align:middle line:84%
+asked you here is, well, what
+is the GDP of this economy?
+
+00:08:40.200 --> 00:08:42.255 align:middle line:84%
+Here you have an economy
+that has two goods.
+
+00:08:42.255 --> 00:08:44.630 align:middle line:84%
+Needless to say, a real economy
+is a lot more complicated
+
+00:08:44.630 --> 00:08:45.390 align:middle line:90%
+than this.
+
+00:08:45.390 --> 00:08:47.730 align:middle line:90%
+But you have two companies.
+
+00:08:47.730 --> 00:08:50.220 align:middle line:90%
+And I asked you, what is GDP?
+
+00:08:50.220 --> 00:08:53.520 align:middle line:84%
+So the obvious things that you
+can come up with is, well, I
+
+00:08:53.520 --> 00:08:55.340 align:middle line:90%
+sum all the revenues.
+
+00:08:55.340 --> 00:08:57.510 align:middle line:90%
+OK, so that's the obvious one.
+
+00:08:57.510 --> 00:09:00.570 align:middle line:84%
+The total GDP of these
+economies is 300.
+
+00:09:00.570 --> 00:09:03.700 align:middle line:90%
+That's a sensible answer.
+
+00:09:03.700 --> 00:09:05.380 align:middle line:84%
+At least at this
+moment, I would accept
+
+00:09:05.380 --> 00:09:06.610 align:middle line:90%
+that as a sensible answer.
+
+00:09:06.610 --> 00:09:08.030 align:middle line:90%
+In the quiz, I wouldn't.
+
+00:09:08.030 --> 00:09:09.800 align:middle line:90%
+But here it's a sensible answer.
+
+00:09:09.800 --> 00:09:11.290 align:middle line:84%
+I mean, well, you
+ask me for what
+
+00:09:11.290 --> 00:09:13.130 align:middle line:84%
+is the total output
+of that economy.
+
+00:09:13.130 --> 00:09:16.570 align:middle line:84%
+I sum up all the
+revenues and sales.
+
+00:09:16.570 --> 00:09:20.450 align:middle line:90%
+And that's 300.
+
+00:09:20.450 --> 00:09:28.200 align:middle line:90%
+OK, so is it 300, or is it 200?
+
+00:09:28.200 --> 00:09:29.690 align:middle line:90%
+I mean, that's another--
+
+00:09:29.690 --> 00:09:33.050 align:middle line:84%
+it says, well, look, only
+the final goods perhaps
+
+00:09:33.050 --> 00:09:36.860 align:middle line:84%
+should count because, you
+know, this is the only thing
+
+00:09:36.860 --> 00:09:41.210 align:middle line:84%
+that you, as a consumer, will
+ever see is this part, not that.
+
+00:09:41.210 --> 00:09:42.900 align:middle line:90%
+Those are two sensible answers.
+
+00:09:42.900 --> 00:09:46.010 align:middle line:84%
+And what I'll show you
+in three different ways
+
+00:09:46.010 --> 00:09:51.180 align:middle line:84%
+is that the right answer is
+200 for that economy, not 300.
+
+00:09:51.180 --> 00:09:54.260 align:middle line:90%
+The right answer is 200.
+
+00:09:54.260 --> 00:09:58.970 align:middle line:84%
+So method one-- and all
+these methods are used,
+
+00:09:58.970 --> 00:10:05.570 align:middle line:84%
+and they used to check
+each other to compute GDP.
+
+00:10:05.570 --> 00:10:09.630 align:middle line:84%
+So method one is what I
+said here is final goods.
+
+00:10:09.630 --> 00:10:14.270 align:middle line:84%
+You said GDP is the
+value of the final goods
+
+00:10:14.270 --> 00:10:16.700 align:middle line:84%
+and services produced
+in the economy
+
+00:10:16.700 --> 00:10:18.300 align:middle line:90%
+during a given period of time.
+
+00:10:18.300 --> 00:10:20.670 align:middle line:84%
+Notice that GDP is
+a concept of a flow.
+
+00:10:20.670 --> 00:10:22.300 align:middle line:84%
+It's something you
+produce in a year.
+
+00:10:22.300 --> 00:10:30.220 align:middle line:84%
+That's the reason you say GDP of
+the US in 2022 was $23 trillion.
+
+00:10:30.220 --> 00:10:31.440 align:middle line:90%
+It's in a year.
+
+00:10:31.440 --> 00:10:33.900 align:middle line:90%
+It's a period of time.
+
+00:10:33.900 --> 00:10:37.530 align:middle line:90%
+So that's one definition.
+
+00:10:37.530 --> 00:10:44.970 align:middle line:84%
+And one way of making
+sense of this definition
+
+00:10:44.970 --> 00:10:48.960 align:middle line:84%
+is imagine that I give you the
+same economy with the same two
+
+00:10:48.960 --> 00:10:49.710 align:middle line:90%
+factories.
+
+00:10:49.710 --> 00:10:51.720 align:middle line:84%
+And now all of a
+sudden I tell you,
+
+00:10:51.720 --> 00:10:54.450 align:middle line:84%
+you know what, I'm going
+to merge the two companies.
+
+00:10:54.450 --> 00:10:59.040 align:middle line:84%
+So company, the car company will
+buy the steel mill, or whatever.
+
+00:10:59.040 --> 00:11:01.920 align:middle line:84%
+Well, if I now put together
+those two accounts,
+
+00:11:01.920 --> 00:11:03.960 align:middle line:84%
+now, I never see the
+steel because that's all
+
+00:11:03.960 --> 00:11:05.860 align:middle line:90%
+happening inside the factory.
+
+00:11:05.860 --> 00:11:07.980 align:middle line:84%
+And it's still the
+case that the economy
+
+00:11:07.980 --> 00:11:09.870 align:middle line:90%
+would be producing 200 cars.
+
+00:11:09.870 --> 00:11:12.870 align:middle line:84%
+And all that you
+would see is 200,
+
+00:11:12.870 --> 00:11:14.870 align:middle line:84%
+because I would put
+this thing together.
+
+00:11:14.870 --> 00:11:17.370 align:middle line:84%
+There was a steel that this
+company had purchased from that,
+
+00:11:17.370 --> 00:11:20.040 align:middle line:90%
+but now it's all inside.
+
+00:11:20.040 --> 00:11:22.890 align:middle line:84%
+So if I put them
+together, then that steel
+
+00:11:22.890 --> 00:11:25.920 align:middle line:84%
+there doesn't appear because
+it's all produced in-house.
+
+00:11:25.920 --> 00:11:28.000 align:middle line:90%
+And now GDP would be 200.
+
+00:11:28.000 --> 00:11:31.260 align:middle line:84%
+Well, it makes no sense
+that just because I change
+
+00:11:31.260 --> 00:11:35.610 align:middle line:84%
+the ownership structure of the
+company, that your GDP changes,
+
+00:11:35.610 --> 00:11:37.660 align:middle line:90%
+collapses from 300 to 200.
+
+00:11:37.660 --> 00:11:39.570 align:middle line:84%
+If I'm only measuring
+final goods,
+
+00:11:39.570 --> 00:11:41.710 align:middle line:84%
+though, I don't
+have that problem.
+
+00:11:41.710 --> 00:11:42.630 align:middle line:90%
+It's still 200.
+
+00:11:42.630 --> 00:11:45.560 align:middle line:84%
+Doesn't matter that I have
+the merge lies, and lies in 20
+
+00:11:45.560 --> 00:11:46.400 align:middle line:90%
+or whatever.
+
+00:11:46.400 --> 00:11:49.250 align:middle line:84%
+So that tells you that
+we're going the right way
+
+00:11:49.250 --> 00:11:52.578 align:middle line:84%
+here because it's a
+very robust answer.
+
+00:11:52.578 --> 00:11:54.620 align:middle line:84%
+That is, you don't count
+the intermediate output.
+
+00:11:54.620 --> 00:11:56.720 align:middle line:84%
+You only count the
+final goods, which
+
+00:11:56.720 --> 00:11:59.540 align:middle line:84%
+are the things that
+the consumer will buy,
+
+00:11:59.540 --> 00:12:01.340 align:middle line:84%
+the firms will buy
+for investment,
+
+00:12:01.340 --> 00:12:02.840 align:middle line:90%
+and things of that kind--
+
+00:12:02.840 --> 00:12:06.640 align:middle line:90%
+that foreigners will buy.
+
+00:12:06.640 --> 00:12:09.640 align:middle line:84%
+Alternative method
+is GDP is the sum
+
+00:12:09.640 --> 00:12:15.270 align:middle line:84%
+of value added in the economy
+during a given period of time.
+
+00:12:15.270 --> 00:12:17.020 align:middle line:90%
+What is value added?
+
+00:12:17.020 --> 00:12:19.620 align:middle line:84%
+The difference between
+the final goods
+
+00:12:19.620 --> 00:12:22.320 align:middle line:84%
+produced by a company and
+the intermediate inputs
+
+00:12:22.320 --> 00:12:25.660 align:middle line:84%
+it purchased to
+produce those goods.
+
+00:12:25.660 --> 00:12:31.230 align:middle line:84%
+OK, so what is the value added
+of the steel company here?
+
+00:12:31.230 --> 00:12:32.110 align:middle line:90%
+The answer is there.
+
+00:12:32.110 --> 00:12:35.000 align:middle line:90%
+But what is the value of it?
+
+00:12:35.000 --> 00:12:35.980 align:middle line:90%
+It's 100.
+
+00:12:35.980 --> 00:12:37.210 align:middle line:90%
+How do I know it's 100?
+
+00:12:37.210 --> 00:12:39.870 align:middle line:84%
+Well, because it's not
+buying any intermediate input
+
+00:12:39.870 --> 00:12:42.770 align:middle line:90%
+and the revenue is 100.
+
+00:12:42.770 --> 00:12:45.840 align:middle line:84%
+So that's the reason
+I get 100 there.
+
+00:12:45.840 --> 00:12:47.117 align:middle line:90%
+OK, 100.
+
+00:12:47.117 --> 00:12:48.450 align:middle line:90%
+There is no intermediate inputs.
+
+00:12:48.450 --> 00:12:51.390 align:middle line:84%
+What is the value added
+of the car company?
+
+00:12:51.390 --> 00:12:53.630 align:middle line:84%
+Well, the revenue
+on sales is 200.
+
+00:12:53.630 --> 00:12:56.390 align:middle line:84%
+But it purchased 100
+intermediate inputs.
+
+00:12:56.390 --> 00:12:59.040 align:middle line:84%
+So the value added
+is 200 minus 100.
+
+00:12:59.040 --> 00:13:01.370 align:middle line:84%
+The value added of
+this company is 100.
+
+00:13:01.370 --> 00:13:04.160 align:middle line:84%
+100 plus 100, I
+get my 200 again.
+
+00:13:04.160 --> 00:13:05.600 align:middle line:90%
+Yeah.
+
+00:13:05.600 --> 00:13:10.348 align:middle line:84%
+AUDIENCE: Would we consider the
+wages to be intermediate good?
+
+00:13:10.348 --> 00:13:11.390 align:middle line:90%
+RICARDO J. CABALLERO: No.
+
+00:13:11.390 --> 00:13:12.300 align:middle line:90%
+Those are not goods.
+
+00:13:12.300 --> 00:13:14.430 align:middle line:90%
+Those are factors of production.
+
+00:13:14.430 --> 00:13:17.970 align:middle line:90%
+
+
+00:13:17.970 --> 00:13:20.240 align:middle line:84%
+Their machines in that
+factory that are helping you
+
+00:13:20.240 --> 00:13:22.310 align:middle line:84%
+produce things, that's a
+service of the machine.
+
+00:13:22.310 --> 00:13:23.370 align:middle line:90%
+It's capital.
+
+00:13:23.370 --> 00:13:24.780 align:middle line:84%
+That's not an
+intermediate input.
+
+00:13:24.780 --> 00:13:27.710 align:middle line:84%
+An intermediate input is
+another good or service
+
+00:13:27.710 --> 00:13:32.010 align:middle line:84%
+that you buy for the purpose
+of producing that good.
+
+00:13:32.010 --> 00:13:35.220 align:middle line:90%
+So workers, no.
+
+00:13:35.220 --> 00:13:38.660 align:middle line:84%
+The workers are working
+inside your company and so on.
+
+00:13:38.660 --> 00:13:42.840 align:middle line:84%
+If the work was
+produced, was outsourced
+
+00:13:42.840 --> 00:13:45.150 align:middle line:84%
+and you had another company
+that produces something
+
+00:13:45.150 --> 00:13:46.918 align:middle line:84%
+that you use from
+those workers, that
+
+00:13:46.918 --> 00:13:48.210 align:middle line:90%
+would be an intermediate input.
+
+00:13:48.210 --> 00:13:50.877 align:middle line:84%
+But you would have to count the
+value added of the companies you
+
+00:13:50.877 --> 00:13:53.550 align:middle line:90%
+have outsourced to.
+
+00:13:53.550 --> 00:13:56.190 align:middle line:90%
+So that's method two.
+
+00:13:56.190 --> 00:13:58.320 align:middle line:90%
+And you see we get exactly 200.
+
+00:13:58.320 --> 00:14:00.518 align:middle line:84%
+Those two methods are
+called production methods.
+
+00:14:00.518 --> 00:14:02.060 align:middle line:84%
+There are different
+ways of measuring
+
+00:14:02.060 --> 00:14:04.030 align:middle line:90%
+the production of the economy.
+
+00:14:04.030 --> 00:14:06.940 align:middle line:84%
+The third method,
+and the last one,
+
+00:14:06.940 --> 00:14:10.150 align:middle line:84%
+is an income
+method, which means,
+
+00:14:10.150 --> 00:14:14.960 align:middle line:84%
+look, all that is produced
+has to be earned by someone--
+
+00:14:14.960 --> 00:14:17.150 align:middle line:84%
+the workers, the
+owners of capital.
+
+00:14:17.150 --> 00:14:18.590 align:middle line:90%
+Somebody has to own that.
+
+00:14:18.590 --> 00:14:23.170 align:middle line:84%
+If the firms sell
+collectively $200, those $200
+
+00:14:23.170 --> 00:14:25.210 align:middle line:90%
+have to be allocated to someone.
+
+00:14:25.210 --> 00:14:28.060 align:middle line:84%
+Someone means
+workers, the owners
+
+00:14:28.060 --> 00:14:31.720 align:middle line:84%
+of capital of the firms,
+or in realistic economies,
+
+00:14:31.720 --> 00:14:32.700 align:middle line:90%
+the government.
+
+00:14:32.700 --> 00:14:34.580 align:middle line:84%
+You pay taxes and
+things of that kind.
+
+00:14:34.580 --> 00:14:36.622 align:middle line:84%
+OK, we're not going to
+worry about the government
+
+00:14:36.622 --> 00:14:37.890 align:middle line:90%
+for a while.
+
+00:14:37.890 --> 00:14:40.890 align:middle line:84%
+So that's an alternative
+method, is method three.
+
+00:14:40.890 --> 00:14:42.820 align:middle line:90%
+You just sum the incomes.
+
+00:14:42.820 --> 00:14:44.520 align:middle line:84%
+So who are the
+factors of production
+
+00:14:44.520 --> 00:14:46.130 align:middle line:90%
+here related to your question?
+
+00:14:46.130 --> 00:14:48.310 align:middle line:84%
+In this, there is no
+government here, no taxes.
+
+00:14:48.310 --> 00:14:52.140 align:middle line:84%
+So we have only workers and
+profits and the capital,
+
+00:14:52.140 --> 00:14:53.580 align:middle line:90%
+the owners of the company.
+
+00:14:53.580 --> 00:14:57.720 align:middle line:90%
+Wages is 80 plus 70, is 150.
+
+00:14:57.720 --> 00:15:01.170 align:middle line:90%
+Profits is 20 plus 30, 50.
+
+00:15:01.170 --> 00:15:06.130 align:middle line:84%
+150 in wages plus 15 profit
+gives you back your 200.
+
+00:15:06.130 --> 00:15:09.260 align:middle line:84%
+OK, so those are the three ways
+we have of measuring things.
+
+00:15:09.260 --> 00:15:12.160 align:middle line:84%
+And you see, they give you
+exactly the same result. Now,
+
+00:15:12.160 --> 00:15:15.420 align:middle line:84%
+there is something, as I
+say, from the construction
+
+00:15:15.420 --> 00:15:17.920 align:middle line:84%
+of national accounts, there is
+something interesting in what
+
+00:15:17.920 --> 00:15:22.720 align:middle line:84%
+I just said, which is,
+look, that production
+
+00:15:22.720 --> 00:15:24.850 align:middle line:90%
+is the same as income.
+
+00:15:24.850 --> 00:15:27.130 align:middle line:84%
+That's going to be very
+important for macro--
+
+00:15:27.130 --> 00:15:29.550 align:middle line:90%
+very important for macro.
+
+00:15:29.550 --> 00:15:32.970 align:middle line:84%
+And it's totally
+unimportant for micro.
+
+00:15:32.970 --> 00:15:36.150 align:middle line:84%
+When you're looking at a
+company, for example, in micro,
+
+00:15:36.150 --> 00:15:39.270 align:middle line:84%
+and you're looking at a
+car company by itself,
+
+00:15:39.270 --> 00:15:43.290 align:middle line:84%
+it is true that the
+output of that company
+
+00:15:43.290 --> 00:15:46.390 align:middle line:84%
+becomes income, part for
+the owners of the company
+
+00:15:46.390 --> 00:15:48.160 align:middle line:90%
+and part for the workers.
+
+00:15:48.160 --> 00:15:52.780 align:middle line:84%
+But that income needs
+not be spent in cars.
+
+00:15:52.780 --> 00:15:55.930 align:middle line:84%
+Can be spent in food and
+entertainment and whatever.
+
+00:15:55.930 --> 00:15:57.963 align:middle line:90%
+Not so in macro.
+
+00:15:57.963 --> 00:15:59.630 align:middle line:84%
+Because what else are
+you going to spend
+
+00:15:59.630 --> 00:16:02.210 align:middle line:84%
+it to than in the same
+good that you're producing
+
+00:16:02.210 --> 00:16:03.830 align:middle line:90%
+in the aggregate good?
+
+00:16:03.830 --> 00:16:05.280 align:middle line:90%
+So it's very interesting.
+
+00:16:05.280 --> 00:16:08.150 align:middle line:84%
+That's a very distinctive
+feature of macro
+
+00:16:08.150 --> 00:16:10.860 align:middle line:84%
+that is not present in
+micro, is that the income has
+
+00:16:10.860 --> 00:16:12.110 align:middle line:90%
+to be spent in the same goods.
+
+00:16:12.110 --> 00:16:13.790 align:middle line:84%
+If the economy is
+closed, later on,
+
+00:16:13.790 --> 00:16:15.720 align:middle line:84%
+we're going to open the economy
+to the rest of the world.
+
+00:16:15.720 --> 00:16:18.053 align:middle line:84%
+And then you buy some Chinese
+goods and blah blah, blah.
+
+00:16:18.053 --> 00:16:22.550 align:middle line:84%
+But if you keep it close, hey,
+you are not going to buy cars.
+
+00:16:22.550 --> 00:16:23.550 align:middle line:90%
+That's what you work on.
+
+00:16:23.550 --> 00:16:24.967 align:middle line:84%
+But you're going
+to have to buy it
+
+00:16:24.967 --> 00:16:27.410 align:middle line:84%
+in the single good
+of the economy, which
+
+00:16:27.410 --> 00:16:30.240 align:middle line:84%
+is a sum of all the goods
+that we consume in average.
+
+00:16:30.240 --> 00:16:32.940 align:middle line:84%
+That's going to
+be very important.
+
+00:16:32.940 --> 00:16:36.900 align:middle line:84%
+Anyways, this time this stuff
+moving in the right direction.
+
+00:16:36.900 --> 00:16:38.860 align:middle line:90%
+OK, so that's, that.
+
+00:16:38.860 --> 00:16:43.420 align:middle line:84%
+Now you know what GDP is and
+the different ways of measuring.
+
+00:16:43.420 --> 00:16:47.860 align:middle line:84%
+You're going to have to
+remember that for p set one
+
+00:16:47.860 --> 00:16:49.390 align:middle line:90%
+and for quiz 1.
+
+00:16:49.390 --> 00:16:51.510 align:middle line:84%
+And you might as well
+forget it for the future.
+
+00:16:51.510 --> 00:16:52.630 align:middle line:84%
+It's good that you
+understand the concept,
+
+00:16:52.630 --> 00:16:54.380 align:middle line:84%
+but it's different
+ways of constructing
+
+00:16:54.380 --> 00:16:56.750 align:middle line:90%
+that's not important.
+
+00:16:56.750 --> 00:16:59.150 align:middle line:84%
+Second thing we
+need to worry about
+
+00:16:59.150 --> 00:17:02.900 align:middle line:84%
+is that whenever you're thinking
+about the output of an economy,
+
+00:17:02.900 --> 00:17:05.180 align:middle line:84%
+you're really trying to
+think about the real output,
+
+00:17:05.180 --> 00:17:08.390 align:middle line:84%
+meaning the number of cars and
+number of machines and so on.
+
+00:17:08.390 --> 00:17:10.470 align:middle line:84%
+But you have
+inflation, for example.
+
+00:17:10.470 --> 00:17:12.660 align:middle line:84%
+Then the prices of these
+things are growing.
+
+00:17:12.660 --> 00:17:16.099 align:middle line:84%
+And so the total revenue
+on sales is growing.
+
+00:17:16.099 --> 00:17:17.730 align:middle line:90%
+But they don't mean the same.
+
+00:17:17.730 --> 00:17:20.217 align:middle line:84%
+And we want to certainly
+separate these two things.
+
+00:17:20.217 --> 00:17:21.800 align:middle line:84%
+And for that reason,
+we have a concept
+
+00:17:21.800 --> 00:17:25.369 align:middle line:84%
+which is called nominal
+GDP and another one
+
+00:17:25.369 --> 00:17:27.109 align:middle line:90%
+which is called real GDP.
+
+00:17:27.109 --> 00:17:29.600 align:middle line:84%
+Nominal GDP is the
+simplest thing on Earth.
+
+00:17:29.600 --> 00:17:33.420 align:middle line:84%
+It's essentially we have only
+one final goods company there
+
+00:17:33.420 --> 00:17:34.310 align:middle line:90%
+which was carved out.
+
+00:17:34.310 --> 00:17:36.920 align:middle line:84%
+Imagine you have
+cars, refrigerators,
+
+00:17:36.920 --> 00:17:37.890 align:middle line:90%
+many, many things.
+
+00:17:37.890 --> 00:17:40.610 align:middle line:84%
+Nominal GDP is simply the
+sum of the final goods
+
+00:17:40.610 --> 00:17:43.830 align:middle line:84%
+and you multiply them
+by the current price.
+
+00:17:43.830 --> 00:17:46.393 align:middle line:84%
+And that gives you the
+dollar GDP that you have.
+
+00:17:46.393 --> 00:17:48.060 align:middle line:84%
+I don't know what it
+is in the US today.
+
+00:17:48.060 --> 00:17:52.730 align:middle line:84%
+You could check it, but it's $24
+trillion or something like that.
+
+00:17:52.730 --> 00:17:54.080 align:middle line:90%
+So that's it.
+
+00:17:54.080 --> 00:17:56.900 align:middle line:84%
+P times Q, prices
+times quantity.
+
+00:17:56.900 --> 00:18:00.660 align:middle line:84%
+And you sum across all
+the final goods, as we do.
+
+00:18:00.660 --> 00:18:02.350 align:middle line:84%
+That's one way of
+calculating things.
+
+00:18:02.350 --> 00:18:03.720 align:middle line:90%
+That's nominal GDP.
+
+00:18:03.720 --> 00:18:06.583 align:middle line:84%
+But again, what we
+really care about is
+
+00:18:06.583 --> 00:18:08.250 align:middle line:84%
+we're going to care
+a lot about later on
+
+00:18:08.250 --> 00:18:10.780 align:middle line:84%
+is how that economy
+is doing over time.
+
+00:18:10.780 --> 00:18:11.500 align:middle line:90%
+Is it growing?
+
+00:18:11.500 --> 00:18:12.680 align:middle line:90%
+Is it not growing?
+
+00:18:12.680 --> 00:18:15.490 align:middle line:84%
+Nominal GDP can grow for
+two different reasons.
+
+00:18:15.490 --> 00:18:18.480 align:middle line:84%
+It can grow because
+the economy is really
+
+00:18:18.480 --> 00:18:19.790 align:middle line:90%
+becoming more productive.
+
+00:18:19.790 --> 00:18:23.710 align:middle line:84%
+It's producing more goods, or
+because prices are going up.
+
+00:18:23.710 --> 00:18:27.677 align:middle line:84%
+Now, at this moment, nominal GDP
+is growing very fast in the US,
+
+00:18:27.677 --> 00:18:30.010 align:middle line:84%
+despite the fact that we may
+have a recession this year.
+
+00:18:30.010 --> 00:18:30.730 align:middle line:90%
+We don't know.
+
+00:18:30.730 --> 00:18:34.260 align:middle line:84%
+But nobody has any doubt that
+nominal GDP will grow because we
+
+00:18:34.260 --> 00:18:35.620 align:middle line:90%
+have lots of inflation.
+
+00:18:35.620 --> 00:18:37.870 align:middle line:84%
+And so you want to
+separate these two things.
+
+00:18:37.870 --> 00:18:41.580 align:middle line:84%
+And the thing that removes
+the inflation component
+
+00:18:41.580 --> 00:18:44.930 align:middle line:90%
+is what we call real GDP.
+
+00:18:44.930 --> 00:18:48.410 align:middle line:84%
+And real GDP is you
+hear the word only GDP.
+
+00:18:48.410 --> 00:18:50.870 align:middle line:84%
+And that was produced by
+somebody who understand
+
+00:18:50.870 --> 00:18:52.370 align:middle line:90%
+what he's talking about.
+
+00:18:52.370 --> 00:18:54.680 align:middle line:90%
+GDP really means real GDP.
+
+00:18:54.680 --> 00:18:57.710 align:middle line:84%
+Just hear GDP, people
+are trying to say
+
+00:18:57.710 --> 00:18:59.180 align:middle line:90%
+the output of the economy.
+
+00:18:59.180 --> 00:19:01.580 align:middle line:90%
+Well, that's real GDP.
+
+00:19:01.580 --> 00:19:04.910 align:middle line:90%
+And the real GDP is computed--
+
+00:19:04.910 --> 00:19:05.580 align:middle line:90%
+many tricks.
+
+00:19:05.580 --> 00:19:12.350 align:middle line:84%
+But essentially what you
+do is you also sum across
+
+00:19:12.350 --> 00:19:14.870 align:middle line:90%
+all the goods.
+
+00:19:14.870 --> 00:19:18.290 align:middle line:84%
+You also sum across the goods,
+but you use constant prices, not
+
+00:19:18.290 --> 00:19:22.100 align:middle line:84%
+the prices of that point
+in time necessarily.
+
+00:19:22.100 --> 00:19:24.930 align:middle line:84%
+So I'm going to give you
+a very concrete example.
+
+00:19:24.930 --> 00:19:27.560 align:middle line:84%
+But before doing
+that, for this course,
+
+00:19:27.560 --> 00:19:30.590 align:middle line:84%
+we're going to call nominal
+GDP and all nominal variables
+
+00:19:30.590 --> 00:19:31.340 align:middle line:90%
+are going to have.
+
+00:19:31.340 --> 00:19:32.930 align:middle line:90%
+That's what the textbook does.
+
+00:19:32.930 --> 00:19:35.000 align:middle line:84%
+They're going to have
+a dollar sign in front.
+
+00:19:35.000 --> 00:19:37.400 align:middle line:90%
+So that's nominal GDP.
+
+00:19:37.400 --> 00:19:40.560 align:middle line:84%
+GDP is going to be y
+without the dollar.
+
+00:19:40.560 --> 00:19:42.140 align:middle line:90%
+That's real GDP.
+
+00:19:42.140 --> 00:19:45.560 align:middle line:84%
+For the first part of the
+course up to quiz one,
+
+00:19:45.560 --> 00:19:48.320 align:middle line:84%
+we're going to worry very
+little about nominal things
+
+00:19:48.320 --> 00:19:50.750 align:middle line:84%
+because we're going to have
+prices completely fixed.
+
+00:19:50.750 --> 00:19:53.330 align:middle line:84%
+But you still need
+to know the concept.
+
+00:19:53.330 --> 00:19:55.460 align:middle line:90%
+And that's real GDP.
+
+00:19:55.460 --> 00:20:02.820 align:middle line:84%
+So now let me give
+you an example.
+
+00:20:02.820 --> 00:20:07.345 align:middle line:84%
+So suppose you have this, this
+simple economy we had before.
+
+00:20:07.345 --> 00:20:08.970 align:middle line:84%
+We're just going to
+look at final goods
+
+00:20:08.970 --> 00:20:14.760 align:middle line:84%
+because as we need to
+look at to construct GDP.
+
+00:20:14.760 --> 00:20:17.670 align:middle line:84%
+And so this economy produces
+cars, and supposedly produces
+
+00:20:17.670 --> 00:20:25.370 align:middle line:84%
+10 cars in 2011, 12 cars in
+2012, and 13 cars in 2013.
+
+00:20:25.370 --> 00:20:28.740 align:middle line:84%
+But suppose the price of a car
+is what you see there, 20,000,
+
+00:20:28.740 --> 00:20:31.360 align:middle line:90%
+24,000, and 26,000.
+
+00:20:31.360 --> 00:20:36.405 align:middle line:84%
+Nominal GDP is simply the
+product of this times that.
+
+00:20:36.405 --> 00:20:38.960 align:middle line:90%
+That gives you $200,000.
+
+00:20:38.960 --> 00:20:42.400 align:middle line:84%
+12 cars times $35,000
+gives you 288 and so on.
+
+00:20:42.400 --> 00:20:44.510 align:middle line:90%
+That's nominal GDP.
+
+00:20:44.510 --> 00:20:50.750 align:middle line:84%
+Real GDP, you have to pick
+which price you want to use.
+
+00:20:50.750 --> 00:20:52.010 align:middle line:90%
+But only use one.
+
+00:20:52.010 --> 00:20:53.910 align:middle line:90%
+And don't vary it over time.
+
+00:20:53.910 --> 00:20:59.350 align:middle line:84%
+So in this particular
+case we picked 2012.
+
+00:20:59.350 --> 00:21:06.100 align:middle line:84%
+So that means when you say GDP,
+real GDP at 2012, base 2012,
+
+00:21:06.100 --> 00:21:10.160 align:middle line:84%
+were 2012 prices, means you're
+using the prices of 2012.
+
+00:21:10.160 --> 00:21:11.180 align:middle line:90%
+You don't vary that.
+
+00:21:11.180 --> 00:21:13.120 align:middle line:84%
+You let quantities
+change over time.
+
+00:21:13.120 --> 00:21:14.810 align:middle line:90%
+But the prices remain fixed.
+
+00:21:14.810 --> 00:21:23.060 align:middle line:84%
+So in this case, real GDP at
+2012 is, 10 cars times 25,000.
+
+00:21:23.060 --> 00:21:25.570 align:middle line:90%
+That gives you 240,000.
+
+00:21:25.570 --> 00:21:29.060 align:middle line:90%
+12 cars times 24,000, 288.
+
+00:21:29.060 --> 00:21:30.080 align:middle line:90%
+This is interesting.
+
+00:21:30.080 --> 00:21:32.750 align:middle line:84%
+For this year, nominal GDP
+is the same as real GDP.
+
+00:21:32.750 --> 00:21:35.720 align:middle line:90%
+Why is that?
+
+00:21:35.720 --> 00:21:36.220 align:middle line:90%
+An accident?
+
+00:21:36.220 --> 00:21:38.742 align:middle line:90%
+
+
+00:21:38.742 --> 00:21:41.200 align:middle line:84%
+AUDIENCE: Because you used the
+base year as the [INAUDIBLE]
+
+00:21:41.200 --> 00:21:41.670 align:middle line:90%
+RICARDO J. CABALLERO: Exactly.
+
+00:21:41.670 --> 00:21:43.570 align:middle line:90%
+We're using that as a base year.
+
+00:21:43.570 --> 00:21:47.490 align:middle line:84%
+So nominal GDP will always
+be equal to real GDP
+
+00:21:47.490 --> 00:21:48.910 align:middle line:90%
+at the base year.
+
+00:21:48.910 --> 00:21:51.090 align:middle line:84%
+That's the year we're
+picking as the base
+
+00:21:51.090 --> 00:21:54.200 align:middle line:84%
+because those are the
+prices we're using.
+
+00:21:54.200 --> 00:21:56.220 align:middle line:90%
+I got about 2013.
+
+00:21:56.220 --> 00:21:58.940 align:middle line:90%
+Well, is not 26,000 times 13.
+
+00:21:58.940 --> 00:22:00.660 align:middle line:90%
+Is 24,000 times 13.
+
+00:22:00.660 --> 00:22:02.160 align:middle line:90%
+So we get 312.
+
+00:22:02.160 --> 00:22:04.250 align:middle line:84%
+And it's obvious
+here that real GDP is
+
+00:22:04.250 --> 00:22:06.860 align:middle line:90%
+growing less than nominal GDP.
+
+00:22:06.860 --> 00:22:08.130 align:middle line:90%
+Why is that?
+
+00:22:08.130 --> 00:22:10.410 align:middle line:84%
+Well, because this
+economy has inflation.
+
+00:22:10.410 --> 00:22:12.440 align:middle line:84%
+Prices are rising
+over time and we
+
+00:22:12.440 --> 00:22:15.620 align:middle line:84%
+want to remove that when we
+look at the real concept.
+
+00:22:15.620 --> 00:22:17.410 align:middle line:84%
+The real concept removes
+the price effect.
+
+00:22:17.410 --> 00:22:20.580 align:middle line:90%
+
+
+00:22:20.580 --> 00:22:22.230 align:middle line:84%
+There are times
+in which you don't
+
+00:22:22.230 --> 00:22:24.850 align:middle line:84%
+want to remove all
+that price effect.
+
+00:22:24.850 --> 00:22:26.850 align:middle line:84%
+And it happens a lot, for
+example, in computers.
+
+00:22:26.850 --> 00:22:30.150 align:middle line:84%
+Because sometimes the increase
+in the price of the computer
+
+00:22:30.150 --> 00:22:32.280 align:middle line:84%
+is simply because the
+computer is better
+
+00:22:32.280 --> 00:22:34.270 align:middle line:84%
+and you want to correct
+for quality and so on.
+
+00:22:34.270 --> 00:22:36.030 align:middle line:84%
+But again, that's not
+something you need
+
+00:22:36.030 --> 00:22:37.955 align:middle line:90%
+to worry about in this course.
+
+00:22:37.955 --> 00:22:43.180 align:middle line:90%
+
+
+00:22:43.180 --> 00:22:44.830 align:middle line:84%
+Maybe some of you
+are deciding the pace
+
+00:22:44.830 --> 00:22:46.390 align:middle line:90%
+at which you want me to move.
+
+00:22:46.390 --> 00:22:49.810 align:middle line:84%
+I'm really puzzled
+by this stuff.
+
+00:22:49.810 --> 00:22:51.290 align:middle line:90%
+This is from the book.
+
+00:22:51.290 --> 00:22:55.780 align:middle line:84%
+And you see what happened in the
+US, with nominal and real GDP,
+
+00:22:55.780 --> 00:22:57.870 align:middle line:90%
+with base year 2012.
+
+00:22:57.870 --> 00:23:00.250 align:middle line:84%
+So as I said before,
+these two curves,
+
+00:23:00.250 --> 00:23:02.810 align:middle line:84%
+one is nominal
+GDP, the red line.
+
+00:23:02.810 --> 00:23:04.630 align:middle line:90%
+The blue line is real GDP.
+
+00:23:04.630 --> 00:23:06.730 align:middle line:90%
+We're using base year 2012.
+
+00:23:06.730 --> 00:23:08.740 align:middle line:84%
+So at that point, they
+have to be the same.
+
+00:23:08.740 --> 00:23:12.550 align:middle line:84%
+And what you see
+very clearly there
+
+00:23:12.550 --> 00:23:19.230 align:middle line:84%
+is that the blue line, real GDP,
+is flatter than the red line.
+
+00:23:19.230 --> 00:23:21.420 align:middle line:90%
+Why is that?
+
+00:23:21.420 --> 00:23:22.846 align:middle line:90%
+Why is the-- yeah.
+
+00:23:22.846 --> 00:23:25.728 align:middle line:84%
+AUDIENCE: Real GDP before was
+lower beacuse [INAUDIBLE] GDP--
+
+00:23:25.728 --> 00:23:28.270 align:middle line:84%
+I mean this particular market
+probably [INAUDIBLE] inflation.
+
+00:23:28.270 --> 00:23:29.380 align:middle line:84%
+RICARDO J. CABALLERO:
+This inflation.
+
+00:23:29.380 --> 00:23:31.130 align:middle line:84%
+By the way, I do have
+a reference for you.
+
+00:23:31.130 --> 00:23:32.300 align:middle line:90%
+So ask me after the--
+
+00:23:32.300 --> 00:23:34.170 align:middle line:90%
+OK, good.
+
+00:23:34.170 --> 00:23:39.190 align:middle line:84%
+And anyway, so yeah, in the
+US, between 1960 and 2018,
+
+00:23:39.190 --> 00:23:42.820 align:middle line:84%
+nominal GDP increased by a
+factor of 38, while real GDP
+
+00:23:42.820 --> 00:23:44.420 align:middle line:90%
+by a factor of 5.7.
+
+00:23:44.420 --> 00:23:45.170 align:middle line:90%
+Big difference.
+
+00:23:45.170 --> 00:23:47.410 align:middle line:84%
+So you better be
+careful when you
+
+00:23:47.410 --> 00:23:50.140 align:middle line:84%
+look at GDP that you are
+removing inflation, especially--
+
+00:23:50.140 --> 00:23:52.720 align:middle line:84%
+I mean, if you were
+to look in Argentina,
+
+00:23:52.720 --> 00:23:55.210 align:middle line:84%
+these guys have had a
+recession, a chronic recession
+
+00:23:55.210 --> 00:23:56.980 align:middle line:90%
+for a long time, big recession.
+
+00:23:56.980 --> 00:24:00.160 align:middle line:84%
+But nominal GDP is exploding
+because they have 10,000%
+
+00:24:00.160 --> 00:24:01.780 align:middle line:90%
+inflation.
+
+00:24:01.780 --> 00:24:09.820 align:middle line:84%
+So it makes a big difference,
+especially over time.
+
+00:24:09.820 --> 00:24:12.670 align:middle line:84%
+This is just so you get the
+picture, the complete picture
+
+00:24:12.670 --> 00:24:13.280 align:middle line:90%
+for the US.
+
+00:24:13.280 --> 00:24:18.280 align:middle line:84%
+This is GDP growth in the US
+since we have national accounts.
+
+00:24:18.280 --> 00:24:22.470 align:middle line:84%
+And some noticeable things--
+well, again, recessions.
+
+00:24:22.470 --> 00:24:23.710 align:middle line:90%
+This was a big recession.
+
+00:24:23.710 --> 00:24:28.060 align:middle line:84%
+Remember, we call this the
+Great Recession, big recession.
+
+00:24:28.060 --> 00:24:30.570 align:middle line:90%
+And this is COVID.
+
+00:24:30.570 --> 00:24:32.010 align:middle line:90%
+And then this is 2020.
+
+00:24:32.010 --> 00:24:35.360 align:middle line:84%
+And then they bounce back in
+2021 when we reopen the economy.
+
+00:24:35.360 --> 00:24:35.920 align:middle line:90%
+Big growth.
+
+00:24:35.920 --> 00:24:37.050 align:middle line:90%
+But that's very anomalous.
+
+00:24:37.050 --> 00:24:38.800 align:middle line:84%
+I mean, it was a
+very weird shock.
+
+00:24:38.800 --> 00:24:44.430 align:middle line:84%
+But see, these are all the
+shaded areas are recessions.
+
+00:24:44.430 --> 00:24:48.210 align:middle line:84%
+Recessions are defined as
+slightly more complicated way
+
+00:24:48.210 --> 00:24:48.790 align:middle line:90%
+than that.
+
+00:24:48.790 --> 00:24:53.310 align:middle line:84%
+But one sort of popular
+way of describing recession
+
+00:24:53.310 --> 00:24:57.180 align:middle line:84%
+is as an episode where you
+have two consecutive quarters
+
+00:24:57.180 --> 00:24:58.210 align:middle line:90%
+of negative inflation.
+
+00:24:58.210 --> 00:25:00.210 align:middle line:84%
+That's not the formal
+definition of a recession,
+
+00:25:00.210 --> 00:25:01.740 align:middle line:90%
+but it's pretty close.
+
+00:25:01.740 --> 00:25:07.780 align:middle line:84%
+And so that's what
+you have there.
+
+00:25:07.780 --> 00:25:11.260 align:middle line:84%
+Another concept is
+unemployment rate--
+
+00:25:11.260 --> 00:25:12.290 align:middle line:90%
+the unemployment rate.
+
+00:25:12.290 --> 00:25:13.150 align:middle line:90%
+So that's GDP.
+
+00:25:13.150 --> 00:25:15.020 align:middle line:84%
+And in the first
+part of the course,
+
+00:25:15.020 --> 00:25:16.850 align:middle line:84%
+we want to worry
+a lot about that.
+
+00:25:16.850 --> 00:25:21.830 align:middle line:84%
+We're going to build a model
+on how to find equilibrium GDP.
+
+00:25:21.830 --> 00:25:24.430 align:middle line:84%
+And we're going to see what
+happens with fiscal policy,
+
+00:25:24.430 --> 00:25:27.010 align:middle line:84%
+with monetary policy,
+how does equilibrium
+
+00:25:27.010 --> 00:25:29.980 align:middle line:84%
+GDP, macroeconomic
+output, changes
+
+00:25:29.980 --> 00:25:33.040 align:middle line:84%
+with different forms of
+policies or when consumers
+
+00:25:33.040 --> 00:25:34.875 align:middle line:90%
+get scared or stuff like that.
+
+00:25:34.875 --> 00:25:39.010 align:middle line:90%
+
+
+00:25:39.010 --> 00:25:40.397 align:middle line:84%
+What about the
+unemployment rate?
+
+00:25:40.397 --> 00:25:41.980 align:middle line:84%
+The unemployment
+rate is not something
+
+00:25:41.980 --> 00:25:45.250 align:middle line:84%
+we want to worry a lot
+about until the second part
+
+00:25:45.250 --> 00:25:46.700 align:middle line:90%
+of the course, after quiz 1.
+
+00:25:46.700 --> 00:25:49.690 align:middle line:84%
+But still, I want to get it
+over with these definitions.
+
+00:25:49.690 --> 00:25:51.590 align:middle line:90%
+So what is employment?
+
+00:25:51.590 --> 00:25:53.330 align:middle line:84%
+It's a number of
+people who have a job.
+
+00:25:53.330 --> 00:25:54.830 align:middle line:90%
+That's easy.
+
+00:25:54.830 --> 00:25:59.030 align:middle line:84%
+Unemployment is slightly less
+easy because it's first of all,
+
+00:25:59.030 --> 00:26:02.100 align:middle line:84%
+obviously to be unemployed,
+you cannot have a job.
+
+00:26:02.100 --> 00:26:04.730 align:middle line:84%
+But it's not enough that
+you don't have a job.
+
+00:26:04.730 --> 00:26:07.800 align:middle line:90%
+
+
+00:26:07.800 --> 00:26:11.640 align:middle line:84%
+An unemployed person is
+somebody that doesn't have a job
+
+00:26:11.640 --> 00:26:14.300 align:middle line:90%
+and is looking for one.
+
+00:26:14.300 --> 00:26:19.440 align:middle line:84%
+And not all unemployed
+people look for a job.
+
+00:26:19.440 --> 00:26:23.440 align:middle line:84%
+Not all non-employed people
+are looking for jobs.
+
+00:26:23.440 --> 00:26:28.450 align:middle line:84%
+So to be unemployed, you
+need to not have a job
+
+00:26:28.450 --> 00:26:30.610 align:middle line:90%
+and be looking for one.
+
+00:26:30.610 --> 00:26:33.400 align:middle line:84%
+The labor force, what
+we call the labor force,
+
+00:26:33.400 --> 00:26:37.840 align:middle line:84%
+is the sum of those two groups,
+the employed and the unemployed
+
+00:26:37.840 --> 00:26:40.550 align:middle line:90%
+that would like to get a job.
+
+00:26:40.550 --> 00:26:44.878 align:middle line:84%
+The unemployment rate,
+which is something
+
+00:26:44.878 --> 00:26:46.420 align:middle line:84%
+I showed you in the
+previous lecture,
+
+00:26:46.420 --> 00:26:49.660 align:middle line:84%
+is just a ratio of these
+two concepts, the unemployed
+
+00:26:49.660 --> 00:26:51.340 align:middle line:90%
+over the labor force.
+
+00:26:51.340 --> 00:26:55.330 align:middle line:84%
+Notice, over the labor force,
+not population, the labor force,
+
+00:26:55.330 --> 00:26:57.430 align:middle line:84%
+which is the sum
+of the employed,
+
+00:26:57.430 --> 00:27:00.970 align:middle line:84%
+and those that are unemployed
+that do not have a job
+
+00:27:00.970 --> 00:27:02.500 align:middle line:90%
+and are looking for a job.
+
+00:27:02.500 --> 00:27:09.400 align:middle line:84%
+And how is unemployment
+measured in the US?
+
+00:27:09.400 --> 00:27:10.660 align:middle line:90%
+It's mostly a survey.
+
+00:27:10.660 --> 00:27:14.050 align:middle line:90%
+And I have the info there.
+
+00:27:14.050 --> 00:27:17.230 align:middle line:84%
+It's called the CPS, the
+Current Population Survey that
+
+00:27:17.230 --> 00:27:19.210 align:middle line:90%
+consults lots of households.
+
+00:27:19.210 --> 00:27:21.640 align:middle line:84%
+And they ask them about
+the employment status,
+
+00:27:21.640 --> 00:27:24.057 align:middle line:84%
+whether they have been looking
+for a job over the last two
+
+00:27:24.057 --> 00:27:25.030 align:middle line:90%
+weeks or not and so on.
+
+00:27:25.030 --> 00:27:28.100 align:middle line:84%
+And that's the way we
+come up with the number.
+
+00:27:28.100 --> 00:27:31.240 align:middle line:84%
+As I said before, those
+that do not have a job
+
+00:27:31.240 --> 00:27:33.010 align:middle line:84%
+but are not looking
+for a job, they
+
+00:27:33.010 --> 00:27:35.380 align:middle line:84%
+haven't been looking for a
+job in the last two weeks,
+
+00:27:35.380 --> 00:27:38.220 align:middle line:84%
+are called not in
+the labor force.
+
+00:27:38.220 --> 00:27:39.490 align:middle line:90%
+That's what we say.
+
+00:27:39.490 --> 00:27:42.490 align:middle line:84%
+Now, these concepts are
+between unemployed and not
+
+00:27:42.490 --> 00:27:47.270 align:middle line:84%
+in the labor force
+is not that clear.
+
+00:27:47.270 --> 00:27:48.762 align:middle line:84%
+We look at the
+unemployment rate.
+
+00:27:48.762 --> 00:27:50.470 align:middle line:84%
+But we also tend to
+look at those people,
+
+00:27:50.470 --> 00:27:52.940 align:middle line:84%
+as well, because many people
+are simply discouraged.
+
+00:27:52.940 --> 00:27:54.610 align:middle line:84%
+They would like to
+get a job, but they
+
+00:27:54.610 --> 00:27:57.530 align:middle line:84%
+have been looking for a while
+and they haven't found it.
+
+00:27:57.530 --> 00:28:01.540 align:middle line:84%
+And it happens that there is
+a lot more discouraged workers
+
+00:28:01.540 --> 00:28:03.550 align:middle line:90%
+during recessions.
+
+00:28:03.550 --> 00:28:05.233 align:middle line:84%
+And you're having
+a big recession.
+
+00:28:05.233 --> 00:28:06.650 align:middle line:84%
+It's very difficult
+to find a job.
+
+00:28:06.650 --> 00:28:09.120 align:middle line:84%
+So it's very easy
+to get discouraged.
+
+00:28:09.120 --> 00:28:11.840 align:middle line:84%
+And so that's the reason we
+look at broader measures of non
+
+00:28:11.840 --> 00:28:14.390 align:middle line:84%
+employment than the
+typical unemployment rate,
+
+00:28:14.390 --> 00:28:16.730 align:middle line:90%
+because a lot of those--
+
+00:28:16.730 --> 00:28:18.170 align:middle line:90%
+not in the labor force.
+
+00:28:18.170 --> 00:28:20.480 align:middle line:84%
+People do not have a job and
+are not looking for a job,
+
+00:28:20.480 --> 00:28:21.540 align:middle line:90%
+are really discouraged.
+
+00:28:21.540 --> 00:28:23.840 align:middle line:90%
+They just gave up after a while.
+
+00:28:23.840 --> 00:28:27.538 align:middle line:84%
+The participation
+rate-- and that's
+
+00:28:27.538 --> 00:28:29.580 align:middle line:84%
+a very important concept--
+is something you would
+
+00:28:29.580 --> 00:28:30.930 align:middle line:90%
+have ignored most of the time.
+
+00:28:30.930 --> 00:28:32.850 align:middle line:84%
+It's very critical
+at this moment.
+
+00:28:32.850 --> 00:28:35.490 align:middle line:84%
+The participation
+rate is the ratio
+
+00:28:35.490 --> 00:28:40.260 align:middle line:84%
+of the labor force to the total
+population of working age.
+
+00:28:40.260 --> 00:28:43.720 align:middle line:84%
+And you exclude people in
+prison and stuff like that.
+
+00:28:43.720 --> 00:28:48.060 align:middle line:84%
+But so it's labor
+force, which is
+
+00:28:48.060 --> 00:28:50.340 align:middle line:84%
+the sum of the employed
+and unemployed,
+
+00:28:50.340 --> 00:28:54.110 align:middle line:84%
+divided by those that
+could work in principle.
+
+00:28:54.110 --> 00:28:59.400 align:middle line:84%
+And that's what we call
+the participation rate.
+
+00:28:59.400 --> 00:29:00.860 align:middle line:90%
+How do these numbers look?
+
+00:29:00.860 --> 00:29:05.490 align:middle line:84%
+I showed you this picture
+in the previous lecture.
+
+00:29:05.490 --> 00:29:07.440 align:middle line:84%
+And that's the
+unemployment rate.
+
+00:29:07.440 --> 00:29:11.440 align:middle line:84%
+It skyrocketed during COVID,
+but it has declined enormously.
+
+00:29:11.440 --> 00:29:13.590 align:middle line:84%
+And as I said in the
+previous lecture,
+
+00:29:13.590 --> 00:29:16.020 align:middle line:84%
+a big issue is that
+the unemployment rate
+
+00:29:16.020 --> 00:29:17.280 align:middle line:90%
+today is extremely low.
+
+00:29:17.280 --> 00:29:22.350 align:middle line:84%
+We haven't seen levels like
+this since the early '60s.
+
+00:29:22.350 --> 00:29:26.160 align:middle line:84%
+Unemployment rate today
+is at record low levels.
+
+00:29:26.160 --> 00:29:27.930 align:middle line:90%
+And that's a problem.
+
+00:29:27.930 --> 00:29:28.810 align:middle line:90%
+Sounds wonderful.
+
+00:29:28.810 --> 00:29:31.782 align:middle line:84%
+But it's also a problem because
+we have an inflation problem.
+
+00:29:31.782 --> 00:29:33.240 align:middle line:84%
+And those two things
+are connected,
+
+00:29:33.240 --> 00:29:35.460 align:middle line:84%
+as you will learn
+later on in the course.
+
+00:29:35.460 --> 00:29:37.750 align:middle line:84%
+But that's what
+we have right now.
+
+00:29:37.750 --> 00:29:39.070 align:middle line:90%
+That's the unemployment rate.
+
+00:29:39.070 --> 00:29:42.750 align:middle line:84%
+Now, the reason that
+employment rate is so low,
+
+00:29:42.750 --> 00:29:44.360 align:middle line:90%
+there are two reasons, really.
+
+00:29:44.360 --> 00:29:48.780 align:middle line:84%
+One is that there was lots of
+stimulus policy, fiscal policy,
+
+00:29:48.780 --> 00:29:49.680 align:middle line:90%
+monetary policy.
+
+00:29:49.680 --> 00:29:51.390 align:middle line:84%
+So aggregate demand
+and consumers
+
+00:29:51.390 --> 00:29:55.290 align:middle line:84%
+were fed up with being locked
+out of restaurants and trips
+
+00:29:55.290 --> 00:29:58.740 align:middle line:84%
+and so on for two years,
+decided to travel and so on.
+
+00:29:58.740 --> 00:30:00.940 align:middle line:90%
+And they had lots of savings.
+
+00:30:00.940 --> 00:30:05.680 align:middle line:84%
+The US consumer accumulated
+excess savings of $2.7 trillion.
+
+00:30:05.680 --> 00:30:07.450 align:middle line:84%
+And now they're
+spending the stuff.
+
+00:30:07.450 --> 00:30:10.240 align:middle line:84%
+China, a big reason why
+people expect a big bounce
+
+00:30:10.240 --> 00:30:12.940 align:middle line:84%
+back is because they
+also had a lot of savings
+
+00:30:12.940 --> 00:30:15.950 align:middle line:84%
+because they were locked
+up for quite some time.
+
+00:30:15.950 --> 00:30:20.720 align:middle line:84%
+So as a result of that, there
+is lots of demand for goods.
+
+00:30:20.720 --> 00:30:22.480 align:middle line:84%
+And as we learn in
+the next lecture,
+
+00:30:22.480 --> 00:30:25.480 align:middle line:84%
+that means lots of
+output, as well.
+
+00:30:25.480 --> 00:30:32.700 align:middle line:84%
+But the second reason
+is the following.
+
+00:30:32.700 --> 00:30:35.340 align:middle line:90%
+
+
+00:30:35.340 --> 00:30:38.370 align:middle line:90%
+It's the participation rate.
+
+00:30:38.370 --> 00:30:41.550 align:middle line:84%
+People haven't come back
+to work in the magnitude
+
+00:30:41.550 --> 00:30:42.570 align:middle line:90%
+that we expected.
+
+00:30:42.570 --> 00:30:45.450 align:middle line:84%
+So that's the participation
+rate in the US.
+
+00:30:45.450 --> 00:30:49.720 align:middle line:84%
+Remember, the participation rate
+is labor force over all those
+
+00:30:49.720 --> 00:30:51.300 align:middle line:90%
+that could work, in principle.
+
+00:30:51.300 --> 00:30:54.360 align:middle line:90%
+
+
+00:30:54.360 --> 00:30:55.720 align:middle line:90%
+What do you think is this?
+
+00:30:55.720 --> 00:30:58.560 align:middle line:84%
+Look at the participation rate
+used to be in the '60s, below
+
+00:30:58.560 --> 00:30:59.410 align:middle line:90%
+'60s.
+
+00:30:59.410 --> 00:31:01.530 align:middle line:84%
+And then there was a big
+rise in the participation
+
+00:31:01.530 --> 00:31:03.620 align:middle line:90%
+rate in the US.
+
+00:31:03.620 --> 00:31:06.287 align:middle line:84%
+What do you think
+is this due to?
+
+00:31:06.287 --> 00:31:07.870 align:middle line:84%
+AUDIENCE: Women
+joining the workforce.
+
+00:31:07.870 --> 00:31:10.360 align:middle line:84%
+RICARDO J. CABALLERO: Women
+joining the workforce.
+
+00:31:10.360 --> 00:31:12.350 align:middle line:90%
+That's what it did.
+
+00:31:12.350 --> 00:31:13.750 align:middle line:90%
+OK, that's that.
+
+00:31:13.750 --> 00:31:16.970 align:middle line:84%
+Since then, since this woman
+did all that they had to do,
+
+00:31:16.970 --> 00:31:17.940 align:middle line:90%
+we have been declining.
+
+00:31:17.940 --> 00:31:20.990 align:middle line:90%
+And that's an issue.
+
+00:31:20.990 --> 00:31:25.730 align:middle line:90%
+But look at what happened here.
+
+00:31:25.730 --> 00:31:28.105 align:middle line:84%
+Lots of people exit the
+labor force during COVID.
+
+00:31:28.105 --> 00:31:30.230 align:middle line:84%
+I mean, you know, they had
+to take care of the kids
+
+00:31:30.230 --> 00:31:33.330 align:middle line:90%
+and/or the elderly.
+
+00:31:33.330 --> 00:31:35.370 align:middle line:84%
+And so people withdrew
+from the labor force.
+
+00:31:35.370 --> 00:31:36.720 align:middle line:90%
+They didn't want a job.
+
+00:31:36.720 --> 00:31:38.190 align:middle line:90%
+It was also discouraging.
+
+00:31:38.190 --> 00:31:40.070 align:middle line:84%
+It was very difficult
+to get a job.
+
+00:31:40.070 --> 00:31:41.580 align:middle line:84%
+I mean, you work
+in a restaurant.
+
+00:31:41.580 --> 00:31:43.710 align:middle line:84%
+It was impossible to get
+a job in a restaurant.
+
+00:31:43.710 --> 00:31:50.450 align:middle line:84%
+But everyone expected this to
+recover to the previous level
+
+00:31:50.450 --> 00:31:52.150 align:middle line:90%
+and it hasn't.
+
+00:31:52.150 --> 00:31:55.810 align:middle line:84%
+So you see that the
+participation rate has not come
+
+00:31:55.810 --> 00:31:58.130 align:middle line:90%
+back to the levels pre-COVID.
+
+00:31:58.130 --> 00:31:59.630 align:middle line:90%
+It's substantially below.
+
+00:31:59.630 --> 00:32:01.600 align:middle line:84%
+And that's one of
+the reasons, you
+
+00:32:01.600 --> 00:32:04.120 align:middle line:84%
+know, that restaurants complain
+that they don't have workers
+
+00:32:04.120 --> 00:32:07.540 align:middle line:84%
+and so on and so forth, is that
+many people haven't come back
+
+00:32:07.540 --> 00:32:09.210 align:middle line:90%
+to the labor force.
+
+00:32:09.210 --> 00:32:11.080 align:middle line:84%
+We thought this was
+going to be temporary.
+
+00:32:11.080 --> 00:32:13.780 align:middle line:84%
+Now, there is a concern that a
+lot of that is really permanent.
+
+00:32:13.780 --> 00:32:18.710 align:middle line:84%
+People that decided that life at
+home wasn't that bad after all.
+
+00:32:18.710 --> 00:32:22.810 align:middle line:84%
+Less income, but they spend more
+time with the kids or whatever.
+
+00:32:22.810 --> 00:32:26.080 align:middle line:90%
+And that's an issue.
+
+00:32:26.080 --> 00:32:30.150 align:middle line:84%
+And that's a big reason behind
+the low unemployment rate.
+
+00:32:30.150 --> 00:32:32.580 align:middle line:84%
+And the fact that we
+have all this inflation
+
+00:32:32.580 --> 00:32:35.310 align:middle line:90%
+has to do with everyone.
+
+00:32:35.310 --> 00:32:38.610 align:middle line:84%
+In particular, the Fed
+miscalculated the bounce back
+
+00:32:38.610 --> 00:32:40.310 align:middle line:90%
+of the participation rate.
+
+00:32:40.310 --> 00:32:45.150 align:middle line:90%
+
+
+00:32:45.150 --> 00:32:46.920 align:middle line:84%
+So as I said before,
+we're not going
+
+00:32:46.920 --> 00:32:50.460 align:middle line:84%
+to look at labor market
+issues until the second part
+
+00:32:50.460 --> 00:32:52.840 align:middle line:90%
+of the course, after quiz one.
+
+00:32:52.840 --> 00:32:54.320 align:middle line:90%
+And the same is for inflation.
+
+00:32:54.320 --> 00:32:56.112 align:middle line:84%
+We're not going to look
+at inflation issues
+
+00:32:56.112 --> 00:33:00.880 align:middle line:84%
+until the second part of the
+course because to connect them,
+
+00:33:00.880 --> 00:33:02.617 align:middle line:90%
+I mean, they are connected.
+
+00:33:02.617 --> 00:33:04.450 align:middle line:84%
+And we're not going to
+look at labor markets
+
+00:33:04.450 --> 00:33:08.285 align:middle line:84%
+until sort of eight
+lectures from now or so.
+
+00:33:08.285 --> 00:33:10.660 align:middle line:84%
+But this is an important
+variable and certainly something
+
+00:33:10.660 --> 00:33:12.670 align:middle line:84%
+you're facing every single
+day in the newspapers
+
+00:33:12.670 --> 00:33:14.980 align:middle line:90%
+and so on-- the inflation rate.
+
+00:33:14.980 --> 00:33:17.890 align:middle line:84%
+So by inflation, when
+you hear inflation,
+
+00:33:17.890 --> 00:33:21.010 align:middle line:84%
+that typically means
+the sustained rise
+
+00:33:21.010 --> 00:33:23.223 align:middle line:90%
+in the general level of prices.
+
+00:33:23.223 --> 00:33:24.640 align:middle line:84%
+So it's not that
+the price of cars
+
+00:33:24.640 --> 00:33:27.762 align:middle line:84%
+went up relative to the price
+of hotels, or now down relative
+
+00:33:27.762 --> 00:33:28.720 align:middle line:90%
+to the price of hotels.
+
+00:33:28.720 --> 00:33:31.370 align:middle line:84%
+It's that on average,
+prices are rising.
+
+00:33:31.370 --> 00:33:33.250 align:middle line:84%
+That's what we
+call an inflation.
+
+00:33:33.250 --> 00:33:37.630 align:middle line:90%
+
+
+00:33:37.630 --> 00:33:41.020 align:middle line:84%
+We're going to call
+the price level BT.
+
+00:33:41.020 --> 00:33:43.510 align:middle line:84%
+And there are many different
+price levels, as you see.
+
+00:33:43.510 --> 00:33:46.720 align:middle line:84%
+So the inflation rate, when
+you hear the inflation rate,
+
+00:33:46.720 --> 00:33:51.160 align:middle line:84%
+is the rate of change
+of that price level.
+
+00:33:51.160 --> 00:33:53.938 align:middle line:84%
+An episode of
+deflation, the opposite
+
+00:33:53.938 --> 00:33:55.480 align:middle line:84%
+of what we're
+experiencing now, where
+
+00:33:55.480 --> 00:33:58.450 align:middle line:84%
+we're experiencing inflation,
+is when that inflation rate
+
+00:33:58.450 --> 00:34:00.360 align:middle line:90%
+is negative.
+
+00:34:00.360 --> 00:34:03.670 align:middle line:84%
+Japan most prominently has
+experienced something like that
+
+00:34:03.670 --> 00:34:07.500 align:middle line:84%
+not now, but experienced it for
+on and off for the last three
+
+00:34:07.500 --> 00:34:08.760 align:middle line:90%
+decades or so.
+
+00:34:08.760 --> 00:34:11.842 align:middle line:90%
+And so what is the price level?
+
+00:34:11.842 --> 00:34:13.300 align:middle line:84%
+There are many ways
+of defining it.
+
+00:34:13.300 --> 00:34:15.610 align:middle line:84%
+And there are many
+different price levels.
+
+00:34:15.610 --> 00:34:19.840 align:middle line:84%
+A very popular one is what
+is called the GDP deflator,
+
+00:34:19.840 --> 00:34:21.850 align:middle line:90%
+and it's the one you see.
+
+00:34:21.850 --> 00:34:24.100 align:middle line:84%
+It's never mentioned
+in the newspapers.
+
+00:34:24.100 --> 00:34:26.420 align:middle line:84%
+But we economists tend
+to look at the deflator.
+
+00:34:26.420 --> 00:34:29.920 align:middle line:84%
+The deflator is nothing else
+than the ratio of nominal GDP
+
+00:34:29.920 --> 00:34:31.570 align:middle line:90%
+to real GDP.
+
+00:34:31.570 --> 00:34:34.540 align:middle line:84%
+Another one is far more popular
+and more relevant for you as
+
+00:34:34.540 --> 00:34:37.820 align:middle line:84%
+consumers, is what we call
+the consumer price index.
+
+00:34:37.820 --> 00:34:39.820 align:middle line:90%
+That's the CPI.
+
+00:34:39.820 --> 00:34:41.870 align:middle line:90%
+The CPI, that's what it is.
+
+00:34:41.870 --> 00:34:45.860 align:middle line:84%
+So you calculate the rate
+of inflation from the CPI.
+
+00:34:45.860 --> 00:34:47.139 align:middle line:90%
+You calculate the same way.
+
+00:34:47.139 --> 00:34:51.370 align:middle line:84%
+But you use a CPI there
+instead of the GDP deflator.
+
+00:34:51.370 --> 00:34:55.442 align:middle line:90%
+Now, it turns out that--
+
+00:34:55.442 --> 00:34:56.650 align:middle line:90%
+obviously confused with this.
+
+00:34:56.650 --> 00:34:59.470 align:middle line:84%
+It turns out that these
+two measures are sort of
+
+00:34:59.470 --> 00:35:00.910 align:middle line:90%
+pretty well aligned.
+
+00:35:00.910 --> 00:35:02.500 align:middle line:84%
+There are differences
+that may be
+
+00:35:02.500 --> 00:35:04.360 align:middle line:84%
+interesting at some
+specific point in time.
+
+00:35:04.360 --> 00:35:06.580 align:middle line:84%
+But they tell you more
+or less the same picture.
+
+00:35:06.580 --> 00:35:08.710 align:middle line:84%
+In particular, there
+is absolutely no doubt
+
+00:35:08.710 --> 00:35:11.030 align:middle line:84%
+that we have an inflation
+problem these days.
+
+00:35:11.030 --> 00:35:13.760 align:middle line:84%
+You can be as selective as
+you want with the price index
+
+00:35:13.760 --> 00:35:16.560 align:middle line:84%
+you want to use and people
+are getting very selective.
+
+00:35:16.560 --> 00:35:20.780 align:middle line:90%
+Now we have CPI excluding--
+
+00:35:20.780 --> 00:35:23.570 align:middle line:84%
+Well, one thing that
+makes a lot of sense
+
+00:35:23.570 --> 00:35:25.860 align:middle line:84%
+is to exclude the
+most volatile goods.
+
+00:35:25.860 --> 00:35:28.760 align:middle line:84%
+So typically, the
+CPI, we use is called
+
+00:35:28.760 --> 00:35:32.420 align:middle line:84%
+Core CPI, which removes
+energy and food, which
+
+00:35:32.420 --> 00:35:33.510 align:middle line:90%
+are very volatile prices.
+
+00:35:33.510 --> 00:35:35.885 align:middle line:84%
+You don't want the thing to
+be moving all over the place.
+
+00:35:35.885 --> 00:35:38.660 align:middle line:84%
+But now we're also
+beginning to remove shelter
+
+00:35:38.660 --> 00:35:41.580 align:middle line:84%
+because shelter inflation is
+very high and sticky and so on.
+
+00:35:41.580 --> 00:35:43.470 align:middle line:84%
+So people can get to
+be very selective.
+
+00:35:43.470 --> 00:35:46.050 align:middle line:84%
+But no matter how you look at
+the thing, we have a problem.
+
+00:35:46.050 --> 00:35:48.900 align:middle line:90%
+There is no way around that.
+
+00:35:48.900 --> 00:35:51.027 align:middle line:90%
+So that's the way we look.
+
+00:35:51.027 --> 00:35:52.610 align:middle line:84%
+Again, we're not
+going to look-- we're
+
+00:35:52.610 --> 00:35:55.400 align:middle line:84%
+going to talk a lot about
+this problem, of course.
+
+00:35:55.400 --> 00:35:56.930 align:middle line:90%
+But we need to build tools.
+
+00:35:56.930 --> 00:36:00.782 align:middle line:84%
+And we're going to get there in
+about nine lectures from now.
+
+00:36:00.782 --> 00:36:02.240 align:middle line:84%
+Nine lectures from
+now, we're going
+
+00:36:02.240 --> 00:36:06.270 align:middle line:84%
+to be able to talk about
+what is going on with models.
+
+00:36:06.270 --> 00:36:09.560 align:middle line:84%
+I mean, you can talk whenever
+you want, but with models,
+
+00:36:09.560 --> 00:36:12.837 align:middle line:84%
+OK, so those are the concepts
+I wanted to discuss today.
+
+00:36:12.837 --> 00:36:14.420 align:middle line:84%
+Those are the
+definitions, some relief
+
+00:36:14.420 --> 00:36:16.080 align:middle line:90%
+that we got over this stuff.
+
+00:36:16.080 --> 00:36:21.530 align:middle line:84%
+Let me just show you, because
+we have five minutes or so,
+
+00:36:21.530 --> 00:36:24.900 align:middle line:84%
+equivalent numbers for other
+places around the world.
+
+00:36:24.900 --> 00:36:25.480 align:middle line:90%
+That's China.
+
+00:36:25.480 --> 00:36:28.510 align:middle line:90%
+
+
+00:36:28.510 --> 00:36:29.540 align:middle line:90%
+That's China.
+
+00:36:29.540 --> 00:36:30.838 align:middle line:90%
+That's GDP growth for China.
+
+00:36:30.838 --> 00:36:32.380 align:middle line:84%
+And there are several
+things that you
+
+00:36:32.380 --> 00:36:34.460 align:middle line:90%
+can see for this GDP series.
+
+00:36:34.460 --> 00:36:37.340 align:middle line:84%
+The first is that
+it was very high.
+
+00:36:37.340 --> 00:36:39.627 align:middle line:84%
+These numbers look
+a lot on average.
+
+00:36:39.627 --> 00:36:40.960 align:middle line:90%
+That's a lot higher than the US.
+
+00:36:40.960 --> 00:36:43.240 align:middle line:84%
+When I showed you the
+US, the rate of growth
+
+00:36:43.240 --> 00:36:46.630 align:middle line:84%
+was moving around 2%, 1.5%,
+blah, blah, blah, occasionally
+
+00:36:46.630 --> 00:36:47.840 align:middle line:90%
+recessions and so on.
+
+00:36:47.840 --> 00:36:48.740 align:middle line:90%
+This is China.
+
+00:36:48.740 --> 00:36:52.660 align:middle line:84%
+Look, you had numbers
+like 10% or so.
+
+00:36:52.660 --> 00:36:53.680 align:middle line:90%
+That's interesting.
+
+00:36:53.680 --> 00:36:57.130 align:middle line:84%
+We want to know why is that
+you can have so much difference
+
+00:36:57.130 --> 00:36:59.175 align:middle line:90%
+in different countries.
+
+00:36:59.175 --> 00:37:00.550 align:middle line:84%
+And that's what
+we're going to do
+
+00:37:00.550 --> 00:37:01.910 align:middle line:90%
+in the third part of the course.
+
+00:37:01.910 --> 00:37:03.790 align:middle line:84%
+When we look at
+growth, we're going
+
+00:37:03.790 --> 00:37:06.490 align:middle line:84%
+to look at these kind of
+factors, what can give you
+
+00:37:06.490 --> 00:37:08.560 align:middle line:90%
+sustained rate of growth?
+
+00:37:08.560 --> 00:37:10.750 align:middle line:84%
+Sustain, I mean, for
+a long period of time
+
+00:37:10.750 --> 00:37:13.560 align:middle line:90%
+higher than in another country.
+
+00:37:13.560 --> 00:37:17.400 align:middle line:84%
+The main factor, just to
+preview what will happen,
+
+00:37:17.400 --> 00:37:24.380 align:middle line:84%
+is simply that China was
+a lot poorer than the US
+
+00:37:24.380 --> 00:37:25.260 align:middle line:90%
+at the beginning.
+
+00:37:25.260 --> 00:37:27.830 align:middle line:84%
+And when you're poorer and
+you put your act together,
+
+00:37:27.830 --> 00:37:30.810 align:middle line:84%
+you can grow a lot
+faster than the rest.
+
+00:37:30.810 --> 00:37:33.090 align:middle line:90%
+Now China is slowing down.
+
+00:37:33.090 --> 00:37:35.910 align:middle line:84%
+Aside from COVID, it's very
+clear for quite some time
+
+00:37:35.910 --> 00:37:40.440 align:middle line:84%
+that they have been worried
+because clearly GDP growth is
+
+00:37:40.440 --> 00:37:41.970 align:middle line:90%
+declining.
+
+00:37:41.970 --> 00:37:45.580 align:middle line:84%
+And they're
+terrified about that.
+
+00:37:45.580 --> 00:37:48.570 align:middle line:84%
+And many of the things that
+are happening with China
+
+00:37:48.570 --> 00:37:51.480 align:middle line:84%
+have to do with
+the fear associated
+
+00:37:51.480 --> 00:37:54.270 align:middle line:84%
+to a slowdown in
+the rate of growth
+
+00:37:54.270 --> 00:37:59.210 align:middle line:84%
+when they are still quite
+poor in per capita terms.
+
+00:37:59.210 --> 00:38:02.440 align:middle line:84%
+So a lot of what happens in
+China has to do with that.
+
+00:38:02.440 --> 00:38:05.480 align:middle line:90%
+
+
+00:38:05.480 --> 00:38:08.730 align:middle line:84%
+If you look at
+Japan, look at Japan.
+
+00:38:08.730 --> 00:38:12.710 align:middle line:84%
+Japan also grew very
+fast in the '60s.
+
+00:38:12.710 --> 00:38:16.010 align:middle line:84%
+You see this very
+fast rate of growth.
+
+00:38:16.010 --> 00:38:17.840 align:middle line:90%
+Then it began to slow down.
+
+00:38:17.840 --> 00:38:19.400 align:middle line:90%
+And boom, here it collapsed.
+
+00:38:19.400 --> 00:38:24.200 align:middle line:84%
+They have a massive crash in
+financial markets, equities
+
+00:38:24.200 --> 00:38:24.740 align:middle line:90%
+and land.
+
+00:38:24.740 --> 00:38:27.630 align:middle line:84%
+The price of land was enormous
+in Japan at this time.
+
+00:38:27.630 --> 00:38:30.567 align:middle line:90%
+They had a big financial bubble.
+
+00:38:30.567 --> 00:38:32.900 align:middle line:84%
+For those of you that know
+Japan-- or if you don't know,
+
+00:38:32.900 --> 00:38:33.560 align:middle line:90%
+doesn't matter.
+
+00:38:33.560 --> 00:38:35.870 align:middle line:84%
+The imperial park
+in Tokyo, which
+
+00:38:35.870 --> 00:38:38.990 align:middle line:84%
+is a park that is much smaller
+than Central Park or whatever,
+
+00:38:38.990 --> 00:38:41.270 align:middle line:84%
+the value of that land
+at some point in time
+
+00:38:41.270 --> 00:38:45.440 align:middle line:84%
+was the same as the value of
+the entire state of California.
+
+00:38:45.440 --> 00:38:47.120 align:middle line:90%
+That's an order of magnitude.
+
+00:38:47.120 --> 00:38:48.330 align:middle line:90%
+It was not for sale.
+
+00:38:48.330 --> 00:38:51.020 align:middle line:84%
+But, you know, in terms
+of location, times, price.
+
+00:38:51.020 --> 00:38:53.090 align:middle line:90%
+But that bubble crash.
+
+00:38:53.090 --> 00:38:57.620 align:middle line:84%
+And since then, Japan has never
+been able to recover its mojo.
+
+00:38:57.620 --> 00:39:00.290 align:middle line:84%
+It has been sort of
+growing at a very low rate
+
+00:39:00.290 --> 00:39:02.460 align:middle line:90%
+for a very long period of time.
+
+00:39:02.460 --> 00:39:04.430 align:middle line:84%
+And one of the things
+that scares China
+
+00:39:04.430 --> 00:39:07.400 align:middle line:90%
+is that this may happen to them.
+
+00:39:07.400 --> 00:39:09.050 align:middle line:84%
+Because this happened
+to Japan when
+
+00:39:09.050 --> 00:39:10.380 align:middle line:90%
+they were already quite rich.
+
+00:39:10.380 --> 00:39:13.220 align:middle line:84%
+Japan was pretty poor
+after the war, naturally.
+
+00:39:13.220 --> 00:39:15.630 align:middle line:84%
+And they grew very
+fast in the '60s.
+
+00:39:15.630 --> 00:39:18.750 align:middle line:84%
+But then they had this issue,
+financial bubble and so on.
+
+00:39:18.750 --> 00:39:21.080 align:middle line:84%
+They crashed and had never
+been able to recover.
+
+00:39:21.080 --> 00:39:26.780 align:middle line:84%
+And China is worried that
+this slowdown happens to them
+
+00:39:26.780 --> 00:39:30.540 align:middle line:84%
+before they have reached the
+level of income per capita
+
+00:39:30.540 --> 00:39:34.960 align:middle line:84%
+that Japan reached
+when that happened.
+
+00:39:34.960 --> 00:39:36.960 align:middle line:84%
+There are common factors
+behind the two of them,
+
+00:39:36.960 --> 00:39:38.380 align:middle line:90%
+as well-- demographic factors.
+
+00:39:38.380 --> 00:39:41.250 align:middle line:84%
+Demographics are very
+negative for both of them,
+
+00:39:41.250 --> 00:39:43.480 align:middle line:84%
+which naturally will slow
+down the rate of growth.
+
+00:39:43.480 --> 00:39:45.060 align:middle line:84%
+We're going to look
+at that later on.
+
+00:39:45.060 --> 00:39:48.150 align:middle line:90%
+This is inflation in Japan.
+
+00:39:48.150 --> 00:39:51.450 align:middle line:84%
+You see, most countries had
+high inflation around there
+
+00:39:51.450 --> 00:39:56.710 align:middle line:84%
+because the price of oil, we had
+massive oil shocks and so on.
+
+00:39:56.710 --> 00:39:58.440 align:middle line:90%
+So inflation was pretty high.
+
+00:39:58.440 --> 00:40:01.680 align:middle line:84%
+But the problem of Japan
+has been the opposite.
+
+00:40:01.680 --> 00:40:06.210 align:middle line:84%
+Since the bubble crash in the
+late '80s, early '90s, they have
+
+00:40:06.210 --> 00:40:11.010 align:middle line:84%
+had very low inflation,
+even deflation.
+
+00:40:11.010 --> 00:40:12.720 align:middle line:90%
+And that's been a big problem.
+
+00:40:12.720 --> 00:40:16.590 align:middle line:84%
+Part of the reason why
+they have had so low growth
+
+00:40:16.590 --> 00:40:19.470 align:middle line:84%
+is because they have been
+in this deflationary trap.
+
+00:40:19.470 --> 00:40:23.880 align:middle line:84%
+And then something you will look
+at later on in the course, when
+
+00:40:23.880 --> 00:40:26.400 align:middle line:84%
+you have deflation,
+it's very difficult
+
+00:40:26.400 --> 00:40:29.470 align:middle line:84%
+to use monetary policy to
+get out of a recession.
+
+00:40:29.470 --> 00:40:32.900 align:middle line:84%
+And that's the reason they
+keep getting stuck there.
+
+00:40:32.900 --> 00:40:34.920 align:middle line:84%
+So that's all I wanted
+to say for today.
+
+00:40:34.920 --> 00:40:37.907 align:middle line:84%
+And I'm relieved again that
+this lecture is behind us.
+
+00:40:37.907 --> 00:40:40.490 align:middle line:84%
+In the next lecture, we're going
+to introduce the first model.
+
+00:40:40.490 --> 00:40:45.260 align:middle line:84%
+We're going to look at is how
+to determine equilibrium GDP
+
+00:40:45.260 --> 00:40:50.240 align:middle line:84%
+and how that depends on a
+variety of things, including
+
+00:40:50.240 --> 00:40:51.440 align:middle line:90%
+fiscal policy--
+
+00:40:51.440 --> 00:40:54.950 align:middle line:84%
+not monetary policy,
+that will happen later--
+
+00:40:54.950 --> 00:40:59.390 align:middle line:84%
+but how scared you are,
+consumers' preferences
+
+00:40:59.390 --> 00:41:01.470 align:middle line:90%
+and fears and so on.
+
+00:41:01.470 --> 00:41:02.370 align:middle line:90%
+So that's the plan.
+
+00:41:02.370 --> 00:41:06.400 align:middle line:84%
+So unless there are any
+questions about this--
+
+00:41:06.400 --> 00:41:08.280 align:middle line:90%
+No.
+
+00:41:08.280 --> 00:41:10.940 align:middle line:90%
+I'll see you next Monday.
+
+00:41:10.940 --> 00:41:21.000 align:middle line:90%
