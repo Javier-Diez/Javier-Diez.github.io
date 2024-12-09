@@ -1,0 +1,80 @@
+{
+    "cursos": [
+        {
+            "clave": "14.01-fall-2018",
+            "nombre": "1. Principles of Microeconomics (2018)"
+        },
+        {
+            "clave": "15.010-fall-2004",
+            "nombre": "6. Economic Analysis for Business Decisions (2004)"
+        },
+        {
+            "clave": "15.401-fall-2008",
+            "nombre": "3. Finance Theory I"
+        },
+        {
+            "clave": "15.402-spring-2003",
+            "nombre": "5. Finance Theory II"
+        },
+        {
+            "clave": "15.501-spring-2004",
+            "nombre": "2. Introduction to Financial and Managerial Accounting (2004)"
+        },
+        {
+            "clave": "14.30-spring-2009",
+            "nombre": "4. Introduction to Statistical Methods in Economics (2009)"
+        },
+        {
+            "clave": "15.431-spring-2011",
+            "nombre": "8. Entrepreneurial Finance (2011)"
+        },
+        {
+            "clave": "15.433-spring-2003",
+            "nombre": "10. Financial Markets (2003)"
+        },
+        {
+            "clave": "15.450-fall-2010",
+            "nombre": "11. Analytics of Finance (2010)"
+        },
+        {
+            "clave": "15.483-spring-2018",
+            "nombre": "16. Consumer Finance: Markets, Product Design, and FinTech (2018)"
+        },
+        {
+            "clave": "15.518-fall-2002",
+            "nombre": "13. Taxes and Business Strategy (2002)"
+        },
+        {
+            "clave": "15.535-spring-2003",
+            "nombre": "14. Business Analysis Using Financial Statements (2003)"
+        },
+        {
+            "clave": "15.s08-spring-2020",
+            "nombre": "17. FinTech: Shaping the Financial World (2020)"
+        },
+        {
+            "clave": "15.761-spring-2013",
+            "nombre": "18. Introduction to Operations Management (2013)"
+        },
+        {
+            "clave": "15.310-spring-2003",
+            "nombre": "9. Managerial Psychology Laboratory (2003)"
+        },
+        {
+            "clave": "15.511-summer-2004",
+            "nombre": "15. Financial Accounting (2004)"
+        },
+        {
+            "clave": "14.02-Spring-2023",
+            "nombre": "COURSE Principles of Macroeconomics (2023)"
+        },
+        {
+            "clave": "15.279-fall-2012",
+            "nombre": "7. Management Communication for Undergraduates (2012)"
+        },
+        {
+            "clave": "15.414-summer-2003",
+            "nombre": "12. Financial Management"
+        }
+    ]
+}

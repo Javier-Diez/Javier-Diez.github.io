@@ -1,0 +1,5103 @@
+1
+00:00:00,000 --> 00:00:01,960
+[SQUEAKING]
+
+2
+00:00:01,960 --> 00:00:03,920
+[RUSTLING]
+
+3
+00:00:03,920 --> 00:00:06,370
+[CLICKING]
+
+4
+00:00:12,270 --> 00:00:15,342
+JONATHAN GRUBER: OK,
+so let's continue
+
+5
+00:00:15,342 --> 00:00:16,550
+our discussion of monopolies.
+
+6
+00:00:16,550 --> 00:00:18,740
+Last time, we talked
+about monopolies
+
+7
+00:00:18,740 --> 00:00:22,670
+and talked about how they're
+another extreme of the market
+
+8
+00:00:22,670 --> 00:00:23,750
+structure spectrum.
+
+9
+00:00:23,750 --> 00:00:25,850
+We have perfectly
+competitive firms,
+
+10
+00:00:25,850 --> 00:00:29,150
+where there's facing a
+perfectly elastic demand curve,
+
+11
+00:00:29,150 --> 00:00:31,910
+and competing with essentially
+infinite number of other firms
+
+12
+00:00:31,910 --> 00:00:35,960
+and taking prices, versus a
+monopolist who owns the market
+
+13
+00:00:35,960 --> 00:00:38,000
+and sets the price,
+but therefore,
+
+14
+00:00:38,000 --> 00:00:40,790
+faces this poisoning
+effect, which
+
+15
+00:00:40,790 --> 00:00:44,583
+leads them to under-produce
+and creates deadweight loss.
+
+16
+00:00:44,583 --> 00:00:47,000
+So today, we want to continue
+our discussion of monopolies
+
+17
+00:00:47,000 --> 00:00:49,610
+with three sort of
+separate topics.
+
+18
+00:00:49,610 --> 00:00:51,380
+OK, the first topic
+I want to cover
+
+19
+00:00:51,380 --> 00:00:54,260
+is, where do
+monopolies come from?
+
+20
+00:00:54,260 --> 00:00:57,140
+So the stork does
+not bring monopolies.
+
+21
+00:00:57,140 --> 00:01:00,200
+They come from somewhere else.
+
+22
+00:01:00,200 --> 00:01:02,000
+So sort of, how do
+monopolies arise?
+
+23
+00:01:08,330 --> 00:01:10,490
+And there's really two
+sources of monopoly
+
+24
+00:01:10,490 --> 00:01:12,480
+that I want to focus on today.
+
+25
+00:01:12,480 --> 00:01:17,030
+The first is
+monopolies that arise
+
+26
+00:01:17,030 --> 00:01:23,940
+from cost advantages,
+the monopolies that
+
+27
+00:01:23,940 --> 00:01:25,940
+arise from cost advantages.
+
+28
+00:01:25,940 --> 00:01:29,080
+So some markets come with
+a natural built-in cost
+
+29
+00:01:29,080 --> 00:01:31,738
+advantage for one participant.
+
+30
+00:01:31,738 --> 00:01:34,030
+So it could be there's an
+essential input, like there's
+
+31
+00:01:34,030 --> 00:01:36,690
+one rock quarry in town.
+
+32
+00:01:36,690 --> 00:01:38,380
+And whoever controls
+the rock quarry,
+
+33
+00:01:38,380 --> 00:01:42,220
+they supply the rocks
+for the whole area.
+
+34
+00:01:42,220 --> 00:01:45,700
+In that case, we say
+that this is an example
+
+35
+00:01:45,700 --> 00:01:48,550
+of a natural monopoly.
+
+36
+00:01:54,130 --> 00:01:59,620
+A natural monopoly
+is a market where,
+
+37
+00:01:59,620 --> 00:02:05,370
+for all relevant quantities,
+one firm can always
+
+38
+00:02:05,370 --> 00:02:10,840
+produce at a lower average
+cost than another firm can.
+
+39
+00:02:10,840 --> 00:02:13,870
+So for all relevant
+quantities, one firm
+
+40
+00:02:13,870 --> 00:02:16,120
+can always produce
+at a lower average
+
+41
+00:02:16,120 --> 00:02:19,650
+cost than can other firms.
+
+42
+00:02:19,650 --> 00:02:23,530
+OK, this basically
+is the same as saying
+
+43
+00:02:23,530 --> 00:02:27,580
+that it's a market where average
+cost is everywhere declining,
+
+44
+00:02:27,580 --> 00:02:30,520
+at least in the relevant
+production range.
+
+45
+00:02:30,520 --> 00:02:32,860
+You can imagine where, so
+for some crazy quantities,
+
+46
+00:02:32,860 --> 00:02:34,300
+average cost increases.
+
+47
+00:02:34,300 --> 00:02:37,820
+But where average costs
+is everywhere declining
+
+48
+00:02:37,820 --> 00:02:40,557
+is a market with a
+natural monopoly.
+
+49
+00:02:40,557 --> 00:02:41,640
+So why would this be true?
+
+50
+00:02:41,640 --> 00:02:43,682
+Let's consider what I
+think is the simplest case.
+
+51
+00:02:43,682 --> 00:02:45,170
+Let's think about
+a water utility,
+
+52
+00:02:45,170 --> 00:02:46,760
+delivering water
+to people's houses
+
+53
+00:02:46,760 --> 00:02:49,400
+through pipes underground.
+
+54
+00:02:49,400 --> 00:02:55,980
+Once those pipes are laid, it
+is that the giant fixed costs
+
+55
+00:02:55,980 --> 00:02:58,330
+are paid, and the marginal
+costs are trivial.
+
+56
+00:02:58,330 --> 00:03:00,120
+It's the cost of the water.
+
+57
+00:03:00,120 --> 00:03:05,310
+The fixed costs are so large
+relative to the marginal costs
+
+58
+00:03:05,310 --> 00:03:07,842
+that average cost
+always declines.
+
+59
+00:03:07,842 --> 00:03:09,300
+In our typical
+production function,
+
+60
+00:03:09,300 --> 00:03:12,060
+remember, average cost first
+declines, then goes back up.
+
+61
+00:03:12,060 --> 00:03:14,460
+It first declines, you
+pay off the fixed costs,
+
+62
+00:03:14,460 --> 00:03:16,920
+then back up as the rising
+marginal costs start
+
+63
+00:03:16,920 --> 00:03:17,638
+to dominate.
+
+64
+00:03:17,638 --> 00:03:19,680
+This is a market where
+that second purchase never
+
+65
+00:03:19,680 --> 00:03:24,690
+gets big enough, say
+where, essentially,
+
+66
+00:03:24,690 --> 00:03:26,700
+marginal productivity
+is close to flat,
+
+67
+00:03:26,700 --> 00:03:30,060
+so the marginal cost curve
+isn't rising that fast, and/or
+
+68
+00:03:30,060 --> 00:03:33,600
+the fixed costs are enormous.
+
+69
+00:03:33,600 --> 00:03:36,780
+So we could see
+that in figure 12.1.
+
+70
+00:03:36,780 --> 00:03:42,065
+Imagine a water utility, which
+has roughly flat marginal cost.
+
+71
+00:03:42,065 --> 00:03:44,190
+That is, the marginal cost
+is the cost of procuring
+
+72
+00:03:44,190 --> 00:03:45,780
+another gallon of water.
+
+73
+00:03:45,780 --> 00:03:47,850
+Now once again, at
+some point, if you
+
+74
+00:03:47,850 --> 00:03:49,350
+want to give every
+person in America
+
+75
+00:03:49,350 --> 00:03:51,840
+one million gallons of
+water, marginal costs
+
+76
+00:03:51,840 --> 00:03:53,040
+would start to rise.
+
+77
+00:03:53,040 --> 00:03:56,140
+But for the relevant
+range, it's roughly flat.
+
+78
+00:03:56,140 --> 00:03:57,700
+And yet there's
+enormous fixed costs.
+
+79
+00:03:57,700 --> 00:04:00,290
+You got to lay
+those water pipes.
+
+80
+00:04:00,290 --> 00:04:05,780
+So in that world, average
+cost is everywhere declining.
+
+81
+00:04:05,780 --> 00:04:07,850
+It's approaching marginal
+cost, but it never
+
+82
+00:04:07,850 --> 00:04:09,140
+crosses marginal cost.
+
+83
+00:04:12,060 --> 00:04:15,300
+In such a world,
+once one firm has
+
+84
+00:04:15,300 --> 00:04:17,459
+laid the pipes that's
+providing water,
+
+85
+00:04:17,459 --> 00:04:21,279
+it never makes sense for
+another firm to enter.
+
+86
+00:04:21,279 --> 00:04:22,750
+Entry never makes sense.
+
+87
+00:04:22,750 --> 00:04:23,680
+Why is that?
+
+88
+00:04:23,680 --> 00:04:26,690
+Because if another firm
+thinks about entering,
+
+89
+00:04:26,690 --> 00:04:29,120
+they can say, oh, look this
+water utility is making all
+
+90
+00:04:29,120 --> 00:04:31,412
+this money, this is a great
+market to enter-- remember,
+
+91
+00:04:31,412 --> 00:04:33,170
+we talked about
+unlimited entry and exit
+
+92
+00:04:33,170 --> 00:04:35,340
+and perfect competition
+that drives profits away.
+
+93
+00:04:35,340 --> 00:04:37,840
+Well, let's say another firm
+says, look at all this profits,
+
+94
+00:04:37,840 --> 00:04:38,840
+I want into this market.
+
+95
+00:04:38,840 --> 00:04:40,215
+The first firm
+will say, I'm just
+
+96
+00:04:40,215 --> 00:04:42,690
+going to tell you right now,
+if you enter this market,
+
+97
+00:04:42,690 --> 00:04:47,330
+I will price at marginal
+cost until you leave.
+
+98
+00:04:47,330 --> 00:04:48,788
+For the first firm,
+they've already
+
+99
+00:04:48,788 --> 00:04:50,372
+paid to lay down the
+pipes, so as long
+
+100
+00:04:50,372 --> 00:04:53,000
+as they're pricing at marginal
+cost, they're not losing money.
+
+101
+00:04:53,000 --> 00:04:57,720
+But for the second firm,
+they will lose money
+
+102
+00:04:57,720 --> 00:04:59,310
+if the firm stays
+at marginal cost.
+
+103
+00:04:59,310 --> 00:05:01,140
+So they'll just never enter.
+
+104
+00:05:01,140 --> 00:05:05,250
+Because they know the first
+firm has a barrier to entry.
+
+105
+00:05:05,250 --> 00:05:08,990
+They have a natural monopoly,
+having laid down those pipes.
+
+106
+00:05:08,990 --> 00:05:13,140
+Having already paid that
+fixed cost, that sunk,
+
+107
+00:05:13,140 --> 00:05:14,730
+they will win any battle.
+
+108
+00:05:14,730 --> 00:05:17,130
+They'll just price at
+or near marginal cost
+
+109
+00:05:17,130 --> 00:05:20,550
+and drive any competitors
+out of the market.
+
+110
+00:05:20,550 --> 00:05:24,840
+So these kinds of essentially
+natural monopolies
+
+111
+00:05:24,840 --> 00:05:31,300
+arise when enormous fixed
+costs create a barrier to entry
+
+112
+00:05:31,300 --> 00:05:34,130
+when enormous fixed costs
+create a barrier to entry.
+
+113
+00:05:34,130 --> 00:05:37,480
+You can see natural monopoly.
+
+114
+00:05:37,480 --> 00:05:41,310
+And that's one common way
+monopolies arise in the world.
+
+115
+00:05:41,310 --> 00:05:42,740
+Think of utilities.
+
+116
+00:05:42,740 --> 00:05:45,820
+Delivering water is a
+classic example of that.
+
+117
+00:05:45,820 --> 00:05:47,680
+That's one way we
+get monopolies.
+
+118
+00:05:47,680 --> 00:05:52,030
+The second way we get monopolies
+is through government action.
+
+119
+00:05:55,380 --> 00:05:59,190
+Governments also create
+monopolies remember,
+
+120
+00:05:59,190 --> 00:06:02,010
+today I told you we talk about
+governments as good guys.
+
+121
+00:06:02,010 --> 00:06:06,390
+But still governments
+can do things which
+
+122
+00:06:06,390 --> 00:06:09,270
+can create deadweight loss.
+
+123
+00:06:09,270 --> 00:06:12,030
+And now sometimes,
+governments do
+
+124
+00:06:12,030 --> 00:06:15,060
+this for a good reason, like
+a natural monopoly reason,
+
+125
+00:06:15,060 --> 00:06:17,340
+like the postal
+service for example.
+
+126
+00:06:17,340 --> 00:06:21,938
+Local postal delivery,
+delivering letters locally,
+
+127
+00:06:21,938 --> 00:06:23,730
+has all the features
+of a natural monopoly.
+
+128
+00:06:23,730 --> 00:06:25,920
+It's a huge fixed cost
+of building all the post
+
+129
+00:06:25,920 --> 00:06:28,740
+offices and a small marginal
+cost of transmitting letters
+
+130
+00:06:28,740 --> 00:06:31,470
+from place to place.
+
+131
+00:06:31,470 --> 00:06:35,030
+Now however, in other cases,
+this is not necessarily true.
+
+132
+00:06:35,030 --> 00:06:38,353
+In the US, we have very few
+government-created monopolies.
+
+133
+00:06:38,353 --> 00:06:40,520
+The rest of the world,
+especially in the developing,
+
+134
+00:06:40,520 --> 00:06:41,860
+it's much more common.
+
+135
+00:06:41,860 --> 00:06:43,610
+Many countries have
+the government control
+
+136
+00:06:43,610 --> 00:06:47,690
+the production of steel,
+the airlines are controlled
+
+137
+00:06:47,690 --> 00:06:50,240
+by the government ,
+banking is often controlled
+
+138
+00:06:50,240 --> 00:06:51,360
+by the government.
+
+139
+00:06:51,360 --> 00:06:53,490
+These are places where
+probably evidence suggests
+
+140
+00:06:53,490 --> 00:06:55,340
+it would be more efficient to
+not have the government control
+
+141
+00:06:55,340 --> 00:06:55,940
+this.
+
+142
+00:06:55,940 --> 00:06:58,930
+There is no real natural
+monopoly in banking.
+
+143
+00:06:58,930 --> 00:07:01,700
+But it's more for political
+reasons that they're created.
+
+144
+00:07:01,700 --> 00:07:03,970
+But that's not really
+that relevant in the US.
+
+145
+00:07:03,970 --> 00:07:05,950
+Even the post office
+isn't a monopoly anymore,
+
+146
+00:07:05,950 --> 00:07:09,370
+with FedEx and UPS and stuff.
+
+147
+00:07:09,370 --> 00:07:12,580
+So it's not really
+relevant in the US.
+
+148
+00:07:12,580 --> 00:07:16,630
+The more relevant for the US,
+way that the government creates
+
+149
+00:07:16,630 --> 00:07:20,290
+monopoly is by creating
+barriers to entry.
+
+150
+00:07:20,290 --> 00:07:21,790
+The government could
+create barriers
+
+151
+00:07:21,790 --> 00:07:24,685
+to entry, the most prominent
+of which is patents.
+
+152
+00:07:27,808 --> 00:07:32,550
+The most prominent barrier
+to entry is a patent.
+
+153
+00:07:32,550 --> 00:07:34,470
+This is the case where
+the fixed cost here
+
+154
+00:07:34,470 --> 00:07:35,770
+isn't building a pipe.
+
+155
+00:07:35,770 --> 00:07:38,610
+It's coming up with an idea.
+
+156
+00:07:38,610 --> 00:07:41,340
+And that basically
+the government
+
+157
+00:07:41,340 --> 00:07:45,030
+has a law which says that,
+if you have a new idea
+
+158
+00:07:45,030 --> 00:07:49,010
+and you patent it, you
+are granted a monopoly
+
+159
+00:07:49,010 --> 00:07:51,290
+to sell the
+resulting good for 20
+
+160
+00:07:51,290 --> 00:07:54,630
+years from the date of patent.
+
+161
+00:07:54,630 --> 00:07:57,610
+So when you patent
+a good, you're
+
+162
+00:07:57,610 --> 00:08:01,380
+granted the right to a monopoly
+over that market for 20 years.
+
+163
+00:08:01,380 --> 00:08:03,720
+Essentially, the government
+is creating a monopoly.
+
+164
+00:08:03,720 --> 00:08:06,180
+It's saying, once
+you've patented that--
+
+165
+00:08:06,180 --> 00:08:08,250
+now remember, very
+importantly-- especially
+
+166
+00:08:08,250 --> 00:08:10,425
+for drug development--
+it's not the date at which
+
+167
+00:08:10,425 --> 00:08:11,820
+the good comes to market.
+
+168
+00:08:11,820 --> 00:08:13,800
+It's the data at which you file.
+
+169
+00:08:13,800 --> 00:08:15,990
+So if you file for a
+patent and it takes you
+
+170
+00:08:15,990 --> 00:08:17,910
+19 years to develop the
+product, then you only
+
+171
+00:08:17,910 --> 00:08:19,930
+get one year monopoly
+in the market.
+
+172
+00:08:19,930 --> 00:08:20,810
+So it's the sum.
+
+173
+00:08:20,810 --> 00:08:23,352
+20 years is both the development
+period and the sales period.
+
+174
+00:08:23,352 --> 00:08:26,310
+You get 20 years from
+the date you file.
+
+175
+00:08:26,310 --> 00:08:29,550
+Now, patents are quite
+interesting because the welfare
+
+176
+00:08:29,550 --> 00:08:32,470
+implications are kind of mixed.
+
+177
+00:08:32,470 --> 00:08:37,919
+On the one hand, a patent,
+by creating monopoly,
+
+178
+00:08:37,919 --> 00:08:39,990
+creates deadweight loss.
+
+179
+00:08:39,990 --> 00:08:43,770
+For potentially up
+to 20 years, you've
+
+180
+00:08:43,770 --> 00:08:45,715
+got deadweight loss
+in that market,
+
+181
+00:08:45,715 --> 00:08:47,340
+because one firm has
+the monopoly right
+
+182
+00:08:47,340 --> 00:08:49,860
+to sell the good.
+
+183
+00:08:49,860 --> 00:08:54,360
+On the other hand, why might
+patents be a good idea.
+
+184
+00:08:54,360 --> 00:08:55,023
+Yeah.
+
+185
+00:08:55,023 --> 00:08:57,405
+AUDIENCE: [INAUDIBLE]
+for developing drugs,
+
+186
+00:08:57,405 --> 00:08:59,905
+the company that can't
+ever make any money off
+
+187
+00:08:59,905 --> 00:09:01,820
+of its research and
+development costs
+
+188
+00:09:01,820 --> 00:09:05,262
+will never be incentivized
+to develop it [INAUDIBLE]..
+
+189
+00:09:05,262 --> 00:09:06,220
+JONATHAN GRUBER: Right.
+
+190
+00:09:06,220 --> 00:09:11,050
+Because research and development
+is a huge fixed cost.
+
+191
+00:09:11,050 --> 00:09:12,550
+And if you pay that
+huge fixed cost,
+
+192
+00:09:12,550 --> 00:09:15,160
+and the minute you develop it
+someone else can just copy you,
+
+193
+00:09:15,160 --> 00:09:17,320
+then you'd never invest
+those fixed costs.
+
+194
+00:09:21,370 --> 00:09:23,860
+We'll talk later in the
+course about externalities.
+
+195
+00:09:23,860 --> 00:09:27,700
+But you think of this as
+sort of a positive spillover
+
+196
+00:09:27,700 --> 00:09:34,700
+from R&D. When firms do R&D,
+when a firm invents something,
+
+197
+00:09:34,700 --> 00:09:38,970
+it benefits everybody who
+might produce that good.
+
+198
+00:09:38,970 --> 00:09:41,540
+So if I invent something,
+then everybody could copy me,
+
+199
+00:09:41,540 --> 00:09:42,770
+could benefit.
+
+200
+00:09:42,770 --> 00:09:45,215
+So I will not invest
+in R&D unless I
+
+201
+00:09:45,215 --> 00:09:47,090
+can be sure I might get
+some money out of it.
+
+202
+00:09:47,090 --> 00:09:49,130
+And that's what the patent does.
+
+203
+00:09:49,130 --> 00:09:51,920
+It reduces those
+spillovers by saying, OK,
+
+204
+00:09:51,920 --> 00:09:54,620
+you get to own this for 20
+years and make some money on it.
+
+205
+00:09:54,620 --> 00:09:56,870
+Therefore, go ahead and invest.
+
+206
+00:09:56,870 --> 00:09:59,210
+In other words,
+what a patent does
+
+207
+00:09:59,210 --> 00:10:02,500
+is, essentially, the
+government's saying,
+
+208
+00:10:02,500 --> 00:10:05,460
+you're going to get a reward
+for being first to market.
+
+209
+00:10:05,460 --> 00:10:08,780
+And that reward is 20
+years of privilege of being
+
+210
+00:10:08,780 --> 00:10:09,917
+a monopolist in a market.
+
+211
+00:10:09,917 --> 00:10:12,250
+Therefore, that's an incentive
+for you to go and invent.
+
+212
+00:10:12,250 --> 00:10:12,900
+Yeah.
+
+213
+00:10:12,900 --> 00:10:15,400
+AUDIENCE: What's the process
+like for extending your patent?
+
+214
+00:10:15,400 --> 00:10:16,977
+Because I know
+Disney, for example,
+
+215
+00:10:16,977 --> 00:10:20,050
+has [INAUDIBLE]
+which is giving them
+
+216
+00:10:20,050 --> 00:10:22,040
+more years than what they had?
+
+217
+00:10:22,040 --> 00:10:23,095
+JONATHAN GRUBER: That's
+a very detailed concept
+
+218
+00:10:23,095 --> 00:10:24,560
+that I don't have
+enough time to get into,
+
+219
+00:10:24,560 --> 00:10:26,910
+but there's a whole bunch of
+legal battles around that.
+
+220
+00:10:26,910 --> 00:10:30,440
+But the bottom line is,
+there's a patent tradeoff here.
+
+221
+00:10:30,440 --> 00:10:34,100
+The tradeoff is,
+on the one hand,
+
+222
+00:10:34,100 --> 00:10:36,700
+it's what we call a static
+versus dynamic tradeoff, sort
+
+223
+00:10:36,700 --> 00:10:38,350
+of today versus the future.
+
+224
+00:10:38,350 --> 00:10:41,650
+At any point in time, there's
+a ton of deadweight loss
+
+225
+00:10:41,650 --> 00:10:44,080
+out there, because
+monopolists who have patents
+
+226
+00:10:44,080 --> 00:10:46,830
+are under-producing.
+
+227
+00:10:46,830 --> 00:10:50,700
+At the same time,
+over time, we're
+
+228
+00:10:50,700 --> 00:10:53,290
+getting cool new products
+because of patents.
+
+229
+00:10:53,290 --> 00:10:55,950
+And that's the tradeoff.
+
+230
+00:10:55,950 --> 00:10:57,870
+How did 20 years get picked?
+
+231
+00:10:57,870 --> 00:10:59,700
+Ideally, you'd have
+some optimal period
+
+232
+00:10:59,700 --> 00:11:02,520
+to resolve that tradeoff, the
+ultimate result of a tradeoff
+
+233
+00:11:02,520 --> 00:11:05,448
+long enough to get creation,
+but short enough so
+
+234
+00:11:05,448 --> 00:11:06,990
+that the gains on
+that creation don't
+
+235
+00:11:06,990 --> 00:11:10,140
+exceed the deadweight
+loss from monopoly.
+
+236
+00:11:10,140 --> 00:11:11,910
+And that's an example
+how a monopoly can
+
+237
+00:11:11,910 --> 00:11:13,680
+arise from a government action.
+
+238
+00:11:13,680 --> 00:11:17,700
+And the point is that, for both
+natural monopolies and patents,
+
+239
+00:11:17,700 --> 00:11:20,890
+there are legitimate reasons
+for monopolies to arise.
+
+240
+00:11:20,890 --> 00:11:24,240
+So what I want to say is,
+monopolies are not bad.
+
+241
+00:11:24,240 --> 00:11:29,200
+They're not necessarily an
+inherent flaw in the system.
+
+242
+00:11:29,200 --> 00:11:31,200
+There are legitimate
+reasons to have monopolies,
+
+243
+00:11:31,200 --> 00:11:34,470
+both because of natural
+monopoly and because of patent.
+
+244
+00:11:34,470 --> 00:11:38,960
+But they do, at any point in
+time, create deadweight loss.
+
+245
+00:11:38,960 --> 00:11:39,830
+Yeah.
+
+246
+00:11:39,830 --> 00:11:43,580
+AUDIENCE: Is there
+a way to measure
+
+247
+00:11:43,580 --> 00:11:48,475
+how the impact of [INAUDIBLE]
+something that receives patent,
+
+248
+00:11:48,475 --> 00:11:51,580
+like how [INAUDIBLE] that
+relates to the deadweight loss
+
+249
+00:11:51,580 --> 00:11:52,080
+[INAUDIBLE]?
+
+250
+00:11:52,080 --> 00:11:52,960
+JONATHAN GRUBER: It's
+a great question.
+
+251
+00:11:52,960 --> 00:11:55,350
+There are people who do
+spend their lives doing that.
+
+252
+00:11:55,350 --> 00:11:59,760
+And basically, the
+way you would do
+
+253
+00:11:59,760 --> 00:12:02,190
+it is you would essentially
+measure the consumer
+
+254
+00:12:02,190 --> 00:12:04,950
+surplus created from the
+new good, versus-- it
+
+255
+00:12:04,950 --> 00:12:06,120
+would be the triangle sizes.
+
+256
+00:12:06,120 --> 00:12:07,345
+It would be, how much
+consumer surplus would
+
+257
+00:12:07,345 --> 00:12:08,730
+you get from the new good
+versus deadweight loss
+
+258
+00:12:08,730 --> 00:12:10,500
+from that good sales
+being restricted.
+
+259
+00:12:10,500 --> 00:12:11,917
+Now obviously, if
+it's a good that
+
+260
+00:12:11,917 --> 00:12:14,160
+never would have existed
+otherwise, by definition,
+
+261
+00:12:14,160 --> 00:12:15,445
+the patent's a good thing.
+
+262
+00:12:15,445 --> 00:12:17,070
+Because who cares
+about deadweight loss
+
+263
+00:12:17,070 --> 00:12:19,153
+if you never would have
+had it in the first place.
+
+264
+00:12:19,153 --> 00:12:21,390
+The question really is
+about the substitutability.
+
+265
+00:12:21,390 --> 00:12:23,010
+If you're patenting
+something which
+
+266
+00:12:23,010 --> 00:12:26,650
+is only incrementally better,
+then maybe it's not worth it.
+
+267
+00:12:26,650 --> 00:12:29,470
+So that's sort of the tradeoff.
+
+268
+00:12:29,470 --> 00:12:31,770
+Other questions?
+
+269
+00:12:31,770 --> 00:12:39,610
+OK, so now let's talk about
+addressing or regulating
+
+270
+00:12:39,610 --> 00:12:40,360
+monopolies.
+
+271
+00:12:43,540 --> 00:12:46,450
+Let's go back to think about
+our natural monopoly case.
+
+272
+00:12:50,410 --> 00:12:52,960
+Let's think about our
+natural monopoly case.
+
+273
+00:12:54,787 --> 00:12:57,120
+Actually, I'm going to call
+this section not regulating.
+
+274
+00:12:57,120 --> 00:12:59,380
+I'm going to call this
+addressing monopolies,
+
+275
+00:12:59,380 --> 00:13:02,400
+addressing monopolies.
+
+276
+00:13:02,400 --> 00:13:05,520
+There are different ways that
+we can address monopolies.
+
+277
+00:13:05,520 --> 00:13:09,310
+And we'll go back to our natural
+monopoly case to make it easy.
+
+278
+00:13:09,310 --> 00:13:11,680
+The first way we
+can address monopoly
+
+279
+00:13:11,680 --> 00:13:15,740
+is through government
+regulation.
+
+280
+00:13:15,740 --> 00:13:16,760
+So let's step back here.
+
+281
+00:13:16,760 --> 00:13:19,680
+The bottom line is, we have
+a monopoly that should exist,
+
+282
+00:13:19,680 --> 00:13:22,021
+say a natural monopoly.
+
+283
+00:13:22,021 --> 00:13:23,620
+It exists naturally.
+
+284
+00:13:23,620 --> 00:13:27,250
+At the same time, that is
+creating a deadweight loss.
+
+285
+00:13:27,250 --> 00:13:29,390
+It's creating inefficiency.
+
+286
+00:13:29,390 --> 00:13:31,640
+So the brilliance,
+the insight of
+
+287
+00:13:31,640 --> 00:13:33,950
+the first fundamental
+theorem of all for economics
+
+288
+00:13:33,950 --> 00:13:36,317
+was, the competition
+through entry and exit
+
+289
+00:13:36,317 --> 00:13:38,150
+will bring us the
+efficient production level
+
+290
+00:13:38,150 --> 00:13:40,560
+and reduce deadweight loss.
+
+291
+00:13:40,560 --> 00:13:42,840
+Here with a natural
+monopoly, that doesn't work.
+
+292
+00:13:42,840 --> 00:13:45,010
+Competition can't
+work, therefore,
+
+293
+00:13:45,010 --> 00:13:46,770
+we end up with a
+deadweight loss,
+
+294
+00:13:46,770 --> 00:13:49,420
+because the firm that owns
+the market is under-producing.
+
+295
+00:13:52,120 --> 00:13:54,880
+This is the first case, as I
+mentioned last time, of what we
+
+296
+00:13:54,880 --> 00:13:57,660
+call a market failure.
+
+297
+00:13:57,660 --> 00:14:01,520
+The market outcome
+is not delivering
+
+298
+00:14:01,520 --> 00:14:05,810
+the welfare-maximizing
+result. And once there's
+
+299
+00:14:05,810 --> 00:14:08,540
+a market failure, there is
+a potential beneficial role
+
+300
+00:14:08,540 --> 00:14:09,610
+for government.
+
+301
+00:14:09,610 --> 00:14:11,360
+I said last time, with
+no market failures,
+
+302
+00:14:11,360 --> 00:14:13,280
+government's just the bad guy.
+
+303
+00:14:13,280 --> 00:14:18,350
+With no market failures,
+all government can do,
+
+304
+00:14:18,350 --> 00:14:19,960
+it can help with
+the redistribution.
+
+305
+00:14:19,960 --> 00:14:21,290
+But from an efficiency
+perspective,
+
+306
+00:14:21,290 --> 00:14:23,290
+all the government can
+do is muck up the market.
+
+307
+00:14:23,290 --> 00:14:25,160
+But once there's
+a market failure,
+
+308
+00:14:25,160 --> 00:14:28,700
+there's a potential role for
+the government addressing it.
+
+309
+00:14:28,700 --> 00:14:31,370
+So to see that, let's return
+to our monopoly example
+
+310
+00:14:31,370 --> 00:14:36,320
+from last time in figure 12.2.
+
+311
+00:14:36,320 --> 00:14:39,840
+Figure 12.2 is our monopoly
+example from last time.
+
+312
+00:14:39,840 --> 00:14:42,690
+Remember, we had
+demand curve that
+
+313
+00:14:42,690 --> 00:14:47,170
+was Q equals 24 minus
+P. We had a cost
+
+314
+00:14:47,170 --> 00:14:52,290
+curve that delivered the
+marginal cost of MC equals 2Q.
+
+315
+00:14:52,290 --> 00:14:55,320
+And that's graphed here.
+
+316
+00:14:55,320 --> 00:14:59,340
+And we said last time
+that the monopoly outcome
+
+317
+00:14:59,340 --> 00:15:02,610
+would be at E sub M. The
+monopolist would sell
+
+318
+00:15:02,610 --> 00:15:04,710
+6 units at the price
+of 18, creating
+
+319
+00:15:04,710 --> 00:15:08,500
+a deadweight loss of C plus E.
+
+320
+00:15:08,500 --> 00:15:13,780
+Now, what if the government
+came along and simply mandated
+
+321
+00:15:13,780 --> 00:15:18,797
+that the monopolist was not
+allowed to charge more than 16?
+
+322
+00:15:18,797 --> 00:15:21,130
+The government says, look, I
+understand it's a monopoly.
+
+323
+00:15:21,130 --> 00:15:22,570
+I'm not going to try to
+break up the monopoly.
+
+324
+00:15:22,570 --> 00:15:24,040
+It's a natural
+monopoly, whatever.
+
+325
+00:15:24,040 --> 00:15:26,900
+Simple rule-- price
+ceiling of 16.
+
+326
+00:15:26,900 --> 00:15:29,440
+Now, when I mentioned pricing
+a couple of lectures ago,
+
+327
+00:15:29,440 --> 00:15:30,940
+you should have
+learned to say, boo,
+
+328
+00:15:30,940 --> 00:15:33,940
+price ceilings, bad, increase
+deadweight loss, terrible.
+
+329
+00:15:33,940 --> 00:15:36,790
+But now, suddenly
+a price ceiling
+
+330
+00:15:36,790 --> 00:15:39,290
+can actually get rid
+of deadweight loss.
+
+331
+00:15:39,290 --> 00:15:40,390
+How's that possible?
+
+332
+00:15:40,390 --> 00:15:41,140
+Let's take a look.
+
+333
+00:15:43,830 --> 00:15:48,510
+In this case, the monopolist
+knew marginal revenue curve
+
+334
+00:15:48,510 --> 00:15:51,660
+is a bit different.
+
+335
+00:15:51,660 --> 00:15:55,380
+The new marginal revenue curve
+is the old marginal revenue
+
+336
+00:15:55,380 --> 00:16:00,700
+curve, until you
+get to the point
+
+337
+00:16:00,700 --> 00:16:04,750
+where the first dashed line
+intersects marginal revenue.
+
+338
+00:16:04,750 --> 00:16:07,180
+It's the old marginal
+revenue curve,
+
+339
+00:16:07,180 --> 00:16:11,900
+until you get where the marginal
+cost crosses marginal revenue.
+
+340
+00:16:11,900 --> 00:16:15,830
+Then it jumps to
+the flat line at 16.
+
+341
+00:16:23,300 --> 00:16:25,880
+Essentially, the new
+marginal revenue curve
+
+342
+00:16:25,880 --> 00:16:28,057
+is downward sloping
+till the point
+
+343
+00:16:28,057 --> 00:16:29,890
+where marginal cost
+equals marginal revenue.
+
+344
+00:16:29,890 --> 00:16:33,890
+Then it jumps back
+up to the flat part
+
+345
+00:16:33,890 --> 00:16:37,130
+that goes from 6 to 8.
+
+346
+00:16:37,130 --> 00:16:39,020
+Now the exact shape
+doesn't matter.
+
+347
+00:16:39,020 --> 00:16:40,820
+It's the intuition that matters.
+
+348
+00:16:40,820 --> 00:16:42,410
+The point is the following.
+
+349
+00:16:42,410 --> 00:16:44,870
+Think about the
+monopolist's decision.
+
+350
+00:16:44,870 --> 00:16:48,170
+He decides, based on the
+logic of the last time,
+
+351
+00:16:48,170 --> 00:16:49,400
+to sell six units.
+
+352
+00:16:49,400 --> 00:16:50,900
+That's the point
+where the poisoning
+
+353
+00:16:50,900 --> 00:16:53,867
+effect offsets the benefits
+of selling another unit.
+
+354
+00:16:53,867 --> 00:16:55,700
+Now let's say the
+government comes and says,
+
+355
+00:16:55,700 --> 00:16:58,952
+monopolists, you can't
+charge more than 16.
+
+356
+00:16:58,952 --> 00:17:01,760
+Well, once a monopolist
+is forced to charge 16,
+
+357
+00:17:01,760 --> 00:17:06,530
+now think about her decision
+to sell the seventh unit.
+
+358
+00:17:06,530 --> 00:17:08,849
+Well, before she didn't want
+to sell the seventh unit,
+
+359
+00:17:08,849 --> 00:17:10,819
+because selling the
+seventh unit meant she
+
+360
+00:17:10,819 --> 00:17:13,400
+had to lower the price to 17.
+
+361
+00:17:13,400 --> 00:17:16,130
+Well now she has to lower
+the price to 16 already,
+
+362
+00:17:16,130 --> 00:17:18,140
+so why not sell
+the seventh unit?
+
+363
+00:17:18,140 --> 00:17:21,700
+Indeed, why not sell
+the eighth unit?
+
+364
+00:17:21,700 --> 00:17:24,369
+We've essentially gotten
+rid of the poisoning effect
+
+365
+00:17:24,369 --> 00:17:26,890
+by pre-poisoning them, by
+already telling them, look,
+
+366
+00:17:26,890 --> 00:17:29,020
+you can't charge more than 16.
+
+367
+00:17:29,020 --> 00:17:30,920
+There's no way to
+charge more than that,
+
+368
+00:17:30,920 --> 00:17:34,960
+so you might as well
+sell eight units.
+
+369
+00:17:34,960 --> 00:17:36,970
+So by telling the
+monopolist they
+
+370
+00:17:36,970 --> 00:17:39,130
+have to charge a
+competitive price,
+
+371
+00:17:39,130 --> 00:17:42,190
+you will force them to sell
+the competitive quantity
+
+372
+00:17:42,190 --> 00:17:44,450
+and you get rid of
+deadweight loss.
+
+373
+00:17:44,450 --> 00:17:47,080
+That's our first example
+of how the government has
+
+374
+00:17:47,080 --> 00:17:48,773
+improved things.
+
+375
+00:17:48,773 --> 00:17:50,940
+The government has gotten
+rid of the deadweight loss
+
+376
+00:17:50,940 --> 00:17:52,830
+by setting a price ceiling.
+
+377
+00:17:52,830 --> 00:17:55,560
+Price ceiling, in a perfect
+market, is only bad,
+
+378
+00:17:55,560 --> 00:18:00,830
+but a price ceiling here
+can actually improve things.
+
+379
+00:18:00,830 --> 00:18:03,560
+So that actually
+sounds pretty good.
+
+380
+00:18:03,560 --> 00:18:04,677
+So what's the problem?
+
+381
+00:18:04,677 --> 00:18:06,260
+Why not, in reality,
+just say, hey, we
+
+382
+00:18:06,260 --> 00:18:07,718
+can solve all our
+monopoly problems
+
+383
+00:18:07,718 --> 00:18:09,770
+by just having the
+government regulate the price
+
+384
+00:18:09,770 --> 00:18:11,785
+at the competitive level?
+
+385
+00:18:11,785 --> 00:18:13,910
+What's the problem, in
+reality, with that solution?
+
+386
+00:18:13,910 --> 00:18:14,050
+Yeah.
+
+387
+00:18:14,050 --> 00:18:15,364
+AUDIENCE: How would
+the government
+
+388
+00:18:15,364 --> 00:18:16,420
+know the competitive level?
+
+389
+00:18:16,420 --> 00:18:17,200
+JONATHAN GRUBER: How the
+hell does the government
+
+390
+00:18:17,200 --> 00:18:18,117
+the competitive level?
+
+391
+00:18:18,117 --> 00:18:19,610
+It's great with this chart.
+
+392
+00:18:19,610 --> 00:18:21,225
+But in reality, the
+government doesn't
+
+393
+00:18:21,225 --> 00:18:23,350
+know where the competitive
+level is because there's
+
+394
+00:18:23,350 --> 00:18:24,225
+two difficult points.
+
+395
+00:18:24,225 --> 00:18:25,933
+What does the government
+need to collect?
+
+396
+00:18:25,933 --> 00:18:27,640
+First of all, the
+government needs
+
+397
+00:18:27,640 --> 00:18:30,435
+to know what the
+demand curve is.
+
+398
+00:18:30,435 --> 00:18:31,810
+Well, it turns
+out demand curve's
+
+399
+00:18:31,810 --> 00:18:37,720
+aren't written on our foreheads
+or out there on the dark web.
+
+400
+00:18:37,720 --> 00:18:40,360
+Demand curves are something
+which you have to estimate.
+
+401
+00:18:40,360 --> 00:18:42,460
+You have to gather
+information from people.
+
+402
+00:18:42,460 --> 00:18:45,070
+And it turns out that
+it's pretty hard.
+
+403
+00:18:45,070 --> 00:18:47,680
+Because if you want
+to gather information
+
+404
+00:18:47,680 --> 00:18:50,050
+on what people are
+willing to pay for apples,
+
+405
+00:18:50,050 --> 00:18:52,383
+you can just go to stores and
+look at the prices charged
+
+406
+00:18:52,383 --> 00:18:53,090
+for apples.
+
+407
+00:18:53,090 --> 00:18:54,610
+But if you want to gather
+information on the willingness
+
+408
+00:18:54,610 --> 00:18:56,770
+to pay for getting water
+delivered to your house,
+
+409
+00:18:56,770 --> 00:18:59,500
+there's no market to turn to.
+
+410
+00:18:59,500 --> 00:19:02,110
+It turns out to be
+pretty hard to figure out
+
+411
+00:19:02,110 --> 00:19:05,740
+how you value a lot of goods,
+which is natural monopolies.
+
+412
+00:19:05,740 --> 00:19:08,183
+Now, you might say,
+well, why do you just ask
+
+413
+00:19:08,183 --> 00:19:09,475
+people what it's worth to them?
+
+414
+00:19:09,475 --> 00:19:12,160
+You just say to people, look,
+tell me you demand for water.
+
+415
+00:19:12,160 --> 00:19:14,368
+It turns out that's really
+hard because people aren't
+
+416
+00:19:14,368 --> 00:19:17,080
+very good at thinking
+about how to assign prices
+
+417
+00:19:17,080 --> 00:19:18,370
+to things they don't shop for.
+
+418
+00:19:22,310 --> 00:19:24,050
+If I say to you,
+what's an apple worth,
+
+419
+00:19:24,050 --> 00:19:24,920
+the first thing in
+your head is, you
+
+420
+00:19:24,920 --> 00:19:26,390
+think about being in a
+supermarket looking at apples
+
+421
+00:19:26,390 --> 00:19:27,480
+and what they cost.
+
+422
+00:19:27,480 --> 00:19:29,147
+You don't think about
+the inherent value
+
+423
+00:19:29,147 --> 00:19:32,240
+to you of consuming an apple.
+
+424
+00:19:32,240 --> 00:19:34,525
+But when you think about
+what water is worth,
+
+425
+00:19:34,525 --> 00:19:36,650
+you have to think about
+sort of the inherent value.
+
+426
+00:19:36,650 --> 00:19:38,930
+And so you have to
+rely on something
+
+427
+00:19:38,930 --> 00:19:44,570
+that we call contingent
+valuation, which
+
+428
+00:19:44,570 --> 00:19:46,670
+is the economist's fancy
+word for just asking
+
+429
+00:19:46,670 --> 00:19:47,962
+people what it's worth to them.
+
+430
+00:19:50,635 --> 00:19:52,760
+The problem is, people
+aren't very good about that.
+
+431
+00:19:52,760 --> 00:19:55,060
+So for example, a
+classic case was the rise
+
+432
+00:19:55,060 --> 00:19:57,180
+in environmental issues.
+
+433
+00:19:57,180 --> 00:19:59,270
+How much is it worth
+to have clean air?
+
+434
+00:19:59,270 --> 00:20:02,580
+How much is it worth to
+save the Grand Canyon?
+
+435
+00:20:02,580 --> 00:20:04,770
+So it turns out people
+give sort of crazy answers
+
+436
+00:20:04,770 --> 00:20:08,935
+that violate all the rules we
+set up in the first lecture
+
+437
+00:20:08,935 --> 00:20:09,810
+by utility functions.
+
+438
+00:20:09,810 --> 00:20:12,215
+Like for example,
+if you asked folks
+
+439
+00:20:12,215 --> 00:20:13,590
+what it's worth
+to save the Grand
+
+440
+00:20:13,590 --> 00:20:16,740
+Canyon as a single question,
+and then you ask them
+
+441
+00:20:16,740 --> 00:20:20,520
+as the third question on the
+list, it's worth 1/5 as much
+
+442
+00:20:20,520 --> 00:20:23,150
+to save the Grand Canyon was
+the third question on the list,
+
+443
+00:20:23,150 --> 00:20:24,472
+which doesn't make any sense.
+
+444
+00:20:24,472 --> 00:20:26,430
+It doesn't matter what
+the other questions are.
+
+445
+00:20:26,430 --> 00:20:28,770
+If you ask people,
+how much they would
+
+446
+00:20:28,770 --> 00:20:32,600
+pay to save seals and
+whales, in that order,
+
+447
+00:20:32,600 --> 00:20:40,410
+they'd say saving seals is
+worth $142 and whales $195.
+
+448
+00:20:40,410 --> 00:20:42,140
+So whales and seals
+are about the same.
+
+449
+00:20:42,140 --> 00:20:44,040
+But when you reverse
+the order, whales
+
+450
+00:20:44,040 --> 00:20:46,260
+are worth about twice
+what seals are worth, just
+
+451
+00:20:46,260 --> 00:20:47,950
+by reversing the order.
+
+452
+00:20:47,950 --> 00:20:49,560
+Well, more
+relevantly, if you ask
+
+453
+00:20:49,560 --> 00:20:51,990
+people what it's worth to
+save a bird or 10 birds
+
+454
+00:20:51,990 --> 00:20:53,530
+or 1,000 birds or
+a million birds,
+
+455
+00:20:53,530 --> 00:20:55,890
+they give you pretty
+much the same answer,
+
+456
+00:20:55,890 --> 00:20:57,730
+which doesn't make any sense.
+
+457
+00:20:57,730 --> 00:21:00,330
+So basically, the problem is
+these contingent valuation
+
+458
+00:21:00,330 --> 00:21:03,060
+methods don't really
+give sensible answers.
+
+459
+00:21:03,060 --> 00:21:05,328
+And it's very hard to
+get sensible answers.
+
+460
+00:21:05,328 --> 00:21:06,870
+In my other course,
+Public Economics,
+
+461
+00:21:06,870 --> 00:21:09,780
+we talk about lots of
+interesting clever methods
+
+462
+00:21:09,780 --> 00:21:11,970
+for trying to get people
+to reveal their preferences
+
+463
+00:21:11,970 --> 00:21:13,290
+for these public goods.
+
+464
+00:21:13,290 --> 00:21:14,775
+But it turns out to be hard.
+
+465
+00:21:14,775 --> 00:21:17,150
+So that's one problem, is it's
+hard to measure the demand
+
+466
+00:21:17,150 --> 00:21:18,240
+curve.
+
+467
+00:21:18,240 --> 00:21:21,870
+The other problem is, it's hard
+to measure the supply curve.
+
+468
+00:21:21,870 --> 00:21:24,360
+Because where does
+supply curve come from?
+
+469
+00:21:24,360 --> 00:21:27,000
+It's sort of a firm's
+marginal cost function.
+
+470
+00:21:27,000 --> 00:21:31,170
+You as the regulator do not
+know what their marginal cost
+
+471
+00:21:31,170 --> 00:21:32,490
+function is.
+
+472
+00:21:32,490 --> 00:21:33,510
+So how do you find out?
+
+473
+00:21:33,510 --> 00:21:34,420
+You ask them.
+
+474
+00:21:34,420 --> 00:21:37,170
+You say, hey, business
+I'm going to regulate,
+
+475
+00:21:37,170 --> 00:21:39,090
+I'd like to know what
+your marginal cost is.
+
+476
+00:21:39,090 --> 00:21:41,310
+And by the way, the
+lower you tell me
+
+477
+00:21:41,310 --> 00:21:44,032
+it is, the lower price I'm
+going to let you charge.
+
+478
+00:21:44,032 --> 00:21:45,240
+So what's your marginal cost?
+
+479
+00:21:45,240 --> 00:21:47,325
+Oh, god, our marginal
+cost is horribly high.
+
+480
+00:21:47,325 --> 00:21:48,080
+It terrible.
+
+481
+00:21:48,080 --> 00:21:50,078
+You wouldn't believe
+it, can't complain
+
+482
+00:21:50,078 --> 00:21:51,870
+enough about how high
+our marginal cost is.
+
+483
+00:21:51,870 --> 00:21:54,630
+And basically, unless the
+regulator perfectly knows
+
+484
+00:21:54,630 --> 00:21:56,460
+the production function
+and perfectly knows
+
+485
+00:21:56,460 --> 00:21:58,585
+the input prices, none of
+which are perfectly known
+
+486
+00:21:58,585 --> 00:22:00,183
+by anybody but the
+firm, they aren't
+
+487
+00:22:00,183 --> 00:22:02,100
+going to know what the
+supply curve looks like
+
+488
+00:22:02,100 --> 00:22:03,910
+and what the marginal
+cost looks like.
+
+489
+00:22:03,910 --> 00:22:05,481
+Question.
+
+490
+00:22:05,481 --> 00:22:09,530
+AUDIENCE: Couldn't they also,
+say, in a public company,
+
+491
+00:22:09,530 --> 00:22:12,320
+basically inspect their factory
+and manufacturing [INAUDIBLE]??
+
+492
+00:22:12,320 --> 00:22:13,500
+JONATHAN GRUBER: You
+could absolutely do that
+
+493
+00:22:13,500 --> 00:22:15,150
+and you can try to collect data.
+
+494
+00:22:15,150 --> 00:22:18,200
+But ultimately, they could,
+that day that you show up
+
+495
+00:22:18,200 --> 00:22:21,140
+with the inspector, have a
+really expensive-looking setup
+
+496
+00:22:21,140 --> 00:22:22,460
+in their factory or whatever.
+
+497
+00:22:22,460 --> 00:22:26,120
+It's basically very, very hard.
+
+498
+00:22:26,120 --> 00:22:31,292
+So basically, the problem is
+that regulation-- and this
+
+499
+00:22:31,292 --> 00:22:32,750
+will generally be
+a feature when we
+
+500
+00:22:32,750 --> 00:22:35,420
+talk about the benefits of
+government intervention.
+
+501
+00:22:35,420 --> 00:22:39,557
+We'll say, market
+failure makes it possible
+
+502
+00:22:39,557 --> 00:22:41,390
+that government
+intervention can make things
+
+503
+00:22:41,390 --> 00:22:43,682
+better, but not definite.
+
+504
+00:22:43,682 --> 00:22:45,140
+So the way to think
+about the logic
+
+505
+00:22:45,140 --> 00:22:48,230
+is, in a perfectly competitive
+market with no market failure,
+
+506
+00:22:48,230 --> 00:22:51,210
+government intervention only
+makes things less efficient.
+
+507
+00:22:51,210 --> 00:22:52,850
+We're leaving
+redistribution aside.
+
+508
+00:22:52,850 --> 00:22:54,650
+It only makes things
+less efficient.
+
+509
+00:22:54,650 --> 00:22:56,720
+When you move to
+markets with failure,
+
+510
+00:22:56,720 --> 00:22:59,510
+you open up the possibility
+that government intervention
+
+511
+00:22:59,510 --> 00:23:02,850
+can make things better, but
+not for sure that it will.
+
+512
+00:23:02,850 --> 00:23:04,700
+You open up the possibility.
+
+513
+00:23:04,700 --> 00:23:06,710
+It's a necessary but not
+a sufficient condition
+
+514
+00:23:06,710 --> 00:23:08,880
+for saying the government
+improves efficiency.
+
+515
+00:23:08,880 --> 00:23:13,400
+So for example, imagine
+that the government came in
+
+516
+00:23:13,400 --> 00:23:15,830
+to this market
+and said, we think
+
+517
+00:23:15,830 --> 00:23:19,640
+the competitive price is 10.
+
+518
+00:23:19,640 --> 00:23:21,460
+We think the
+competitive price is 10.
+
+519
+00:23:21,460 --> 00:23:24,470
+Well, if the government
+set the price equal to 10,
+
+520
+00:23:24,470 --> 00:23:28,810
+we know that firms
+are going to produce
+
+521
+00:23:28,810 --> 00:23:31,533
+where marginal revenue--
+
+522
+00:23:31,533 --> 00:23:32,950
+which is now just
+10, because it's
+
+523
+00:23:32,950 --> 00:23:39,310
+regulated-- equals marginal
+cost, so where 10 equals 2q.
+
+524
+00:23:39,310 --> 00:23:41,960
+Little q and big Q are the
+same because of the monopolist.
+
+525
+00:23:41,960 --> 00:23:45,910
+Where 10 equals 2q,
+or where q equals 5.
+
+526
+00:23:45,910 --> 00:23:47,590
+So if the government
+comes in and says,
+
+527
+00:23:47,590 --> 00:23:49,360
+we're fixing your
+price at 10, we
+
+528
+00:23:49,360 --> 00:23:51,976
+know the firm
+produced five units.
+
+529
+00:23:51,976 --> 00:23:55,468
+Well, with five units, the
+deadweight loss is even bigger.
+
+530
+00:23:55,468 --> 00:23:58,010
+The key trick with deadweight
+loss triangles, deadweight loss
+
+531
+00:23:58,010 --> 00:24:00,350
+is essentially
+proportional to how far you
+
+532
+00:24:00,350 --> 00:24:02,050
+deviate from the optimal point.
+
+533
+00:24:02,050 --> 00:24:03,470
+So the more you
+move to the left,
+
+534
+00:24:03,470 --> 00:24:05,600
+the bigger the deadweight
+loss triangle is going to get.
+
+535
+00:24:05,600 --> 00:24:07,100
+So deadweight loss
+with 5 units sold
+
+536
+00:24:07,100 --> 00:24:09,520
+is bigger than deadweight
+loss with 6 units sold.
+
+537
+00:24:09,520 --> 00:24:12,590
+So the government's
+actually made things worse.
+
+538
+00:24:12,590 --> 00:24:14,460
+By coming and setting
+this price of 10,
+
+539
+00:24:14,460 --> 00:24:17,690
+the government's
+made things worse.
+
+540
+00:24:17,690 --> 00:24:19,340
+Indeed, the government
+could actually
+
+541
+00:24:19,340 --> 00:24:21,442
+set the price so
+low you shut down.
+
+542
+00:24:21,442 --> 00:24:23,900
+The government could set the
+price below the shutdown point
+
+543
+00:24:23,900 --> 00:24:26,970
+and wipe the whole
+business off the map.
+
+544
+00:24:26,970 --> 00:24:28,790
+So here we have the tradeoff.
+
+545
+00:24:28,790 --> 00:24:30,290
+The government can
+potentially make
+
+546
+00:24:30,290 --> 00:24:32,473
+the market more efficient
+through price regulation,
+
+547
+00:24:32,473 --> 00:24:33,515
+but it won't necessarily.
+
+548
+00:24:33,515 --> 00:24:35,217
+It depends on its
+level of information
+
+549
+00:24:35,217 --> 00:24:36,800
+and how well it does
+setting the price
+
+550
+00:24:36,800 --> 00:24:38,930
+relative to the
+competitive price.
+
+551
+00:24:41,960 --> 00:24:44,300
+So basically, this
+is a very sort
+
+552
+00:24:44,300 --> 00:24:50,780
+of interesting and difficult
+problem for the government.
+
+553
+00:24:50,780 --> 00:24:52,970
+So one way is
+through regulation.
+
+554
+00:24:52,970 --> 00:24:55,250
+Questions about that?
+
+555
+00:24:55,250 --> 00:24:58,340
+The other way to try to
+address monopoly is by saying,
+
+556
+00:24:58,340 --> 00:25:02,930
+is there some way to
+introduce competition?
+
+557
+00:25:02,930 --> 00:25:06,740
+That is, even in what feels
+like a natural monopoly market,
+
+558
+00:25:06,740 --> 00:25:10,630
+is there some way to
+choose competition?
+
+559
+00:25:10,630 --> 00:25:15,560
+So for example, think
+about broadband delivery.
+
+560
+00:25:15,560 --> 00:25:16,670
+Now we're still wired.
+
+561
+00:25:16,670 --> 00:25:17,660
+In the future,
+it's all wireless.
+
+562
+00:25:17,660 --> 00:25:18,410
+This is different.
+
+563
+00:25:18,410 --> 00:25:20,085
+But it's still wired.
+
+564
+00:25:20,085 --> 00:25:21,710
+The way it works is,
+broadband delivery
+
+565
+00:25:21,710 --> 00:25:24,350
+has features of a
+natural monopoly, which
+
+566
+00:25:24,350 --> 00:25:29,400
+is, someone has to lay the wires
+to your house to deliver it.
+
+567
+00:25:29,400 --> 00:25:31,680
+At the same time, once
+those wires are laid,
+
+568
+00:25:31,680 --> 00:25:36,090
+it's a 0 marginal cost to allow
+you to connect to the internet.
+
+569
+00:25:36,090 --> 00:25:40,970
+So what governments do in other
+countries, but not the US--
+
+570
+00:25:40,970 --> 00:25:42,920
+in the US, we have competition.
+
+571
+00:25:42,920 --> 00:25:46,070
+Everybody lays their
+own lines down.
+
+572
+00:25:46,070 --> 00:25:48,460
+In Europe, they recognize
+that's inefficient.
+
+573
+00:25:48,460 --> 00:25:49,460
+It's a natural monopoly.
+
+574
+00:25:49,460 --> 00:25:52,220
+What they do is, they have one
+set of publicly laid lines,
+
+575
+00:25:52,220 --> 00:25:56,330
+and you compete to deliver
+content over those lines.
+
+576
+00:25:56,330 --> 00:26:00,890
+So there's competition where
+the monopoly is not natural,
+
+577
+00:26:00,890 --> 00:26:03,542
+which is over the
+speed and the quality.
+
+578
+00:26:03,542 --> 00:26:05,000
+It's the quality
+of the connection.
+
+579
+00:26:05,000 --> 00:26:07,700
+But the lines themselves, since
+that's a giant fixed cost,
+
+580
+00:26:07,700 --> 00:26:10,035
+they realize there can't
+be competition over that.
+
+581
+00:26:10,035 --> 00:26:11,660
+So that's one way
+you could try to deal
+
+582
+00:26:11,660 --> 00:26:12,730
+with a natural monopoly.
+
+583
+00:26:12,730 --> 00:26:13,670
+In other words, the
+government could
+
+584
+00:26:13,670 --> 00:26:15,753
+control the pipes underground
+delivering the water
+
+585
+00:26:15,753 --> 00:26:19,220
+and have firms compete over
+delivering the water to you.
+
+586
+00:26:19,220 --> 00:26:20,820
+So that's one way
+to deal with it.
+
+587
+00:26:20,820 --> 00:26:24,510
+Another example is to think
+about the public sector
+
+588
+00:26:24,510 --> 00:26:28,580
+and think about education,
+education delivery.
+
+589
+00:26:28,580 --> 00:26:36,110
+Now, for those of you
+who grew up in the US,
+
+590
+00:26:36,110 --> 00:26:40,060
+you are evidence of the success
+of the US educational system.
+
+591
+00:26:40,060 --> 00:26:42,750
+But you are the
+exception, not the rule.
+
+592
+00:26:42,750 --> 00:26:45,000
+The US educational system,
+by international standards,
+
+593
+00:26:45,000 --> 00:26:47,950
+performs very badly.
+
+594
+00:26:47,950 --> 00:26:49,840
+Probably out of the
+top 30 countries,
+
+595
+00:26:49,840 --> 00:26:52,480
+we're like 15th in terms
+of things like math scores
+
+596
+00:26:52,480 --> 00:26:54,460
+and other things like that.
+
+597
+00:26:54,460 --> 00:26:56,890
+Yet, we spend more
+money per pupil
+
+598
+00:26:56,890 --> 00:27:01,120
+than any other
+educational system
+
+599
+00:27:01,120 --> 00:27:03,910
+in the world by a large amount.
+
+600
+00:27:03,910 --> 00:27:08,440
+So if you look at figure
+12-3, figure 12-3 shows,
+
+601
+00:27:08,440 --> 00:27:12,040
+in the blue, primary
+school spending per pupil,
+
+602
+00:27:12,040 --> 00:27:14,320
+and in the red, eighth
+grade math scores.
+
+603
+00:27:14,320 --> 00:27:17,030
+And you can see the US spends
+way more than other people,
+
+604
+00:27:17,030 --> 00:27:18,405
+but our scores
+aren't any better.
+
+605
+00:27:18,405 --> 00:27:19,905
+Indeed, it doesn't
+look like there's
+
+606
+00:27:19,905 --> 00:27:21,820
+a very strong
+relationship here at all
+
+607
+00:27:21,820 --> 00:27:26,650
+between how much countries spend
+and what you get in return.
+
+608
+00:27:26,650 --> 00:27:28,510
+But at least it's
+quite striking how low
+
+609
+00:27:28,510 --> 00:27:32,360
+the US is given how
+high our spending is.
+
+610
+00:27:32,360 --> 00:27:35,120
+Now, why is that?
+
+611
+00:27:35,120 --> 00:27:42,630
+One reason is because we have
+given local schools a monopoly.
+
+612
+00:27:42,630 --> 00:27:45,183
+We have said to
+local schools, you
+
+613
+00:27:45,183 --> 00:27:47,850
+have a monopoly where you get to
+deliver the education to anyone
+
+614
+00:27:47,850 --> 00:27:49,892
+who lives within a certain
+radius of your school.
+
+615
+00:27:52,820 --> 00:27:55,190
+We've created that
+natural monopoly.
+
+616
+00:27:55,190 --> 00:27:57,300
+And once we created
+that natural monopoly,
+
+617
+00:27:57,300 --> 00:28:02,672
+we reduce pressures on firms
+to produce efficiently.
+
+618
+00:28:02,672 --> 00:28:04,880
+We've essentially said to
+firms, you have a monopoly.
+
+619
+00:28:04,880 --> 00:28:08,173
+There's no reason you have
+to produce efficiently.
+
+620
+00:28:08,173 --> 00:28:09,590
+Because there's
+no entry and exit,
+
+621
+00:28:09,590 --> 00:28:12,790
+which can put those
+pressures on you.
+
+622
+00:28:12,790 --> 00:28:15,480
+So in some sense, that's a
+government-created monopoly.
+
+623
+00:28:15,480 --> 00:28:20,060
+Your local public school is a
+government-created monopoly.
+
+624
+00:28:20,060 --> 00:28:21,775
+So what can we do for that?
+
+625
+00:28:21,775 --> 00:28:22,400
+What can we do?
+
+626
+00:28:22,400 --> 00:28:24,440
+Well, we can actually
+introduce competition.
+
+627
+00:28:24,440 --> 00:28:28,070
+So for example, we can
+have public school choice,
+
+628
+00:28:28,070 --> 00:28:31,170
+which many cities now
+have, where, in fact, you
+
+629
+00:28:31,170 --> 00:28:35,500
+don't have to go to the
+school in your neighborhood.
+
+630
+00:28:35,500 --> 00:28:38,110
+You can try to go to any
+school in the district.
+
+631
+00:28:38,110 --> 00:28:39,657
+You can essentially
+enter a lottery
+
+632
+00:28:39,657 --> 00:28:41,990
+and try to move around to
+other schools in the district.
+
+633
+00:28:41,990 --> 00:28:43,510
+And that introduces competition.
+
+634
+00:28:43,510 --> 00:28:44,927
+Because then the
+schools that want
+
+635
+00:28:44,927 --> 00:28:47,770
+kids will have to
+be better and have
+
+636
+00:28:47,770 --> 00:28:49,176
+to produce more efficiently.
+
+637
+00:28:52,610 --> 00:28:56,517
+And then a further
+mode of that is,
+
+638
+00:28:56,517 --> 00:28:57,725
+you can have charter schools.
+
+639
+00:29:00,350 --> 00:29:06,270
+Charter schools are publicly
+funded, but not city provided.
+
+640
+00:29:06,270 --> 00:29:09,860
+They're in between public
+schools and private schools.
+
+641
+00:29:09,860 --> 00:29:12,560
+Charter schools are
+separate schools,
+
+642
+00:29:12,560 --> 00:29:15,290
+which get funding
+from the government.
+
+643
+00:29:15,290 --> 00:29:18,635
+But they aren't under the
+local government's control.
+
+644
+00:29:18,635 --> 00:29:20,510
+Regulatory control, but
+they aren't delivered
+
+645
+00:29:20,510 --> 00:29:22,550
+by the city as education.
+
+646
+00:29:22,550 --> 00:29:26,570
+And that provides more public
+school choice for individuals.
+
+647
+00:29:26,570 --> 00:29:29,810
+And there's a lot of evidence,
+much of it by my colleagues
+
+648
+00:29:29,810 --> 00:29:32,000
+here at MIT, which
+shows that there's
+
+649
+00:29:32,000 --> 00:29:34,250
+been enormous benefits
+to these movements,
+
+650
+00:29:34,250 --> 00:29:36,835
+that public school choice
+and charter schools
+
+651
+00:29:36,835 --> 00:29:38,460
+have delivered-- now
+I know some of you
+
+652
+00:29:38,460 --> 00:29:40,250
+might have seen the John Oliver
+segment a couple of years
+
+653
+00:29:40,250 --> 00:29:41,875
+ago where he ragged
+on charter schools.
+
+654
+00:29:41,875 --> 00:29:44,400
+I mean, I love him in general,
+but he was wrong on that one.
+
+655
+00:29:44,400 --> 00:29:45,925
+There's a couple of bad actors.
+
+656
+00:29:45,925 --> 00:29:47,300
+But by and large,
+charter schools
+
+657
+00:29:47,300 --> 00:29:49,550
+have been an enormous benefit
+to the education system
+
+658
+00:29:49,550 --> 00:29:54,080
+by introducing competition
+and allowing students
+
+659
+00:29:54,080 --> 00:29:59,070
+an option to improve their
+educational outcomes.
+
+660
+00:29:59,070 --> 00:30:01,970
+Now, the furthest out
+option, and something
+
+661
+00:30:01,970 --> 00:30:04,785
+you'll hear a lot of
+discussion of, is vouchers.
+
+662
+00:30:07,956 --> 00:30:10,890
+The most radical option is
+what we call public school
+
+663
+00:30:10,890 --> 00:30:13,605
+vouchers, or just vouchers.
+
+664
+00:30:13,605 --> 00:30:14,730
+Here's how this would work.
+
+665
+00:30:14,730 --> 00:30:16,897
+This is a very popular idea
+on the conservative side
+
+666
+00:30:16,897 --> 00:30:17,940
+of the spectrum.
+
+667
+00:30:17,940 --> 00:30:19,150
+Here's how this would work.
+
+668
+00:30:19,150 --> 00:30:21,030
+So I live in Lexington.
+
+669
+00:30:21,030 --> 00:30:23,640
+What that means is, if I
+send my kid to a Lexington
+
+670
+00:30:23,640 --> 00:30:27,440
+public school, it's free.
+
+671
+00:30:27,440 --> 00:30:29,360
+But the minute I pull
+my kid out and send him
+
+672
+00:30:29,360 --> 00:30:33,000
+to a private school, it
+costs me the entire amount.
+
+673
+00:30:33,000 --> 00:30:35,250
+So imagine a Lexington public
+school education's worth
+
+674
+00:30:35,250 --> 00:30:38,610
+$10,000.
+
+675
+00:30:38,610 --> 00:30:42,660
+I'm essentially getting
+$10,000, conditional on sending
+
+676
+00:30:42,660 --> 00:30:44,100
+my kids to a Lexington school.
+
+677
+00:30:44,100 --> 00:30:45,892
+The minute I choose to
+send them elsewhere,
+
+678
+00:30:45,892 --> 00:30:49,420
+I literally give
+up that $10,000.
+
+679
+00:30:49,420 --> 00:30:51,490
+A voucher system would
+say, the way it would work
+
+680
+00:30:51,490 --> 00:30:53,770
+is, everyone in town
+would get a check
+
+681
+00:30:53,770 --> 00:30:57,040
+or would get a
+voucher for $10,000
+
+682
+00:30:57,040 --> 00:30:59,218
+to be used at any
+school they want.
+
+683
+00:30:59,218 --> 00:31:01,510
+So if you want to go in
+Lexington, you just hand it in.
+
+684
+00:31:01,510 --> 00:31:03,190
+Life's never changed.
+
+685
+00:31:03,190 --> 00:31:05,040
+But now if you want to
+go to private school,
+
+686
+00:31:05,040 --> 00:31:07,460
+we're allowing you to
+take your money elsewhere.
+
+687
+00:31:07,460 --> 00:31:09,110
+That puts competitive
+pressure not just
+
+688
+00:31:09,110 --> 00:31:12,488
+on schools within the district
+but on the whole district.
+
+689
+00:31:12,488 --> 00:31:14,280
+The whole district now
+says, wait a second,
+
+690
+00:31:14,280 --> 00:31:15,760
+if we don't do a
+good job, people
+
+691
+00:31:15,760 --> 00:31:17,906
+are going to leave and
+take their money elsewhere.
+
+692
+00:31:17,906 --> 00:31:21,630
+So the idea is to actually
+set up broader competition
+
+693
+00:31:21,630 --> 00:31:26,550
+to put pressure on districts
+to improve their performance.
+
+694
+00:31:26,550 --> 00:31:28,600
+So this has been a
+longtime attractive option
+
+695
+00:31:28,600 --> 00:31:30,630
+to many economists.
+
+696
+00:31:30,630 --> 00:31:33,740
+And I've spent a whole long time
+talking about the pros and cons
+
+697
+00:31:33,740 --> 00:31:35,180
+of this in my other class.
+
+698
+00:31:35,180 --> 00:31:38,330
+But briefly speaking, the
+pros are all the reasons
+
+699
+00:31:38,330 --> 00:31:40,420
+we like competition in markets.
+
+700
+00:31:40,420 --> 00:31:42,920
+It'll cause more
+production efficiency
+
+701
+00:31:42,920 --> 00:31:45,140
+because schools would
+have to compete.
+
+702
+00:31:45,140 --> 00:31:47,150
+The cons are numerous, though.
+
+703
+00:31:47,150 --> 00:31:51,357
+One con is, you then have to
+have the public sector that
+
+704
+00:31:51,357 --> 00:31:53,690
+has a vested interest in
+making sure private schools are
+
+705
+00:31:53,690 --> 00:31:57,000
+delivering a public
+quality education.
+
+706
+00:31:57,000 --> 00:32:02,000
+So basically, you could set up
+a private school that is just
+
+707
+00:32:02,000 --> 00:32:03,980
+a football training academy.
+
+708
+00:32:03,980 --> 00:32:06,440
+And suddenly, people could take
+their voucher and go there,
+
+709
+00:32:06,440 --> 00:32:08,160
+and suddenly they
+wouldn't get education.
+
+710
+00:32:08,160 --> 00:32:09,950
+That's one con.
+
+711
+00:32:09,950 --> 00:32:14,820
+Another con of these systems
+is that they're expensive.
+
+712
+00:32:14,820 --> 00:32:15,667
+So take me.
+
+713
+00:32:15,667 --> 00:32:16,500
+I live in Lexington.
+
+714
+00:32:16,500 --> 00:32:17,780
+I'm a pretty rich guy.
+
+715
+00:32:17,780 --> 00:32:20,870
+I sent my kids to
+private school.
+
+716
+00:32:20,870 --> 00:32:22,130
+I sent them and I paid.
+
+717
+00:32:22,130 --> 00:32:24,140
+Now, imagine Lexington
+had a voucher system
+
+718
+00:32:24,140 --> 00:32:27,050
+and they give me a
+check for $10,000.
+
+719
+00:32:27,050 --> 00:32:30,415
+Why should Lexington give a
+relatively rich guy $10,000?
+
+720
+00:32:30,415 --> 00:32:31,290
+That's sort of silly.
+
+721
+00:32:31,290 --> 00:32:33,290
+I was already sending my
+kids to private school.
+
+722
+00:32:33,290 --> 00:32:35,600
+So who would be the big winner
+from a system like this?
+
+723
+00:32:35,600 --> 00:32:37,100
+Well, some winners
+would be kids who
+
+724
+00:32:37,100 --> 00:32:38,790
+then get a better education.
+
+725
+00:32:38,790 --> 00:32:40,280
+But a lot of winners would be
+rich people who already sent
+
+726
+00:32:40,280 --> 00:32:41,060
+their kids to private school.
+
+727
+00:32:41,060 --> 00:32:42,500
+We'd just be
+handing them checks.
+
+728
+00:32:42,500 --> 00:32:44,090
+That's not a great outcome.
+
+729
+00:32:44,090 --> 00:32:47,810
+So there are
+definitely tradeoffs
+
+730
+00:32:47,810 --> 00:32:49,470
+inherent in a system like this.
+
+731
+00:32:49,470 --> 00:32:50,762
+I know there's a few questions.
+
+732
+00:32:50,762 --> 00:32:52,887
+Let's do a couple of
+questions, then we'll move on.
+
+733
+00:32:52,887 --> 00:32:53,880
+Yeah, in the back.
+
+734
+00:32:53,880 --> 00:32:55,880
+AUDIENCE: So say you
+have these vouchers,
+
+735
+00:32:55,880 --> 00:32:58,760
+and instead of going
+to the public school,
+
+736
+00:32:58,760 --> 00:33:01,880
+students are leaving to the
+private school, and then
+
+737
+00:33:01,880 --> 00:33:04,370
+the fixed cost of having
+the infrastructure
+
+738
+00:33:04,370 --> 00:33:08,220
+of a public school, that's then
+spread out over less students.
+
+739
+00:33:08,220 --> 00:33:12,440
+So how do you account for, the
+price of teaching one student
+
+740
+00:33:12,440 --> 00:33:15,590
+might go up if there are these
+students that are leaving?
+
+741
+00:33:15,590 --> 00:33:17,570
+JONATHAN GRUBER: That
+is an awesome question.
+
+742
+00:33:17,570 --> 00:33:19,370
+There's two elements to that.
+
+743
+00:33:19,370 --> 00:33:22,890
+Question one is, there is an
+actual natural monopoly feature
+
+744
+00:33:22,890 --> 00:33:24,590
+to local public education.
+
+745
+00:33:24,590 --> 00:33:27,190
+So remember, competition
+doesn't make sense when
+
+746
+00:33:27,190 --> 00:33:28,575
+it's a true natural monopoly.
+
+747
+00:33:28,575 --> 00:33:30,200
+There is some natural
+monopoly element.
+
+748
+00:33:30,200 --> 00:33:33,290
+So as you shrink the
+number, you suddenly
+
+749
+00:33:33,290 --> 00:33:34,850
+are raising the average cost.
+
+750
+00:33:34,850 --> 00:33:36,350
+And that is a potential problem.
+
+751
+00:33:36,350 --> 00:33:37,517
+There's an efficiency issue.
+
+752
+00:33:37,517 --> 00:33:39,230
+There's also an
+equity issue, which
+
+753
+00:33:39,230 --> 00:33:41,410
+is, who uses the
+vouchers and leaves?
+
+754
+00:33:41,410 --> 00:33:43,815
+The people with motivated
+parents who are with it.
+
+755
+00:33:43,815 --> 00:33:44,690
+Who gets left behind?
+
+756
+00:33:44,690 --> 00:33:46,730
+People's parents who don't
+give a shit about him.
+
+757
+00:33:46,730 --> 00:33:48,522
+There's an equity issue,
+too, of, suddenly,
+
+758
+00:33:48,522 --> 00:33:50,993
+you're pulling all the smart
+kids, all the motivated kids
+
+759
+00:33:50,993 --> 00:33:52,910
+out of the public schools
+and leaving the kids
+
+760
+00:33:52,910 --> 00:33:55,260
+behind who aren't motivated or
+whose parents aren't motivated.
+
+761
+00:33:55,260 --> 00:33:56,420
+There's an equity
+issue there, too,
+
+762
+00:33:56,420 --> 00:33:57,545
+so that's another tradeoff.
+
+763
+00:33:57,545 --> 00:33:58,396
+Yeah.
+
+764
+00:33:58,396 --> 00:33:59,890
+AUDIENCE: You got
+a good education.
+
+765
+00:33:59,890 --> 00:34:02,500
+JONATHAN GRUBER: How do you tell
+if people get a good education?
+
+766
+00:34:02,500 --> 00:34:03,440
+Well, that's [INAUDIBLE].
+
+767
+00:34:03,440 --> 00:34:05,140
+AUDIENCE: Well, if you're
+going to get a good education.
+
+768
+00:34:05,140 --> 00:34:07,220
+JONATHAN GRUBER: Well,
+that's another problem.
+
+769
+00:34:07,220 --> 00:34:10,420
+Which is, competition, one of
+our fundamental assumptions
+
+770
+00:34:10,420 --> 00:34:13,909
+of perfect competition
+was perfect information.
+
+771
+00:34:13,909 --> 00:34:16,130
+That's fine when you're
+looking at apples or maybe
+
+772
+00:34:16,130 --> 00:34:17,870
+even computers.
+
+773
+00:34:17,870 --> 00:34:19,760
+It's not so easy
+looking at schools.
+
+774
+00:34:19,760 --> 00:34:21,527
+Now, schools
+publish test scores.
+
+775
+00:34:21,527 --> 00:34:24,110
+You can look at the test scores
+of kids who go to that school.
+
+776
+00:34:24,110 --> 00:34:25,818
+But once again, that's
+not that reliable,
+
+777
+00:34:25,818 --> 00:34:27,735
+because if smart kids
+are going to the school,
+
+778
+00:34:27,735 --> 00:34:30,170
+they'll have high test
+scores, even if teachers suck.
+
+779
+00:34:30,170 --> 00:34:32,750
+For example, Harvard--
+sorry, I couldn't resist.
+
+780
+00:34:32,750 --> 00:34:34,880
+[LAUGHTER]
+
+781
+00:34:34,880 --> 00:34:42,090
+So basically, you
+can't really tell that.
+
+782
+00:34:42,090 --> 00:34:45,469
+In other words, there's
+a number of failures
+
+783
+00:34:45,469 --> 00:34:48,739
+of the private
+education market, that
+
+784
+00:34:48,739 --> 00:34:51,568
+are a problem with this
+kind of voucher solution.
+
+785
+00:34:51,568 --> 00:34:52,860
+But it doesn't mean it's wrong.
+
+786
+00:34:52,860 --> 00:34:54,810
+It means it's interesting.
+
+787
+00:34:54,810 --> 00:34:55,699
+There's a tradeoff.
+
+788
+00:34:55,699 --> 00:34:57,653
+On the one hand, we'd
+introduce competition,
+
+789
+00:34:57,653 --> 00:34:59,820
+which would maybe increase
+efficiency in the market.
+
+790
+00:34:59,820 --> 00:35:01,420
+On the other hand, there's
+a lot of market failures
+
+791
+00:35:01,420 --> 00:35:03,620
+which might get in the way
+of this functioning properly.
+
+792
+00:35:03,620 --> 00:35:05,670
+Fascinating topic, and if
+you want to learn more,
+
+793
+00:35:05,670 --> 00:35:06,920
+I urge you take 1441.
+
+794
+00:35:06,920 --> 00:35:09,740
+We spend a whole lecture
+talking about it.
+
+795
+00:35:09,740 --> 00:35:13,790
+So that was the second
+topic I want to talk about.
+
+796
+00:35:13,790 --> 00:35:16,310
+Once again, we've
+started down the road
+
+797
+00:35:16,310 --> 00:35:22,380
+of questioning the wisdom of the
+market, so the road of market
+
+798
+00:35:22,380 --> 00:35:24,263
+failures.
+
+799
+00:35:24,263 --> 00:35:25,680
+The first market
+fail is monopoly.
+
+800
+00:35:25,680 --> 00:35:28,260
+We've talked about the
+pros and cons of trying
+
+801
+00:35:28,260 --> 00:35:30,650
+to deal with monopoly.
+
+802
+00:35:30,650 --> 00:35:33,110
+But I want to talk
+about one other topic
+
+803
+00:35:33,110 --> 00:35:34,820
+before we leave
+monopolies, which
+
+804
+00:35:34,820 --> 00:35:39,320
+is this topic of what we call
+contestable markets, which
+
+805
+00:35:39,320 --> 00:35:42,440
+is sort of an informal term.
+
+806
+00:35:42,440 --> 00:35:43,988
+But I really like
+it as an intuition,
+
+807
+00:35:43,988 --> 00:35:45,530
+so I'd like to spend
+some time on it.
+
+808
+00:35:48,620 --> 00:35:53,440
+Contestable markets are monopoly
+markets without market power
+
+809
+00:35:53,440 --> 00:35:55,150
+or without much market power.
+
+810
+00:35:55,150 --> 00:35:56,950
+That is, we talked
+about monopolists
+
+811
+00:35:56,950 --> 00:35:59,020
+as having lots of market power.
+
+812
+00:35:59,020 --> 00:36:03,080
+Remember, we said the markup
+was essentially proportional.
+
+813
+00:36:03,080 --> 00:36:05,830
+We said that monopolists
+had a markup, price
+
+814
+00:36:05,830 --> 00:36:09,100
+minus marginal cost over price,
+which is equal to minus 1
+
+815
+00:36:09,100 --> 00:36:12,320
+over the elasticity of demand.
+
+816
+00:36:12,320 --> 00:36:14,000
+That was their markup.
+
+817
+00:36:14,000 --> 00:36:17,818
+And so you know some markets,
+different monopoly markets
+
+818
+00:36:17,818 --> 00:36:19,610
+will have different
+levels of market power.
+
+819
+00:36:19,610 --> 00:36:21,902
+You can be a monopolist, but
+not have much market power
+
+820
+00:36:21,902 --> 00:36:24,130
+if consumers are very elastic.
+
+821
+00:36:24,130 --> 00:36:27,940
+But there's another reason
+why monopolists face pressure
+
+822
+00:36:27,940 --> 00:36:30,290
+besides the
+elasticity of demand,
+
+823
+00:36:30,290 --> 00:36:34,008
+which is, in some sense, the
+size of the barrier to entry.
+
+824
+00:36:34,008 --> 00:36:36,425
+So one reason monopolists are
+constrained in their pricing
+
+825
+00:36:36,425 --> 00:36:38,750
+is because demand's elastic.
+
+826
+00:36:38,750 --> 00:36:41,180
+Another reason is because
+the barriers to entry
+
+827
+00:36:41,180 --> 00:36:44,080
+might not be that large.
+
+828
+00:36:44,080 --> 00:36:45,670
+So you could think
+of it, roughly
+
+829
+00:36:45,670 --> 00:36:49,180
+speaking, for a given
+elasticity of demand,
+
+830
+00:36:49,180 --> 00:36:52,733
+the larger the barrier to entry,
+the more market power you have.
+
+831
+00:36:52,733 --> 00:36:54,400
+Because the larger
+the barrier to entry,
+
+832
+00:36:54,400 --> 00:36:56,650
+the more you can be sure no
+other firm's going to come in.
+
+833
+00:36:56,650 --> 00:36:58,330
+Or in other words,
+the amount to which
+
+834
+00:36:58,330 --> 00:37:02,530
+you can charge above marginal
+cost for a given elasticity
+
+835
+00:37:02,530 --> 00:37:07,500
+is proportional to how severe
+the barriers to entry are.
+
+836
+00:37:07,500 --> 00:37:10,950
+If there's no way a second firm
+can get in, then essentially,
+
+837
+00:37:10,950 --> 00:37:13,730
+you get to just
+obey this formula.
+
+838
+00:37:13,730 --> 00:37:16,073
+But if a second firm
+can get in easily,
+
+839
+00:37:16,073 --> 00:37:18,490
+then you might not even be
+able to have this big a markup.
+
+840
+00:37:18,490 --> 00:37:19,948
+Because if you try,
+someone's going
+
+841
+00:37:19,948 --> 00:37:22,600
+to come in and
+steal your profits.
+
+842
+00:37:22,600 --> 00:37:26,840
+So in other words, there's
+essentially an important issue,
+
+843
+00:37:26,840 --> 00:37:28,540
+which is that the
+market monopolists can
+
+844
+00:37:28,540 --> 00:37:31,232
+get as a function both of
+elastic demand and the size
+
+845
+00:37:31,232 --> 00:37:33,270
+of their barriers to entry.
+
+846
+00:37:33,270 --> 00:37:36,170
+This is an important
+issue that came up
+
+847
+00:37:36,170 --> 00:37:41,120
+in the area of airline
+deregulation, which
+
+848
+00:37:41,120 --> 00:37:43,280
+is what I want to talk
+about for a few minutes.
+
+849
+00:37:43,280 --> 00:37:45,920
+It's an important application
+of the kind of stuff
+
+850
+00:37:45,920 --> 00:37:47,170
+we've been talking about.
+
+851
+00:37:47,170 --> 00:37:53,220
+Now, how many of you
+have seen Mad Men.
+
+852
+00:37:53,220 --> 00:37:53,875
+Jeez, really?
+
+853
+00:37:53,875 --> 00:37:55,250
+Wow, OK, it's a
+pretty good show.
+
+854
+00:37:55,250 --> 00:37:56,520
+I mean, it's not outstanding.
+
+855
+00:37:56,520 --> 00:37:58,230
+How many have seen Breaking Bad?
+
+856
+00:37:58,230 --> 00:37:59,007
+OK, good.
+
+857
+00:37:59,007 --> 00:38:00,090
+That, you have to all see.
+
+858
+00:38:00,090 --> 00:38:02,042
+Mad Men's pretty good.
+
+859
+00:38:02,042 --> 00:38:03,750
+But basically, what's
+nice about Mad Men,
+
+860
+00:38:03,750 --> 00:38:06,880
+it shows what flying was
+like when I was a kid.
+
+861
+00:38:06,880 --> 00:38:11,220
+When I was a kid, when you
+flew, it was like luxurious.
+
+862
+00:38:11,220 --> 00:38:13,590
+You went on, there was
+plenty of leg room.
+
+863
+00:38:13,590 --> 00:38:16,440
+You had free meals, free
+movies, free drinks.
+
+864
+00:38:21,480 --> 00:38:23,970
+And the reason was because--
+
+865
+00:38:23,970 --> 00:38:25,590
+I sort of skipped
+ahead in the story.
+
+866
+00:38:25,590 --> 00:38:28,530
+When I was a kid,
+airlines were regulated.
+
+867
+00:38:28,530 --> 00:38:33,330
+What that meant was
+that, essentially,
+
+868
+00:38:33,330 --> 00:38:36,870
+the government viewed airlines
+as a natural monopoly.
+
+869
+00:38:36,870 --> 00:38:39,790
+They said, look, planes
+are very expensive.
+
+870
+00:38:39,790 --> 00:38:42,722
+There's a big fixed cost,
+so it's a natural monopoly.
+
+871
+00:38:42,722 --> 00:38:44,680
+We don't think competition
+will work well here,
+
+872
+00:38:44,680 --> 00:38:46,962
+so we're going to have
+regulation of airlines.
+
+873
+00:38:46,962 --> 00:38:48,420
+What that meant
+was, the government
+
+874
+00:38:48,420 --> 00:38:51,300
+set the price of every
+flight and regulated
+
+875
+00:38:51,300 --> 00:38:53,040
+where planes could go.
+
+876
+00:38:53,040 --> 00:38:54,720
+So airlines every
+year would submit
+
+877
+00:38:54,720 --> 00:38:57,390
+a set of routes they wanted
+to fly and a set of prices.
+
+878
+00:38:57,390 --> 00:38:59,970
+And the government would
+approve or turn them down.
+
+879
+00:38:59,970 --> 00:39:02,745
+It was a regulated market.
+
+880
+00:39:02,745 --> 00:39:05,120
+And it was generally viewed
+that the government basically
+
+881
+00:39:05,120 --> 00:39:07,580
+sort of screwed this up
+and set the rates too high.
+
+882
+00:39:07,580 --> 00:39:08,600
+That was sort of
+the general view,
+
+883
+00:39:08,600 --> 00:39:10,825
+that, basically, government,
+because, essentially, they
+
+884
+00:39:10,825 --> 00:39:12,575
+didn't really understand
+the supply curve,
+
+885
+00:39:12,575 --> 00:39:14,583
+they were being
+fooled by the airlines
+
+886
+00:39:14,583 --> 00:39:17,000
+to think costs were higher
+than they were and were setting
+
+887
+00:39:17,000 --> 00:39:19,700
+prices too high.
+
+888
+00:39:19,700 --> 00:39:24,380
+But economists said, look,
+this is not a natural monopoly.
+
+889
+00:39:24,380 --> 00:39:26,900
+Because in fact,
+it's not actually
+
+890
+00:39:26,900 --> 00:39:32,120
+that cheap to get a used
+plane and enter this business.
+
+891
+00:39:32,120 --> 00:39:35,240
+Because these companies turn
+over their planes all the time.
+
+892
+00:39:35,240 --> 00:39:37,612
+And yes, buying a new
+plane's expensive.
+
+893
+00:39:37,612 --> 00:39:39,320
+But getting a
+well-functioning used plane
+
+894
+00:39:39,320 --> 00:39:40,640
+isn't that expensive.
+
+895
+00:39:40,640 --> 00:39:43,730
+And you could easily create
+competitors in this business.
+
+896
+00:39:43,730 --> 00:39:47,780
+They said it was what we called
+a contestable market, a market
+
+897
+00:39:47,780 --> 00:39:51,830
+with very low barriers
+to entry, that, in fact,
+
+898
+00:39:51,830 --> 00:39:54,800
+if you allowed competition,
+you would have a lot of entry
+
+899
+00:39:54,800 --> 00:39:55,907
+into this market.
+
+900
+00:39:55,907 --> 00:39:58,490
+And it would function fine, that
+it wasn't a natural monopoly,
+
+901
+00:39:58,490 --> 00:40:01,535
+it was a contestable market.
+
+902
+00:40:01,535 --> 00:40:03,910
+And they argued, in fact, that
+if you lacked competition,
+
+903
+00:40:03,910 --> 00:40:08,580
+price would fall very
+close to marginal cost.
+
+904
+00:40:08,580 --> 00:40:11,270
+Price could fall very
+close to marginal cost.
+
+905
+00:40:11,270 --> 00:40:13,980
+So in fact, economists
+carried the day.
+
+906
+00:40:13,980 --> 00:40:17,540
+In the 1970s, we deregulated
+the airline industry.
+
+907
+00:40:17,540 --> 00:40:20,570
+The government stopped setting
+prices and regulating routes.
+
+908
+00:40:20,570 --> 00:40:21,950
+What happened?
+
+909
+00:40:21,950 --> 00:40:24,880
+OK, three things happened.
+
+910
+00:40:24,880 --> 00:40:28,150
+The first thing is,
+price fell enormously.
+
+911
+00:40:28,150 --> 00:40:31,940
+The cost of flying
+fell by about 1/3.
+
+912
+00:40:31,940 --> 00:40:36,830
+The best example was the airline
+I took home from MIT in 1984
+
+913
+00:40:36,830 --> 00:40:38,760
+called People Express.
+
+914
+00:40:38,760 --> 00:40:40,260
+People Express
+Airlines introduced--
+
+915
+00:40:40,260 --> 00:40:43,100
+this was sort of shortly
+after deregulation.
+
+916
+00:40:43,100 --> 00:40:49,100
+I could fly from Boston
+to Newark for $29.
+
+917
+00:40:49,100 --> 00:40:50,728
+Now, how did that work?
+
+918
+00:40:50,728 --> 00:40:51,270
+It was crazy.
+
+919
+00:40:51,270 --> 00:40:52,790
+You showed up at the airport.
+
+920
+00:40:52,790 --> 00:40:53,873
+There was no reservations.
+
+921
+00:40:53,873 --> 00:40:55,160
+You just waited on line.
+
+922
+00:40:55,160 --> 00:40:56,580
+They let people on until
+the plane was full.
+
+923
+00:40:56,580 --> 00:40:58,040
+Then you waited
+for the next one.
+
+924
+00:40:58,040 --> 00:41:00,062
+You paid on the plane
+with a credit card.
+
+925
+00:41:00,062 --> 00:41:01,520
+I still to this
+day don't know what
+
+926
+00:41:01,520 --> 00:41:02,340
+happened if you didn't pay.
+
+927
+00:41:02,340 --> 00:41:03,370
+Did they throw you
+out the window?
+
+928
+00:41:03,370 --> 00:41:04,170
+I don't know.
+
+929
+00:41:04,170 --> 00:41:05,870
+But you paid on the plane.
+
+930
+00:41:05,870 --> 00:41:07,550
+And it was incredibly
+competitive.
+
+931
+00:41:07,550 --> 00:41:08,633
+And this is what happened.
+
+932
+00:41:08,633 --> 00:41:11,480
+Flying got incredibly cheap.
+
+933
+00:41:11,480 --> 00:41:17,910
+The second thing that happened
+is you had many more routes.
+
+934
+00:41:17,910 --> 00:41:19,630
+It turned out that
+the government
+
+935
+00:41:19,630 --> 00:41:21,580
+thought that flying
+from point A to point B
+
+936
+00:41:21,580 --> 00:41:23,532
+wasn't profitable
+often when it was.
+
+937
+00:41:23,532 --> 00:41:25,990
+So the government wouldn't let
+airlines flight from point A
+
+938
+00:41:25,990 --> 00:41:27,730
+to point B, when,
+if fact, airlines
+
+939
+00:41:27,730 --> 00:41:29,850
+could make plenty of
+money doing that flight.
+
+940
+00:41:29,850 --> 00:41:34,570
+So you had cheaper
+flights and more routes.
+
+941
+00:41:34,570 --> 00:41:37,840
+The third thing
+is, flying sucks.
+
+942
+00:41:41,710 --> 00:41:44,050
+When I was a kid,
+flying was awesome--
+
+943
+00:41:44,050 --> 00:41:46,600
+meals, booze, big seats.
+
+944
+00:41:46,600 --> 00:41:51,820
+Now it's terrible-- no
+meals, no booze, tiny seats.
+
+945
+00:41:51,820 --> 00:41:53,447
+Why?
+
+946
+00:41:53,447 --> 00:41:54,280
+Why did this happen?
+
+947
+00:41:56,352 --> 00:41:58,310
+Flights got cheaper and
+there are more of them,
+
+948
+00:41:58,310 --> 00:42:01,980
+but why were they
+suddenly crappier?
+
+949
+00:42:01,980 --> 00:42:02,660
+Yeah.
+
+950
+00:42:02,660 --> 00:42:04,160
+AUDIENCE: There was
+more competition
+
+951
+00:42:04,160 --> 00:42:06,880
+so they were trying to bring
+down the marginal cost so bring
+
+952
+00:42:06,880 --> 00:42:07,990
+prices lower.
+
+953
+00:42:07,990 --> 00:42:10,032
+JONATHAN GRUBER: Right,
+that's one way to put it.
+
+954
+00:42:10,032 --> 00:42:13,600
+But the point is, what
+this example points out
+
+955
+00:42:13,600 --> 00:42:15,350
+is that there's
+always competition.
+
+956
+00:42:15,350 --> 00:42:16,090
+Yeah, what were
+you going to say?
+
+957
+00:42:16,090 --> 00:42:17,350
+AUDIENCE: I was going to
+say price discrimination.
+
+958
+00:42:17,350 --> 00:42:19,720
+They could discriminate based
+on what people [INAUDIBLE]
+
+959
+00:42:19,720 --> 00:42:20,290
+JONATHAN GRUBER:
+It actually wasn't.
+
+960
+00:42:20,290 --> 00:42:21,070
+They still price discriminate.
+
+961
+00:42:21,070 --> 00:42:22,360
+It wasn't quite that.
+
+962
+00:42:22,360 --> 00:42:23,430
+But yeah.
+
+963
+00:42:23,430 --> 00:42:26,670
+AUDIENCE: People were
+willing to fly [INAUDIBLE]
+
+964
+00:42:26,670 --> 00:42:28,420
+JONATHAN GRUBER: They
+were willing to fly.
+
+965
+00:42:28,420 --> 00:42:29,800
+But what were they doing before?
+
+966
+00:42:29,800 --> 00:42:30,740
+Yeah.
+
+967
+00:42:30,740 --> 00:42:33,520
+AUDIENCE: If you couldn't
+compete on price,
+
+968
+00:42:33,520 --> 00:42:35,592
+you could compete
+on luxuriousness.
+
+969
+00:42:35,592 --> 00:42:36,550
+JONATHAN GRUBER: Right.
+
+970
+00:42:36,550 --> 00:42:38,020
+So there were multiple
+airlines before.
+
+971
+00:42:38,020 --> 00:42:40,020
+The government said we'll
+only compete on price.
+
+972
+00:42:40,020 --> 00:42:43,130
+But they said, great, we'll
+compete on other stuff.
+
+973
+00:42:43,130 --> 00:42:45,830
+Remember, economic actors
+want to be economic actors.
+
+974
+00:42:45,830 --> 00:42:47,937
+They want to use economic tools.
+
+975
+00:42:47,937 --> 00:42:49,520
+So if the government
+says to airlines,
+
+976
+00:42:49,520 --> 00:42:50,900
+we're not going to let
+you charge a higher price,
+
+977
+00:42:50,900 --> 00:42:52,275
+they're like great,
+we'll compete
+
+978
+00:42:52,275 --> 00:42:56,420
+by having better food,
+better drinks, bigger seats.
+
+979
+00:42:56,420 --> 00:42:57,830
+Once the government
+said, now you
+
+980
+00:42:57,830 --> 00:43:00,320
+have a new mode
+of competing, they
+
+981
+00:43:00,320 --> 00:43:02,485
+realized people
+weren't willing to pay
+
+982
+00:43:02,485 --> 00:43:04,610
+for better food and better
+drinks and bigger seats.
+
+983
+00:43:04,610 --> 00:43:06,483
+They'd rather fly cheaper.
+
+984
+00:43:06,483 --> 00:43:08,150
+So they switched the
+mode of competition
+
+985
+00:43:08,150 --> 00:43:12,050
+from quality competition
+to price competition.
+
+986
+00:43:12,050 --> 00:43:14,450
+They used to use
+quality competition.
+
+987
+00:43:14,450 --> 00:43:17,000
+Now they use price competition.
+
+988
+00:43:17,000 --> 00:43:20,150
+This means that all of us who
+complain that flying sucks
+
+989
+00:43:20,150 --> 00:43:22,140
+should just shut up.
+
+990
+00:43:22,140 --> 00:43:24,060
+Because if we really
+cared that much,
+
+991
+00:43:24,060 --> 00:43:27,370
+then there'd be a good airline
+that charged more and gave you
+
+992
+00:43:27,370 --> 00:43:28,083
+better stuff.
+
+993
+00:43:28,083 --> 00:43:28,750
+But there's not.
+
+994
+00:43:28,750 --> 00:43:30,350
+I mean, JetBlue's
+a little better.
+
+995
+00:43:30,350 --> 00:43:33,490
+But by and large,
+there's not airlines
+
+996
+00:43:33,490 --> 00:43:35,820
+that charge more and
+give you better stuff.
+
+997
+00:43:35,820 --> 00:43:37,570
+And that's because,
+at the end of the day,
+
+998
+00:43:37,570 --> 00:43:40,090
+we would rather fly cheaper
+than have this extra stuff.
+
+999
+00:43:40,090 --> 00:43:42,680
+It wasn't worth the money
+that we were paying for it.
+
+1000
+00:43:45,490 --> 00:43:49,180
+Which really says that
+regulation was failing here.
+
+1001
+00:43:49,180 --> 00:43:51,430
+Regulation was forcing
+airlines to compete
+
+1002
+00:43:51,430 --> 00:43:53,120
+in an inefficient way.
+
+1003
+00:43:53,120 --> 00:43:56,320
+They're competing by giving us
+nice meals when we would rather
+
+1004
+00:43:56,320 --> 00:43:57,970
+have the money.
+
+1005
+00:43:57,970 --> 00:44:02,350
+So it was an example
+that regulation failed.
+
+1006
+00:44:02,350 --> 00:44:04,610
+So that's all really good news.
+
+1007
+00:44:04,610 --> 00:44:08,050
+But there's one piece of bad
+news, which is that, economists
+
+1008
+00:44:08,050 --> 00:44:09,670
+aren't all-knowing.
+
+1009
+00:44:09,670 --> 00:44:13,690
+And the economists, there's
+a fourth outcome we missed,
+
+1010
+00:44:13,690 --> 00:44:16,090
+which was the rise of
+the hub and spoke system.
+
+1011
+00:44:18,850 --> 00:44:22,740
+Which is that what we
+missed is that airplanes
+
+1012
+00:44:22,740 --> 00:44:27,460
+aren't a natural monopoly,
+but airports are.
+
+1013
+00:44:27,460 --> 00:44:30,720
+And what airlines started
+doing is essentially
+
+1014
+00:44:30,720 --> 00:44:36,190
+taking over airport
+slots, and then saying,
+
+1015
+00:44:36,190 --> 00:44:37,760
+we are going to have
+all the flights.
+
+1016
+00:44:37,760 --> 00:44:39,593
+So for example, my wife
+is from Minneapolis.
+
+1017
+00:44:39,593 --> 00:44:42,440
+We used to go to Minneapolis,
+the only option was Northwest.
+
+1018
+00:44:42,440 --> 00:44:45,200
+Northwest owned all the slots
+in the Minneapolis airport.
+
+1019
+00:44:45,200 --> 00:44:47,450
+And they'd say, if you ever
+fly anywhere on Northwest,
+
+1020
+00:44:47,450 --> 00:44:51,025
+we're going to route you from
+Minneapolis to wherever you go.
+
+1021
+00:44:51,025 --> 00:44:52,650
+It was called the
+hub and spoke system.
+
+1022
+00:44:52,650 --> 00:44:54,650
+You always went to a
+central point and went out.
+
+1023
+00:44:54,650 --> 00:44:56,220
+So US Air had Pittsburgh.
+
+1024
+00:44:56,220 --> 00:44:58,960
+Northwest had Minneapolis.
+
+1025
+00:44:58,960 --> 00:45:00,290
+American had Dallas, et cetera.
+
+1026
+00:45:00,290 --> 00:45:02,040
+They had these hubs
+that you'd go through.
+
+1027
+00:45:02,040 --> 00:45:03,720
+What that meant was,
+they essentially
+
+1028
+00:45:03,720 --> 00:45:06,480
+got a monopoly on the
+route into the hubs,
+
+1029
+00:45:06,480 --> 00:45:10,457
+because they had monopoly
+on the slots in the airport.
+
+1030
+00:45:10,457 --> 00:45:12,290
+Now you might say, well,
+that's easy to fix.
+
+1031
+00:45:12,290 --> 00:45:14,030
+Don't give monopoly
+slots in the airport.
+
+1032
+00:45:14,030 --> 00:45:15,838
+But that's harder to
+fix than you think.
+
+1033
+00:45:15,838 --> 00:45:17,630
+Because whenever the
+airport in Minneapolis
+
+1034
+00:45:17,630 --> 00:45:19,590
+would say to Northwest, we
+want to allow other airlines,
+
+1035
+00:45:19,590 --> 00:45:21,320
+they'd say, great, we're
+moving our headquarters out
+
+1036
+00:45:21,320 --> 00:45:22,050
+of Minneapolis.
+
+1037
+00:45:22,050 --> 00:45:23,050
+See ya.
+
+1038
+00:45:23,050 --> 00:45:25,590
+And they'd say, OK,
+fine, we won't do that.
+
+1039
+00:45:25,590 --> 00:45:28,850
+So essentially, there
+became political equilibrium
+
+1040
+00:45:28,850 --> 00:45:31,462
+where these local airlines
+were such big employers,
+
+1041
+00:45:31,462 --> 00:45:33,170
+they'd bully the
+governments into letting
+
+1042
+00:45:33,170 --> 00:45:35,090
+them dominate the airports.
+
+1043
+00:45:35,090 --> 00:45:37,730
+And they essentially
+recreated a monopoly.
+
+1044
+00:45:37,730 --> 00:45:39,590
+But the monopoly
+wasn't on planes.
+
+1045
+00:45:39,590 --> 00:45:41,450
+It was on airport slots.
+
+1046
+00:45:41,450 --> 00:45:45,050
+And actually, flying got
+much more expensive again.
+
+1047
+00:45:45,050 --> 00:45:46,742
+So the price of flights
+really came down
+
+1048
+00:45:46,742 --> 00:45:48,950
+until airlines figured out
+this hub and spoke system,
+
+1049
+00:45:48,950 --> 00:45:50,242
+and they've gone back up since.
+
+1050
+00:45:50,242 --> 00:45:52,850
+Now, they're still cheaper than
+they were under regulation.
+
+1051
+00:45:52,850 --> 00:45:56,660
+But roughly speaking, the price
+fell by more like more than 50%
+
+1052
+00:45:56,660 --> 00:45:58,880
+initially, and then
+sort of risen back up.
+
+1053
+00:45:58,880 --> 00:46:00,917
+It's still lower than
+it was under regulation.
+
+1054
+00:46:00,917 --> 00:46:02,500
+But it's risen back
+up because there's
+
+1055
+00:46:02,500 --> 00:46:05,810
+this sort of new
+natural monopoly problem
+
+1056
+00:46:05,810 --> 00:46:07,880
+that we didn't see.
+
+1057
+00:46:07,880 --> 00:46:10,310
+So that leads to crazy
+things, like a price
+
+1058
+00:46:10,310 --> 00:46:13,250
+of a nonstop to
+San Francisco today
+
+1059
+00:46:13,250 --> 00:46:16,250
+is something like half
+as much from Boston
+
+1060
+00:46:16,250 --> 00:46:17,660
+as a flight to Minnesota.
+
+1061
+00:46:17,660 --> 00:46:18,990
+Now, I don't know how
+your geography skills are,
+
+1062
+00:46:18,990 --> 00:46:20,865
+but San Francisco's a
+lot farther from Boston
+
+1063
+00:46:20,865 --> 00:46:23,690
+than Minnesota is, so it's
+clearly not a marginal cost
+
+1064
+00:46:23,690 --> 00:46:25,100
+issue.
+
+1065
+00:46:25,100 --> 00:46:26,360
+So that's an example.
+
+1066
+00:46:26,360 --> 00:46:29,330
+It's sort of a nice
+case study of kind of,
+
+1067
+00:46:29,330 --> 00:46:32,360
+our motivation was right, by and
+large economists got it right.
+
+1068
+00:46:32,360 --> 00:46:35,510
+By and large, we're better
+off in a deregulated world.
+
+1069
+00:46:35,510 --> 00:46:37,145
+But not as well
+off as we thought,
+
+1070
+00:46:37,145 --> 00:46:39,520
+because we missed this other
+element of natural monopoly.
+
+1071
+00:46:42,890 --> 00:46:44,840
+Why don't I stop there.
+
+1072
+00:46:44,840 --> 00:46:50,150
+We will continue next time
+by talking about oligopoly.

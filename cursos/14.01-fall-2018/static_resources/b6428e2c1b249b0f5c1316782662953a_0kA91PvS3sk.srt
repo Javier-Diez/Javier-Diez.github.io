@@ -1,0 +1,4480 @@
+1
+00:00:00,960 --> 00:00:01,920
+[SQUEAKING]
+
+2
+00:00:01,920 --> 00:00:03,840
+[RUSTLING]
+
+3
+00:00:03,840 --> 00:00:11,520
+[CLICKING]
+
+4
+00:00:11,520 --> 00:00:14,400
+JONATHAN GRUBER: All right,
+why don't we get started?
+
+5
+00:00:14,400 --> 00:00:18,600
+Today we're going to move
+on to, finally, the most
+
+6
+00:00:18,600 --> 00:00:20,340
+realistic market structure.
+
+7
+00:00:20,340 --> 00:00:22,260
+We talked about perfectly
+competitive markets.
+
+8
+00:00:22,260 --> 00:00:25,680
+Now, that was a very
+useful, extreme example
+
+9
+00:00:25,680 --> 00:00:27,952
+to help us think about
+economic efficiency.
+
+10
+00:00:27,952 --> 00:00:29,910
+We then flipped over to
+talk about the somewhat
+
+11
+00:00:29,910 --> 00:00:32,009
+more real estate
+case of monopoly,
+
+12
+00:00:32,009 --> 00:00:35,550
+but still, very few markets
+have only one participant.
+
+13
+00:00:35,550 --> 00:00:38,940
+A true monopoly is rare
+in the private market.
+
+14
+00:00:38,940 --> 00:00:42,000
+What most markets are
+marked by are probably
+
+15
+00:00:42,000 --> 00:00:44,580
+more features of
+oligopoly, which
+
+16
+00:00:44,580 --> 00:00:48,840
+is a market with a small
+group of firms competing
+
+17
+00:00:48,840 --> 00:00:52,980
+with each other, but with
+barriers to entry that keep out
+
+18
+00:00:52,980 --> 00:00:54,833
+an unlimited number of firms.
+
+19
+00:00:54,833 --> 00:00:56,250
+Think about these
+as markets where
+
+20
+00:00:56,250 --> 00:00:57,990
+there are some
+barriers to entry,
+
+21
+00:00:57,990 --> 00:01:00,270
+so firms just can't
+consciously enter and exit
+
+22
+00:01:00,270 --> 00:01:03,570
+like they could in
+our IBM/Dell example,
+
+23
+00:01:03,570 --> 00:01:06,180
+but where there's small
+enough barriers to entry
+
+24
+00:01:06,180 --> 00:01:08,788
+that a few firms have
+gotten in, not just one.
+
+25
+00:01:08,788 --> 00:01:10,080
+So it's not a natural monopoly.
+
+26
+00:01:10,080 --> 00:01:12,270
+It's not like only one
+firm can be in there.
+
+27
+00:01:12,270 --> 00:01:14,030
+Multiple firms are in
+there, but they only
+
+28
+00:01:14,030 --> 00:01:15,780
+know they have to
+compete with each other,
+
+29
+00:01:15,780 --> 00:01:18,600
+not with the big, wide world.
+
+30
+00:01:18,600 --> 00:01:20,200
+So for example,
+the classic example
+
+31
+00:01:20,200 --> 00:01:24,060
+of an oligopoly industry
+would be the auto industry.
+
+32
+00:01:24,060 --> 00:01:26,393
+Auto manufacturers
+clearly compete.
+
+33
+00:01:26,393 --> 00:01:27,810
+Clearly, if you
+watch any sporting
+
+34
+00:01:27,810 --> 00:01:29,520
+event and watch how much
+advertising that goes,
+
+35
+00:01:29,520 --> 00:01:31,270
+they're clearly competing
+with each other.
+
+36
+00:01:31,270 --> 00:01:33,900
+They're comparing to
+each other all the time.
+
+37
+00:01:33,900 --> 00:01:37,110
+But most of the
+cars in the world
+
+38
+00:01:37,110 --> 00:01:39,660
+are produced by fewer than
+10 auto manufacturers.
+
+39
+00:01:39,660 --> 00:01:41,910
+The notion that we have a
+perfectly competitive market
+
+40
+00:01:41,910 --> 00:01:44,940
+of thousands of sellers
+selling identical goods
+
+41
+00:01:44,940 --> 00:01:48,290
+is clearly not right when
+it comes to buying a car.
+
+42
+00:01:48,290 --> 00:01:50,830
+So that's the model we're
+going to want to focus on
+
+43
+00:01:50,830 --> 00:01:52,820
+for the next few lectures.
+
+44
+00:01:52,820 --> 00:01:59,992
+Now, within an oligopoly
+market, whenever
+
+45
+00:01:59,992 --> 00:02:01,450
+we think about this
+market, we want
+
+46
+00:02:01,450 --> 00:02:03,910
+to start by noting that
+within this market,
+
+47
+00:02:03,910 --> 00:02:05,740
+these limited sets
+of competitors
+
+48
+00:02:05,740 --> 00:02:07,730
+can behave in two ways.
+
+49
+00:02:07,730 --> 00:02:15,170
+They can behave cooperatively
+or non-cooperatively.
+
+50
+00:02:19,660 --> 00:02:22,930
+Cooperatively
+means that they can
+
+51
+00:02:22,930 --> 00:02:27,250
+form what's called a cartel.
+
+52
+00:02:27,250 --> 00:02:30,270
+So when there's an
+oligopoly market
+
+53
+00:02:30,270 --> 00:02:34,380
+and the firms cooperatively get
+together and make decisions,
+
+54
+00:02:34,380 --> 00:02:38,250
+that's called the cartel, the
+most famous example of which
+
+55
+00:02:38,250 --> 00:02:43,130
+is OPEC, the Organization of
+Petroleum Exporting Countries,
+
+56
+00:02:43,130 --> 00:02:45,860
+which are the set of countries
+that control about 2/3
+
+57
+00:02:45,860 --> 00:02:49,830
+of the world's oil,
+led by Saudi Arabia,
+
+58
+00:02:49,830 --> 00:02:54,140
+is the major player in OPEC.
+
+59
+00:02:54,140 --> 00:02:57,080
+It's a cartel of
+about a dozen nations.
+
+60
+00:02:57,080 --> 00:03:00,170
+And what they do is they
+control the vast majority
+
+61
+00:03:00,170 --> 00:03:02,270
+of the world's oil reserves.
+
+62
+00:03:02,270 --> 00:03:04,970
+And by behaving cooperatively,
+they essentially
+
+63
+00:03:04,970 --> 00:03:07,610
+turn themselves into a monopoly.
+
+64
+00:03:07,610 --> 00:03:10,550
+OPEC acts as if they've
+got the monopoly in oil.
+
+65
+00:03:10,550 --> 00:03:14,770
+Certainly they used to.
+
+66
+00:03:14,770 --> 00:03:15,770
+Now it's getting harder.
+
+67
+00:03:15,770 --> 00:03:18,180
+Other non-OPEC countries are
+starting to produce more oil
+
+68
+00:03:18,180 --> 00:03:19,610
+and it's breaking down.
+
+69
+00:03:19,610 --> 00:03:21,590
+But for a long time,
+they were essentially
+
+70
+00:03:21,590 --> 00:03:23,577
+the cooperative
+producer of oil, and act
+
+71
+00:03:23,577 --> 00:03:25,910
+essential like a monopoly,
+and they made lots of profits
+
+72
+00:03:25,910 --> 00:03:26,890
+like a monopoly.
+
+73
+00:03:26,890 --> 00:03:30,413
+That kept prices high, they kept
+production inefficiently low,
+
+74
+00:03:30,413 --> 00:03:31,580
+and they made lots of money.
+
+75
+00:03:34,410 --> 00:03:37,783
+However, that's a great
+outcome for producers,
+
+76
+00:03:37,783 --> 00:03:39,200
+but as we'll talk
+about next time,
+
+77
+00:03:39,200 --> 00:03:41,430
+it's actually a hard
+outcome to enforce.
+
+78
+00:03:41,430 --> 00:03:44,120
+Turns out to be hard to
+keep cartels together.
+
+79
+00:03:44,120 --> 00:03:46,490
+And so typically,
+oligopoly markets
+
+80
+00:03:46,490 --> 00:03:50,130
+behave in a non-cooperative
+way, with the participants
+
+81
+00:03:50,130 --> 00:03:53,750
+competing with each other, not
+cooperating with each other.
+
+82
+00:03:53,750 --> 00:03:57,060
+In this case, you can actually
+get them driving their profits
+
+83
+00:03:57,060 --> 00:03:59,970
+down far below the
+monopoly level,
+
+84
+00:03:59,970 --> 00:04:03,610
+and indeed, perhaps even all the
+way to the competitive level.
+
+85
+00:04:03,610 --> 00:04:05,860
+So you can think about markets
+as a competitive as one
+
+86
+00:04:05,860 --> 00:04:08,260
+extreme and the monopoly
+as the other extreme,
+
+87
+00:04:08,260 --> 00:04:10,090
+oligopoly in between.
+
+88
+00:04:10,090 --> 00:04:12,250
+A cooperative oligopoly
+market, like cartel,
+
+89
+00:04:12,250 --> 00:04:15,940
+will end up close to
+the monopoly outcome.
+
+90
+00:04:15,940 --> 00:04:18,998
+A non-cooperative market will
+end up somewhere in between,
+
+91
+00:04:18,998 --> 00:04:21,040
+and we're going to model
+today's where in between
+
+92
+00:04:21,040 --> 00:04:24,010
+do they end up.
+
+93
+00:04:24,010 --> 00:04:25,820
+Now, to think about
+this, we're going
+
+94
+00:04:25,820 --> 00:04:28,090
+to have to turn to a
+tool, which has really
+
+95
+00:04:28,090 --> 00:04:30,460
+become a dominant tool in
+economics over the last 40
+
+96
+00:04:30,460 --> 00:04:33,370
+years, which is the
+tool of game theory.
+
+97
+00:04:39,590 --> 00:04:41,390
+Game theory.
+
+98
+00:04:41,390 --> 00:04:46,060
+So basically, we're going
+to think of oligopoly firms
+
+99
+00:04:46,060 --> 00:04:49,700
+as engaging in a game.
+
+100
+00:04:49,700 --> 00:04:57,210
+And as with any game, you
+need to know two things.
+
+101
+00:04:57,210 --> 00:05:03,090
+One is you need to
+what's the strategy,
+
+102
+00:05:03,090 --> 00:05:06,610
+and the second is you need to
+know when is the game over.
+
+103
+00:05:06,610 --> 00:05:08,326
+What's the equilibrium?
+
+104
+00:05:12,790 --> 00:05:17,590
+And that's, essentially,
+what you do with any game.
+
+105
+00:05:17,590 --> 00:05:22,870
+And so basically, the
+key with game theory
+
+106
+00:05:22,870 --> 00:05:26,290
+is that we are going to
+find the equilibrium,
+
+107
+00:05:26,290 --> 00:05:28,330
+and that's going to
+yield for us the strategy
+
+108
+00:05:28,330 --> 00:05:30,950
+that players are going to use.
+
+109
+00:05:30,950 --> 00:05:33,295
+However, equilibrium in a
+game is not well-defined.
+
+110
+00:05:33,295 --> 00:05:34,670
+It's not like a
+set of rules that
+
+111
+00:05:34,670 --> 00:05:36,380
+are printed out, like monopoly.
+
+112
+00:05:36,380 --> 00:05:39,550
+In a non-cooperative oligopoly
+market, the equilibrium,
+
+113
+00:05:39,550 --> 00:05:42,050
+you have to actually come up
+with different concepts of what
+
+114
+00:05:42,050 --> 00:05:42,770
+equilibrium is.
+
+115
+00:05:42,770 --> 00:05:45,470
+There's not a hard and
+fast scientific rule.
+
+116
+00:05:45,470 --> 00:05:47,450
+And the typical
+one that's used is
+
+117
+00:05:47,450 --> 00:05:57,140
+called the Nash equilibrium,
+the Nash equilibrium,
+
+118
+00:05:57,140 --> 00:06:02,188
+named for John Nash, the famous
+mathematician, who economists
+
+119
+00:06:02,188 --> 00:06:04,355
+have claimed as their own,
+even though he was really
+
+120
+00:06:04,355 --> 00:06:05,230
+a mathematician.
+
+121
+00:06:05,230 --> 00:06:07,760
+But we gave him the
+Nobel Prize anyway.
+
+122
+00:06:07,760 --> 00:06:09,590
+And if you think of
+economists, probably
+
+123
+00:06:09,590 --> 00:06:11,757
+one of the most famous, you
+all know about the movie
+
+124
+00:06:11,757 --> 00:06:14,510
+and book Beautiful Mind.
+
+125
+00:06:14,510 --> 00:06:19,720
+He is based on the
+father of game theory.
+
+126
+00:06:19,720 --> 00:06:23,290
+So basically, what is
+the Nash equilibrium?
+
+127
+00:06:23,290 --> 00:06:30,220
+The Nash equilibrium is defined
+as the point at which no player
+
+128
+00:06:30,220 --> 00:06:33,520
+wants to change their
+strategy, given what
+
+129
+00:06:33,520 --> 00:06:36,580
+the other players are doing.
+
+130
+00:06:36,580 --> 00:06:40,710
+So the point at which no player
+wants to change its strategy,
+
+131
+00:06:40,710 --> 00:06:43,490
+given what the other
+players are doing.
+
+132
+00:06:43,490 --> 00:06:47,480
+So in other words, every player
+is happy with where they are.
+
+133
+00:06:47,480 --> 00:06:49,490
+Given what every other
+player's decided,
+
+134
+00:06:49,490 --> 00:06:51,410
+I'm happy to do
+what I've decided.
+
+135
+00:06:51,410 --> 00:06:54,350
+So I've got a strategy,
+and given the strategy
+
+136
+00:06:54,350 --> 00:06:58,250
+other players are using, if I'm
+happy with my strategy, then
+
+137
+00:06:58,250 --> 00:07:01,640
+that's in equilibrium.
+
+138
+00:07:01,640 --> 00:07:04,120
+So this is a super
+abstract concept,
+
+139
+00:07:04,120 --> 00:07:06,340
+so let's illustrate
+it with an example.
+
+140
+00:07:06,340 --> 00:07:09,040
+And the classic
+example of game theory
+
+141
+00:07:09,040 --> 00:07:15,350
+is the prisoner's dilemma,
+which many of you, I'm sure,
+
+142
+00:07:15,350 --> 00:07:18,362
+know about, maybe
+the most of you,
+
+143
+00:07:18,362 --> 00:07:19,570
+but let's just go through it.
+
+144
+00:07:19,570 --> 00:07:22,210
+This is the thing from the
+old cop movies you see,
+
+145
+00:07:22,210 --> 00:07:27,730
+where they arrest two guys and
+they put them in separate rooms
+
+146
+00:07:27,730 --> 00:07:29,920
+and they basically
+interrogate them separately.
+
+147
+00:07:32,940 --> 00:07:36,042
+They're put in separate rooms,
+and let's say that these guys
+
+148
+00:07:36,042 --> 00:07:37,000
+get told the following.
+
+149
+00:07:37,000 --> 00:07:39,670
+They each get told separately
+the following thing.
+
+150
+00:07:39,670 --> 00:07:44,410
+They get told that right
+now, if nothing else happens,
+
+151
+00:07:44,410 --> 00:07:48,260
+there's enough evidence to send
+them each away for one year.
+
+152
+00:07:48,260 --> 00:07:55,000
+However, they're told, if
+they turned on their friend
+
+153
+00:07:55,000 --> 00:07:58,000
+and say their friend's
+guilty, then they go free
+
+154
+00:07:58,000 --> 00:08:00,620
+and their friend
+gets five years.
+
+155
+00:08:00,620 --> 00:08:04,010
+If their friend turns on them,
+then the friend goes free
+
+156
+00:08:04,010 --> 00:08:05,820
+and they get five years.
+
+157
+00:08:05,820 --> 00:08:10,500
+But if they both turn on each
+other, they both get two years.
+
+158
+00:08:10,500 --> 00:08:13,590
+Set up as if they both stay
+silent, they both get one year.
+
+159
+00:08:13,590 --> 00:08:16,380
+If one turns, then that
+person gets to leave
+
+160
+00:08:16,380 --> 00:08:18,070
+and the person gets five years.
+
+161
+00:08:18,070 --> 00:08:22,250
+But if they both turn, then
+they each get two years.
+
+162
+00:08:22,250 --> 00:08:24,040
+So how do we think
+about decision-making
+
+163
+00:08:24,040 --> 00:08:25,010
+in that context?
+
+164
+00:08:25,010 --> 00:08:28,720
+The way we do that is we write
+down, we call, a payoff matrix.
+
+165
+00:08:28,720 --> 00:08:31,690
+We write down in matrix
+form this decision.
+
+166
+00:08:31,690 --> 00:08:33,940
+So let's think about what a
+playoff matrix looks like.
+
+167
+00:08:33,940 --> 00:08:37,809
+Up here is prisoner
+B, and here you
+
+168
+00:08:37,809 --> 00:08:48,020
+have prisoner A. Prisoner A.
+And prisoner A can remain silent
+
+169
+00:08:48,020 --> 00:08:54,210
+or they can talk, and
+prisoner B can remain silent
+
+170
+00:08:54,210 --> 00:08:55,080
+or they can talk.
+
+171
+00:08:57,980 --> 00:08:59,390
+And then we just
+write down, what
+
+172
+00:08:59,390 --> 00:09:01,760
+are the outcomes,
+or the payoffs,
+
+173
+00:09:01,760 --> 00:09:03,932
+from these different strategies?
+
+174
+00:09:03,932 --> 00:09:07,190
+So prisoner A says nothing
+and prisoner B says nothing,
+
+175
+00:09:07,190 --> 00:09:11,900
+then A gets one year
+and B gets one year.
+
+176
+00:09:11,900 --> 00:09:15,290
+If prisoner A says nothing
+and prisoner B says, oh yeah,
+
+177
+00:09:15,290 --> 00:09:17,360
+prisoner A is
+definitely guilty, then
+
+178
+00:09:17,360 --> 00:09:21,620
+prisoner A gets five years
+and prisoner gets zero years.
+
+179
+00:09:24,480 --> 00:09:26,230
+If the opposite happens,
+if prison A says,
+
+180
+00:09:26,230 --> 00:09:29,170
+yeah, B's guilty, and B
+doesn't say anything about A,
+
+181
+00:09:29,170 --> 00:09:33,980
+then A gets zero years
+and B gets five years.
+
+182
+00:09:33,980 --> 00:09:36,212
+But if they both say
+the other one's guilty,
+
+183
+00:09:36,212 --> 00:09:37,420
+then they each get two years.
+
+184
+00:09:40,430 --> 00:09:42,095
+OK, that's the payoff matrix.
+
+185
+00:09:45,300 --> 00:09:49,320
+And now we want to ask,
+given this payoff matrix,
+
+186
+00:09:49,320 --> 00:09:53,820
+what is the right strategy
+for each prisoner to pursue?
+
+187
+00:09:53,820 --> 00:09:56,730
+And the way we do this in the
+Nash equilibrium concept is we
+
+188
+00:09:56,730 --> 00:09:59,940
+look for a dominant strategy.
+
+189
+00:09:59,940 --> 00:10:04,520
+Is there a strategy that
+I would pursue regardless
+
+190
+00:10:04,520 --> 00:10:06,913
+of what the other person does?
+
+191
+00:10:06,913 --> 00:10:08,330
+And if there is,
+I'll pursue that.
+
+192
+00:10:08,330 --> 00:10:10,247
+Because remember, the
+Nash equilibrium concept
+
+193
+00:10:10,247 --> 00:10:13,010
+is, what do I want to do, given
+what the other person is doing?
+
+194
+00:10:13,010 --> 00:10:14,802
+If I have a strategy
+I want to do no matter
+
+195
+00:10:14,802 --> 00:10:17,050
+what the other person is
+doing, then I'll do it.
+
+196
+00:10:17,050 --> 00:10:19,790
+So when asked, is there
+a dominant strategy?
+
+197
+00:10:19,790 --> 00:10:22,960
+Is there a strategy that is
+the best thing to do, no matter
+
+198
+00:10:22,960 --> 00:10:26,210
+what the other guy does?
+
+199
+00:10:26,210 --> 00:10:29,765
+Well, clearly, if
+they're cooperating,
+
+200
+00:10:29,765 --> 00:10:32,390
+if these were stupid police and
+they sat them in the same room,
+
+201
+00:10:32,390 --> 00:10:35,170
+told them and then left, the
+two guys could cooperate.
+
+202
+00:10:35,170 --> 00:10:37,810
+Well, clearly, the dominant
+cooperative strategy
+
+203
+00:10:37,810 --> 00:10:40,485
+is for both of us
+to remain silent.
+
+204
+00:10:40,485 --> 00:10:42,110
+That's the dominant
+cooperate strategy.
+
+205
+00:10:42,110 --> 00:10:44,420
+And as a team, we only
+get two total years
+
+206
+00:10:44,420 --> 00:10:47,360
+in jail, where everything
+gets many more years in jail.
+
+207
+00:10:47,360 --> 00:10:50,000
+So if they're buddies
+and they trust each other
+
+208
+00:10:50,000 --> 00:10:53,022
+and they cooperate, then that's
+clearly the right strategy.
+
+209
+00:10:53,022 --> 00:10:54,980
+But let's say the police
+are smart and put them
+
+210
+00:10:54,980 --> 00:10:57,850
+in separate rooms.
+
+211
+00:10:57,850 --> 00:11:02,290
+Well, what's the dominant
+non-cooperative strategy?
+
+212
+00:11:02,290 --> 00:11:05,690
+What is the strategy that A
+or B, say A, should produce?
+
+213
+00:11:05,690 --> 00:11:07,000
+Yeah?
+
+214
+00:11:07,000 --> 00:11:08,020
+Why?
+
+215
+00:11:08,020 --> 00:11:09,490
+AUDIENCE: Either way, you're
+going to get less years.
+
+216
+00:11:09,490 --> 00:11:11,615
+Like if you're the only
+person silent and you talk,
+
+217
+00:11:11,615 --> 00:11:14,170
+you get zero, and if
+they talk and you talk,
+
+218
+00:11:14,170 --> 00:11:15,468
+you only get two versus five.
+
+219
+00:11:15,468 --> 00:11:16,510
+JONATHAN GRUBER: Exactly.
+
+220
+00:11:16,510 --> 00:11:20,240
+For prisoner A in
+this first row--
+
+221
+00:11:20,240 --> 00:11:22,050
+compare the first column.
+
+222
+00:11:22,050 --> 00:11:24,240
+We'll say prisoner B is silent.
+
+223
+00:11:24,240 --> 00:11:26,250
+Then clearly, you're
+better off talking than not
+
+224
+00:11:26,250 --> 00:11:28,420
+talking, zero rather than one.
+
+225
+00:11:28,420 --> 00:11:30,240
+Let's say prisoner B talks.
+
+226
+00:11:30,240 --> 00:11:32,880
+Then you're still better off
+talking than not talking.
+
+227
+00:11:32,880 --> 00:11:36,750
+So no matter what B
+does, you should talk.
+
+228
+00:11:36,750 --> 00:11:41,190
+Likewise, prisoner B, no matter
+what A does, B should talk.
+
+229
+00:11:41,190 --> 00:11:42,870
+So the non-cooperative
+equilibrium
+
+230
+00:11:42,870 --> 00:11:45,450
+is actually this outcome.
+
+231
+00:11:45,450 --> 00:11:47,280
+They both end up talking.
+
+232
+00:11:47,280 --> 00:11:50,400
+You get sort of a
+race to the bottom.
+
+233
+00:11:50,400 --> 00:11:52,222
+The non-cooperative
+outcome is much worse
+
+234
+00:11:52,222 --> 00:11:53,680
+than if they could
+have cooperated.
+
+235
+00:11:56,900 --> 00:11:59,360
+So basically, what
+you get is that
+
+236
+00:11:59,360 --> 00:12:02,120
+the non-cooperative
+equilibrium is always
+
+237
+00:12:02,120 --> 00:12:06,810
+worse for the players than
+the cooperative equilibrium.
+
+238
+00:12:06,810 --> 00:12:11,940
+And this was like an
+unbelievable insight of Nash.
+
+239
+00:12:11,940 --> 00:12:14,880
+Before Nash, we always
+thought competition
+
+240
+00:12:14,880 --> 00:12:16,640
+was always and everywhere good.
+
+241
+00:12:16,640 --> 00:12:18,990
+We always thought more
+competition is better,
+
+242
+00:12:18,990 --> 00:12:21,300
+for the reasons we talked
+in the first 10 or 12
+
+243
+00:12:21,300 --> 00:12:23,190
+lectures of this class.
+
+244
+00:12:23,190 --> 00:12:25,112
+Nash was the first one
+to say, no, actually,
+
+245
+00:12:25,112 --> 00:12:26,070
+competition can be bad.
+
+246
+00:12:26,070 --> 00:12:27,153
+Cooperation can be better.
+
+247
+00:12:27,153 --> 00:12:29,670
+I don't know if you remember
+the scene in a Beautiful Mind
+
+248
+00:12:29,670 --> 00:12:31,650
+where they're picking
+up girls in the bar.
+
+249
+00:12:31,650 --> 00:12:35,670
+And he described
+basically a Nash strategy,
+
+250
+00:12:35,670 --> 00:12:39,070
+how competition will lead
+to the worst outcome.
+
+251
+00:12:39,070 --> 00:12:41,180
+And basically, that's
+what you see here,
+
+252
+00:12:41,180 --> 00:12:43,465
+that competition can
+actually lead to a worse
+
+253
+00:12:43,465 --> 00:12:45,340
+outcome than cooperation,
+and that was really
+
+254
+00:12:45,340 --> 00:12:48,900
+Nash's brilliant insight.
+
+255
+00:12:48,900 --> 00:12:57,660
+Now, this is a cute example
+with prisoners, but actually--
+
+256
+00:12:57,660 --> 00:12:59,000
+well first, two points.
+
+257
+00:12:59,000 --> 00:13:01,260
+First of all, this
+generally shows you
+
+258
+00:13:01,260 --> 00:13:05,070
+how you do gain favor
+with Nash equilibrium.
+
+259
+00:13:05,070 --> 00:13:08,040
+Basically, you look
+at the payoff matrix,
+
+260
+00:13:08,040 --> 00:13:10,860
+you find the dominant
+strategy, and then
+
+261
+00:13:10,860 --> 00:13:14,710
+you find where those dominant
+strategies intersect.
+
+262
+00:13:14,710 --> 00:13:16,210
+And here, the
+dominant strategies
+
+263
+00:13:16,210 --> 00:13:18,040
+intersect at this
+cell, therefore
+
+264
+00:13:18,040 --> 00:13:20,990
+that's the equilibrium.
+
+265
+00:13:20,990 --> 00:13:23,860
+So that's basically how you do
+game theory in a game theory
+
+266
+00:13:23,860 --> 00:13:25,850
+kindergarten level.
+
+267
+00:13:25,850 --> 00:13:26,930
+You look at the matrix.
+
+268
+00:13:26,930 --> 00:13:29,090
+You find each player's
+dominant strategy.
+
+269
+00:13:29,090 --> 00:13:31,700
+And you find the point at
+which those dominant strategies
+
+270
+00:13:31,700 --> 00:13:36,160
+intersect, and at that point,
+that's the equilibrium.
+
+271
+00:13:36,160 --> 00:13:40,710
+Now, that's all well and good
+for a simple example like this,
+
+272
+00:13:40,710 --> 00:13:43,410
+but let's actually apply
+to an economics example.
+
+273
+00:13:43,410 --> 00:13:45,690
+Let's think about advertising.
+
+274
+00:13:45,690 --> 00:13:47,160
+So think about Coke and Pepsi.
+
+275
+00:13:51,120 --> 00:13:55,230
+Right now, let's think about
+their decision to advertise.
+
+276
+00:13:55,230 --> 00:13:56,910
+Now, obviously it's
+a simple problem.
+
+277
+00:13:56,910 --> 00:13:59,130
+Obviously Pepsi
+should just be illegal
+
+278
+00:13:59,130 --> 00:14:00,370
+because Coke is way better.
+
+279
+00:14:00,370 --> 00:14:03,330
+But sadly, it's not, and
+sometimes I have to drink Pepsi
+
+280
+00:14:03,330 --> 00:14:04,770
+and I'm very sad.
+
+281
+00:14:04,770 --> 00:14:08,010
+But nonetheless, in the real
+world, we have Coke and Pepsi
+
+282
+00:14:08,010 --> 00:14:10,230
+and they have to decide
+how much to advertise.
+
+283
+00:14:10,230 --> 00:14:14,130
+Now, the dominant
+cooperative strategy
+
+284
+00:14:14,130 --> 00:14:16,770
+would be to say,
+look, advertising
+
+285
+00:14:16,770 --> 00:14:18,820
+costs us a ton of money.
+
+286
+00:14:18,820 --> 00:14:20,430
+Let's just split the market.
+
+287
+00:14:20,430 --> 00:14:22,722
+Let's have a monopoly
+market and just split it.
+
+288
+00:14:22,722 --> 00:14:24,180
+We're close to
+splitting it anyway.
+
+289
+00:14:24,180 --> 00:14:25,130
+Coke's got some more of it.
+
+290
+00:14:25,130 --> 00:14:25,830
+We're close to splitting it.
+
+291
+00:14:25,830 --> 00:14:26,460
+Let's just split it.
+
+292
+00:14:26,460 --> 00:14:27,115
+Yeah?
+
+293
+00:14:27,115 --> 00:14:28,815
+AUDIENCE: Can you
+actually do that?
+
+294
+00:14:28,815 --> 00:14:30,070
+JONATHAN GRUBER: What?
+
+295
+00:14:30,070 --> 00:14:30,280
+AUDIENCE: Can you
+actually do that?
+
+296
+00:14:30,280 --> 00:14:31,070
+Because I remember,
+there were places
+
+297
+00:14:31,070 --> 00:14:32,590
+that you get where
+you aren't allowed
+
+298
+00:14:32,590 --> 00:14:33,630
+to sell in the same place.
+
+299
+00:14:33,630 --> 00:14:36,255
+JONATHAN GRUBER: OK, but that's
+different than the cooperative.
+
+300
+00:14:36,255 --> 00:14:38,810
+That's imposed not by
+Coke and Pepsi jointly.
+
+301
+00:14:38,810 --> 00:14:41,180
+That's imposed by Pepsi
+saying to a university campus,
+
+302
+00:14:41,180 --> 00:14:45,050
+for example, we will
+cut you a better deal
+
+303
+00:14:45,050 --> 00:14:46,882
+if you'll agree
+not to sell Coke.
+
+304
+00:14:46,882 --> 00:14:47,840
+That's not cooperation.
+
+305
+00:14:47,840 --> 00:14:49,760
+That's competition.
+
+306
+00:14:49,760 --> 00:14:51,300
+So there's cooperative strategy.
+
+307
+00:14:51,300 --> 00:14:53,660
+What if they don't cooperate?
+
+308
+00:14:53,660 --> 00:14:58,460
+Well, let's imagine we have
+the following payoff matrix.
+
+309
+00:14:58,460 --> 00:15:03,630
+You've got Pepsi up here,
+and they can advertise or not
+
+310
+00:15:03,630 --> 00:15:04,860
+advertise.
+
+311
+00:15:04,860 --> 00:15:10,490
+And you've got Coke here,
+and they can advertise or not
+
+312
+00:15:10,490 --> 00:15:12,260
+advertise.
+
+313
+00:15:12,260 --> 00:15:14,485
+And let's say the payoff
+matrix is the following.
+
+314
+00:15:20,420 --> 00:15:23,480
+Let's say the total amount
+of profit to be made
+
+315
+00:15:23,480 --> 00:15:25,640
+is 16 whatever,
+billion, whatever
+
+316
+00:15:25,640 --> 00:15:28,670
+units you want to
+make it, $16 billion.
+
+317
+00:15:28,670 --> 00:15:32,100
+And let's say if there's
+no advertising, Coke gets 8
+
+318
+00:15:32,100 --> 00:15:33,717
+and Pepsi gets 8.
+
+319
+00:15:38,850 --> 00:15:43,370
+But let's say
+advertising costs money.
+
+320
+00:15:43,370 --> 00:15:46,700
+It costs 5, $5 billion.
+
+321
+00:15:46,700 --> 00:15:49,340
+So let's say if
+they both advertise,
+
+322
+00:15:49,340 --> 00:15:51,620
+then they still end up
+splitting the market,
+
+323
+00:15:51,620 --> 00:15:53,550
+but they only make 3.
+
+324
+00:15:53,550 --> 00:15:55,370
+C equals 3, P equals 3.
+
+325
+00:15:59,470 --> 00:16:02,540
+I'm sorry, advertise.
+yes, you're right.
+
+326
+00:16:02,540 --> 00:16:06,230
+C equals 3, P equals 3.
+
+327
+00:16:06,230 --> 00:16:08,425
+And here C equals 8, P equals 8.
+
+328
+00:16:16,080 --> 00:16:17,880
+So basically, you
+have a situation
+
+329
+00:16:17,880 --> 00:16:22,200
+where they both end of
+splitting the market either way,
+
+330
+00:16:22,200 --> 00:16:25,590
+but they just split a smaller
+net profit if they advertise.
+
+331
+00:16:25,590 --> 00:16:28,290
+So clearly, they'd
+rather be here than here.
+
+332
+00:16:28,290 --> 00:16:30,330
+But what happens in the
+off diagonal elements?
+
+333
+00:16:30,330 --> 00:16:35,220
+Well, let's say also that if
+Coke advertises but Pepsi does
+
+334
+00:16:35,220 --> 00:16:40,050
+not, then let's say Coke
+ends up making $13 billion
+
+335
+00:16:40,050 --> 00:16:42,120
+and Pepsi ends up making minus--
+
+336
+00:16:42,120 --> 00:16:47,640
+I'm sorry, if Coke advertises
+and Pepsi does not,
+
+337
+00:16:47,640 --> 00:16:48,510
+they split money.
+
+338
+00:16:48,510 --> 00:16:50,700
+And Pepsi makes negative 2.
+
+339
+00:16:50,700 --> 00:16:52,950
+They actually lose money
+because they have fixed costs
+
+340
+00:16:52,950 --> 00:16:53,700
+and they don't sell anything.
+
+341
+00:16:53,700 --> 00:16:54,500
+Nobody buys Pepsi.
+
+342
+00:16:54,500 --> 00:16:56,065
+It'll lose money.
+
+343
+00:16:56,065 --> 00:16:57,440
+And let's say if
+Pepsi advertises
+
+344
+00:16:57,440 --> 00:17:00,770
+and Coke doesn't, then
+Coke makes negative 2
+
+345
+00:17:00,770 --> 00:17:04,000
+and Pepsi makes 13.
+
+346
+00:17:04,000 --> 00:17:05,710
+So actually, if you
+don't advertise,
+
+347
+00:17:05,710 --> 00:17:07,800
+you're really screwed, and the
+other guy is really screwed.
+
+348
+00:17:07,800 --> 00:17:07,980
+Yeah?
+
+349
+00:17:07,980 --> 00:17:09,930
+AUDIENCE: Does this include
+the cost of advertising?
+
+350
+00:17:09,930 --> 00:17:11,347
+JONATHAN GRUBER:
+This does include
+
+351
+00:17:11,347 --> 00:17:12,890
+the cost of advertising.
+
+352
+00:17:12,890 --> 00:17:18,220
+But it's just Coke gets a huge
+market, expands its market.
+
+353
+00:17:18,220 --> 00:17:21,220
+So now let's play the game.
+
+354
+00:17:21,220 --> 00:17:23,170
+Well, now let's say you're Coke.
+
+355
+00:17:23,170 --> 00:17:30,973
+You say, well, if I advertise
+and Pepsi advertises, I make 3.
+
+356
+00:17:30,973 --> 00:17:32,890
+But if I don't advertise
+and Pepsi advertises,
+
+357
+00:17:32,890 --> 00:17:33,640
+I make negative 2.
+
+358
+00:17:33,640 --> 00:17:35,730
+So I should advertise.
+
+359
+00:17:35,730 --> 00:17:38,700
+If I advertise and Pepsi
+doesn't advertise, I make 13.
+
+360
+00:17:38,700 --> 00:17:42,180
+If I don't advertise and Pepsi
+doesn't advertise, I make 8.
+
+361
+00:17:42,180 --> 00:17:45,630
+So either way, my dominant
+strategy is to advertise.
+
+362
+00:17:45,630 --> 00:17:47,730
+And likewise, Pepsi
+does the same thing.
+
+363
+00:17:47,730 --> 00:17:49,110
+I screwed up writing this
+compared to my notes,
+
+364
+00:17:49,110 --> 00:17:50,380
+but it's good because
+it shows you--
+
+365
+00:17:50,380 --> 00:17:52,380
+I flipped the matrix, but
+the logic is the same.
+
+366
+00:17:52,380 --> 00:17:54,660
+It helps you not just
+memorize cells of the matrix
+
+367
+00:17:54,660 --> 00:17:55,980
+but learn the logic.
+
+368
+00:17:55,980 --> 00:17:58,700
+The point is either way,
+the dominant strategy
+
+369
+00:17:58,700 --> 00:18:01,750
+is to advertise, so
+they both advertise.
+
+370
+00:18:01,750 --> 00:18:04,430
+So real world example
+of how you can end up.
+
+371
+00:18:04,430 --> 00:18:06,470
+Now, so much of Pepsi
+and Coke do this.
+
+372
+00:18:06,470 --> 00:18:09,060
+Actually, there was an
+industry that did this.
+
+373
+00:18:09,060 --> 00:18:14,870
+So when I was a kid, you never,
+ever saw ads for liquor on TV.
+
+374
+00:18:14,870 --> 00:18:18,200
+There were beer ads and wine
+ads, but no hard alcohol ad.
+
+375
+00:18:18,200 --> 00:18:21,440
+No bourbon, no whiskey,
+no nothing, gin.
+
+376
+00:18:21,440 --> 00:18:23,870
+All these Captain
+Morgan's ads we see now,
+
+377
+00:18:23,870 --> 00:18:26,020
+they didn't exist
+when I was a kid.
+
+378
+00:18:26,020 --> 00:18:27,520
+But it wasn't because the law.
+
+379
+00:18:27,520 --> 00:18:30,880
+It was because the hard liquor
+industry cooperatively agreed
+
+380
+00:18:30,880 --> 00:18:32,300
+none of them would advertise.
+
+381
+00:18:32,300 --> 00:18:34,690
+So they actually imposed
+the cooperative equilibrium,
+
+382
+00:18:34,690 --> 00:18:35,747
+and then that broke down.
+
+383
+00:18:35,747 --> 00:18:37,580
+I don't know the story
+of how it broke down.
+
+384
+00:18:37,580 --> 00:18:38,180
+But it broke down.
+
+385
+00:18:38,180 --> 00:18:40,013
+Now they all advertise,
+and they're probably
+
+386
+00:18:40,013 --> 00:18:43,360
+all worse off than they were
+when they didn't advertise.
+
+387
+00:18:43,360 --> 00:18:45,610
+We'll talk next time about
+why it probably broke down.
+
+388
+00:18:45,610 --> 00:18:46,780
+I don't know the stories.
+
+389
+00:18:46,780 --> 00:18:49,347
+I have a rough sense, and we'll
+talk about that next time.
+
+390
+00:18:49,347 --> 00:18:51,930
+But this is the point of how a
+non-cooperative equilibrium can
+
+391
+00:18:51,930 --> 00:18:54,840
+drive you to a bad outcome.
+
+392
+00:18:54,840 --> 00:18:58,260
+Now, basically,
+this doesn't just
+
+393
+00:18:58,260 --> 00:18:59,730
+apply to prisoners
+or businesses.
+
+394
+00:18:59,730 --> 00:19:01,688
+It applies to people, too.
+
+395
+00:19:01,688 --> 00:19:03,480
+So let's say poor Hector
+back there has had
+
+396
+00:19:03,480 --> 00:19:06,190
+a fight with his girlfriend.
+
+397
+00:19:06,190 --> 00:19:07,622
+And they've had a big fight.
+
+398
+00:19:07,622 --> 00:19:08,830
+They've going a little while.
+
+399
+00:19:08,830 --> 00:19:10,360
+They've had a big fight.
+
+400
+00:19:10,360 --> 00:19:13,090
+And Hector has got to decide,
+do I apologize or do I wait
+
+401
+00:19:13,090 --> 00:19:16,010
+for her to apologize?
+
+402
+00:19:16,010 --> 00:19:18,770
+Well, the last
+thing Hector wants
+
+403
+00:19:18,770 --> 00:19:21,470
+is to go up there and apologize
+and have her say, forget it.
+
+404
+00:19:21,470 --> 00:19:22,940
+I'm breaking up with you.
+
+405
+00:19:22,940 --> 00:19:26,000
+That'd be the worst.
+
+406
+00:19:26,000 --> 00:19:28,400
+If he knows she's going to
+be like, oh, I'm sorry, too,
+
+407
+00:19:28,400 --> 00:19:29,850
+then he'd be happy to do it.
+
+408
+00:19:29,850 --> 00:19:31,940
+But what if he goes, no
+I'm breaking up with you,
+
+409
+00:19:31,940 --> 00:19:33,720
+and she's thinking
+the same thing.
+
+410
+00:19:33,720 --> 00:19:36,580
+So what happens, they break up.
+
+411
+00:19:36,580 --> 00:19:38,900
+We've been through this
+many times in our lives.
+
+412
+00:19:38,900 --> 00:19:42,060
+This is the
+non-cooperative strategy.
+
+413
+00:19:42,060 --> 00:19:44,560
+Basically, if you know what the
+other person is going to do,
+
+414
+00:19:44,560 --> 00:19:48,970
+your dominant strategies to be
+an asshole, and basically that
+
+415
+00:19:48,970 --> 00:19:53,720
+happens a lot in the
+context of the real world.
+
+416
+00:19:53,720 --> 00:19:58,280
+So now we have this
+sad-sounding outcome,
+
+417
+00:19:58,280 --> 00:20:01,700
+that basically game theory leads
+to bad outcomes for producers,
+
+418
+00:20:01,700 --> 00:20:03,060
+at least.
+
+419
+00:20:03,060 --> 00:20:05,470
+But this is what's
+exciting about game theory.
+
+420
+00:20:05,470 --> 00:20:07,380
+So when I went to
+grad school, back
+
+421
+00:20:07,380 --> 00:20:10,530
+when dinosaurs roamed
+the earth, game theory
+
+422
+00:20:10,530 --> 00:20:12,980
+was taught barely
+in the sequence.
+
+423
+00:20:12,980 --> 00:20:15,270
+It was like an extra
+course, taught a little bit.
+
+424
+00:20:15,270 --> 00:20:19,400
+Now it dominates the teaching
+of microeconomics, in economics.
+
+425
+00:20:19,400 --> 00:20:22,380
+And it doesn't dominate, but
+it's a whole like component
+
+426
+00:20:22,380 --> 00:20:24,750
+of our core
+microeconomics education,
+
+427
+00:20:24,750 --> 00:20:27,510
+because it's given such
+a cool set of tools
+
+428
+00:20:27,510 --> 00:20:29,040
+to think about these decisions.
+
+429
+00:20:29,040 --> 00:20:33,090
+Now, I can't give you even 1%
+of the flavor of game theory.
+
+430
+00:20:33,090 --> 00:20:35,910
+If you want to learn more, I
+highly suggest you take 1412,
+
+431
+00:20:35,910 --> 00:20:38,190
+which our game theory class,
+and you can learn a ton.
+
+432
+00:20:38,190 --> 00:20:39,982
+But let me show you
+one interesting wrinkle
+
+433
+00:20:39,982 --> 00:20:43,590
+of the things game theory
+can do, to go beyond this.
+
+434
+00:20:43,590 --> 00:20:48,690
+And that's to imagine that Coke
+and Pepsi are not playing a one
+
+435
+00:20:48,690 --> 00:20:50,980
+shot game, but a repeated game.
+
+436
+00:20:56,050 --> 00:20:59,110
+Repeated game.
+
+437
+00:20:59,110 --> 00:21:07,250
+So now imagine that Coke
+says to Pepsi the following,
+
+438
+00:21:07,250 --> 00:21:13,440
+I promise to not advertise as
+long as you don't advertise.
+
+439
+00:21:13,440 --> 00:21:18,245
+But if you ever advertise,
+I will advertise forever.
+
+440
+00:21:18,245 --> 00:21:19,620
+Coke says to Pepsi,
+I promise not
+
+441
+00:21:19,620 --> 00:21:21,390
+to advertise as long
+as you don't advertise,
+
+442
+00:21:21,390 --> 00:21:22,930
+but if I ever catch
+you advertising,
+
+443
+00:21:22,930 --> 00:21:25,770
+I'm going to advertise forever.
+
+444
+00:21:25,770 --> 00:21:29,610
+So think about Pepsi
+choice in period 1.
+
+445
+00:21:29,610 --> 00:21:31,050
+Pepsi's choice in period 1.
+
+446
+00:21:31,050 --> 00:21:33,972
+In period 1, they could
+say, ha, stupid Coke.
+
+447
+00:21:33,972 --> 00:21:35,430
+I'm going to jump
+on and advertise.
+
+448
+00:21:35,430 --> 00:21:37,380
+They promised not to advertise.
+
+449
+00:21:37,380 --> 00:21:45,440
+So if Pepsi advertises, they're
+going to make 13 in period 1
+
+450
+00:21:45,440 --> 00:21:48,200
+because Coke's taken
+themselves off to the side.
+
+451
+00:21:48,200 --> 00:21:54,857
+But after period 1, they're
+going to make 8 forever.
+
+452
+00:21:54,857 --> 00:21:55,440
+No, I'm sorry.
+
+453
+00:21:55,440 --> 00:21:56,720
+They're going to make 3 forever.
+
+454
+00:21:56,720 --> 00:21:57,860
+Because Coke's
+going to advertise.
+
+455
+00:21:57,860 --> 00:21:58,985
+They're going to advertise.
+
+456
+00:21:58,985 --> 00:22:03,177
+They break down to the
+non-cooperative equilibrium,
+
+457
+00:22:03,177 --> 00:22:04,010
+if Pepsi advertises.
+
+458
+00:22:04,010 --> 00:22:06,710
+Now, what if Pepsi
+doesn't advertise?
+
+459
+00:22:06,710 --> 00:22:09,590
+As long as it doesn't advertise,
+then it gets to deal with Coke,
+
+460
+00:22:09,590 --> 00:22:10,850
+so it makes 8 forever.
+
+461
+00:22:14,570 --> 00:22:17,495
+We'll talk later in the course
+about how you combine numbers
+
+462
+00:22:17,495 --> 00:22:19,370
+that happen at different
+times, but trust me,
+
+463
+00:22:19,370 --> 00:22:23,390
+8 forever is a way better
+deal than 13, than 3 forever.
+
+464
+00:22:23,390 --> 00:22:27,810
+So actually, by having
+this be a repeated game,
+
+465
+00:22:27,810 --> 00:22:31,730
+Coke has solved the
+prisoner's dilemma.
+
+466
+00:22:31,730 --> 00:22:34,790
+It's essentially imposed
+a cooperative equilibrium
+
+467
+00:22:34,790 --> 00:22:37,490
+on the problem.
+
+468
+00:22:37,490 --> 00:22:39,950
+So that's how repeated
+game can fix this.
+
+469
+00:22:39,950 --> 00:22:42,890
+But-- this is where the game
+gets really exciting-- that
+
+470
+00:22:42,890 --> 00:22:46,570
+only works if this
+game never ends,
+
+471
+00:22:46,570 --> 00:22:48,610
+because once Coke
+or Pepsi thinks
+
+472
+00:22:48,610 --> 00:22:53,510
+there's an end to the game,
+the entire thing breaks down.
+
+473
+00:22:53,510 --> 00:22:56,630
+So imagine, for example, that
+Coke makes the offer to Pepsi,
+
+474
+00:22:56,630 --> 00:22:58,310
+but Pepsi is worried
+that in 10 years,
+
+475
+00:22:58,310 --> 00:23:01,007
+the government is
+going to outlaw soda.
+
+476
+00:23:01,007 --> 00:23:03,340
+The government said, look,
+we're heading that direction.
+
+477
+00:23:03,340 --> 00:23:05,635
+Soda is going to be
+illegal in 10 years,
+
+478
+00:23:05,635 --> 00:23:06,760
+so I don't want to do this.
+
+479
+00:23:09,570 --> 00:23:11,500
+I'm sorry, I have
+that in my mind.
+
+480
+00:23:11,500 --> 00:23:14,230
+So Coke offers the deal
+now, what do I think?
+
+481
+00:23:14,230 --> 00:23:19,000
+Well, let's think about Pepsi's
+decision in the ninth year.
+
+482
+00:23:19,000 --> 00:23:22,900
+They've made 8, 8, 8, 8,
+8, and they get to year 9.
+
+483
+00:23:22,900 --> 00:23:28,110
+Now in year 9, they know that
+next year there's no more game.
+
+484
+00:23:28,110 --> 00:23:30,370
+So what should they do?
+
+485
+00:23:30,370 --> 00:23:30,970
+Advertise.
+
+486
+00:23:30,970 --> 00:23:34,750
+Grab the 13 in the last period,
+because Coke can't punish them
+
+487
+00:23:34,750 --> 00:23:37,360
+because the game's over.
+
+488
+00:23:37,360 --> 00:23:39,670
+But Coke knows this.
+
+489
+00:23:39,670 --> 00:23:41,950
+So what's Coke going to
+do in the ninth year?
+
+490
+00:23:41,950 --> 00:23:42,860
+Advertise.
+
+491
+00:23:42,860 --> 00:23:48,000
+It's going to advertise, so
+they're both going to make 3.
+
+492
+00:23:48,000 --> 00:23:49,465
+Well, if Pepsi
+knows Coke's going
+
+493
+00:23:49,465 --> 00:23:51,550
+to advertise in the ninth
+year no matter what,
+
+494
+00:23:51,550 --> 00:23:53,640
+what should Pepsi
+in the eighth year?
+
+495
+00:23:53,640 --> 00:23:54,475
+Advertise.
+
+496
+00:23:54,475 --> 00:23:56,350
+And if Coke knows Pepsi
+is going to advertise
+
+497
+00:23:56,350 --> 00:23:58,017
+in the eighth year,
+what should Coke do?
+
+498
+00:23:58,017 --> 00:24:00,750
+And so on, and it ends up that
+they both advertise all the way
+
+499
+00:24:00,750 --> 00:24:02,480
+through.
+
+500
+00:24:02,480 --> 00:24:04,430
+So the game breaks
+down if it's an end.
+
+501
+00:24:04,430 --> 00:24:06,535
+This is really kind
+of neat, and this
+
+502
+00:24:06,535 --> 00:24:07,910
+is what game theory
+is all about,
+
+503
+00:24:07,910 --> 00:24:09,350
+is how do you think
+through these more
+
+504
+00:24:09,350 --> 00:24:11,210
+complicated scenarios that
+are much more complicated
+
+505
+00:24:11,210 --> 00:24:12,680
+than the prisoner's
+dilemma, and actually
+
+506
+00:24:12,680 --> 00:24:14,360
+think about how firms and
+individuals might actually
+
+507
+00:24:14,360 --> 00:24:14,860
+behave?
+
+508
+00:24:14,860 --> 00:24:15,904
+Yeah?
+
+509
+00:24:15,904 --> 00:24:18,196
+AUDIENCE: Wouldn't it also
+be advantageous if they just
+
+510
+00:24:18,196 --> 00:24:20,780
+advertised the first year
+instead of these contracts,
+
+511
+00:24:20,780 --> 00:24:23,010
+kind of what we were
+talking about earlier?
+
+512
+00:24:23,010 --> 00:24:24,100
+JONATHAN GRUBER: Sure.
+
+513
+00:24:24,100 --> 00:24:26,380
+And once again, that's
+what you cover in a field
+
+514
+00:24:26,380 --> 00:24:27,380
+course like game theory.
+
+515
+00:24:27,380 --> 00:24:29,382
+What about alternative
+forms of contracting,
+
+516
+00:24:29,382 --> 00:24:30,840
+with exclusionary
+contracting, what
+
+517
+00:24:30,840 --> 00:24:32,952
+we call tying in contracting?
+
+518
+00:24:32,952 --> 00:24:34,160
+That's great, and they would.
+
+519
+00:24:34,160 --> 00:24:36,890
+But that's why you
+got to take 1412, OK?
+
+520
+00:24:36,890 --> 00:24:37,390
+Yeah?
+
+521
+00:24:39,927 --> 00:24:41,510
+AUDIENCE: Would it
+be a better outcome
+
+522
+00:24:41,510 --> 00:24:45,845
+if they cooperated and switched
+periods of advertising?
+
+523
+00:24:45,845 --> 00:24:49,022
+Like for the first period,
+they get 13, they get minus 2.
+
+524
+00:24:49,022 --> 00:24:50,480
+JONATHAN GRUBER:
+Yeah, the way I've
+
+525
+00:24:50,480 --> 00:24:52,188
+set this problem up,
+if they could commit
+
+526
+00:24:52,188 --> 00:24:54,050
+to that, that would be right.
+
+527
+00:24:54,050 --> 00:24:55,670
+But you'd have to commit to it.
+
+528
+00:24:55,670 --> 00:24:59,090
+Because then the period that
+Pepsi promised to take off,
+
+529
+00:24:59,090 --> 00:25:01,700
+if they actually advertised that
+period, then Coke's screwed.
+
+530
+00:25:01,700 --> 00:25:04,730
+So that would work as a
+repeated game solution,
+
+531
+00:25:04,730 --> 00:25:08,230
+but it wouldn't work as
+a non-repeating game.
+
+532
+00:25:08,230 --> 00:25:10,760
+It would work as an infinite
+repeated game but not
+
+533
+00:25:10,760 --> 00:25:13,290
+a non-infinite repeated game.
+
+534
+00:25:13,290 --> 00:25:14,255
+Good question.
+
+535
+00:25:14,255 --> 00:25:16,310
+OK, other questions?
+
+536
+00:25:16,310 --> 00:25:18,367
+All right, so that's the
+basis of game theory.
+
+537
+00:25:18,367 --> 00:25:19,950
+That's just a taste
+for the excitement
+
+538
+00:25:19,950 --> 00:25:21,500
+that you can learn
+with game theory.
+
+539
+00:25:21,500 --> 00:25:23,105
+But in fact, in
+economics, we like
+
+540
+00:25:23,105 --> 00:25:24,980
+to write those as fun
+examples, but we really
+
+541
+00:25:24,980 --> 00:25:26,457
+prefer to do math.
+
+542
+00:25:26,457 --> 00:25:28,040
+So let's actually
+think about the math
+
+543
+00:25:28,040 --> 00:25:29,510
+of how we take game
+theory concepts
+
+544
+00:25:29,510 --> 00:25:31,040
+and put them in practice.
+
+545
+00:25:31,040 --> 00:25:34,880
+And the way we do that
+is through the concept
+
+546
+00:25:34,880 --> 00:25:35,960
+of the Cournot model.
+
+547
+00:25:39,720 --> 00:25:42,550
+The Cournot model of
+non-cooperative oligopolies.
+
+548
+00:25:46,500 --> 00:25:48,957
+So the Cournot model of
+non-cooperative oligopoly
+
+549
+00:25:48,957 --> 00:25:50,290
+is the standard workhorse model.
+
+550
+00:25:50,290 --> 00:25:52,720
+It takes this
+intuition and puts it
+
+551
+00:25:52,720 --> 00:25:54,340
+into the optimizing
+math we've been
+
+552
+00:25:54,340 --> 00:25:55,630
+doing so far in this class.
+
+553
+00:25:58,510 --> 00:26:01,030
+Now let's imagine
+non-cooperative case,
+
+554
+00:26:01,030 --> 00:26:02,907
+but now let's imagine
+not just two choices,
+
+555
+00:26:02,907 --> 00:26:04,990
+but realistically, there's
+a whole set of choices.
+
+556
+00:26:08,290 --> 00:26:13,010
+Then how would you
+behave in that case?
+
+557
+00:26:13,010 --> 00:26:16,240
+So let's imagine that
+there's two airlines, United
+
+558
+00:26:16,240 --> 00:26:18,930
+and American.
+
+559
+00:26:18,930 --> 00:26:23,370
+So we have an oligopolistic
+two-firm airline industry.
+
+560
+00:26:23,370 --> 00:26:25,380
+Obviously, the math can
+extend to more firms,
+
+561
+00:26:25,380 --> 00:26:28,180
+but just to start, and I'll
+talk about that next lecture.
+
+562
+00:26:28,180 --> 00:26:30,780
+But for now, imagine a two-firm
+industry, United and American.
+
+563
+00:26:30,780 --> 00:26:32,280
+And because the hub
+and spoke system
+
+564
+00:26:32,280 --> 00:26:34,200
+we discussed last
+time, let's imagine
+
+565
+00:26:34,200 --> 00:26:37,380
+that they're the only two folks
+that go from Boston to Chicago.
+
+566
+00:26:37,380 --> 00:26:38,910
+Because it's hub
+and spoke system.
+
+567
+00:26:38,910 --> 00:26:40,260
+The only folks that go
+from Boston to Chicago
+
+568
+00:26:40,260 --> 00:26:41,640
+are United and American,
+and they do, in fact,
+
+569
+00:26:41,640 --> 00:26:42,930
+dominate that line.
+
+570
+00:26:42,930 --> 00:26:45,200
+So let's imagine
+they're the only folks,
+
+571
+00:26:45,200 --> 00:26:47,880
+and say no other firms
+can compete on this route
+
+572
+00:26:47,880 --> 00:26:50,250
+because they can't get
+slots at the airport.
+
+573
+00:26:50,250 --> 00:26:52,310
+So the question is,
+how do these firms
+
+574
+00:26:52,310 --> 00:26:54,450
+decide how many flights to run?
+
+575
+00:26:54,450 --> 00:26:56,420
+It's not just advertise, don't.
+
+576
+00:26:56,420 --> 00:26:58,400
+It's literally a
+continuous decision
+
+577
+00:26:58,400 --> 00:27:03,480
+of how many flights to run every
+day and how much to charge.
+
+578
+00:27:03,480 --> 00:27:05,650
+They've got to
+make that decision.
+
+579
+00:27:05,650 --> 00:27:11,970
+And the Nash equilibrium
+here, the subset of Nash,
+
+580
+00:27:11,970 --> 00:27:14,790
+for this example, is called
+the Cournot equilibrium.
+
+581
+00:27:14,790 --> 00:27:18,010
+And the Cournot
+equilibrium exists
+
+582
+00:27:18,010 --> 00:27:22,380
+when a firm chooses
+a quantity such
+
+583
+00:27:22,380 --> 00:27:25,770
+that, given the quantity
+chosen by the other firm,
+
+584
+00:27:25,770 --> 00:27:28,000
+they don't want to change.
+
+585
+00:27:28,000 --> 00:27:31,410
+So a firm chooses, essentially,
+a profit-maximizing quantity,
+
+586
+00:27:31,410 --> 00:27:35,640
+given the quantity
+chosen by the other firm.
+
+587
+00:27:35,640 --> 00:27:41,640
+And that profit-maximizing
+quantity, then you're
+
+588
+00:27:41,640 --> 00:27:43,530
+in Cournot equilibrium,
+if you have
+
+589
+00:27:43,530 --> 00:27:48,000
+chosen a quantity that is
+profit-maximizing, given
+
+590
+00:27:48,000 --> 00:27:51,000
+what the other firm is doing.
+
+591
+00:27:51,000 --> 00:27:54,120
+So basically, how do we
+actually carry this out?
+
+592
+00:27:54,120 --> 00:27:57,480
+Let's talk about the steps.
+
+593
+00:27:57,480 --> 00:28:01,415
+So the first step, I'm
+going to talk intuitively
+
+594
+00:28:01,415 --> 00:28:03,040
+about the math, what
+we're going to do,
+
+595
+00:28:03,040 --> 00:28:03,900
+and then I'm going to
+talk mathematically
+
+596
+00:28:03,900 --> 00:28:05,710
+and graph what we actually do.
+
+597
+00:28:05,710 --> 00:28:08,580
+There's essentially three steps
+in solving for the Cournot
+
+598
+00:28:08,580 --> 00:28:10,200
+equilibrium.
+
+599
+00:28:10,200 --> 00:28:15,270
+The first is ask how your
+demand changes when some of it's
+
+600
+00:28:15,270 --> 00:28:16,540
+absorbed by other firms.
+
+601
+00:28:16,540 --> 00:28:21,320
+So the first is solve for
+your residual demand function.
+
+602
+00:28:21,320 --> 00:28:22,940
+What does your demand
+curve look like,
+
+603
+00:28:22,940 --> 00:28:25,630
+given what the other firm does?
+
+604
+00:28:25,630 --> 00:28:28,010
+That's step 1.
+
+605
+00:28:28,010 --> 00:28:32,450
+Step 2 is then you develop
+a marginal revenue, which
+
+606
+00:28:32,450 --> 00:28:37,930
+is a function of the
+other firm's quantity.
+
+607
+00:28:37,930 --> 00:28:38,750
+Little q.
+
+608
+00:28:38,750 --> 00:28:41,103
+It's multiple firms.
+
+609
+00:28:41,103 --> 00:28:43,270
+The other firm's-- that's
+really bad, hard to read--
+
+610
+00:28:43,270 --> 00:28:44,312
+the other firm's quality.
+
+611
+00:28:44,312 --> 00:28:46,030
+So your marginal
+revenue is a function.
+
+612
+00:28:46,030 --> 00:28:47,290
+Typically, it's a function--
+
+613
+00:28:47,290 --> 00:28:49,540
+I'm sorry-- of both your
+quantity and the other firm's
+
+614
+00:28:49,540 --> 00:28:50,740
+quantity.
+
+615
+00:28:50,740 --> 00:28:53,485
+A function of both your quantity
+and the other firm's quantity.
+
+616
+00:28:53,485 --> 00:28:56,110
+We develop marginal revenue as
+a function of your own quantity.
+
+617
+00:28:56,110 --> 00:28:57,190
+We know how to do that.
+
+618
+00:28:57,190 --> 00:28:59,440
+Now we develop a margin as
+a function of your quantity
+
+619
+00:28:59,440 --> 00:29:02,010
+and the other firm's quantity.
+
+620
+00:29:02,010 --> 00:29:04,800
+Then you simply set
+this marginal revenue
+
+621
+00:29:04,800 --> 00:29:07,980
+equal to marginal
+cost, and that delivers
+
+622
+00:29:07,980 --> 00:29:10,200
+you a conditional answer.
+
+623
+00:29:10,200 --> 00:29:14,670
+That delivers you your
+optimal quantity as a function
+
+624
+00:29:14,670 --> 00:29:16,170
+of the other firm's quantity.
+
+625
+00:29:19,805 --> 00:29:21,680
+Well, that doesn't do
+us a whole lot of good,
+
+626
+00:29:21,680 --> 00:29:24,680
+except there's two firms.
+
+627
+00:29:24,680 --> 00:29:32,170
+So the fourth step is we do the
+same thing for the other firm
+
+628
+00:29:32,170 --> 00:29:34,330
+and get the same
+kind of equation.
+
+629
+00:29:34,330 --> 00:29:35,620
+Then what do we have?
+
+630
+00:29:35,620 --> 00:29:37,840
+Two equations and two
+unknowns, so we solve.
+
+631
+00:29:43,790 --> 00:29:45,440
+So what we do here
+is essentially
+
+632
+00:29:45,440 --> 00:29:48,230
+the same thing we did before,
+but now your marginal revenue
+
+633
+00:29:48,230 --> 00:29:49,650
+is not just a function
+of your own quantity,
+
+634
+00:29:49,650 --> 00:29:51,200
+it's a function of the
+other guy's quantity.
+
+635
+00:29:51,200 --> 00:29:52,430
+Same with the other guy.
+
+636
+00:29:52,430 --> 00:29:54,222
+That gives you two
+equations, two unknowns.
+
+637
+00:29:54,222 --> 00:29:54,740
+We solve.
+
+638
+00:29:54,740 --> 00:29:57,560
+And the point at which
+both firms are happy
+
+639
+00:29:57,560 --> 00:29:59,562
+is the Cournot equilibrium.
+
+640
+00:30:02,400 --> 00:30:05,807
+That's confusing, so let's
+actually look at that.
+
+641
+00:30:05,807 --> 00:30:07,890
+We'll do this both graphically
+and mathematically.
+
+642
+00:30:07,890 --> 00:30:11,390
+Let's start with figure 13.1.
+
+643
+00:30:11,390 --> 00:30:15,260
+To make things easy, let's
+start by imagining that American
+
+644
+00:30:15,260 --> 00:30:17,390
+Airlines is a monopoly.
+
+645
+00:30:17,390 --> 00:30:22,870
+Let's start with the world with
+an American Airlines monopoly.
+
+646
+00:30:22,870 --> 00:30:30,250
+And let's say that the demand
+function is P equals 339
+
+647
+00:30:30,250 --> 00:30:35,555
+minus Q. That's the demand for
+flights from Boston to Chicago.
+
+648
+00:30:40,050 --> 00:30:43,842
+And let's say that the marginal
+cost, to make life easier--
+
+649
+00:30:43,842 --> 00:30:46,300
+it could have a cost function
+and make your life difficult,
+
+650
+00:30:46,300 --> 00:30:47,890
+and maybe someday I'll do that.
+
+651
+00:30:47,890 --> 00:30:49,390
+But for now, to
+make your life easy,
+
+652
+00:30:49,390 --> 00:30:54,418
+let's just say it's a flat
+marginal cost of $147.
+
+653
+00:30:54,418 --> 00:30:56,460
+I'm not going to make life
+difficult with solving
+
+654
+00:30:56,460 --> 00:30:57,840
+for marginal cost functions.
+
+655
+00:30:57,840 --> 00:31:00,180
+For now, it's just a flat
+marginal cost of $147.
+
+656
+00:31:00,180 --> 00:31:05,290
+No matter how many flights they
+do, it's $147 per passenger.
+
+657
+00:31:05,290 --> 00:31:09,640
+So if you're a monopolist,
+how do you solve this problem?
+
+658
+00:31:09,640 --> 00:31:12,805
+Well, first you derive your
+marginal revenue function.
+
+659
+00:31:12,805 --> 00:31:14,430
+Well, what's marginal
+revenue function?
+
+660
+00:31:14,430 --> 00:31:21,840
+Well, revenues is P times Q,
+which is 339 minus q squared.
+
+661
+00:31:21,840 --> 00:31:27,607
+So your marginal revenue
+function is 339 minus 2Q.
+
+662
+00:31:27,607 --> 00:31:29,190
+That's your marginal
+revenue function,
+
+663
+00:31:29,190 --> 00:31:30,840
+if you're the monopolist.
+
+664
+00:31:30,840 --> 00:31:32,380
+What's your marginal cost?
+
+665
+00:31:32,380 --> 00:31:36,930
+Well, I just said it's $147.
+
+666
+00:31:36,930 --> 00:31:38,550
+And then you just solve.
+
+667
+00:31:38,550 --> 00:31:43,650
+And when you solve that, you get
+that Q, the optimal quantity,
+
+668
+00:31:43,650 --> 00:31:47,620
+is 96 flights.
+
+669
+00:31:47,620 --> 00:31:50,685
+And then how do
+you get the price?
+
+670
+00:31:50,685 --> 00:31:52,560
+How do you get the price
+of monopoly problem?
+
+671
+00:31:52,560 --> 00:31:54,900
+How do we know
+what the price is?
+
+672
+00:31:54,900 --> 00:31:55,615
+Yeah?
+
+673
+00:31:55,615 --> 00:31:57,990
+AUDIENCE: Where the quantity
+intersects the demand curve.
+
+674
+00:31:57,990 --> 00:31:59,120
+JONATHAN GRUBER: You've
+got to plug it back
+
+675
+00:31:59,120 --> 00:32:00,238
+into the demand curve.
+
+676
+00:32:00,238 --> 00:32:02,530
+Take that quantity, plug it
+back into the demand curve.
+
+677
+00:32:02,530 --> 00:32:10,860
+So the price is 339
+minus 96, or 243.
+
+678
+00:32:10,860 --> 00:32:15,000
+So I just solved the
+monopoly problem quickly,
+
+679
+00:32:15,000 --> 00:32:18,000
+but that's what we've done
+already in this class.
+
+680
+00:32:18,000 --> 00:32:20,110
+And you could see that
+in the graph here.
+
+681
+00:32:20,110 --> 00:32:22,840
+In figure 13.1, you've
+got demand curve,
+
+682
+00:32:22,840 --> 00:32:26,160
+which is P equals
+339 minus Q. You've
+
+683
+00:32:26,160 --> 00:32:30,050
+got a supply curve, which is
+the flat marginal cost of $147.
+
+684
+00:32:30,050 --> 00:32:33,030
+You develop a marginal
+revenue function,
+
+685
+00:32:33,030 --> 00:32:36,733
+which is 339 minus 2Q.
+
+686
+00:32:36,733 --> 00:32:38,150
+As in our previous
+example, that's
+
+687
+00:32:38,150 --> 00:32:41,210
+just basically an inward
+shift of the demand function.
+
+688
+00:32:41,210 --> 00:32:46,090
+That intersects marginal
+costs at 96 flights.
+
+689
+00:32:46,090 --> 00:32:48,250
+We have 1,000
+passengers per quarter.
+
+690
+00:32:48,250 --> 00:32:50,980
+It doesn't really matter.
+
+691
+00:32:50,980 --> 00:32:53,850
+It's just all standardization.
+
+692
+00:32:53,850 --> 00:32:56,350
+And then to get the price, you
+read it off the demand curve.
+
+693
+00:32:56,350 --> 00:33:00,120
+You say 96 flights means the
+price of $243 per flight.
+
+694
+00:33:00,120 --> 00:33:06,130
+OK, that's what we do if
+American was a monopolist.
+
+695
+00:33:06,130 --> 00:33:09,580
+Now, however, American
+is not a monopolist.
+
+696
+00:33:09,580 --> 00:33:12,400
+American deals with United,
+and American doesn't know
+
+697
+00:33:12,400 --> 00:33:14,890
+what United is going to do.
+
+698
+00:33:14,890 --> 00:33:16,750
+So what does American do?
+
+699
+00:33:16,750 --> 00:33:21,630
+Well, let's say American
+has to deal with the fact--
+
+700
+00:33:21,630 --> 00:33:24,850
+it now has to recognize
+that it's got its own demand
+
+701
+00:33:24,850 --> 00:33:28,900
+function, qa, which
+is the total quantity
+
+702
+00:33:28,900 --> 00:33:32,770
+in the market minus qu.
+
+703
+00:33:32,770 --> 00:33:36,200
+So it has a residual
+demand function,
+
+704
+00:33:36,200 --> 00:33:41,380
+which is the total demand in the
+market minus what United sells.
+
+705
+00:33:41,380 --> 00:33:44,920
+So suppose, for example,
+American thinks--
+
+706
+00:33:44,920 --> 00:33:47,400
+American's got a
+spy inside United--
+
+707
+00:33:47,400 --> 00:33:49,500
+and American says,
+ha, I think United
+
+708
+00:33:49,500 --> 00:33:53,382
+is going to fly 64 flights.
+
+709
+00:33:53,382 --> 00:33:54,840
+So imagine American
+thinks United's
+
+710
+00:33:54,840 --> 00:33:59,550
+going to fly 64 flights.
+
+711
+00:33:59,550 --> 00:34:05,250
+Well, in that case, if they're
+going to fly 64 flights,
+
+712
+00:34:05,250 --> 00:34:12,159
+then my demand function is
+p sub a equals 339 minus q
+
+713
+00:34:12,159 --> 00:34:19,320
+sub a minus 64, because
+the big quantity
+
+714
+00:34:19,320 --> 00:34:23,670
+is little qa plus little qu.
+
+715
+00:34:23,670 --> 00:34:30,520
+So my demand function is
+339 minus q sub a minus 64.
+
+716
+00:34:30,520 --> 00:34:34,239
+Or in other words, my
+residual demand function
+
+717
+00:34:34,239 --> 00:34:46,090
+is that p sub a equals
+339 equals 275 minus qa.
+
+718
+00:34:46,090 --> 00:34:49,480
+So if I think United's
+going to fly 64 flights,
+
+719
+00:34:49,480 --> 00:34:54,670
+then my effective demand
+function is 275 minus q.
+
+720
+00:34:54,670 --> 00:34:56,260
+And then I'm done.
+
+721
+00:34:56,260 --> 00:34:58,990
+Then I just solve for, what
+would I do as a monopolist,
+
+722
+00:34:58,990 --> 00:35:01,600
+given the other guy's
+flying 64 flights?
+
+723
+00:35:01,600 --> 00:35:06,560
+So you can see that
+in figure 13.2.
+
+724
+00:35:06,560 --> 00:35:09,260
+So I have a demand function.
+
+725
+00:35:09,260 --> 00:35:12,050
+I say, well, if United's going
+to fly 64 flights, that demand
+
+726
+00:35:12,050 --> 00:35:14,882
+function gets shifted in by 64.
+
+727
+00:35:14,882 --> 00:35:17,090
+And then I'm going to do
+the same thing I did before.
+
+728
+00:35:17,090 --> 00:35:19,396
+I solve for marginal revenue.
+
+729
+00:35:19,396 --> 00:35:21,490
+I'm going to solve
+for marginal revenue
+
+730
+00:35:21,490 --> 00:35:23,210
+and I intersect that
+with marginal cost.
+
+731
+00:35:23,210 --> 00:35:28,480
+That's going to happen at 64
+flights and a price of $211.
+
+732
+00:35:28,480 --> 00:35:30,738
+So basically, it's
+the same exercise.
+
+733
+00:35:30,738 --> 00:35:31,530
+It's not that hard.
+
+734
+00:35:31,530 --> 00:35:34,380
+You just first take out
+what United is going to do.
+
+735
+00:35:34,380 --> 00:35:37,330
+The problem is American
+doesn't have a spy.
+
+736
+00:35:37,330 --> 00:35:40,060
+They don't really know
+what United's going to do.
+
+737
+00:35:40,060 --> 00:35:42,370
+They have to essentially
+develop a strategy,
+
+738
+00:35:42,370 --> 00:35:46,060
+given the possibilities
+of what United might do.
+
+739
+00:35:46,060 --> 00:35:49,420
+They have to say, look, I
+don't know what q sub u is,
+
+740
+00:35:49,420 --> 00:35:54,940
+so I have to devise my optimal
+strategy given q sub u.
+
+741
+00:35:54,940 --> 00:35:57,790
+In other words, I have
+to simultaneously solve
+
+742
+00:35:57,790 --> 00:36:01,540
+for what I would do at every
+possible quantity United
+
+743
+00:36:01,540 --> 00:36:03,890
+would sell.
+
+744
+00:36:03,890 --> 00:36:06,810
+I have to solve what I would
+do for every possible quantity
+
+745
+00:36:06,810 --> 00:36:07,560
+United would sell.
+
+746
+00:36:07,560 --> 00:36:12,180
+And we call this
+developing your reaction,
+
+747
+00:36:12,180 --> 00:36:13,770
+or best response curve.
+
+748
+00:36:17,300 --> 00:36:20,840
+Your reaction curve or
+your best response curve,
+
+749
+00:36:20,840 --> 00:36:23,500
+which is, what is the
+best thing to do, given
+
+750
+00:36:23,500 --> 00:36:25,372
+what the other guy's doing?
+
+751
+00:36:25,372 --> 00:36:26,830
+What is the best
+thing to do, given
+
+752
+00:36:26,830 --> 00:36:28,770
+what the other guys doing?
+
+753
+00:36:28,770 --> 00:36:34,030
+You could see that in figure
+13.3, we show how that works.
+
+754
+00:36:34,030 --> 00:36:36,320
+That shows best response curves.
+
+755
+00:36:36,320 --> 00:36:41,740
+So for example, look at the
+intersection on the y-axis,
+
+756
+00:36:41,740 --> 00:36:45,160
+where the red line
+hits the y-axis.
+
+757
+00:36:45,160 --> 00:36:47,020
+That was our
+monopoly equilibrium.
+
+758
+00:36:50,980 --> 00:36:53,710
+I'm sorry, where the blue
+line hits the x-axis, my bad.
+
+759
+00:36:53,710 --> 00:36:54,760
+We're doing American.
+
+760
+00:36:54,760 --> 00:36:57,670
+Look at where the blue
+line hits the x-axis.
+
+761
+00:36:57,670 --> 00:37:00,970
+That is assuming
+zero United flights.
+
+762
+00:37:00,970 --> 00:37:02,650
+Where the blue
+line is the x-axis
+
+763
+00:37:02,650 --> 00:37:04,210
+is where there's
+zero United flights.
+
+764
+00:37:04,210 --> 00:37:07,260
+Well, we know what
+American would do there.
+
+765
+00:37:07,260 --> 00:37:09,720
+They would fly 96 flights.
+
+766
+00:37:09,720 --> 00:37:11,760
+We already solved that.
+
+767
+00:37:11,760 --> 00:37:18,370
+Now look at the point where
+United is flying 64 flights.
+
+768
+00:37:18,370 --> 00:37:22,752
+Well, we also know what
+American would do then.
+
+769
+00:37:22,752 --> 00:37:24,710
+We know that we solved,
+in the previous figure,
+
+770
+00:37:24,710 --> 00:37:27,130
+they would then do 64 flights.
+
+771
+00:37:27,130 --> 00:37:31,540
+And in general, what that blue
+line is is for every quantity
+
+772
+00:37:31,540 --> 00:37:34,642
+that United flies, what
+does American want to fly?
+
+773
+00:37:40,470 --> 00:37:44,640
+So meanwhile, United is
+doing the same mathematics.
+
+774
+00:37:44,640 --> 00:37:47,250
+Imagine, to make life easier--
+we'll almost always do this
+
+775
+00:37:47,250 --> 00:37:48,360
+to make life easy--
+
+776
+00:37:48,360 --> 00:37:52,830
+imagine United has the same
+marginal costs as American,
+
+777
+00:37:52,830 --> 00:37:56,440
+and obviously faces the
+same market demand curve.
+
+778
+00:37:56,440 --> 00:37:59,670
+Well then, literally, their
+math is totally symmetric.
+
+779
+00:37:59,670 --> 00:38:01,860
+If American wasn't
+in the market,
+
+780
+00:38:01,860 --> 00:38:04,920
+you'd have where the red line
+intersects the vertical axis.
+
+781
+00:38:04,920 --> 00:38:06,720
+If American was
+flying zero, United
+
+782
+00:38:06,720 --> 00:38:09,390
+would flight 96 flights,
+because their problem
+
+783
+00:38:09,390 --> 00:38:13,140
+is identical to American's
+monopoly problem.
+
+784
+00:38:13,140 --> 00:38:17,920
+So the red line is United's
+best response curve.
+
+785
+00:38:17,920 --> 00:38:20,470
+So we've graphed, for
+every possible amount
+
+786
+00:38:20,470 --> 00:38:22,420
+of flights that
+United does, what's
+
+787
+00:38:22,420 --> 00:38:24,803
+American's optimal
+amount of flights.
+
+788
+00:38:24,803 --> 00:38:26,470
+We've solved for every
+amount of flights
+
+789
+00:38:26,470 --> 00:38:29,140
+that American does with
+United's also amount of flights.
+
+790
+00:38:29,140 --> 00:38:34,320
+Where those lines intersect
+is the Cournot equilibrium.
+
+791
+00:38:34,320 --> 00:38:35,820
+Why is that the
+Cournot equilibrium?
+
+792
+00:38:35,820 --> 00:38:38,520
+Because at that
+point, both firms
+
+793
+00:38:38,520 --> 00:38:40,800
+are doing the best
+they can, given
+
+794
+00:38:40,800 --> 00:38:42,790
+what the other firm's chosen.
+
+795
+00:38:42,790 --> 00:38:44,760
+Or in other words,
+to say this is
+
+796
+00:38:44,760 --> 00:38:46,770
+given what the
+other firm's doing,
+
+797
+00:38:46,770 --> 00:38:49,080
+neither firm wants to deviate.
+
+798
+00:38:49,080 --> 00:38:53,077
+The profit-maximizing choice
+is to be where they are, given
+
+799
+00:38:53,077 --> 00:38:54,160
+the other firm's behavior.
+
+800
+00:38:57,420 --> 00:38:59,760
+So basically, the
+Cournot equilibrium
+
+801
+00:38:59,760 --> 00:39:03,943
+is the only equilibrium that's
+possible in this market.
+
+802
+00:39:03,943 --> 00:39:04,610
+And why is that?
+
+803
+00:39:04,610 --> 00:39:08,170
+So for example, imagine that
+American came in and said,
+
+804
+00:39:08,170 --> 00:39:10,407
+look, I like doing 96 flights.
+
+805
+00:39:10,407 --> 00:39:11,490
+I love being a monopolist.
+
+806
+00:39:11,490 --> 00:39:13,800
+I'm just going to do 96 flights.
+
+807
+00:39:13,800 --> 00:39:18,210
+I'm going to do 96 flights,
+I'm going to charge $243.
+
+808
+00:39:18,210 --> 00:39:20,280
+Well, in that case, American--
+
+809
+00:39:20,280 --> 00:39:26,800
+United, I'm sorry-- would
+happily come in at $242
+
+810
+00:39:26,800 --> 00:39:29,440
+and undercut them and
+sell lots of flights,
+
+811
+00:39:29,440 --> 00:39:32,330
+because that's still
+well above marginal cost.
+
+812
+00:39:32,330 --> 00:39:37,190
+So that's not an equilibrium
+because United and American are
+
+813
+00:39:37,190 --> 00:39:38,690
+choosing different outcomes.
+
+814
+00:39:38,690 --> 00:39:41,390
+It's only equilibrium if
+they're both to the point
+
+815
+00:39:41,390 --> 00:39:45,010
+where the same outcome
+makes them both happy.
+
+816
+00:39:45,010 --> 00:39:47,290
+So that's the graphics.
+
+817
+00:39:47,290 --> 00:39:48,577
+Let's do the math here.
+
+818
+00:39:48,577 --> 00:39:49,660
+Let's do the Cournot math.
+
+819
+00:39:53,970 --> 00:39:58,470
+In general, the residual
+demand for American
+
+820
+00:39:58,470 --> 00:40:07,020
+is that p equals 339
+minus qa minus qu.
+
+821
+00:40:07,020 --> 00:40:08,760
+Remember, big Q is qa plus qu.
+
+822
+00:40:11,300 --> 00:40:16,590
+Since the demand function
+is 339 minus big Q,
+
+823
+00:40:16,590 --> 00:40:19,296
+I simply broke big
+Q into qa and qu.
+
+824
+00:40:19,296 --> 00:40:22,080
+Stop me if this is all unclear.
+
+825
+00:40:22,080 --> 00:40:25,620
+Simply broke the big Q
+into those two components.
+
+826
+00:40:25,620 --> 00:40:28,615
+So that means that
+American's revenue function--
+
+827
+00:40:28,615 --> 00:40:32,100
+it's called revenue A,
+revenue for American--
+
+828
+00:40:32,100 --> 00:40:40,920
+is 339 times qa minus
+qa squared minus qaqu.
+
+829
+00:40:40,920 --> 00:40:42,965
+This is a new term.
+
+830
+00:40:42,965 --> 00:40:44,340
+This was the old
+revenue function
+
+831
+00:40:44,340 --> 00:40:45,757
+we had when they
+were monopolists.
+
+832
+00:40:45,757 --> 00:40:49,730
+Now we've got this new term
+that didn't exist before.
+
+833
+00:40:49,730 --> 00:40:53,600
+So that means the marginal
+revenue for American
+
+834
+00:40:53,600 --> 00:40:57,980
+is now 339 minus 2qa minus qu.
+
+835
+00:41:00,960 --> 00:41:03,720
+So now their marginal
+revenue is actually
+
+836
+00:41:03,720 --> 00:41:05,670
+a function now of
+their own behavior,
+
+837
+00:41:05,670 --> 00:41:08,220
+but their competitor's behavior.
+
+838
+00:41:08,220 --> 00:41:12,090
+That's the new margin
+revenue function.
+
+839
+00:41:12,090 --> 00:41:14,770
+But the profit maximization
+rule is the same.
+
+840
+00:41:14,770 --> 00:41:16,840
+We just set that equal
+to marginal cost.
+
+841
+00:41:16,840 --> 00:41:20,430
+We set it equal to
+147, and you solve.
+
+842
+00:41:20,430 --> 00:41:24,180
+And what you end up getting
+is that q sub a star--
+
+843
+00:41:24,180 --> 00:41:36,160
+the outcome of q sub a is
+96 minus 1/2qu star, or qu.
+
+844
+00:41:36,160 --> 00:41:38,950
+qa star is 96 minus 1/2qu.
+
+845
+00:41:38,950 --> 00:41:41,350
+If you solve this equation,
+that's what you get.
+
+846
+00:41:41,350 --> 00:41:45,390
+That's 1/2, 1/2 qu.
+
+847
+00:41:45,390 --> 00:41:47,850
+So now we have the
+optimal quantity,
+
+848
+00:41:47,850 --> 00:41:50,960
+but it's a function of
+what the other guy does.
+
+849
+00:41:50,960 --> 00:41:54,400
+That's a problem, except that
+we use the same math for United.
+
+850
+00:41:54,400 --> 00:41:56,347
+Now, if the problem's
+symmetric, you
+
+851
+00:41:56,347 --> 00:41:57,680
+don't have to do the math again.
+
+852
+00:41:57,680 --> 00:41:59,930
+You know the best response
+function will be symmetric,
+
+853
+00:41:59,930 --> 00:42:01,620
+but that won't
+always be the case.
+
+854
+00:42:01,620 --> 00:42:03,380
+So I'm going to
+shortcut here of saying
+
+855
+00:42:03,380 --> 00:42:07,250
+the best response
+function for qu
+
+856
+00:42:07,250 --> 00:42:11,920
+is q star u equals
+96 minus 1/2qa.
+
+857
+00:42:14,732 --> 00:42:16,940
+So I've just written down
+the best response function.
+
+858
+00:42:16,940 --> 00:42:18,610
+This corresponds to the graph.
+
+859
+00:42:18,610 --> 00:42:23,360
+So q star a, that's
+the blue line.
+
+860
+00:42:23,360 --> 00:42:24,910
+It's 96 minus 1/2u.
+
+861
+00:42:27,840 --> 00:42:32,420
+q star u, that's the red
+line, 96 minus 1/2qa.
+
+862
+00:42:32,420 --> 00:42:33,920
+That's their best
+response function.
+
+863
+00:42:33,920 --> 00:42:36,827
+Now once again, to remind you, I
+could simply skip to this step,
+
+864
+00:42:36,827 --> 00:42:39,160
+but normally you'd have to
+solve through for both firms.
+
+865
+00:42:39,160 --> 00:42:41,950
+They might not have identical
+best response functions,
+
+866
+00:42:41,950 --> 00:42:43,690
+or symmetrical best
+response function.
+
+867
+00:42:43,690 --> 00:42:45,640
+Well now we're golden.
+
+868
+00:42:45,640 --> 00:42:47,900
+We have two equations
+and two unknowns.
+
+869
+00:42:47,900 --> 00:42:49,210
+We know how to deal with that.
+
+870
+00:42:49,210 --> 00:42:51,520
+And you solve them
+and you get the qa
+
+871
+00:42:51,520 --> 00:42:57,820
+star equals qu star equals 64.
+
+872
+00:42:57,820 --> 00:43:01,150
+You solve those two
+equations and two unknowns.
+
+873
+00:43:01,150 --> 00:43:06,300
+So 64 is the solution
+of that system.
+
+874
+00:43:06,300 --> 00:43:08,860
+What's the price?
+
+875
+00:43:08,860 --> 00:43:11,000
+Someone raise their
+hand and tell me.
+
+876
+00:43:11,000 --> 00:43:13,040
+What's the price?
+
+877
+00:43:13,040 --> 00:43:14,967
+Without looking at the graph.
+
+878
+00:43:14,967 --> 00:43:15,467
+Yeah?
+
+879
+00:43:15,467 --> 00:43:16,321
+AUDIENCE: [INAUDIBLE]
+
+880
+00:43:16,321 --> 00:43:18,071
+JONATHAN GRUBER: And
+how did you get that?
+
+881
+00:43:18,071 --> 00:43:20,705
+AUDIENCE: [INAUDIBLE]
+
+882
+00:43:20,705 --> 00:43:22,580
+JONATHAN GRUBER: You
+got to plug in 64 twice.
+
+883
+00:43:22,580 --> 00:43:23,872
+A lot of people get this wrong.
+
+884
+00:43:23,872 --> 00:43:25,490
+They'll say, oh, 339 minus 64.
+
+885
+00:43:25,490 --> 00:43:29,360
+But no, it's 339 minus 128,
+because they're each flying 64
+
+886
+00:43:29,360 --> 00:43:32,400
+and the price comes from the
+total demand in the market.
+
+887
+00:43:32,400 --> 00:43:36,733
+So the price is $211.
+
+888
+00:43:36,733 --> 00:43:38,275
+That's an important
+mistake to avoid.
+
+889
+00:43:38,275 --> 00:43:39,150
+A lot of people get here.
+
+890
+00:43:39,150 --> 00:43:39,970
+They'll be super excited.
+
+891
+00:43:39,970 --> 00:43:40,750
+They're tired.
+
+892
+00:43:40,750 --> 00:43:42,790
+They throw the 64 back
+at the demand equation.
+
+893
+00:43:42,790 --> 00:43:45,300
+But remember, demand's a
+function of the total market.
+
+894
+00:43:45,300 --> 00:43:47,410
+If symmetrically
+they're each doing 64,
+
+895
+00:43:47,410 --> 00:43:49,950
+then the price is
+going to be $211.
+
+896
+00:43:49,950 --> 00:43:53,200
+And that is the Nash
+or Cournot equilibrium.
+
+897
+00:43:53,200 --> 00:43:58,180
+Both firms are happy to fly
+64 flights at a price of $211.
+
+898
+00:43:58,180 --> 00:44:00,970
+Neither firm wants to deviate.
+
+899
+00:44:00,970 --> 00:44:03,430
+And you know that because
+you've maximized their profits.
+
+900
+00:44:07,830 --> 00:44:10,720
+When United is flying 64,
+the profits of American
+
+901
+00:44:10,720 --> 00:44:13,300
+are maximized at flying 64.
+
+902
+00:44:13,300 --> 00:44:15,640
+When American's flying
+64, the profits for United
+
+903
+00:44:15,640 --> 00:44:17,680
+are maximized at flying 64.
+
+904
+00:44:17,680 --> 00:44:22,300
+Therefore, that is the Nash
+or Cournot equilibrium.
+
+905
+00:44:22,300 --> 00:44:25,860
+Now, when we get to reality,
+things might not always
+
+906
+00:44:25,860 --> 00:44:27,360
+work out so neatly.
+
+907
+00:44:27,360 --> 00:44:28,830
+Things might not be symmetric.
+
+908
+00:44:28,830 --> 00:44:31,380
+You might also not
+have an equilibrium.
+
+909
+00:44:31,380 --> 00:44:34,410
+How could you not have
+an equilibrium here?
+
+910
+00:44:34,410 --> 00:44:36,325
+How could that
+happen graphically?
+
+911
+00:44:36,325 --> 00:44:37,200
+What would that mean?
+
+912
+00:44:39,820 --> 00:44:40,408
+Yeah?
+
+913
+00:44:40,408 --> 00:44:41,950
+AUDIENCE: The curves
+don't intersect.
+
+914
+00:44:41,950 --> 00:44:42,867
+JONATHAN GRUBER: Yeah.
+
+915
+00:44:42,867 --> 00:44:45,225
+The best response curves
+might not intersect.
+
+916
+00:44:45,225 --> 00:44:46,600
+You might not get
+an equilibrium.
+
+917
+00:44:46,600 --> 00:44:48,225
+We don't know what
+the hell to do then.
+
+918
+00:44:48,225 --> 00:44:50,220
+All chaos breaks loose.
+
+919
+00:44:50,220 --> 00:44:53,520
+But you might not get an
+equilibrium in this market
+
+920
+00:44:53,520 --> 00:44:57,150
+because the best response
+curves might not intersect.
+
+921
+00:44:57,150 --> 00:45:00,120
+In reality, in life, you could
+have funky best response curves
+
+922
+00:45:00,120 --> 00:45:03,470
+that are non-linear or you could
+have multiple intersections.
+
+923
+00:45:03,470 --> 00:45:05,840
+We call it multiple equilibria.
+
+924
+00:45:05,840 --> 00:45:07,910
+And then it becomes an
+indeterminate problem
+
+925
+00:45:07,910 --> 00:45:09,680
+and you have to figure out which
+equilibrium they settle at,
+
+926
+00:45:09,680 --> 00:45:12,013
+and that involves higher order
+mathematics that you talk
+
+927
+00:45:12,013 --> 00:45:13,770
+about in more advanced classes.
+
+928
+00:45:13,770 --> 00:45:15,720
+So this is the
+simplest, easiest cases.
+
+929
+00:45:15,720 --> 00:45:18,960
+Symmetric case where linear best
+response functions intersect
+
+930
+00:45:18,960 --> 00:45:20,460
+is your easiest case.
+
+931
+00:45:20,460 --> 00:45:22,950
+But in general, the
+general way to solve this
+
+932
+00:45:22,950 --> 00:45:26,670
+is the same, which is use
+the principle of game theory.
+
+933
+00:45:26,670 --> 00:45:29,640
+Look, go back to the
+prisoner's dilemma.
+
+934
+00:45:29,640 --> 00:45:32,580
+All we're doing here was
+creating best response
+
+935
+00:45:32,580 --> 00:45:33,220
+functions.
+
+936
+00:45:33,220 --> 00:45:34,470
+It's just there wasn't a line.
+
+937
+00:45:34,470 --> 00:45:36,060
+It was just a point.
+
+938
+00:45:36,060 --> 00:45:38,387
+The best response function
+was what we laid out here.
+
+939
+00:45:38,387 --> 00:45:40,470
+All we did with these
+United and American examples
+
+940
+00:45:40,470 --> 00:45:43,420
+was go to a continuum and
+develop best response functions
+
+941
+00:45:43,420 --> 00:45:46,060
+around the best response point.
+
+942
+00:45:46,060 --> 00:45:46,560
+Yeah?
+
+943
+00:45:49,758 --> 00:45:51,550
+AUDIENCE: If the Nash
+equilibrium is always
+
+944
+00:45:51,550 --> 00:45:54,140
+worse than when
+they're cooperating,
+
+945
+00:45:54,140 --> 00:45:57,560
+why is it so hard to
+maintain a [INAUDIBLE]??
+
+946
+00:45:57,560 --> 00:45:59,750
+JONATHAN GRUBER: We'll
+talk about that next time.
+
+947
+00:45:59,750 --> 00:46:01,510
+Other questions?
+
+948
+00:46:01,510 --> 00:46:02,630
+OK, let's stop there.
+
+949
+00:46:02,630 --> 00:46:02,950
+We'll come back.
+
+950
+00:46:02,950 --> 00:46:05,440
+Next time we'll talk about,
+why don't we all just get along
+
+951
+00:46:05,440 --> 00:46:07,650
+with Mr. Rogers once?

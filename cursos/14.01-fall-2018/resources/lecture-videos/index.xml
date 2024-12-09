@@ -1,0 +1,249 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Lecture Videos on MIT OpenCourseWare</title>
+    <link>/resources/lecture-videos/</link>
+    <description>Recent content in Lecture Videos on MIT OpenCourseWare</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language><atom:link href="/resources/lecture-videos/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Lecture 1: Introduction and Supply &amp; Demand</title>
+      <link>/resources/lec1-intro/data.json</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/resources/lec1-intro/data.json</guid>
+      <description>Description In this video, Prof. Gruber discusses the details of the course, what microeconomics is, and the concept of supply and demand. Please see Handout 1 for relevant graphs for this lecture. Instructor: Prof. Jonathan Gruber</description>
+    </item>
+    
+    <item>
+      <title>Lecture 10: Welfare Economics    </title>
+      <link>/resources/lec-10-welfare-economics/data.json</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/resources/lec-10-welfare-economics/data.json</guid>
+      <description>Description This lecture covers the fundamentals of welfare economics, including how competition maximizes welfare and government interventions. See Handout 10 for relevant graphs for this lecture.
+Instructor: Prof. Jonathan Gruber</description>
+    </item>
+    
+    <item>
+      <title>Lecture 11: Monopoly I    </title>
+      <link>/resources/lec-11-monopoly-i/data.json</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/resources/lec-11-monopoly-i/data.json</guid>
+      <description>Description In this lecture, Prof. Gruber takes what the class has already learned and applies it to more realistic situations, specifically monopoly profit maximization and welfare effects. See Handout 11 for relevant graphs for this lecture. Instructor: Prof. Jonathan Gruber</description>
+    </item>
+    
+    <item>
+      <title>Lecture 12: Monopoly II    </title>
+      <link>/resources/lec-12-monopoly-ii/data.json</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/resources/lec-12-monopoly-ii/data.json</guid>
+      <description>Description This lecture focuses on how monopolies arise, regulation of monopolies, and contestable markets. See Handout 12 for relevant graphs for this lecture. Instructors: Prof. Jonathan Gruber</description>
+    </item>
+    
+    <item>
+      <title>Lecture 13: Oligopoly    </title>
+      <link>/resources/lec-13-oligopoly/data.json</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/resources/lec-13-oligopoly/data.json</guid>
+      <description>Description This lectures covers oligopoly, game theory, and the Cournot model. See Handout 13 for relevant graphs for this lecture.
+Instructor: Prof. Jonathan Gruber</description>
+    </item>
+    
+    <item>
+      <title>Lecture 14: Oligopoly II</title>
+      <link>/resources/lec-14-oligopoly-ii/data.json</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/resources/lec-14-oligopoly-ii/data.json</guid>
+      <description>Description This video continues the discussion of oligopolies, covering the topics of cartels, comparing equilibria, many firms, and price competition. There is no handout for this lecture. Instructor: Prof. Jonathan Gruber</description>
+    </item>
+    
+    <item>
+      <title>Lecture 15: Input Markets I—Labor Market     </title>
+      <link>/resources/lec-15-labor-market/data.json</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/resources/lec-15-labor-market/data.json</guid>
+      <description>Description This lecture covers factor markets, the markets that set the price for labor and capital. Prof. Gruber begins by talking about factor demand, then continues with factor supply. See Handout 15 for relevant graphs for this lecture. Instructor: Prof. Jonathan Gruber</description>
+    </item>
+    
+    <item>
+      <title>Lecture 16: Input Markets II—Labor and Capital    </title>
+      <link>/resources/lec-16-labor-and-capital/data.json</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/resources/lec-16-labor-and-capital/data.json</guid>
+      <description>Description This lecture continues to explore factor markets, using minimum wage and the labor market as examples. See Handout 16 for relevant graphs for this lecture. Instructor: Prof. Jonathan Gruber</description>
+    </item>
+    
+    <item>
+      <title>Lecture 17: Making Choices Over Time    </title>
+      <link>/resources/lec-17-making-choices/data.json</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/resources/lec-17-making-choices/data.json</guid>
+      <description>Description In this lecture, Prof. Gruber continues talking about factor markets by explaining how capital markets influence real world decisions. See Handout 17 for relevant graphs for this lecture. Instructor: Prof. Jonathan Gruber</description>
+    </item>
+    
+    <item>
+      <title>Lecture 18: Increasing Savings &amp; Introduction to Trade    </title>
+      <link>/resources/lec-18-savings-and-trade/data.json</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/resources/lec-18-savings-and-trade/data.json</guid>
+      <description>Description This video covers increasing savings, an important element of growth in an economy, as well as an introduction to international trade. See Handout 18 for relevant graphs for this lecture. Instructor: Prof. Jonathan Gruber</description>
+    </item>
+    
+    <item>
+      <title>Lecture 19: International Trade: Welfare and Policy    </title>
+      <link>/resources/lec-19-welfare-policy/data.json</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/resources/lec-19-welfare-policy/data.json</guid>
+      <description>Description This video covers international trade, comparative advantage, the welfare economics of international trade, and how that drives trade policy. See Handout 19 for relevant graphs for this lecture. Instructor: Prof. Jonathan Gruber</description>
+    </item>
+    
+    <item>
+      <title>Lecture 2: Preference and Utility Functions</title>
+      <link>/resources/lec2-preferences-utilityfunctions/data.json</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/resources/lec2-preferences-utilityfunctions/data.json</guid>
+      <description>Description This video focuses on the demand curve, derived from how consumers make choices, and the supply curve, which is how firms make production decisions. Please see Handout 2 for relevant graphs for this lecture. Instructor: Prof. Jonathan Gruber</description>
+    </item>
+    
+    <item>
+      <title>Lecture 20: Uncertainty    </title>
+      <link>/resources/lec-20-uncertainty/data.json</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/resources/lec-20-uncertainty/data.json</guid>
+      <description>Description This video explains the economic concept of decision making under uncertainty. See Handout 20 for relevant graphs for this lecture. Instructor: Prof. Jonathan Gruber</description>
+    </item>
+    
+    <item>
+      <title>Lecture 21: Efficiency and Equity    </title>
+      <link>/resources/lec-21-efficiency-equity/data.json</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/resources/lec-21-efficiency-equity/data.json</guid>
+      <description>Description In this lecture, Prof. Gruber introduces the idea of equity and efficiency, including choosing the socially optimal allocation, inequality, and sources of leakage. See Handout 21 for relevant graphs for this lecture. Instructor: Prof. Jonathan Gruber</description>
+    </item>
+    
+    <item>
+      <title>Lecture 22: Government Redistribution and Taxation    </title>
+      <link>/resources/lec-22-redistribution-taxation/data.json</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/resources/lec-22-redistribution-taxation/data.json</guid>
+      <description>Description This lecture continues the discussion about equity and efficiency by talking about taxation in the United States and redistribution programs. See Handout 22 for relevant graphs for this lecture.
+Instructor: Prof. Jonathan Gruber</description>
+    </item>
+    
+    <item>
+      <title>Lecture 23: Market Failures I: Externalities    </title>
+      <link>/resources/lec-23-market-failures-i/data.json</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/resources/lec-23-market-failures-i/data.json</guid>
+      <description>Description This lectures covers externalities, which are the costs or benefits that affect a party who did not choose to incur those costs or benefits. Other topics include government solutions and government policy. See Handout 23 for relevant graphs for this lecture. Instructor: Prof. Jonathan Gruber</description>
+    </item>
+    
+    <item>
+      <title>Lecture 24: Market Failures II: Informational Asymmetry    </title>
+      <link>/resources/lec-24-market-failures-ii/data.json</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/resources/lec-24-market-failures-ii/data.json</guid>
+      <description>Description This lecture covers the topic of social insurance, which is government-provided insurance programs. Prof. Gruber also discusses the social insurance standoff and Social Security. There is no handout for this lecture. Instructor: Prof. Jonathan Gruber</description>
+    </item>
+    
+    <item>
+      <title>Lecture 25: Health Economics    </title>
+      <link>/resources/lec-25-health-economics/data.json</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/resources/lec-25-health-economics/data.json</guid>
+      <description>Description In this lecture, Prof. Gruber uses the information taught in class to explain the real world example of health economics, and how it plays out in policy and practice. There is no handout for this lecture. Instructor: Prof. Jonathan Gruber</description>
+    </item>
+    
+    <item>
+      <title>Lecture 3: Budget Constraints and Constrained Choice </title>
+      <link>/resources/lecture-3-constraints/data.json</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/resources/lecture-3-constraints/data.json</guid>
+      <description>Description This lecture continues the discussion about consumer choice and what happens when budget constraints are introduced. See Handout 3 for relevant graphs for this lecture. Instructor: Prof. Jonathan Gruber</description>
+    </item>
+    
+    <item>
+      <title>Lecture 4: Demand Curves and Income/Substitution Effects</title>
+      <link>/resources/lec-4-demand-curves/data.json</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/resources/lec-4-demand-curves/data.json</guid>
+      <description>Description Prof. Gruber begins the lecture by explaining how to derive demand curves. Other topics covered include elasticity of demand, income shifts, and effects of a price change. See Handout 4 for relevant graphs for this lecture. Instructor: Prof. Jonathan Gruber</description>
+    </item>
+    
+    <item>
+      <title>Lecture 5: Production Theory    </title>
+      <link>/resources/lec-5-production-theory/data.json</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/resources/lec-5-production-theory/data.json</guid>
+      <description>Description This video introduces the second unit of the course about producer theory. Topics include the production function, short run production, long run production, rates of technical substitution, returns to scale, and productivity. See Handout 5 for relevant graphs for this lecture. Instructor: Prof. Jonathan Gruber</description>
+    </item>
+    
+    <item>
+      <title>Lecture 6: Costs    </title>
+      <link>/resources/lec-6-costs/data.json</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/resources/lec-6-costs/data.json</guid>
+      <description>Description This lecture continues the discussion on producer theory and short run and long run cost curves. See Handout 6 for relevant graphs for this lecture. Instructor: Prof. Jonathan Gruber</description>
+    </item>
+    
+    <item>
+      <title>Lecture 7: Competition I</title>
+      <link>/resources/lec-7-competition-1/data.json</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/resources/lec-7-competition-1/data.json</guid>
+      <description>Description This lecture finishes the discussion about costs from Lecture 6, and then the instructor explains perfect competition and short-run profit maximization. See Handout 7 for relevant graphs for this lecture. Instructor: Prof. Jonathan Gruber</description>
+    </item>
+    
+    <item>
+      <title>Lecture 8: Competition II</title>
+      <link>/resources/lec-8-competition-ii/data.json</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/resources/lec-8-competition-ii/data.json</guid>
+      <description>Description This lecture covers the topics of perfect competition, short run profit maximization, short run equilibrium, and long run competition. See Handout 8 for relevant gaphs for this lecture.
+Instructor: Prof. Jonathan Gruber</description>
+    </item>
+    
+    <item>
+      <title>Lecture 9: Supply and Demand &amp; Consumer/Producer Surplus</title>
+      <link>/resources/lec-9-supply-and-demand-surplus/data.json</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/resources/lec-9-supply-and-demand-surplus/data.json</guid>
+      <description>Description This lecture covers supply and demand curves, consumer surplus, and producer surplus. See Handout 9 for relevant graphs for this lecture.
+Instructor: Prof. Jonathan Gruber</description>
+    </item>
+    
+    <item>
+      <title>Lecture Videos</title>
+      <link>/video_galleries/lecture-videos/data.json</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/video_galleries/lecture-videos/data.json</guid>
+      <description> Lecture 1: Introduction and Supply &amp;amp; Demand Lecture 2: Preference and Utility Functions Lecture 3: Budget Constraints and Constrained Choice Lecture 4: Demand Curves and Income/Substitution Effects Lecture 5: Production Theory Lecture 6: Costs Lecture 7: Competition I Lecture 8: Competition II Lecture 9: Supply and Demand &amp;amp; Consumer/Producer Surplus Lecture 10: Welfare Economics Lecture 11: Monopoly I Lecture 12: Monopoly II Lecture 13: Oligopoly Lecture 14: Oligopoly II Lecture 15: Input Markets I—Labor Market Lecture 16: Input Markets II—Labor and Capital Lecture 17: Making Choices Over Time Lecture 18: Increasing Savings &amp;amp; Introduction to Trade Lecture 19: International Trade: Welfare and Policy Lecture 20: Uncertainty Lecture 21: Efficiency and Equity Lecture 22: Government Redistribution and Taxation Lecture 23: Market Failures I: Externalities Lecture 24: Market Failures II: Informational Asymmetry Lecture 25: Health Economics </description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,260 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Lecture Notes on MIT OpenCourseWare</title>
+    <link>/resources/lecture-notes/</link>
+    <description>Recent content in Lecture Notes on MIT OpenCourseWare</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language><atom:link href="/resources/lecture-notes/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>14.01 F18 Lecture 3 Handouts</title>
+      <link>/resources/mit14_01f18_handout3/data.json</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/resources/mit14_01f18_handout3/data.json</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>14.01 F18 Lecture Notes 8-17</title>
+      <link>/resources/mit14_01f18_lec8_17/data.json</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/resources/mit14_01f18_lec8_17/data.json</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>14.01 F18 Lectures 1-7</title>
+      <link>/resources/mit14_01f18_lec1_7/data.json</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/resources/mit14_01f18_lec1_7/data.json</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>14.01 Fall 2018 Lecture Notes 18-25</title>
+      <link>/resources/mit14_01f18_lec18_25/data.json</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/resources/mit14_01f18_lec18_25/data.json</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Lecture Notes and Handouts</title>
+      <link>/pages/lecture-notes/data.json</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/pages/lecture-notes/data.json</guid>
+      <description>The handouts contain graphs that are referenced during each lecture. Handouts are not available for lectures 14, 24, and 25. Lecture Notes Handouts Notes for Lectures 1–7 (PDF)
+Topics:
+Supply and Demand
+Consumer Theory
+Handout 1 (PDF)
+Handout 2 (PDF)
+Handout 3 (PDF)
+Handout 4 (PDF)
+Handout 5 (PDF)
+Handout 6 (PDF)
+Handout 7 (PDF)
+Notes for Lectures 8–17 (PDF)
+Topics:
+Production and Costs
+Welfare Economics
+Monopoly
+Other Market Structures</description>
+    </item>
+    
+    <item>
+      <title>MIT 14.01 F18 Lecture 1 Handout</title>
+      <link>/resources/mit14_01f18_handout1/data.json</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/resources/mit14_01f18_handout1/data.json</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>MIT 14.01 F18 Lecture 10 Handout</title>
+      <link>/resources/mit14_01f18_handout10/data.json</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/resources/mit14_01f18_handout10/data.json</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>MIT 14.01 F18 Lecture 11 Handout</title>
+      <link>/resources/mit14_01f18_handout11/data.json</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/resources/mit14_01f18_handout11/data.json</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>MIT 14.01 F18 Lecture 12 Handout</title>
+      <link>/resources/mit14_01f18_handout12/data.json</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/resources/mit14_01f18_handout12/data.json</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>MIT 14.01 F18 Lecture 13 Handout</title>
+      <link>/resources/mit14_01f18_handout13/data.json</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/resources/mit14_01f18_handout13/data.json</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>MIT 14.01 F18 Lecture 15 Handout</title>
+      <link>/resources/mit14_01f18_handout15/data.json</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/resources/mit14_01f18_handout15/data.json</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>MIT 14.01 F18 Lecture 16 Handout</title>
+      <link>/resources/mit14_01f18_handout16/data.json</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/resources/mit14_01f18_handout16/data.json</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>MIT 14.01 F18 Lecture 17 Handout</title>
+      <link>/resources/mit14_01f18_handout17/data.json</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/resources/mit14_01f18_handout17/data.json</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>MIT 14.01 F18 Lecture 18 Handout</title>
+      <link>/resources/mit14_01f18_handout18/data.json</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/resources/mit14_01f18_handout18/data.json</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>MIT 14.01 F18 Lecture 19 Handout</title>
+      <link>/resources/mit14_01f18_handout19/data.json</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/resources/mit14_01f18_handout19/data.json</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>MIT 14.01 F18 Lecture 2 Handout</title>
+      <link>/resources/mit14_01f18_handout2/data.json</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/resources/mit14_01f18_handout2/data.json</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>MIT 14.01 F18 Lecture 20 Handout</title>
+      <link>/resources/mit14_01f18_handout20/data.json</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/resources/mit14_01f18_handout20/data.json</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>MIT 14.01 F18 Lecture 21 Handout</title>
+      <link>/resources/mit14_01f18_handout21/data.json</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/resources/mit14_01f18_handout21/data.json</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>MIT 14.01 F18 Lecture 22 Handout</title>
+      <link>/resources/mit14_01f18_handout22/data.json</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/resources/mit14_01f18_handout22/data.json</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>MIT 14.01 F18 Lecture 23 Handout</title>
+      <link>/resources/mit14_01f18_handout23/data.json</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/resources/mit14_01f18_handout23/data.json</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>MIT 14.01 F18 Lecture 4 Handout</title>
+      <link>/resources/mit14_01f18_handout4/data.json</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/resources/mit14_01f18_handout4/data.json</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>MIT 14.01 F18 Lecture 5 Handout</title>
+      <link>/resources/mit14_01f18_handout5/data.json</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/resources/mit14_01f18_handout5/data.json</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>MIT 14.01 F18 Lecture 6 Handout</title>
+      <link>/resources/mit14_01f18_handout6/data.json</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/resources/mit14_01f18_handout6/data.json</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>MIT 14.01 F18 Lecture 7 Handout</title>
+      <link>/resources/mit14_01f18_handout7/data.json</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/resources/mit14_01f18_handout7/data.json</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>MIT 14.01 F18 Lecture 8 Handout</title>
+      <link>/resources/mit14_01f18_handout8/data.json</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/resources/mit14_01f18_handout8/data.json</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>MIT 14.01 F18 Lecture 9 Handout</title>
+      <link>/resources/mit14_01f18_handout9/data.json</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/resources/mit14_01f18_handout9/data.json</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

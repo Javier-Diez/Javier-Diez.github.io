@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Exams on MIT OpenCourseWare</title>
+    <link>/resources/exams/</link>
+    <description>Recent content in Exams on MIT OpenCourseWare</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language><atom:link href="/resources/exams/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>14.01 Fall 2018 Final Exam</title>
+      <link>/resources/mit14_01f18_final/data.json</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/resources/mit14_01f18_final/data.json</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>14.01 Fall 2018 Final Exam Solutions</title>
+      <link>/resources/mit4_01f18_final_sol/data.json</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/resources/mit4_01f18_final_sol/data.json</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>14.01 Fall 2018 Midterm Exam</title>
+      <link>/resources/mit14_01f18_midterm/data.json</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/resources/mit14_01f18_midterm/data.json</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>14.01 Fall 2018 Midterm Exam Solutions</title>
+      <link>/resources/mit14_01f18_midterm_sol/data.json</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/resources/mit14_01f18_midterm_sol/data.json</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Exams</title>
+      <link>/pages/exams/data.json</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/pages/exams/data.json</guid>
+      <description>Midterm Exam Fall 2018 Midterm Exam (PDF)
+Fall 2018 Midterm Exam Solutions (PDF)
+Final Exam Fall 2018 Final Exam (PDF)
+Fall 2018 Final Exam Solutions (PDF)</description>
+    </item>
+    
+  </channel>
+</rss>

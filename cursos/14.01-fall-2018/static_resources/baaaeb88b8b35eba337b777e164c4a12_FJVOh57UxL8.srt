@@ -1,0 +1,5494 @@
+1
+00:00:00,500 --> 00:00:06,357
+[SQUEAKING]
+[RUSTLING] [CLICKING]
+
+2
+00:00:12,230 --> 00:00:14,900
+JONATHAN GRUBER: OK,
+so let's continue.
+
+3
+00:00:14,900 --> 00:00:18,050
+So this is actually,
+in some sense,
+
+4
+00:00:18,050 --> 00:00:19,860
+a key breaking
+point in the course.
+
+5
+00:00:19,860 --> 00:00:22,430
+Which is, in some sense
+what we've done so far
+
+6
+00:00:22,430 --> 00:00:25,160
+is give you a set of
+tools to understand
+
+7
+00:00:25,160 --> 00:00:28,378
+how to think about how consumers
+and producers make decisions,
+
+8
+00:00:28,378 --> 00:00:30,920
+and then to understand how you
+compare positive and normative
+
+9
+00:00:30,920 --> 00:00:32,868
+implications of economics.
+
+10
+00:00:32,868 --> 00:00:34,910
+What we're going to do
+for the rest of the class,
+
+11
+00:00:34,910 --> 00:00:37,430
+for the rest of the
+semester, is we're
+
+12
+00:00:37,430 --> 00:00:41,210
+going to start to talk about how
+you apply those tools to more
+
+13
+00:00:41,210 --> 00:00:42,640
+realistic situations.
+
+14
+00:00:42,640 --> 00:00:45,140
+Let me answer your very first
+question, what you learn today
+
+15
+00:00:45,140 --> 00:00:47,240
+is not on the midterm, OK?
+
+16
+00:00:47,240 --> 00:00:51,320
+So that's the question that's
+all on your mind because it is.
+
+17
+00:00:51,320 --> 00:00:53,660
+So the midterm tomorrow
+night will cover everything
+
+18
+00:00:53,660 --> 00:00:55,825
+through what we covered
+through last week,
+
+19
+00:00:55,825 --> 00:00:57,950
+but what we learn today
+will not be in the midterm.
+
+20
+00:00:57,950 --> 00:01:00,340
+But don't leave because
+it will be on the final
+
+21
+00:01:00,340 --> 00:01:01,670
+and it is interesting.
+
+22
+00:01:01,670 --> 00:01:03,320
+So what we're going
+to do today is
+
+23
+00:01:03,320 --> 00:01:07,190
+talk about taking the tools we
+developed so far in this class
+
+24
+00:01:07,190 --> 00:01:10,640
+and applying to more
+realistic situations.
+
+25
+00:01:10,640 --> 00:01:13,310
+And the more realist situation
+we're going to start with
+
+26
+00:01:13,310 --> 00:01:16,590
+is the case of monopoly.
+
+27
+00:01:16,590 --> 00:01:21,350
+And we don't talk about
+monopoly profit maximization.
+
+28
+00:01:21,350 --> 00:01:24,200
+Now so far on the
+producer side we've
+
+29
+00:01:24,200 --> 00:01:27,450
+been discussing one extreme
+of how the market's organized,
+
+30
+00:01:27,450 --> 00:01:29,370
+which is perfect competition.
+
+31
+00:01:29,370 --> 00:01:31,220
+And perfect competition
+is a wonderful sort
+
+32
+00:01:31,220 --> 00:01:33,680
+of theoretical
+benchmark but never
+
+33
+00:01:33,680 --> 00:01:34,970
+actually exists in reality.
+
+34
+00:01:34,970 --> 00:01:37,680
+No market is
+perfectly competitive.
+
+35
+00:01:37,680 --> 00:01:42,800
+The other extreme is not widely
+applicable but still does
+
+36
+00:01:42,800 --> 00:01:47,110
+exist in reality,
+which is monopoly, OK?
+
+37
+00:01:47,110 --> 00:01:52,570
+Monopoly is a situation where a
+market only has one firm in it.
+
+38
+00:01:52,570 --> 00:01:58,300
+So a market with one firm
+is a monopoly market, OK?
+
+39
+00:01:58,300 --> 00:02:01,960
+So that's basically a case
+where you have only one
+
+40
+00:02:01,960 --> 00:02:04,570
+firm providing the good, OK?
+
+41
+00:02:04,570 --> 00:02:07,840
+Now in reality,
+most markets fall
+
+42
+00:02:07,840 --> 00:02:11,460
+between perfect competition,
+which never truly exists,
+
+43
+00:02:11,460 --> 00:02:13,720
+and monopoly, which
+rarely exists.
+
+44
+00:02:13,720 --> 00:02:17,200
+Most markets are in between,
+we call them oligopolies.
+
+45
+00:02:17,200 --> 00:02:20,830
+That's markets
+with several firms
+
+46
+00:02:20,830 --> 00:02:22,750
+but not perfectly competing.
+
+47
+00:02:22,750 --> 00:02:24,035
+And we'll get to that.
+
+48
+00:02:24,035 --> 00:02:26,410
+But that's actually one of
+the harder things we'll cover,
+
+49
+00:02:26,410 --> 00:02:28,780
+so we're going to start with
+this other extreme of monopoly
+
+50
+00:02:28,780 --> 00:02:30,460
+which gives us a lot
+of the insights we
+
+51
+00:02:30,460 --> 00:02:35,070
+need for oligopoly but
+in a much simpler case.
+
+52
+00:02:35,070 --> 00:02:38,880
+Now, the key thing with
+monopoly, the key difference
+
+53
+00:02:38,880 --> 00:02:42,150
+from what we've done so
+far is that now firms
+
+54
+00:02:42,150 --> 00:02:46,200
+are going to be price
+makers, not price takers.
+
+55
+00:02:46,200 --> 00:02:48,900
+That's going to be the key
+change from the perfectly
+
+56
+00:02:48,900 --> 00:02:49,830
+competitive situation.
+
+57
+00:02:49,830 --> 00:02:51,660
+The perfectly
+competitive situation,
+
+58
+00:02:51,660 --> 00:02:53,700
+from any given
+firm's perspective
+
+59
+00:02:53,700 --> 00:02:56,280
+the price is something given
+them by the great market.
+
+60
+00:02:56,280 --> 00:02:58,170
+OK, we talked with
+our two diagrams side
+
+61
+00:02:58,170 --> 00:03:01,170
+by side about how the
+market gives the price.
+
+62
+00:03:01,170 --> 00:03:03,810
+But we sort of-- from any
+given firm's perspective
+
+63
+00:03:03,810 --> 00:03:05,190
+they were price taker.
+
+64
+00:03:05,190 --> 00:03:06,880
+They couldn't affect the price.
+
+65
+00:03:06,880 --> 00:03:10,260
+Monopolists however,
+when you're the only firm
+
+66
+00:03:10,260 --> 00:03:12,330
+you get to set the price.
+
+67
+00:03:12,330 --> 00:03:16,260
+So monopolists are going to be
+price makers, not price takers.
+
+68
+00:03:16,260 --> 00:03:19,980
+And that's going to change the
+dynamics of everything we do,
+
+69
+00:03:19,980 --> 00:03:23,020
+and that'll be our
+focus today, OK?
+
+70
+00:03:23,020 --> 00:03:25,750
+So that's going to
+be the big change,
+
+71
+00:03:25,750 --> 00:03:30,520
+we'll go from competitive
+markets to monopoly markets.
+
+72
+00:03:30,520 --> 00:03:35,410
+Now, for the first 2/3
+or 3/4 of the lecture
+
+73
+00:03:35,410 --> 00:03:37,430
+we're going to make
+one other assumption.
+
+74
+00:03:37,430 --> 00:03:43,120
+We are going to assume there is
+one price in this market, that
+
+75
+00:03:43,120 --> 00:03:46,148
+is no price discrimination.
+
+76
+00:03:48,840 --> 00:03:51,810
+This monopolist sets
+the price, but he
+
+77
+00:03:51,810 --> 00:03:54,240
+sets one price for everybody.
+
+78
+00:03:54,240 --> 00:03:56,550
+So if a monopolist
+is selling a good,
+
+79
+00:03:56,550 --> 00:04:00,350
+they sell that at one price
+to everybody buys the good.
+
+80
+00:04:00,350 --> 00:04:02,557
+Now once again, this
+is not super realistic,
+
+81
+00:04:02,557 --> 00:04:04,640
+monopolists often have
+different prices for goods.
+
+82
+00:04:04,640 --> 00:04:06,827
+But it's a very important,
+helpful extreme.
+
+83
+00:04:06,827 --> 00:04:09,410
+And you've got to remember that
+we're imposing this constraint
+
+84
+00:04:09,410 --> 00:04:11,285
+because it's going to
+drive the intuition I'm
+
+85
+00:04:11,285 --> 00:04:12,440
+going to come to next, OK?
+
+86
+00:04:12,440 --> 00:04:15,380
+So you're a firm selling
+a good at one price.
+
+87
+00:04:15,380 --> 00:04:20,019
+You offer it up, anybody can
+buy it at that price, OK?
+
+88
+00:04:20,019 --> 00:04:22,300
+Now, what we're going to do--
+
+89
+00:04:22,300 --> 00:04:26,010
+if you remember, a mon-- the
+fundamental part of producer
+
+90
+00:04:26,010 --> 00:04:27,910
+that holds is the
+goal of monopolists
+
+91
+00:04:27,910 --> 00:04:35,320
+is to maximize his profits, OK,
+which is revenues minus costs.
+
+92
+00:04:35,320 --> 00:04:37,330
+And as we showed
+before, profits are
+
+93
+00:04:37,330 --> 00:04:42,320
+maximized when marginal
+revenue equals marginal cost.
+
+94
+00:04:42,320 --> 00:04:45,710
+That's the profit
+maximization point.
+
+95
+00:04:45,710 --> 00:04:49,160
+Now, nothing on the cost
+side is going to change.
+
+96
+00:04:49,160 --> 00:04:54,200
+So monopolish monopolist,
+the way we get cost curves
+
+97
+00:04:54,200 --> 00:04:54,893
+doesn't change.
+
+98
+00:04:54,893 --> 00:04:56,810
+That's all about--
+remember, because that just
+
+99
+00:04:56,810 --> 00:04:59,670
+comes the technology
+production and that
+
+100
+00:04:59,670 --> 00:05:02,512
+comes from input prices.
+
+101
+00:05:02,512 --> 00:05:04,470
+So nothing on the cost
+side is going to change.
+
+102
+00:05:04,470 --> 00:05:06,300
+All that hard and
+somewhat boring
+
+103
+00:05:06,300 --> 00:05:09,470
+work we did deriving
+cost functions and stuff,
+
+104
+00:05:09,470 --> 00:05:11,490
+that all is-- that's done.
+
+105
+00:05:11,490 --> 00:05:13,740
+The only place monopoly gets
+exciting is on the margin
+
+106
+00:05:13,740 --> 00:05:17,010
+revenue side, because before we
+said marginal revenue was just
+
+107
+00:05:17,010 --> 00:05:19,500
+price for a price taker.
+
+108
+00:05:19,500 --> 00:05:21,640
+But that's no longer true.
+
+109
+00:05:21,640 --> 00:05:24,303
+Marginal revenue is
+no longer just price.
+
+110
+00:05:24,303 --> 00:05:26,470
+Now marginal revenue's going
+to be more interesting.
+
+111
+00:05:26,470 --> 00:05:29,020
+So the monopoly
+difference, if you will,
+
+112
+00:05:29,020 --> 00:05:31,890
+or the imperfect
+competition difference,
+
+113
+00:05:31,890 --> 00:05:34,032
+doesn't come at all
+from the cost side.
+
+114
+00:05:34,032 --> 00:05:36,240
+That side is done, doesn't
+matter what kind of market
+
+115
+00:05:36,240 --> 00:05:38,650
+you're looking at, OK?
+
+116
+00:05:38,650 --> 00:05:40,120
+All the interesting
+action here is
+
+117
+00:05:40,120 --> 00:05:43,480
+on the revenue side as we think
+about monopoly and oligopoly
+
+118
+00:05:43,480 --> 00:05:45,280
+markets, OK?
+
+119
+00:05:45,280 --> 00:05:48,910
+So to think about that,
+let's go to figure 11-1.
+
+120
+00:05:52,870 --> 00:05:55,370
+Think about-- let's start by
+think about a competitive firm.
+
+121
+00:05:55,370 --> 00:05:56,825
+This is a diagram I
+could have shown earlier.
+
+122
+00:05:56,825 --> 00:05:59,450
+It just sort of is a way to
+think about a competitive firm.
+
+123
+00:05:59,450 --> 00:06:02,840
+Think about a competitive
+firm's profits.
+
+124
+00:06:02,840 --> 00:06:06,260
+So imagine that this firm--
+
+125
+00:06:06,260 --> 00:06:10,340
+to make life easy
+let's imagine that we
+
+126
+00:06:10,340 --> 00:06:15,080
+have a firm with
+marginal cost of 0, OK?
+
+127
+00:06:15,080 --> 00:06:20,660
+So you've got demand curve, and
+so therefore any money you make
+
+128
+00:06:20,660 --> 00:06:21,680
+is profit.
+
+129
+00:06:21,680 --> 00:06:22,982
+And we're in the short run, OK?
+
+130
+00:06:22,982 --> 00:06:24,440
+So there's profit
+in the short run,
+
+131
+00:06:24,440 --> 00:06:26,820
+even for this perfectly
+competitive firm.
+
+132
+00:06:26,820 --> 00:06:29,430
+But a perfectly competitive
+firm faces a horizontal demand
+
+133
+00:06:29,430 --> 00:06:30,160
+curve.
+
+134
+00:06:30,160 --> 00:06:34,770
+So if they sell
+q units, OK, they
+
+135
+00:06:34,770 --> 00:06:38,010
+make profits of area
+a, which is simply
+
+136
+00:06:38,010 --> 00:06:41,700
+q times P1, little q times P1.
+
+137
+00:06:41,700 --> 00:06:44,130
+If they sell q
+plus 1 units, they
+
+138
+00:06:44,130 --> 00:06:46,980
+make an extra profit
+rectangle of B.
+
+139
+00:06:46,980 --> 00:06:49,860
+So literally, the marginal--
+the extra profit they make
+
+140
+00:06:49,860 --> 00:06:54,840
+is just the amount
+P. It's 1 times P1.
+
+141
+00:06:54,840 --> 00:06:58,190
+The horizontal distance
+from q to q plus 1 is 1,
+
+142
+00:06:58,190 --> 00:07:00,390
+the vertical distance is P1.
+
+143
+00:07:00,390 --> 00:07:03,358
+So the marginal profit
+is just the price, OK?
+
+144
+00:07:03,358 --> 00:07:05,400
+Marginal revenue, I'm
+sorry, it's just the price.
+
+145
+00:07:05,400 --> 00:07:06,352
+Yeah?
+
+146
+00:07:06,352 --> 00:07:08,310
+AUDIENCE: [INAUDIBLE]
+competitive [INAUDIBLE]..
+
+147
+00:07:08,310 --> 00:07:10,800
+JONATHAN GRUBER: Once it's in
+the short run there can be,
+
+148
+00:07:10,800 --> 00:07:11,010
+right?
+
+149
+00:07:11,010 --> 00:07:12,600
+In the short run there can be
+profit in a competitive market.
+
+150
+00:07:12,600 --> 00:07:14,868
+In the long run
+there's no profit, OK?
+
+151
+00:07:14,868 --> 00:07:16,410
+So basically, their
+marginal revenue,
+
+152
+00:07:16,410 --> 00:07:21,390
+what they make-- that next unit
+they make is the price, OK?
+
+153
+00:07:21,390 --> 00:07:25,810
+Now let's think about
+a monopoly firm.
+
+154
+00:07:25,810 --> 00:07:31,410
+A monopoly firm does not face a
+perfectly elastic demand curve
+
+155
+00:07:31,410 --> 00:07:34,590
+because a monopoly firm's demand
+curve is the whole market.
+
+156
+00:07:34,590 --> 00:07:38,970
+Notice little q has become
+big Q on the x-axis.
+
+157
+00:07:38,970 --> 00:07:41,910
+The monopolist no longer faces
+only their perfectly elastic
+
+158
+00:07:41,910 --> 00:07:43,230
+firm demand.
+
+159
+00:07:43,230 --> 00:07:46,710
+They face a market demand, which
+can be any degree of elasticity
+
+160
+00:07:46,710 --> 00:07:48,270
+but typically is
+somewhat elastic.
+
+161
+00:07:48,270 --> 00:07:50,350
+It's downward sloping.
+
+162
+00:07:50,350 --> 00:07:51,910
+Now let's say
+you're a monopolist
+
+163
+00:07:51,910 --> 00:07:56,070
+and you're selling big
+Q units at a price P1.
+
+164
+00:07:56,070 --> 00:08:00,530
+Your profits are C plus A. Once
+again, same marginal cost of 0
+
+165
+00:08:00,530 --> 00:08:03,060
+to make this easy, or C plus A.
+
+166
+00:08:03,060 --> 00:08:06,050
+Now let's say you want
+to sell one more unit.
+
+167
+00:08:06,050 --> 00:08:07,720
+Well, what's different?
+
+168
+00:08:07,720 --> 00:08:09,420
+What's different is
+now you're facing
+
+169
+00:08:09,420 --> 00:08:11,770
+a downward sloping demand curve.
+
+170
+00:08:11,770 --> 00:08:13,950
+So if you want to
+sell one more unit
+
+171
+00:08:13,950 --> 00:08:16,800
+you have to lower the price.
+
+172
+00:08:16,800 --> 00:08:18,390
+That's the difference.
+
+173
+00:08:18,390 --> 00:08:20,520
+If you want to
+sell another unit,
+
+174
+00:08:20,520 --> 00:08:23,880
+you can only do so by
+lowering the price.
+
+175
+00:08:23,880 --> 00:08:26,490
+And you're a price maker, so
+you have the right to do that.
+
+176
+00:08:26,490 --> 00:08:27,990
+So if you want to
+sell another unit,
+
+177
+00:08:27,990 --> 00:08:30,610
+two things are going to happen.
+
+178
+00:08:30,610 --> 00:08:33,789
+A, you are going to
+sell a second unit
+
+179
+00:08:33,789 --> 00:08:35,110
+and make money on that unit.
+
+180
+00:08:35,110 --> 00:08:38,539
+That's the area B.
+
+181
+00:08:38,539 --> 00:08:40,380
+But b-- I should
+say one and two.
+
+182
+00:08:40,380 --> 00:08:41,630
+One, you sell the second unit.
+
+183
+00:08:41,630 --> 00:08:43,415
+That's the area B.
+
+184
+00:08:43,415 --> 00:08:46,040
+Two, you will lose money
+all the other units
+
+185
+00:08:46,040 --> 00:08:50,030
+you sold because now you
+have to lower the price.
+
+186
+00:08:50,030 --> 00:08:54,210
+Because remember, there's
+only one price, OK?
+
+187
+00:08:54,210 --> 00:08:57,920
+So basically, you
+used to make A plus C.
+
+188
+00:08:57,920 --> 00:09:04,010
+Now you make A plus B. You've
+added B, but you've lost C.
+
+189
+00:09:04,010 --> 00:09:06,080
+So what is the marginal revenue?
+
+190
+00:09:06,080 --> 00:09:08,390
+The marginal revenue
+for a monopolist
+
+191
+00:09:08,390 --> 00:09:16,415
+is now the area B minus the
+area C. Or P2, which is area B--
+
+192
+00:09:16,415 --> 00:09:24,860
+1 times P2 minus
+P2 minus P1 minus
+
+193
+00:09:24,860 --> 00:09:30,140
+P2 times Q0, the
+original quantity.
+
+194
+00:09:30,140 --> 00:09:31,530
+OK?
+
+195
+00:09:31,530 --> 00:09:33,420
+This is the area C,
+but this is the area
+
+196
+00:09:33,420 --> 00:09:38,330
+B. The original quantity
+times the change in price.
+
+197
+00:09:38,330 --> 00:09:40,670
+So your marginal revenue is
+not this simple just priced
+
+198
+00:09:40,670 --> 00:09:41,253
+more and more.
+
+199
+00:09:41,253 --> 00:09:44,690
+Now it's this more
+complicated term, OK?
+
+200
+00:09:44,690 --> 00:09:48,710
+More generally, marginal
+revenue can be defined
+
+201
+00:09:48,710 --> 00:09:53,810
+as-- the marginal
+revenue is defined as--
+
+202
+00:09:53,810 --> 00:10:04,630
+marginal revenue is defined as
+P plus delta P delta Q times Q.
+
+203
+00:10:04,630 --> 00:10:08,200
+That's marginal revenue.
+
+204
+00:10:08,200 --> 00:10:10,600
+The first term is
+positive, that's
+
+205
+00:10:10,600 --> 00:10:13,820
+the money you make
+on the next unit.
+
+206
+00:10:13,820 --> 00:10:17,260
+The second term is negative
+because, by definition,
+
+207
+00:10:17,260 --> 00:10:18,940
+the demand curve's
+downward sloping.
+
+208
+00:10:18,940 --> 00:10:20,920
+There's no given goods
+anymore in this class.
+
+209
+00:10:20,920 --> 00:10:23,040
+Demand may be on a test
+but not in reality.
+
+210
+00:10:23,040 --> 00:10:26,740
+The demand curve's
+downward sloping, OK?
+
+211
+00:10:26,740 --> 00:10:29,010
+So this term is negative.
+
+212
+00:10:29,010 --> 00:10:30,770
+Now once again,
+I'm writing delta
+
+213
+00:10:30,770 --> 00:10:31,980
+but really it's derivative.
+
+214
+00:10:31,980 --> 00:10:33,855
+So this is all increment--
+this is all-- this
+
+215
+00:10:33,855 --> 00:10:35,030
+is sort of epsilon changes.
+
+216
+00:10:35,030 --> 00:10:37,280
+This is Q0, OK?
+
+217
+00:10:37,280 --> 00:10:38,870
+This is sort of epsilon changes.
+
+218
+00:10:38,870 --> 00:10:41,390
+But the bottom line is, for
+an epsilon change in price
+
+219
+00:10:41,390 --> 00:10:42,660
+you get--
+
+220
+00:10:42,660 --> 00:10:46,120
+for an epsilon
+change in quantity
+
+221
+00:10:46,120 --> 00:10:48,820
+you get the price
+on the unit you
+
+222
+00:10:48,820 --> 00:10:50,550
+sell minus the money you lost.
+
+223
+00:10:50,550 --> 00:10:53,350
+And then you too can
+no longer sell, OK?
+
+224
+00:10:53,350 --> 00:10:57,960
+This is the key intuition
+of monopoly math.
+
+225
+00:10:57,960 --> 00:10:58,737
+The k-- yeah?
+
+226
+00:10:58,737 --> 00:11:00,404
+AUDIENCE: What's that
+equation equal to?
+
+227
+00:11:00,404 --> 00:11:02,720
+That [INAUDIBLE]
+
+228
+00:11:02,720 --> 00:11:05,370
+JONATHAN GRUBER: This is
+your marginal revenue.
+
+229
+00:11:05,370 --> 00:11:06,820
+I just did it graphically.
+
+230
+00:11:06,820 --> 00:11:09,030
+That's your marginal revenue.
+
+231
+00:11:09,030 --> 00:11:10,760
+You just see that
+from the graph, OK,
+
+232
+00:11:10,760 --> 00:11:13,183
+and I just rewrote it here, OK?
+
+233
+00:11:13,183 --> 00:11:15,600
+So basica-- or for those of
+you into calculus, if you just
+
+234
+00:11:15,600 --> 00:11:20,280
+differentiate, just-- if those
+of you who have your calculus,
+
+235
+00:11:20,280 --> 00:11:25,950
+you could just write, you
+know, dR dQ, d revenue dQ, OK,
+
+236
+00:11:25,950 --> 00:11:26,860
+what do you get?
+
+237
+00:11:26,860 --> 00:11:31,620
+You get P plus dP dQ
+times Q. That's just
+
+238
+00:11:31,620 --> 00:11:37,350
+the derivative of revenue
+with respect to quantity, OK?
+
+239
+00:11:37,350 --> 00:11:40,660
+So let's think
+intuitively about what's
+
+240
+00:11:40,660 --> 00:11:43,750
+going on here because this
+is very, very important.
+
+241
+00:11:43,750 --> 00:11:47,110
+What's going on here
+is to sell another unit
+
+242
+00:11:47,110 --> 00:11:49,360
+you have to lower your price.
+
+243
+00:11:49,360 --> 00:11:51,670
+You're working your way
+down your demand curve.
+
+244
+00:11:51,670 --> 00:11:53,920
+And therefore, it
+offsets the benefit
+
+245
+00:11:53,920 --> 00:12:00,120
+you get from selling
+another unit, OK?
+
+246
+00:12:00,120 --> 00:12:03,780
+I like to call this
+the poisoning effect.
+
+247
+00:12:06,870 --> 00:12:08,780
+I mean, it's not
+original to me but it's
+
+248
+00:12:08,780 --> 00:12:11,930
+a term that I've heard use that
+I like, the poisoning effect.
+
+249
+00:12:11,930 --> 00:12:14,850
+The idea is that to
+sell another unit,
+
+250
+00:12:14,850 --> 00:12:16,700
+I have to poison
+myself a little bit
+
+251
+00:12:16,700 --> 00:12:21,632
+by lowering the price on all
+the previous units I sold.
+
+252
+00:12:21,632 --> 00:12:23,840
+If I want to go out in the
+market and force consumers
+
+253
+00:12:23,840 --> 00:12:25,970
+to buy one more unit, I've
+got to lower the price
+
+254
+00:12:25,970 --> 00:12:30,050
+on all the units which
+offsets money I used to make.
+
+255
+00:12:30,050 --> 00:12:33,540
+So that's why we call it a
+sort of poisoning effect.
+
+256
+00:12:33,540 --> 00:12:37,590
+Now, why doesn't a competitive
+firm face this issue?
+
+257
+00:12:37,590 --> 00:12:39,293
+Why are we just
+bringing this up now?
+
+258
+00:12:39,293 --> 00:12:41,293
+Why does a monopoly firm
+face a poisoning effect
+
+259
+00:12:41,293 --> 00:12:42,585
+and a competitive firm doesn't?
+
+260
+00:12:42,585 --> 00:12:44,626
+Or alternatively, another
+way to ask the question
+
+261
+00:12:44,626 --> 00:12:46,500
+is, in what situation
+would a monopoly firm
+
+262
+00:12:46,500 --> 00:12:48,930
+not face a poisoning effect?
+
+263
+00:12:48,930 --> 00:12:50,531
+Yeah?
+
+264
+00:12:50,531 --> 00:12:53,140
+AUDIENCE: Actually,
+in a [INAUDIBLE]
+
+265
+00:12:53,140 --> 00:12:59,622
+in a competitive
+firm [INAUDIBLE]
+
+266
+00:12:59,622 --> 00:13:00,580
+JONATHAN GRUBER: Right.
+
+267
+00:13:00,580 --> 00:13:02,205
+They're not-- that's
+[INAUDIBLE] right.
+
+268
+00:13:02,205 --> 00:13:03,930
+The competitive firm's
+the price taker.
+
+269
+00:13:03,930 --> 00:13:07,410
+But in particular, even
+though the price taker,
+
+270
+00:13:07,410 --> 00:13:11,240
+why when they sell more quantity
+is there no poisoning effect?
+
+271
+00:13:11,240 --> 00:13:11,810
+Yeah?
+
+272
+00:13:11,810 --> 00:13:13,080
+AUDIENCE: Demand is
+perfectly inelastic?
+
+273
+00:13:13,080 --> 00:13:15,140
+JONATHAN GRUBER: Demand
+it's is perfectly elastic.
+
+274
+00:13:15,140 --> 00:13:16,557
+The firm faced a
+perfectly elast--
+
+275
+00:13:16,557 --> 00:13:20,060
+so likewise, a monopolist facing
+a perfectly elastic demand
+
+276
+00:13:20,060 --> 00:13:22,340
+would also have no
+poisoning effect.
+
+277
+00:13:22,340 --> 00:13:25,240
+Think of it this
+way, what is dP dQ
+
+278
+00:13:25,240 --> 00:13:26,790
+with perfectly elastic demand?
+
+279
+00:13:26,790 --> 00:13:28,730
+Zero.
+
+280
+00:13:28,730 --> 00:13:30,530
+The price doesn't
+change, you sell more.
+
+281
+00:13:30,530 --> 00:13:33,140
+So the reason the
+perfectly competitive firm
+
+282
+00:13:33,140 --> 00:13:35,270
+face no poisoning effect
+is because it's facing a--
+
+283
+00:13:35,270 --> 00:13:36,830
+it doesn't, the
+price doesn't have
+
+284
+00:13:36,830 --> 00:13:39,502
+to change to sell
+more units, OK?
+
+285
+00:13:39,502 --> 00:13:41,210
+But a monopolist faces
+a poisoning effect
+
+286
+00:13:41,210 --> 00:13:45,225
+because it's got a downward
+sloping demand curve.
+
+287
+00:13:45,225 --> 00:13:46,220
+OK?
+
+288
+00:13:46,220 --> 00:13:47,910
+So we can actually see this--
+
+289
+00:13:47,910 --> 00:13:51,950
+so what we want to
+do in figure 11-3
+
+290
+00:13:51,950 --> 00:13:56,430
+is we graph the monopolist's
+marginal revenue curve.
+
+291
+00:13:56,430 --> 00:13:58,400
+So let's actually work
+out the math here.
+
+292
+00:13:58,400 --> 00:14:01,167
+Let's imagine there's
+a demand curve.
+
+293
+00:14:01,167 --> 00:14:03,000
+Let's imagine that I've
+got a demand curve--
+
+294
+00:14:03,000 --> 00:14:05,510
+and I'm just making this
+up-- demands of the form A
+
+295
+00:14:05,510 --> 00:14:08,150
+equals 24 minus p, OK?
+
+296
+00:14:08,150 --> 00:14:12,530
+Let's just say that's
+the demand curve, OK?
+
+297
+00:14:12,530 --> 00:14:17,270
+Now the first step is to
+flip the way we express this
+
+298
+00:14:17,270 --> 00:14:20,060
+and write this-- write price
+as a function of quantity
+
+299
+00:14:20,060 --> 00:14:22,200
+because now the monopolist
+is choosing his price.
+
+300
+00:14:22,200 --> 00:14:26,060
+So we can write that p
+equals 24 minus Q, OK?
+
+301
+00:14:26,060 --> 00:14:29,540
+Just inverting it, writing
+price as a function of quantity.
+
+302
+00:14:29,540 --> 00:14:33,950
+So in this case revenues,
+which are equal to p times Q,
+
+303
+00:14:33,950 --> 00:14:37,640
+are equal to 24Q
+minus Q squared.
+
+304
+00:14:37,640 --> 00:14:41,540
+I just multiply through by Q.
+
+305
+00:14:41,540 --> 00:14:45,230
+So marginal revenues
+differentiating
+
+306
+00:14:45,230 --> 00:14:50,398
+are just 24 minus 2Q, OK?
+
+307
+00:14:50,398 --> 00:14:52,690
+So once again, this is a new
+sort of mathematical trick
+
+308
+00:14:52,690 --> 00:14:54,690
+you'll have to get used to.
+
+309
+00:14:54,690 --> 00:14:56,500
+Flip the demand curve,
+so you express price
+
+310
+00:14:56,500 --> 00:14:57,870
+as a function of quantity.
+
+311
+00:14:57,870 --> 00:15:02,340
+Multiply through by Q
+and then differentiate,
+
+312
+00:15:02,340 --> 00:15:06,810
+and you get that marginal
+revenue is 24 minus 2Q.
+
+313
+00:15:06,810 --> 00:15:09,030
+So you can see that
+in figure 11-3,
+
+314
+00:15:09,030 --> 00:15:15,050
+the marginal revenue curve is
+the demand curve shifted in,
+
+315
+00:15:15,050 --> 00:15:16,520
+OK?
+
+316
+00:15:16,520 --> 00:15:21,260
+Now in fact, this
+nice relationship
+
+317
+00:15:21,260 --> 00:15:22,220
+will not always hold.
+
+318
+00:15:22,220 --> 00:15:23,690
+This sort of picture
+of a marginal revenue
+
+319
+00:15:23,690 --> 00:15:24,810
+curve being the demand
+curve shift [INAUDIBLE]
+
+320
+00:15:24,810 --> 00:15:25,410
+will not always hold.
+
+321
+00:15:25,410 --> 00:15:27,290
+It only holds for
+certain functional forms.
+
+322
+00:15:27,290 --> 00:15:29,870
+Mostly we'll use functional
+forms for where it holds.
+
+323
+00:15:29,870 --> 00:15:32,330
+The main lesson is the
+marginal revenue curve
+
+324
+00:15:32,330 --> 00:15:35,480
+has to be at or below
+the demand curve.
+
+325
+00:15:35,480 --> 00:15:37,100
+That's the proof, OK?
+
+326
+00:15:37,100 --> 00:15:40,130
+Whether it has this nice sort
+of shifted in relationship,
+
+327
+00:15:40,130 --> 00:15:42,555
+that depends very much
+on functional form.
+
+328
+00:15:42,555 --> 00:15:44,930
+But what is absolutely true
+is the marginal revenue curve
+
+329
+00:15:44,930 --> 00:15:48,530
+is always everywhere at
+or below the demand curve.
+
+330
+00:15:48,530 --> 00:15:49,280
+Why?
+
+331
+00:15:49,280 --> 00:15:51,260
+Because the demand curve--
+
+332
+00:15:51,260 --> 00:15:53,210
+because by selling
+a next unit you're
+
+333
+00:15:53,210 --> 00:15:55,575
+going to make less through
+this poisoning effect.
+
+334
+00:15:55,575 --> 00:15:57,200
+So the marginal
+revenue curve is always
+
+335
+00:15:57,200 --> 00:16:00,590
+below the demand
+curve, all right?
+
+336
+00:16:00,590 --> 00:16:03,720
+Questions about that?
+
+337
+00:16:03,720 --> 00:16:10,470
+OK, so now let's go on and
+let's talk about the critical
+
+338
+00:16:10,470 --> 00:16:12,600
+relationship which I just
+developed-- intuitive,
+
+339
+00:16:12,600 --> 00:16:14,220
+let's do it mathematically--
+
+340
+00:16:14,220 --> 00:16:19,630
+between marginal revenue and
+the elasticity of demand.
+
+341
+00:16:19,630 --> 00:16:22,410
+OK, so take this--
+
+342
+00:16:22,410 --> 00:16:29,740
+we've got our marginal
+revenue expression,
+
+343
+00:16:29,740 --> 00:16:40,180
+marginal revenue equals p plus
+delta p delta Q times Q, OK?
+
+344
+00:16:40,180 --> 00:16:43,540
+Now take that expression and
+multiply and divide by p.
+
+345
+00:16:43,540 --> 00:16:45,290
+So I'm just going to
+take this expression,
+
+346
+00:16:45,290 --> 00:16:48,770
+I'm going to multiply
+and divide by p, OK?
+
+347
+00:16:48,770 --> 00:16:53,240
+Then I'm going to
+get p plus delta
+
+348
+00:16:53,240 --> 00:17:02,360
+p over p delta Q over
+Q times Q over p--
+
+349
+00:17:05,348 --> 00:17:06,286
+oh, p plus p.
+
+350
+00:17:06,286 --> 00:17:07,619
+I'm sorry, no, I did this wrong.
+
+351
+00:17:07,619 --> 00:17:09,054
+My bad, don't write that down.
+
+352
+00:17:09,054 --> 00:17:11,266
+I've got to look
+more at my notes.
+
+353
+00:17:11,266 --> 00:17:12,349
+I'm going to write it as--
+
+354
+00:17:12,349 --> 00:17:13,932
+I'm going to multiply
+and divide by p.
+
+355
+00:17:13,932 --> 00:17:21,890
+p plus p times, yeah, delta
+p delta Q times Q over p.
+
+356
+00:17:21,890 --> 00:17:23,569
+I skipped a step.
+
+357
+00:17:23,569 --> 00:17:25,310
+So I just multiplied
+and divided by p,
+
+358
+00:17:25,310 --> 00:17:26,869
+multiplied and divided by p.
+
+359
+00:17:26,869 --> 00:17:31,810
+p plus p times delta Q, delta
+p over delta Q times Q over p,
+
+360
+00:17:31,810 --> 00:17:32,570
+OK?
+
+361
+00:17:32,570 --> 00:17:36,020
+Now if you look at this
+expression, delta p over delta
+
+362
+00:17:36,020 --> 00:17:39,080
+Q times Q over p,
+that is the inverse
+
+363
+00:17:39,080 --> 00:17:42,330
+of the elasticity of demand.
+
+364
+00:17:42,330 --> 00:17:48,160
+So you can rewrite this
+as p plus p times 1
+
+365
+00:17:48,160 --> 00:17:51,510
+over the elasticity of demand.
+
+366
+00:17:51,510 --> 00:17:54,270
+Or rewriting one more
+time, that marginal revenue
+
+367
+00:17:54,270 --> 00:17:59,630
+equals p times 1 plus 1 over
+the elasticity of demand.
+
+368
+00:17:59,630 --> 00:18:03,110
+Marginal revenue
+equals p times 1 plus 1
+
+369
+00:18:03,110 --> 00:18:06,870
+over the elasticity of demand.
+
+370
+00:18:06,870 --> 00:18:08,730
+So think about
+this for a second.
+
+371
+00:18:08,730 --> 00:18:11,360
+This gets the intuition
+we just talked about.
+
+372
+00:18:11,360 --> 00:18:13,890
+If e is-- if the elasticity
+is negative infinite--
+
+373
+00:18:13,890 --> 00:18:15,510
+is negative infinity--
+
+374
+00:18:15,510 --> 00:18:16,587
+OK I had it wrong with 0.
+
+375
+00:18:16,587 --> 00:18:19,170
+It's the elasticity of demand
+is negative infinity then you've
+
+376
+00:18:19,170 --> 00:18:20,213
+a competitive market.
+
+377
+00:18:20,213 --> 00:18:22,380
+Perfectly competitive market
+is elasticity of demand
+
+378
+00:18:22,380 --> 00:18:28,280
+negative infinity so you get
+a competitive market, OK?
+
+379
+00:18:28,280 --> 00:18:30,380
+As the elasticity of demand--
+
+380
+00:18:30,380 --> 00:18:39,460
+but if the elasticity of demand
+is 0, if the elasticity of--
+
+381
+00:18:39,460 --> 00:18:42,285
+if the elasticity of demand goes
+like-- the elasticity of demand
+
+382
+00:18:42,285 --> 00:18:43,110
+is negative 1.
+
+383
+00:18:43,110 --> 00:18:44,060
+Let's do that case.
+
+384
+00:18:44,060 --> 00:18:47,510
+So negative infinity is
+perfectly competitive, OK?
+
+385
+00:18:47,510 --> 00:18:49,070
+What about negative 1?
+
+386
+00:18:49,070 --> 00:18:51,020
+What's special about
+the elasticity of demand
+
+387
+00:18:51,020 --> 00:18:53,630
+of negative 1 in this case?
+
+388
+00:18:53,630 --> 00:18:55,940
+What's the marginal revenue?
+
+389
+00:18:55,940 --> 00:18:57,080
+0.
+
+390
+00:18:57,080 --> 00:19:00,020
+That's the case going
+back to figure 11-2 where
+
+391
+00:19:00,020 --> 00:19:03,263
+B and C exactly cancel out.
+
+392
+00:19:03,263 --> 00:19:04,680
+So you probably
+thought about this
+
+393
+00:19:04,680 --> 00:19:05,580
+when you looked at this graph.
+
+394
+00:19:05,580 --> 00:19:07,330
+You probably quickly
+asked yourself, well,
+
+395
+00:19:07,330 --> 00:19:09,270
+should the monopolist
+try to sell more or not?
+
+396
+00:19:09,270 --> 00:19:11,103
+Well the answer is, the
+elasticity of demand
+
+397
+00:19:11,103 --> 00:19:13,690
+is minus 1, they're indifferent.
+
+398
+00:19:13,690 --> 00:19:15,490
+So this is sort of
+the important insight.
+
+399
+00:19:15,490 --> 00:19:17,665
+With an elastic
+demand of minus 1,
+
+400
+00:19:17,665 --> 00:19:20,918
+me monopolist is indifferent
+about selling another unit
+
+401
+00:19:20,918 --> 00:19:22,960
+because what they gain
+from selling the unit they
+
+402
+00:19:22,960 --> 00:19:24,765
+lose on the previous units.
+
+403
+00:19:24,765 --> 00:19:26,890
+If the elasticity of demand
+is greater than minus 1
+
+404
+00:19:26,890 --> 00:19:29,410
+absolute value, then
+they're going to lose money
+
+405
+00:19:29,410 --> 00:19:32,450
+by selling additional units.
+
+406
+00:19:32,450 --> 00:19:36,030
+If the elasticity of
+demand is less than 1,
+
+407
+00:19:36,030 --> 00:19:40,398
+then they're going to make money
+by selling additional units.
+
+408
+00:19:40,398 --> 00:19:41,690
+But let's-- I'm skipping ahead.
+
+409
+00:19:41,690 --> 00:19:46,080
+Let's go on and talk about
+profit maximization, OK?
+
+410
+00:19:46,080 --> 00:19:48,690
+So let's go on and take the
+next step which is the monopoly
+
+411
+00:19:48,690 --> 00:19:50,580
+profit maximization.
+
+412
+00:19:50,580 --> 00:19:53,100
+Imagine a monopolist's
+cost function curve is
+
+413
+00:19:53,100 --> 00:19:55,485
+of the form 12 plus q squared.
+
+414
+00:19:55,485 --> 00:19:57,360
+Let's take the same
+monopolist and write down
+
+415
+00:19:57,360 --> 00:20:02,340
+cost function of 12
+plus q squared, OK?
+
+416
+00:20:02,340 --> 00:20:07,800
+So with this cost function,
+marginal cost equals 2q.
+
+417
+00:20:07,800 --> 00:20:11,070
+That's marginal cost with
+this cost function, OK?
+
+418
+00:20:11,070 --> 00:20:13,980
+So what's the profit
+maximization rule?
+
+419
+00:20:13,980 --> 00:20:17,265
+It's that marginal revenue
+equals marginal cost.
+
+420
+00:20:17,265 --> 00:20:23,380
+Well marginal revenue, we wrote
+down here, is 24 minus 2Q,
+
+421
+00:20:23,380 --> 00:20:28,225
+so it's where 24 minus
+2Q equals marginal--
+
+422
+00:20:28,225 --> 00:20:31,077
+I should-- equals marginal cost.
+
+423
+00:20:31,077 --> 00:20:32,660
+Now with monopolists
+here's the trick,
+
+424
+00:20:32,660 --> 00:20:34,420
+little q and big Q are the same.
+
+425
+00:20:34,420 --> 00:20:36,130
+So I wrote a little
+q here, but if you're
+
+426
+00:20:36,130 --> 00:20:38,200
+the only firm in the
+market little q and big Q
+
+427
+00:20:38,200 --> 00:20:39,265
+are the same, right?
+
+428
+00:20:39,265 --> 00:20:41,050
+There's only one
+firm in the market.
+
+429
+00:20:41,050 --> 00:20:42,910
+So 24 minus 2Q equals--
+
+430
+00:20:42,910 --> 00:20:46,450
+it's a big Q now-- equals 2Q.
+
+431
+00:20:46,450 --> 00:20:51,370
+So the optimization point
+is where 24 equals 4Q or Q
+
+432
+00:20:51,370 --> 00:20:54,390
+star equals six.
+
+433
+00:20:54,390 --> 00:20:58,320
+That's the optimal-- that's
+the profit maximizing
+
+434
+00:20:58,320 --> 00:21:02,610
+sale on quantity for
+the monopolist is
+
+435
+00:21:02,610 --> 00:21:05,310
+where 24 minus 2Q, where
+marginal revenue equals
+
+436
+00:21:05,310 --> 00:21:05,950
+marginal cost.
+
+437
+00:21:05,950 --> 00:21:09,210
+We derive marginal revenue, OK?
+
+438
+00:21:09,210 --> 00:21:12,390
+Marginal cost we know how to
+derive from our cost function.
+
+439
+00:21:12,390 --> 00:21:16,830
+We set them equal and we get
+the optimizing quantity, OK?
+
+440
+00:21:16,830 --> 00:21:19,695
+And you can see
+this in figure 11-4.
+
+441
+00:21:25,170 --> 00:21:28,790
+Figure 11-4 shows
+what's going on here.
+
+442
+00:21:28,790 --> 00:21:30,320
+So I've driven all the va--
+
+443
+00:21:30,320 --> 00:21:34,500
+I've drawn all the various cost
+curves for this cost function,
+
+444
+00:21:34,500 --> 00:21:35,895
+OK?
+
+445
+00:21:35,895 --> 00:21:37,270
+I've driven all
+the various costs
+
+446
+00:21:37,270 --> 00:21:39,760
+first for this cost function.
+
+447
+00:21:39,760 --> 00:21:42,190
+You can see the
+marginal cost curve
+
+448
+00:21:42,190 --> 00:21:44,770
+and then you can see it
+intersects the marginal revenue
+
+449
+00:21:44,770 --> 00:21:48,990
+curve at a quantity of 6.
+
+450
+00:21:48,990 --> 00:21:53,340
+Intersects the marginal revenue
+curve at a quantity of 6, OK?
+
+451
+00:21:53,340 --> 00:21:56,066
+What is the price?
+
+452
+00:21:56,066 --> 00:21:58,320
+Someone raise their hand
+and tell me, tell me why.
+
+453
+00:21:58,320 --> 00:21:59,470
+The quantity 6, what's--
+
+454
+00:21:59,470 --> 00:22:01,250
+what price has the
+monopolist set?
+
+455
+00:22:01,250 --> 00:22:01,833
+Yeah?
+
+456
+00:22:01,833 --> 00:22:02,437
+AUDIENCE: 18.
+
+457
+00:22:02,437 --> 00:22:03,270
+JONATHAN GRUBER: 18.
+
+458
+00:22:03,270 --> 00:22:04,800
+Why-- you're supposed
+to get that wrong.
+
+459
+00:22:04,800 --> 00:22:06,810
+You didn't-- you didn't, you
+didn't follow my instructions,
+
+460
+00:22:06,810 --> 00:22:07,850
+you didn't get it wrong.
+
+461
+00:22:07,850 --> 00:22:09,270
+You got it right,
+I'm just joking.
+
+462
+00:22:09,270 --> 00:22:11,220
+How did you know it
+was 18 and not 12?
+
+463
+00:22:11,220 --> 00:22:13,470
+Usually people guess 12
+because that's the point where
+
+464
+00:22:13,470 --> 00:22:14,345
+the curves intersect.
+
+465
+00:22:14,345 --> 00:22:15,030
+Why is it 18?
+
+466
+00:22:15,030 --> 00:22:16,210
+AUDIENCE: You can go
+up to the demand curve
+
+467
+00:22:16,210 --> 00:22:17,370
+because that's what
+people are willin--
+
+468
+00:22:17,370 --> 00:22:19,245
+JONATHAN GRUBER: Because
+even the monopolist,
+
+469
+00:22:19,245 --> 00:22:22,590
+as powerful as he is,
+has to respect demand.
+
+470
+00:22:22,590 --> 00:22:25,600
+So the monopolist if they're
+going to sell 6 units,
+
+471
+00:22:25,600 --> 00:22:28,390
+they have to choose a
+price such that people
+
+472
+00:22:28,390 --> 00:22:30,020
+want to buy 6 units.
+
+473
+00:22:30,020 --> 00:22:31,667
+So your intuition,
+which is my fault--
+
+474
+00:22:31,667 --> 00:22:33,750
+I've always said, look
+where the curves intersect,
+
+475
+00:22:33,750 --> 00:22:35,110
+do a quantity and a price--
+
+476
+00:22:35,110 --> 00:22:37,068
+your quick intuition,
+which was to look and say
+
+477
+00:22:37,068 --> 00:22:40,930
+the price was 12, which was the
+wrong answer I usually get, OK,
+
+478
+00:22:40,930 --> 00:22:44,290
+is wrong because you
+need to actually respect
+
+479
+00:22:44,290 --> 00:22:46,000
+the demand curve.
+
+480
+00:22:46,000 --> 00:22:48,580
+So a monopolist solves
+for the optimal quantity,
+
+481
+00:22:48,580 --> 00:22:50,410
+but then to get
+the optimal price
+
+482
+00:22:50,410 --> 00:22:52,400
+he has to plug this back
+into the demand curve.
+
+483
+00:22:52,400 --> 00:22:53,650
+Well, what's demand?
+
+484
+00:22:53,650 --> 00:22:56,860
+Demand is 24 minus p.
+
+485
+00:22:56,860 --> 00:23:00,500
+So-- I'm sorry, it's p equals
+24 minus Q, that's our demand.
+
+486
+00:23:00,500 --> 00:23:08,480
+So if Q star is 6, then
+price is 24 minus 6, or 18.
+
+487
+00:23:08,480 --> 00:23:13,580
+P star is 18, and that is
+what you will get wrong
+
+488
+00:23:13,580 --> 00:23:14,493
+when you do this.
+
+489
+00:23:14,493 --> 00:23:16,910
+If you're going to get anything
+wrong in monopoly problems
+
+490
+00:23:16,910 --> 00:23:18,952
+this is what you're going
+to get wrong, OK, which
+
+491
+00:23:18,952 --> 00:23:20,750
+is remembering you can't just--
+
+492
+00:23:20,750 --> 00:23:23,630
+at the end you have to
+do an extra step here.
+
+493
+00:23:23,630 --> 00:23:26,930
+To get the price you have
+to solve for quantity,
+
+494
+00:23:26,930 --> 00:23:29,550
+but then respect the demand
+curve to get the price.
+
+495
+00:23:29,550 --> 00:23:31,820
+There's a question somewhere.
+
+496
+00:23:31,820 --> 00:23:33,415
+OK, yeah, question?
+
+497
+00:23:33,415 --> 00:23:38,922
+AUDIENCE: [INAUDIBLE] of the
+intersection of the [INAUDIBLE]
+
+498
+00:23:38,922 --> 00:23:40,380
+JONATHAN GRUBER:
+It's pretty much--
+
+499
+00:23:40,380 --> 00:23:42,930
+yeah, it's pretty
+much meaningless.
+
+500
+00:23:42,930 --> 00:23:46,400
+So that intersection used to
+pin down the quantity, but price
+
+501
+00:23:46,400 --> 00:23:47,960
+has to come from
+the demand curve
+
+502
+00:23:47,960 --> 00:23:49,460
+because you have to respect--
+
+503
+00:23:49,460 --> 00:23:50,877
+you can't sell
+something consumers
+
+504
+00:23:50,877 --> 00:23:52,488
+don't want to buy, OK?
+
+505
+00:23:52,488 --> 00:23:54,280
+So you've got to respect
+that demand curve.
+
+506
+00:23:57,440 --> 00:24:01,860
+And in fact, you
+can show yourself--
+
+507
+00:24:01,860 --> 00:24:08,350
+so basically-- OK,
+so basically that's
+
+508
+00:24:08,350 --> 00:24:13,790
+the profit maximization except
+this stupid goddamn shutdown
+
+509
+00:24:13,790 --> 00:24:15,155
+rule still holds.
+
+510
+00:24:15,155 --> 00:24:17,655
+In the short run we still have
+to respect to shut down rule,
+
+511
+00:24:17,655 --> 00:24:20,270
+so you still have
+to check, is price
+
+512
+00:24:20,270 --> 00:24:22,320
+less than average variable cost?
+
+513
+00:24:22,320 --> 00:24:26,910
+Now once again, in this
+function OK, in this f--
+
+514
+00:24:26,910 --> 00:24:28,420
+you have to check
+with the price.
+
+515
+00:24:28,420 --> 00:24:30,780
+So even if profits
+are negative you're
+
+516
+00:24:30,780 --> 00:24:32,850
+still going to have to
+check if price is greater
+
+517
+00:24:32,850 --> 00:24:34,017
+than average variable costs.
+
+518
+00:24:34,017 --> 00:24:37,558
+Now here at 6 units, the
+average variable cost is 6.
+
+519
+00:24:37,558 --> 00:24:39,600
+You see-- we could see--
+you see the dashed line.
+
+520
+00:24:39,600 --> 00:24:41,912
+If we sell 6 units, the
+average variable cost is 6.
+
+521
+00:24:41,912 --> 00:24:44,370
+So clearly price is greater
+than the average variable cost.
+
+522
+00:24:44,370 --> 00:24:46,200
+You wouldn't shut down, you're
+making positive profits,
+
+523
+00:24:46,200 --> 00:24:46,990
+in fact.
+
+524
+00:24:46,990 --> 00:24:50,310
+You're making profits of 60,
+OK, so you wouldn't shut down.
+
+525
+00:24:50,310 --> 00:24:53,920
+But you always do have to
+check the shut down rule, OK?
+
+526
+00:24:53,920 --> 00:24:57,370
+So that's how you do a
+monopoly problem, OK?
+
+527
+00:24:57,370 --> 00:25:00,920
+Just to go back, how you
+do a monopoly problem,
+
+528
+00:25:00,920 --> 00:25:03,260
+you'll be given
+a cost function--
+
+529
+00:25:03,260 --> 00:25:05,270
+you know what to do
+those in your sleep--
+
+530
+00:25:05,270 --> 00:25:06,960
+and a demand function.
+
+531
+00:25:06,960 --> 00:25:10,060
+The demand function gets
+turned into a marginal revenue
+
+532
+00:25:10,060 --> 00:25:12,790
+function simply through
+these couple of steps.
+
+533
+00:25:12,790 --> 00:25:16,190
+So the demand function gives
+you a marginal revenue function.
+
+534
+00:25:16,190 --> 00:25:18,560
+If you have marginal revenue
+and you have marginal cost,
+
+535
+00:25:18,560 --> 00:25:21,657
+then you know how to solve
+for optimal quantity.
+
+536
+00:25:21,657 --> 00:25:24,240
+If you have optimal quantity and
+you respect the demand curve,
+
+537
+00:25:24,240 --> 00:25:26,650
+you know how to solve for price.
+
+538
+00:25:26,650 --> 00:25:32,200
+Once you have a price, OK,
+and an average cost curve
+
+539
+00:25:32,200 --> 00:25:35,230
+you can both check the shutdown
+rule and compute profits.
+
+540
+00:25:35,230 --> 00:25:39,310
+Profits are simply the price
+you get minus average costs.
+
+541
+00:25:39,310 --> 00:25:43,350
+So we can compute the profit
+and check the shutdown rule, OK?
+
+542
+00:25:43,350 --> 00:25:46,560
+So the only thing we
+did here that's new
+
+543
+00:25:46,560 --> 00:25:49,080
+is this sort of interesting
+quirk that we have,
+
+544
+00:25:49,080 --> 00:25:50,790
+this new marginal
+revenue function.
+
+545
+00:25:50,790 --> 00:25:53,123
+Otherwise, it's the same sort
+of analysis we did before.
+
+546
+00:25:55,470 --> 00:25:58,040
+So this should be doable
+with some practice.
+
+547
+00:25:58,040 --> 00:26:03,520
+Now, the key-- a key concept
+here that we need to think
+
+548
+00:26:03,520 --> 00:26:06,020
+about, that comes to question,
+you might have asked yourself
+
+549
+00:26:06,020 --> 00:26:07,160
+at some point--
+
+550
+00:26:07,160 --> 00:26:09,650
+you might have said,
+well, if monopolists
+
+551
+00:26:09,650 --> 00:26:12,140
+are the only firm in the
+market, why don't they
+
+552
+00:26:12,140 --> 00:26:14,520
+just charge whatever they want?
+
+553
+00:26:14,520 --> 00:26:15,692
+Why do they have to--
+
+554
+00:26:15,692 --> 00:26:18,150
+why are they sort of constrained
+by the sort of mathematics
+
+555
+00:26:18,150 --> 00:26:19,650
+we've done before?
+
+556
+00:26:19,650 --> 00:26:23,370
+And to answer this, let's turn
+to the concept of market power.
+
+557
+00:26:25,910 --> 00:26:28,280
+The market power
+of monopolists we
+
+558
+00:26:28,280 --> 00:26:32,270
+will define as their ability
+to charge price greater
+
+559
+00:26:32,270 --> 00:26:34,760
+than marginal cost.
+
+560
+00:26:34,760 --> 00:26:37,060
+Your ability to charge price
+greater than margin cost
+
+561
+00:26:37,060 --> 00:26:38,180
+is your market power.
+
+562
+00:26:38,180 --> 00:26:40,490
+In other words, competitive
+firms have no market power.
+
+563
+00:26:40,490 --> 00:26:41,907
+They have to charge
+a price that's
+
+564
+00:26:41,907 --> 00:26:43,260
+the same as their marginal cost.
+
+565
+00:26:43,260 --> 00:26:45,890
+And that's why
+they make no money.
+
+566
+00:26:45,890 --> 00:26:49,180
+Monopolists have
+market power, OK?
+
+567
+00:26:49,180 --> 00:26:51,310
+So now let's return
+to the condition
+
+568
+00:26:51,310 --> 00:26:53,110
+for profit maximization.
+
+569
+00:26:53,110 --> 00:26:55,180
+We said that
+marginal revenue can
+
+570
+00:26:55,180 --> 00:26:59,200
+be rewritten as
+price times 1 plus 1
+
+571
+00:26:59,200 --> 00:27:03,910
+over the elasticity
+of demand, right?
+
+572
+00:27:03,910 --> 00:27:06,145
+That equals marginal cost.
+
+573
+00:27:09,250 --> 00:27:14,330
+So we can rewrite this as
+marginal cost over price
+
+574
+00:27:14,330 --> 00:27:20,110
+equals 1 plus 1 over the
+elasticity of demand.
+
+575
+00:27:20,110 --> 00:27:23,680
+And this is the monopolist's
+market power condition.
+
+576
+00:27:23,680 --> 00:27:25,400
+So if we define the market--
+
+577
+00:27:25,400 --> 00:27:27,775
+so we can define something
+we call a markup.
+
+578
+00:27:30,280 --> 00:27:32,500
+Casually we can call it
+profits, but technically it's
+
+579
+00:27:32,500 --> 00:27:37,250
+the markup, OK, as
+the percentage markup
+
+580
+00:27:37,250 --> 00:27:40,640
+a monopolist can
+make as p minus MC
+
+581
+00:27:40,640 --> 00:27:45,810
+over p, how much of the price
+is actually a markup over cost?
+
+582
+00:27:45,810 --> 00:27:47,640
+It's sort of an
+intuitive concept.
+
+583
+00:27:47,640 --> 00:27:49,440
+So basically, how
+much of the money
+
+584
+00:27:49,440 --> 00:27:53,110
+you get for the unit is a markup
+as a share of the money you
+
+585
+00:27:53,110 --> 00:27:55,020
+get?
+
+586
+00:27:55,020 --> 00:28:00,480
+Then that is simply--
+that is equal to minus 1
+
+587
+00:28:00,480 --> 00:28:03,590
+over the elasticity of demand.
+
+588
+00:28:03,590 --> 00:28:07,810
+So the monopolist markup is
+equal to 1 over-- minus 1
+
+589
+00:28:07,810 --> 00:28:11,490
+over the elasticity of demand.
+
+590
+00:28:11,490 --> 00:28:14,720
+So if the elasticity of
+demand is negative infinity,
+
+591
+00:28:14,720 --> 00:28:17,440
+that is a perfectly
+competitive market.
+
+592
+00:28:17,440 --> 00:28:19,510
+Then the markup is what?
+
+593
+00:28:19,510 --> 00:28:22,140
+0, just like a competitive firm.
+
+594
+00:28:22,140 --> 00:28:26,630
+Competitive firms have
+to charge marginal cost.
+
+595
+00:28:26,630 --> 00:28:29,630
+But as demand gets
+more inelastic
+
+596
+00:28:29,630 --> 00:28:32,960
+the monopolist gains
+power to mark up the price
+
+597
+00:28:32,960 --> 00:28:33,620
+and make money.
+
+598
+00:28:36,150 --> 00:28:38,790
+And this answers our
+question of why monopolists
+
+599
+00:28:38,790 --> 00:28:40,320
+aren't infinitely powerful.
+
+600
+00:28:40,320 --> 00:28:42,660
+What is the limiting
+factor of monopolists?
+
+601
+00:28:42,660 --> 00:28:45,400
+It's not other firms
+producing their good.
+
+602
+00:28:45,400 --> 00:28:47,150
+What's the limiting
+factor on monopolists?
+
+603
+00:28:47,150 --> 00:28:47,770
+Yeah?
+
+604
+00:28:47,770 --> 00:28:50,187
+AUDIENCE: How much more will
+they compete with [INAUDIBLE]
+
+605
+00:28:50,187 --> 00:28:52,610
+JONATHAN GRUBER: Yeah,
+it's other products.
+
+606
+00:28:52,610 --> 00:28:56,515
+So think about a
+monopolist in insulin.
+
+607
+00:28:56,515 --> 00:28:57,890
+They can charge
+whatever the hell
+
+608
+00:28:57,890 --> 00:29:01,550
+they want, right, because
+basically there's nothing else
+
+609
+00:29:01,550 --> 00:29:02,637
+to buy.
+
+610
+00:29:02,637 --> 00:29:04,220
+Well, maybe multiple
+insulin products,
+
+611
+00:29:04,220 --> 00:29:07,460
+but imagine one
+insulin product, OK?
+
+612
+00:29:07,460 --> 00:29:09,170
+So nothing constrains
+the monopolist.
+
+613
+00:29:09,170 --> 00:29:10,878
+He should charge an
+infinite price up to,
+
+614
+00:29:10,878 --> 00:29:13,820
+like, what Congress
+will put up with, OK?
+
+615
+00:29:13,820 --> 00:29:16,040
+But if you think about
+a monopolist in a good
+
+616
+00:29:16,040 --> 00:29:21,820
+where there's a substitute-- so
+if I'm the monopolist in gum,
+
+617
+00:29:21,820 --> 00:29:24,740
+if I'm a gum-opolist,
+OK, then I'm
+
+618
+00:29:24,740 --> 00:29:26,330
+constrained by how
+much people want
+
+619
+00:29:26,330 --> 00:29:30,140
+to-- eventually people just
+substitute the candy, OK?
+
+620
+00:29:30,140 --> 00:29:32,120
+Anything-- so I'm
+constrained not
+
+621
+00:29:32,120 --> 00:29:34,910
+by competitors in my
+market, but by the fact
+
+622
+00:29:34,910 --> 00:29:38,250
+that consumers can
+substitute to other goods.
+
+623
+00:29:38,250 --> 00:29:39,860
+So what's the limit
+on monopolists?
+
+624
+00:29:39,860 --> 00:29:42,830
+Consumers, we're the
+limit on monopolists.
+
+625
+00:29:42,830 --> 00:29:45,470
+Our willingness to put up
+with that good relative
+
+626
+00:29:45,470 --> 00:29:47,210
+to other goods, i.e.
+
+627
+00:29:47,210 --> 00:29:50,300
+Our elasticity of
+demand, is the only thing
+
+628
+00:29:50,300 --> 00:29:54,300
+limiting monopolists, OK?
+
+629
+00:29:54,300 --> 00:29:56,952
+So basically, there is market
+discipline to monopolists.
+
+630
+00:29:56,952 --> 00:29:58,910
+Even though they're the
+only provider of a good
+
+631
+00:29:58,910 --> 00:30:01,040
+they're still subject
+to market discipline.
+
+632
+00:30:01,040 --> 00:30:04,010
+It's just the discipline
+doesn't come from other firms,
+
+633
+00:30:04,010 --> 00:30:08,360
+it comes from consumers, OK?
+
+634
+00:30:08,360 --> 00:30:11,150
+So a great example of
+this is let's look,
+
+635
+00:30:11,150 --> 00:30:15,350
+if you go on-- at least as of
+last year, if you go on Amazon
+
+636
+00:30:15,350 --> 00:30:19,250
+and look at the
+prices of two goods
+
+637
+00:30:19,250 --> 00:30:21,230
+that you've probably
+had to consume
+
+638
+00:30:21,230 --> 00:30:25,580
+in high school, Huckleberry
+Finn and Great Gatsby, two books
+
+639
+00:30:25,580 --> 00:30:27,600
+that many of you had to
+consume in high school.
+
+640
+00:30:27,600 --> 00:30:28,975
+You had to read
+Huckleberry Finn,
+
+641
+00:30:28,975 --> 00:30:30,890
+you had to read Great Gatsby.
+
+642
+00:30:30,890 --> 00:30:32,600
+They're both
+comparable lengths--
+
+643
+00:30:32,600 --> 00:30:33,920
+Great Gatsby is a
+little shorter I think,
+
+644
+00:30:33,920 --> 00:30:35,120
+but they're both
+comparable lengths.
+
+645
+00:30:35,120 --> 00:30:36,920
+The production cost--
+the marginal cost
+
+646
+00:30:36,920 --> 00:30:39,740
+to produce them is probably
+pretty comparable, OK?
+
+647
+00:30:39,740 --> 00:30:41,750
+But if you go on
+Amazon, Huck Finn
+
+648
+00:30:41,750 --> 00:30:44,735
+costs $4 and the Great
+Gatsby costs $16.
+
+649
+00:30:47,340 --> 00:30:49,400
+Now why is this?
+
+650
+00:30:49,400 --> 00:30:50,720
+Why is this, anyone know?
+
+651
+00:30:50,720 --> 00:30:53,110
+Why does Great Gatsby
+cost four times as much?
+
+652
+00:30:53,110 --> 00:30:55,640
+AUDIENCE: [INAUDIBLE] it
+was banned [INAUDIBLE]
+
+653
+00:30:55,640 --> 00:30:57,140
+JONATHAN GRUBER:
+That's interesting.
+
+654
+00:30:57,140 --> 00:30:58,380
+That's not enough to explain.
+
+655
+00:30:58,380 --> 00:30:59,360
+It's not banned
+in enough places,
+
+656
+00:30:59,360 --> 00:31:00,860
+fortunately, to explain that.
+
+657
+00:31:00,860 --> 00:31:03,540
+What else is going
+on, anyone know?
+
+658
+00:31:03,540 --> 00:31:05,648
+Yeah, in the red shirt, yeah?
+
+659
+00:31:05,648 --> 00:31:07,690
+AUDIENCE: [INAUDIBLE]
+competitive-- it has, like,
+
+660
+00:31:07,690 --> 00:31:09,148
+has no copyright infringement.
+
+661
+00:31:09,148 --> 00:31:10,190
+JONATHAN GRUBER: Exactly.
+
+662
+00:31:10,190 --> 00:31:13,370
+The Great Gatsby still
+has copyright protection.
+
+663
+00:31:13,370 --> 00:31:16,940
+That is, only people who get
+permission from the great--
+
+664
+00:31:16,940 --> 00:31:21,370
+from William Scott
+Fitzgerald's descendants--
+
+665
+00:31:21,370 --> 00:31:26,290
+F. Scott Fitzgerald, I'm sorry,
+descendents get to produce it.
+
+666
+00:31:26,290 --> 00:31:31,260
+They have a monopoly on the
+good that is The Great Gatsby.
+
+667
+00:31:31,260 --> 00:31:36,150
+Huck Finn, it turns out that 75
+years after an author's death
+
+668
+00:31:36,150 --> 00:31:38,940
+copyright protection expires.
+
+669
+00:31:38,940 --> 00:31:41,640
+F. Scott Fitzgerald hasn't
+been dead for 75 years,
+
+670
+00:31:41,640 --> 00:31:43,250
+Mark Twain has.
+
+671
+00:31:43,250 --> 00:31:45,300
+So Huck Finn can now
+be produced by anyone.
+
+672
+00:31:45,300 --> 00:31:47,592
+You can go out tomorrow and
+produce a copy of Huck Finn
+
+673
+00:31:47,592 --> 00:31:49,190
+and sell it.
+
+674
+00:31:49,190 --> 00:31:52,190
+So we think probably Huck
+Finn should be produced
+
+675
+00:31:52,190 --> 00:31:54,500
+in a pretty competitive market.
+
+676
+00:31:54,500 --> 00:31:56,450
+That is, basically
+the $4 you pay
+
+677
+00:31:56,450 --> 00:31:58,992
+for Huck Finn should be roughly
+the cost of producing a book.
+
+678
+00:31:58,992 --> 00:32:00,742
+OK, now no market's
+perfectly competitive,
+
+679
+00:32:00,742 --> 00:32:02,300
+a little markup but not much.
+
+680
+00:32:02,300 --> 00:32:06,070
+Whereas The Great Gatsby, it's
+not limited by competition.
+
+681
+00:32:06,070 --> 00:32:07,820
+But it is limited by
+the fact that if they
+
+682
+00:32:07,820 --> 00:32:09,920
+try to charge $500
+for Great Gatsby
+
+683
+00:32:09,920 --> 00:32:12,830
+teachers would assign
+something else, OK?
+
+684
+00:32:12,830 --> 00:32:13,790
+There's still a limit.
+
+685
+00:32:13,790 --> 00:32:16,100
+It's only $16, that's
+not a whole lot for one
+
+686
+00:32:16,100 --> 00:32:18,770
+of the great works
+of literature, OK?
+
+687
+00:32:18,770 --> 00:32:19,670
+It's still only $16.
+
+688
+00:32:19,670 --> 00:32:21,200
+So why is it only $16?
+
+689
+00:32:21,200 --> 00:32:22,783
+Because it's limited
+by the fact there
+
+690
+00:32:22,783 --> 00:32:25,490
+are other great works of
+literature people can turn to.
+
+691
+00:32:25,490 --> 00:32:27,660
+So Huck Finn is limited
+by the competition
+
+692
+00:32:27,660 --> 00:32:30,030
+within the market for the--
+
+693
+00:32:30,030 --> 00:32:32,170
+across producers producing
+some homogeneous good.
+
+694
+00:32:32,170 --> 00:32:34,260
+It's probably a pretty close to
+the competitive market, right?
+
+695
+00:32:34,260 --> 00:32:36,910
+It's pretty easy to just set up
+a shop and produce Huck Finn,
+
+696
+00:32:36,910 --> 00:32:39,432
+whereas The Great Gatsby
+has this extra effect which
+
+697
+00:32:39,432 --> 00:32:40,890
+is copyright
+protected, so its only
+
+698
+00:32:40,890 --> 00:32:42,830
+limited by the
+elasticity of demand.
+
+699
+00:32:42,830 --> 00:32:44,742
+Yeah?
+
+700
+00:32:44,742 --> 00:32:47,080
+AUDIENCE: [INAUDIBLE] be
+like, [INAUDIBLE] like,
+
+701
+00:32:47,080 --> 00:32:49,580
+the effect of, like, when you
+increase price again, and even
+
+702
+00:32:49,580 --> 00:32:51,910
+more with piracy, in a sense?
+
+703
+00:32:51,910 --> 00:32:54,510
+Like, if, like, when you have,
+like, a really, like, expensive
+
+704
+00:32:54,510 --> 00:32:56,820
+good it leaves, like,
+more incentive to steal?
+
+705
+00:32:56,820 --> 00:32:57,640
+JONATHAN GRUBER:
+That's a great point.
+
+706
+00:32:57,640 --> 00:32:58,620
+So the elasticity
+of demand, I should
+
+707
+00:32:58,620 --> 00:33:00,360
+say the elasticity of
+demand for that good,
+
+708
+00:33:00,360 --> 00:33:02,860
+where one of the substitutes
+could be an illegal substitute.
+
+709
+00:33:02,860 --> 00:33:04,280
+That's a good point.
+
+710
+00:33:04,280 --> 00:33:06,960
+OK, so let's go on and
+talk about the next topic
+
+711
+00:33:06,960 --> 00:33:10,803
+I want to cover today, which
+is how do we-- because now we
+
+712
+00:33:10,803 --> 00:33:12,720
+have a new set of tools
+we've developed that's
+
+713
+00:33:12,720 --> 00:33:15,600
+really cool which lets
+us ask the question,
+
+714
+00:33:15,600 --> 00:33:19,380
+not just what do monopolies do,
+but how do we feel about it?
+
+715
+00:33:19,380 --> 00:33:22,350
+That is, we can now turn to
+talking about the welfare
+
+716
+00:33:22,350 --> 00:33:24,860
+effects of monopoly.
+
+717
+00:33:24,860 --> 00:33:26,570
+What are the welfare
+effects of monopoly?
+
+718
+00:33:26,570 --> 00:33:30,260
+How do we feel about monopoly?
+
+719
+00:33:30,260 --> 00:33:32,760
+Well, let's start with
+the standard case,
+
+720
+00:33:32,760 --> 00:33:34,760
+that is the case we've
+covered so far as opposed
+
+721
+00:33:34,760 --> 00:33:38,000
+to a case I'll cover
+in a minute, OK?
+
+722
+00:33:38,000 --> 00:33:42,230
+And let's look at
+figure 11-5, which
+
+723
+00:33:42,230 --> 00:33:47,450
+is the example we just solved
+for, the example where demand
+
+724
+00:33:47,450 --> 00:33:53,420
+equals 24 minus Q and
+cost is 12 plus Q squared.
+
+725
+00:33:53,420 --> 00:33:54,980
+So here we sh--
+
+726
+00:33:54,980 --> 00:33:56,210
+once again what do we do?
+
+727
+00:33:56,210 --> 00:33:58,980
+We set marginal cost
+equal to marginal revenue.
+
+728
+00:33:58,980 --> 00:34:01,070
+So they sell 6 units.
+
+729
+00:34:01,070 --> 00:34:03,620
+We then say, what price
+permits them to sell 6 units?
+
+730
+00:34:03,620 --> 00:34:05,360
+The price of 18.
+
+731
+00:34:05,360 --> 00:34:08,060
+So the equilibrium
+is at a price of--
+
+732
+00:34:08,060 --> 00:34:12,500
+is that e little m,
+little m for monopoly, OK?
+
+733
+00:34:12,500 --> 00:34:17,350
+They sell 6 units
+at a price of 18.
+
+734
+00:34:17,350 --> 00:34:20,620
+Well at that equilibrium,
+what's consumer surplus?
+
+735
+00:34:20,620 --> 00:34:25,300
+It's A, the area under the
+demand curve, above the price.
+
+736
+00:34:25,300 --> 00:34:30,400
+So consumer surplus is area
+A. What's producer surplus?
+
+737
+00:34:30,400 --> 00:34:35,949
+It's B plus D, the area below
+the price above the supply
+
+738
+00:34:35,949 --> 00:34:37,870
+curve, but only for the
+units that are sold.
+
+739
+00:34:40,389 --> 00:34:46,929
+So the consumer gets A, the
+producer gets B plus D, OK?
+
+740
+00:34:46,929 --> 00:34:51,940
+But C plus E is
+not our units that
+
+741
+00:34:51,940 --> 00:34:55,179
+are not sold for which
+the marginal-- for which
+
+742
+00:34:55,179 --> 00:34:59,040
+the willingness to pay is above
+the willingness to supply.
+
+743
+00:34:59,040 --> 00:35:01,122
+And what do we call those units?
+
+744
+00:35:01,122 --> 00:35:03,205
+Units that are not sold--
+someone raise their hand
+
+745
+00:35:03,205 --> 00:35:03,880
+and tell me--
+
+746
+00:35:03,880 --> 00:35:06,213
+units that are not sold for
+which the willingness to pay
+
+747
+00:35:06,213 --> 00:35:08,220
+is above the
+willingness to supply?
+
+748
+00:35:08,220 --> 00:35:09,050
+Yeah?
+
+749
+00:35:09,050 --> 00:35:09,390
+AUDIENCE: [INAUDIBLE]
+
+750
+00:35:09,390 --> 00:35:10,307
+JONATHAN GRUBER: Loss.
+
+751
+00:35:10,307 --> 00:35:12,670
+Those are units,
+that's an inefficiency.
+
+752
+00:35:12,670 --> 00:35:17,560
+Those units that are not sold
+that efficiently should be.
+
+753
+00:35:17,560 --> 00:35:19,180
+That is, we've broken--
+
+754
+00:35:19,180 --> 00:35:20,720
+this our first example ever.
+
+755
+00:35:20,720 --> 00:35:23,620
+This is a super exciting
+moment of breaking
+
+756
+00:35:23,620 --> 00:35:25,928
+the first fundamental
+theorem of welfare economics.
+
+757
+00:35:25,928 --> 00:35:27,970
+The first fundamental
+theory of welfare economics
+
+758
+00:35:27,970 --> 00:35:32,800
+was that the equilibrium,
+the competitive equilibrium
+
+759
+00:35:32,800 --> 00:35:34,150
+maximizes welfare.
+
+760
+00:35:34,150 --> 00:35:35,980
+Well, that's no longer true.
+
+761
+00:35:35,980 --> 00:35:40,410
+Here we have an equilibrium
+that comes out of competition.
+
+762
+00:35:40,410 --> 00:35:43,830
+It's what the market
+delivers, but it
+
+763
+00:35:43,830 --> 00:35:45,487
+doesn't maximize welfare.
+
+764
+00:35:45,487 --> 00:35:47,070
+There's a dead weight
+loss, and that's
+
+765
+00:35:47,070 --> 00:35:49,100
+because the market's
+imperfectly competitive.
+
+766
+00:35:49,100 --> 00:35:51,060
+This is our first
+ever example of what
+
+767
+00:35:51,060 --> 00:35:54,980
+we call a market failure.
+
+768
+00:35:58,658 --> 00:36:00,200
+And that's what,
+from my perspective,
+
+769
+00:36:00,200 --> 00:36:01,735
+makes economics fun.
+
+770
+00:36:01,735 --> 00:36:03,110
+If there were no
+market failures,
+
+771
+00:36:03,110 --> 00:36:05,690
+if all markets functioned the
+way we said they function, then
+
+772
+00:36:05,690 --> 00:36:08,065
+basically we could have been
+largely done with the course
+
+773
+00:36:08,065 --> 00:36:09,613
+by now.
+
+774
+00:36:09,613 --> 00:36:11,030
+What makes this
+all interesting is
+
+775
+00:36:11,030 --> 00:36:12,822
+markets don't function
+the way we said they
+
+776
+00:36:12,822 --> 00:36:14,600
+function in that extreme case.
+
+777
+00:36:14,600 --> 00:36:17,840
+And therefore, a
+market failure is
+
+778
+00:36:17,840 --> 00:36:22,070
+defined as a case where the
+market equilibrium does not
+
+779
+00:36:22,070 --> 00:36:24,510
+maximize social welfare.
+
+780
+00:36:24,510 --> 00:36:26,780
+So whenever the
+market equilibrium
+
+781
+00:36:26,780 --> 00:36:29,300
+does not maximize
+social welfare,
+
+782
+00:36:29,300 --> 00:36:31,960
+you've got a market failure.
+
+783
+00:36:31,960 --> 00:36:33,788
+In the perfectly
+competitive case
+
+784
+00:36:33,788 --> 00:36:36,080
+we didn't have a failure
+because the market equilibrium
+
+785
+00:36:36,080 --> 00:36:37,480
+maximized welfare.
+
+786
+00:36:37,480 --> 00:36:39,130
+That's not true here.
+
+787
+00:36:39,130 --> 00:36:42,370
+Now the market equilibrium
+does not maximize welfare.
+
+788
+00:36:42,370 --> 00:36:44,680
+Therefore, it's
+a market failure.
+
+789
+00:36:44,680 --> 00:36:46,480
+Hint, what's exciting
+about that to me
+
+790
+00:36:46,480 --> 00:36:49,235
+is that means there might be a
+potential role for policy, OK?
+
+791
+00:36:49,235 --> 00:36:50,860
+So far in this course,
+the government's
+
+792
+00:36:50,860 --> 00:36:51,740
+just been a bad guy.
+
+793
+00:36:51,740 --> 00:36:53,990
+Its done nothing but set
+mean minimum wages and things
+
+794
+00:36:53,990 --> 00:36:56,020
+like that, and terrible
+price ceilings.
+
+795
+00:36:56,020 --> 00:36:57,520
+But in fact, as
+we'll see next time,
+
+796
+00:36:57,520 --> 00:36:59,687
+this starts to introduce
+the role for the government
+
+797
+00:36:59,687 --> 00:37:01,180
+as a good guy, OK?
+
+798
+00:37:01,180 --> 00:37:04,500
+Now, what makes-- to
+drive this situation home,
+
+799
+00:37:04,500 --> 00:37:08,730
+make this more interesting,
+let's contrast that to the more
+
+800
+00:37:08,730 --> 00:37:12,180
+realistic case of
+price discrimination,
+
+801
+00:37:12,180 --> 00:37:15,900
+or potentially more realistic
+case of price discrimination.
+
+802
+00:37:15,900 --> 00:37:19,560
+Now what happens if we
+don't force the monopolist
+
+803
+00:37:19,560 --> 00:37:21,780
+to only charge one price?
+
+804
+00:37:21,780 --> 00:37:25,530
+What if we allow the monopolist
+to charge different prices
+
+805
+00:37:25,530 --> 00:37:28,880
+to different consumers?
+
+806
+00:37:28,880 --> 00:37:30,440
+Here's a cool
+conclusion actually,
+
+807
+00:37:30,440 --> 00:37:32,620
+kind of crazy conclusion.
+
+808
+00:37:32,620 --> 00:37:36,468
+If monopolists can perfectly
+price discriminate,
+
+809
+00:37:36,468 --> 00:37:38,260
+that is that they can
+sell a separate price
+
+810
+00:37:38,260 --> 00:37:43,710
+for every consumer, then
+monopoly is welfare maximizing.
+
+811
+00:37:43,710 --> 00:37:46,270
+If monopolists can set a perfect
+price for every consumer,
+
+812
+00:37:46,270 --> 00:37:49,580
+then monopoly does
+maximize social welfare.
+
+813
+00:37:49,580 --> 00:37:51,680
+To see that, simply
+look at figure 11-6.
+
+814
+00:37:55,690 --> 00:37:59,980
+Now let's take a perfectly
+price discriminating monopolist.
+
+815
+00:37:59,980 --> 00:38:03,190
+Let's think about what--
+this prices they've set.
+
+816
+00:38:03,190 --> 00:38:08,115
+Well, essentially what they're
+going to do is set price where?
+
+817
+00:38:08,115 --> 00:38:09,490
+A price discriminating
+monopolist
+
+818
+00:38:09,490 --> 00:38:13,000
+is going to set the price
+for each unit to what?
+
+819
+00:38:13,000 --> 00:38:13,845
+Yeah?
+
+820
+00:38:13,845 --> 00:38:14,720
+AUDIENCE: The demand.
+
+821
+00:38:14,720 --> 00:38:16,580
+JONATHAN GRUBER: The demand,
+the willingness to pay.
+
+822
+00:38:16,580 --> 00:38:18,320
+If you're perfectly
+price discriminating,
+
+823
+00:38:18,320 --> 00:38:20,840
+you will screw
+consumers to the max.
+
+824
+00:38:20,840 --> 00:38:22,010
+And how do you do that?
+
+825
+00:38:22,010 --> 00:38:25,870
+By delivering them no surplus.
+
+826
+00:38:25,870 --> 00:38:28,040
+By taking all the
+surplus for yourself.
+
+827
+00:38:28,040 --> 00:38:31,450
+So for the first
+unit, you charge 5.
+
+828
+00:38:31,450 --> 00:38:33,010
+For the second
+unit, you charge 4.
+
+829
+00:38:33,010 --> 00:38:36,240
+And for the sixth
+unit you charge 18.
+
+830
+00:38:36,240 --> 00:38:39,660
+Now, the [INAUDIBLE]---- now the
+previous monopolist stopped
+
+831
+00:38:39,660 --> 00:38:40,620
+at 6.
+
+832
+00:38:40,620 --> 00:38:42,000
+Why do he stop at 6?
+
+833
+00:38:42,000 --> 00:38:45,240
+Because the sale of the seventh
+unit would have lost him money.
+
+834
+00:38:45,240 --> 00:38:47,670
+He would've had to lower the
+price on all previous units.
+
+835
+00:38:47,670 --> 00:38:49,170
+But the price
+[INAUDIBLE] monopolist
+
+836
+00:38:49,170 --> 00:38:51,060
+has no poisoning
+effect because he
+
+837
+00:38:51,060 --> 00:38:53,880
+doesn't have to lower the
+price on the previous units.
+
+838
+00:38:53,880 --> 00:38:55,650
+He can say for
+that seventh unit,
+
+839
+00:38:55,650 --> 00:38:59,325
+I'm going to sell
+that one at 17.
+
+840
+00:38:59,325 --> 00:39:00,700
+I'm going to make
+17, and I'm not
+
+841
+00:39:00,700 --> 00:39:02,242
+going to lose any
+money because I can
+
+842
+00:39:02,242 --> 00:39:04,410
+keep the other prices the same.
+
+843
+00:39:04,410 --> 00:39:06,580
+So with a perfectly price
+discriminating monopolist,
+
+844
+00:39:06,580 --> 00:39:08,000
+you get rid of the
+poisoning effect.
+
+845
+00:39:08,000 --> 00:39:10,200
+They can just march their
+way down the demand curve,
+
+846
+00:39:10,200 --> 00:39:13,110
+charging every consumer exactly
+their willingness to pay.
+
+847
+00:39:13,110 --> 00:39:15,390
+Therefore, they will
+continue to produce
+
+848
+00:39:15,390 --> 00:39:17,400
+until the competitive
+equilibrium.
+
+849
+00:39:17,400 --> 00:39:19,650
+They will continue to produce
+until willingness to pay
+
+850
+00:39:19,650 --> 00:39:21,150
+equals willingness to supply.
+
+851
+00:39:21,150 --> 00:39:23,500
+But they will capture
+all the surplus.
+
+852
+00:39:23,500 --> 00:39:25,830
+So the new equilibrium
+will be EC,
+
+853
+00:39:25,830 --> 00:39:29,070
+the competitive equilibrium,
+but the entire surplus
+
+854
+00:39:29,070 --> 00:39:31,870
+goes to the monopolist.
+
+855
+00:39:31,870 --> 00:39:33,940
+So the fascinating
+case, there's--
+
+856
+00:39:33,940 --> 00:39:36,910
+we maximize social welfare,
+but only because we
+
+857
+00:39:36,910 --> 00:39:39,070
+define social welfare
+in this particular way,
+
+858
+00:39:39,070 --> 00:39:42,700
+which is the simple sum of
+consumer producer surplus.
+
+859
+00:39:42,700 --> 00:39:44,920
+Here, producers get
+all the surplus,
+
+860
+00:39:44,920 --> 00:39:47,790
+therefore welfare is maximized.
+
+861
+00:39:47,790 --> 00:39:50,580
+So a perfectly price
+discriminating monopolist,
+
+862
+00:39:50,580 --> 00:39:55,650
+OK, gets maximized
+social welfare, OK?
+
+863
+00:39:55,650 --> 00:39:58,530
+Now, there's two interesting
+points to come out of this.
+
+864
+00:39:58,530 --> 00:40:01,980
+Point one is this is a
+cool way to understand
+
+865
+00:40:01,980 --> 00:40:05,557
+why there's a dead
+weight loss for monopoly.
+
+866
+00:40:05,557 --> 00:40:07,390
+It's cool to understand
+because you can see-
+
+867
+00:40:07,390 --> 00:40:10,015
+you can focus on that point
+E sub M and think about why
+
+868
+00:40:10,015 --> 00:40:12,640
+the perfectly price [INAUDIBLE]
+monopolist gets to sell another
+
+869
+00:40:12,640 --> 00:40:14,650
+unit and the regular
+monopolist doesn't.
+
+870
+00:40:14,650 --> 00:40:17,258
+Because the regular monopolist
+has the poising effect
+
+871
+00:40:17,258 --> 00:40:19,300
+and the perfectly price
+discriminating monopolist
+
+872
+00:40:19,300 --> 00:40:19,972
+does not.
+
+873
+00:40:19,972 --> 00:40:21,430
+So it's a good way
+to sort of think
+
+874
+00:40:21,430 --> 00:40:24,210
+about that intuition of
+the poisoning effect.
+
+875
+00:40:24,210 --> 00:40:26,430
+That's lesson one.
+
+876
+00:40:26,430 --> 00:40:29,748
+Lesson two is, gee, we may
+want to talk about definition
+
+877
+00:40:29,748 --> 00:40:32,040
+of welfare that's not just
+the sum of consumer producer
+
+878
+00:40:32,040 --> 00:40:33,920
+surplus.
+
+879
+00:40:33,920 --> 00:40:36,720
+A model of welfare that delivers
+the fact that a producer that
+
+880
+00:40:36,720 --> 00:40:39,360
+can screw every single consumer
+out of any of their surplus
+
+881
+00:40:39,360 --> 00:40:41,430
+is the best possible
+outcome might not
+
+882
+00:40:41,430 --> 00:40:44,460
+be a model we're
+so happy with, OK?
+
+883
+00:40:44,460 --> 00:40:46,140
+But that we can come back to.
+
+884
+00:40:46,140 --> 00:40:48,350
+But for now it's a nice extreme.
+
+885
+00:40:48,350 --> 00:40:51,060
+And in fact, in reality
+no firm is perfectly
+
+886
+00:40:51,060 --> 00:40:53,320
+price discriminating, OK?
+
+887
+00:40:53,320 --> 00:40:55,022
+Amazon tried to be.
+
+888
+00:40:55,022 --> 00:40:56,730
+There was a controversy
+a number of years
+
+889
+00:40:56,730 --> 00:41:00,810
+ago where Amazon would set
+your price according to your--
+
+890
+00:41:00,810 --> 00:41:03,930
+what's the little, the string
+of numbers address, IP address.
+
+891
+00:41:03,930 --> 00:41:07,590
+They literally would set
+prices by IP address.
+
+892
+00:41:07,590 --> 00:41:09,330
+They'd literally
+say, well you know,
+
+893
+00:41:09,330 --> 00:41:12,060
+you're coming from an IP address
+that's, for example, you're
+
+894
+00:41:12,060 --> 00:41:13,192
+in a high-high income area.
+
+895
+00:41:13,192 --> 00:41:14,400
+I'm going to charge you more.
+
+896
+00:41:14,400 --> 00:41:15,720
+You're in a
+university, therefore
+
+897
+00:41:15,720 --> 00:41:17,053
+you need this book for a course.
+
+898
+00:41:17,053 --> 00:41:19,620
+Therefore, I'm going to
+charge you more, et cetera.
+
+899
+00:41:19,620 --> 00:41:22,890
+That, they got busted and
+that was found illegal.
+
+900
+00:41:22,890 --> 00:41:25,650
+But just because you can't
+perfectly price discriminate
+
+901
+00:41:25,650 --> 00:41:30,000
+doesn't mean we don't have lots
+of examples of partial price
+
+902
+00:41:30,000 --> 00:41:30,700
+discrimination.
+
+903
+00:41:30,700 --> 00:41:33,325
+So what are examples in the real
+world of price discrimination?
+
+904
+00:41:33,325 --> 00:41:34,680
+What do firms do?
+
+905
+00:41:34,680 --> 00:41:37,240
+And what's the general-- let
+me ask, tell me what firms do.
+
+906
+00:41:37,240 --> 00:41:39,240
+And also I wonder, what's
+the general principle?
+
+907
+00:41:39,240 --> 00:41:41,273
+What's the basic
+idea that firms--
+
+908
+00:41:41,273 --> 00:41:42,690
+if you want to
+price discriminate,
+
+909
+00:41:42,690 --> 00:41:44,567
+what do you want to figure out?
+
+910
+00:41:44,567 --> 00:41:45,900
+What is your goal to figure out?
+
+911
+00:41:45,900 --> 00:41:46,650
+Yeah.
+
+912
+00:41:46,650 --> 00:41:48,880
+AUDIENCE: Isn't
+[INAUDIBLE] make airplanes?
+
+913
+00:41:48,880 --> 00:41:49,755
+JONATHAN GRUBER:
+[INAUDIBLE] the what?
+
+914
+00:41:49,755 --> 00:41:50,190
+AUDIENCE: Airplanes.
+
+915
+00:41:50,190 --> 00:41:50,640
+JONATHAN GRUBER: Airplanes.
+
+916
+00:41:50,640 --> 00:41:51,303
+So explain.
+
+917
+00:41:51,303 --> 00:41:52,720
+AUDIENCE: Because
+if know somebody
+
+918
+00:41:52,720 --> 00:41:54,510
+is buying a ticket, like,
+two days before a flight,
+
+919
+00:41:54,510 --> 00:41:55,386
+it's probably for
+a business trip
+
+920
+00:41:55,386 --> 00:41:57,130
+so they can pay
+a lot more money.
+
+921
+00:41:57,130 --> 00:41:59,630
+JONATHAN GRUBER: And why are
+they willing to pay more money?
+
+922
+00:41:59,630 --> 00:42:02,670
+AUDIENCE: Um, because
+the elasticity is--
+
+923
+00:42:02,670 --> 00:42:05,700
+JONATHAN GRUBER: The
+elasticity is low because?
+
+924
+00:42:05,700 --> 00:42:07,375
+AUDIENCE: Because
+they have to do it.
+
+925
+00:42:07,375 --> 00:42:08,750
+JONATHAN GRUBER:
+They have to go.
+
+926
+00:42:08,750 --> 00:42:11,640
+If you're going to buy two
+days before, you got to go.
+
+927
+00:42:11,640 --> 00:42:13,613
+If you're buying six
+months before, you know,
+
+928
+00:42:13,613 --> 00:42:15,030
+you might have to
+go that day, you
+
+929
+00:42:15,030 --> 00:42:16,280
+might not have to go that day.
+
+930
+00:42:16,280 --> 00:42:18,720
+You might have to-- but if
+you're buying last minute,
+
+931
+00:42:18,720 --> 00:42:22,280
+you've got to go so
+your elasticity's lower.
+
+932
+00:42:22,280 --> 00:42:24,860
+So price discriminating
+monopolists
+
+933
+00:42:24,860 --> 00:42:27,950
+look for signals of elasticity.
+
+934
+00:42:27,950 --> 00:42:29,570
+That's their search.
+
+935
+00:42:29,570 --> 00:42:32,030
+They can't literally know
+your willingness to pay.
+
+936
+00:42:32,030 --> 00:42:34,280
+Amazon tried, but even
+Amazon couldn't perfectly
+
+937
+00:42:34,280 --> 00:42:35,790
+know your willingness to pay.
+
+938
+00:42:35,790 --> 00:42:39,200
+So they're looking for
+signals that are correlated
+
+939
+00:42:39,200 --> 00:42:40,700
+with your willingness to pay.
+
+940
+00:42:40,700 --> 00:42:44,098
+One signal is whether you want
+to fly at the last minute.
+
+941
+00:42:44,098 --> 00:42:45,640
+That means you have
+a low elasticity.
+
+942
+00:42:45,640 --> 00:42:47,015
+You're screwed,
+you've got to go.
+
+943
+00:42:47,015 --> 00:42:48,910
+What's another
+thing airlines do?
+
+944
+00:42:48,910 --> 00:42:52,910
+What's another signal of
+elasticity the airlines use?
+
+945
+00:42:52,910 --> 00:42:53,990
+How else-- yeah.
+
+946
+00:42:53,990 --> 00:42:56,600
+AUDIENCE: How long have
+you been on the website?
+
+947
+00:42:56,600 --> 00:42:57,080
+JONATHAN GRUBER: They don't--
+
+948
+00:42:57,080 --> 00:42:58,640
+I don't know if they actually
+use that, how long you
+
+949
+00:42:58,640 --> 00:42:59,240
+been on the website.
+
+950
+00:42:59,240 --> 00:43:00,700
+They could, that would
+be kind of interesting.
+
+951
+00:43:00,700 --> 00:43:01,840
+AUDIENCE: [INAUDIBLE]
+
+952
+00:43:01,840 --> 00:43:02,950
+JONATHAN GRUBER:
+Yeah, I don't know.
+
+953
+00:43:02,950 --> 00:43:04,280
+But that, that's pretty subtle.
+
+954
+00:43:04,280 --> 00:43:08,050
+What's a more blunt one they
+used even before websites?
+
+955
+00:43:08,050 --> 00:43:08,680
+Yeah?
+
+956
+00:43:08,680 --> 00:43:09,730
+AUDIENCE: Search history?
+
+957
+00:43:09,730 --> 00:43:11,290
+JONATHAN GRUBER: No,
+even before search--
+
+958
+00:43:11,290 --> 00:43:12,370
+I know you guys grew
+up with internet
+
+959
+00:43:12,370 --> 00:43:14,070
+but there was life
+before the internet.
+
+960
+00:43:14,070 --> 00:43:16,090
+And even before the internet,
+airlines price discriminated.
+
+961
+00:43:16,090 --> 00:43:17,110
+What did they--
+what did they do?
+
+962
+00:43:17,110 --> 00:43:17,860
+In the back, yeah.
+
+963
+00:43:17,860 --> 00:43:19,060
+AUDIENCE: You have, like
+business class and--
+
+964
+00:43:19,060 --> 00:43:21,435
+JONATHAN GRUBER: Yeah, different
+levels of flight, right?
+
+965
+00:43:21,435 --> 00:43:24,130
+Why is a first class ticket
+more than a coach ticket?
+
+966
+00:43:24,130 --> 00:43:27,998
+Because rich guys are less
+elastic than poor guys.
+
+967
+00:43:27,998 --> 00:43:30,040
+So basically, another way
+of price discriminating
+
+968
+00:43:30,040 --> 00:43:33,730
+within the same flight is
+by having different quality.
+
+969
+00:43:33,730 --> 00:43:35,590
+So what they do
+is they say, we're
+
+970
+00:43:35,590 --> 00:43:37,390
+going to give you a
+higher quality product,
+
+971
+00:43:37,390 --> 00:43:41,120
+but look, first class business--
+so I flew business class
+
+972
+00:43:41,120 --> 00:43:42,370
+for the first time in my life.
+
+973
+00:43:42,370 --> 00:43:42,880
+I was very exciting.
+
+974
+00:43:42,880 --> 00:43:44,505
+I went to India, I
+flew business class.
+
+975
+00:43:44,505 --> 00:43:45,940
+It was awesome.
+
+976
+00:43:45,940 --> 00:43:49,730
+But it raised the price of the
+ticket from $1,000 to $2,500.
+
+977
+00:43:49,730 --> 00:43:54,530
+Now, it was better but
+it wasn't $1,500 better.
+
+978
+00:43:54,530 --> 00:43:56,870
+Or [INAUDIBLE] put this,
+let me rephrase that.
+
+979
+00:43:56,870 --> 00:43:59,790
+It cost more, but it's certainly
+didn't cost $1,500 more.
+
+980
+00:43:59,790 --> 00:44:01,210
+I got a bigger
+seat, and like, you
+
+981
+00:44:01,210 --> 00:44:02,750
+know, people slaved over me.
+
+982
+00:44:02,750 --> 00:44:05,620
+But like, it certainly
+did not cost them $1,500
+
+983
+00:44:05,620 --> 00:44:06,620
+to provide that service.
+
+984
+00:44:06,620 --> 00:44:09,830
+They clearly made more of a
+markup on the business class
+
+985
+00:44:09,830 --> 00:44:12,350
+seat than they did
+in the coach seat
+
+986
+00:44:12,350 --> 00:44:13,620
+because I was less elastic.
+
+987
+00:44:13,620 --> 00:44:14,120
+Why?
+
+988
+00:44:14,120 --> 00:44:16,200
+Because someone else was
+paying for my flight,
+
+989
+00:44:16,200 --> 00:44:17,360
+OK, so as less elastic.
+
+990
+00:44:17,360 --> 00:44:19,763
+And that's-- if you talk to
+people in business class,
+
+991
+00:44:19,763 --> 00:44:21,680
+none of them are paying
+for their own flights.
+
+992
+00:44:21,680 --> 00:44:24,822
+They're either super rich or
+their company's paying, OK?
+
+993
+00:44:24,822 --> 00:44:26,780
+So the bottom line, that's
+another way airlines
+
+994
+00:44:26,780 --> 00:44:27,100
+[INAUDIBLE].
+
+995
+00:44:27,100 --> 00:44:28,030
+Let's get away from airlines.
+
+996
+00:44:28,030 --> 00:44:29,710
+What are other examples
+of price discrimination?
+
+997
+00:44:29,710 --> 00:44:30,347
+Yeah.
+
+998
+00:44:30,347 --> 00:44:32,430
+AUDIENCE: Isn't that a
+common thing, like, Google,
+
+999
+00:44:32,430 --> 00:44:34,460
+like, [INAUDIBLE] actually
+use your search history
+
+1000
+00:44:34,460 --> 00:44:36,110
+and cookies to, like, figure
+out how much money you make
+
+1001
+00:44:36,110 --> 00:44:38,230
+and how much you're willing
+to spend on certain items?
+
+1002
+00:44:38,230 --> 00:44:39,250
+JONATHAN GRUBER: I think--
+
+1003
+00:44:39,250 --> 00:44:40,208
+I have to look this up.
+
+1004
+00:44:40,208 --> 00:44:42,100
+I think they're not
+allowed to do that.
+
+1005
+00:44:42,100 --> 00:44:44,760
+They're allowed to do that
+in targeting advertising,
+
+1006
+00:44:44,760 --> 00:44:47,135
+but I don't know if they're
+allowed to setting the price.
+
+1007
+00:44:47,135 --> 00:44:48,593
+I don't know if a
+company's allowed
+
+1008
+00:44:48,593 --> 00:44:50,200
+to that setting the price.
+
+1009
+00:44:50,200 --> 00:44:51,860
+Yeah?
+
+1010
+00:44:51,860 --> 00:44:56,180
+AUDIENCE: Sometimes chains will
+be more expensive in cities
+
+1011
+00:44:56,180 --> 00:44:57,870
+and less expensive
+in rural areas.
+
+1012
+00:44:57,870 --> 00:44:59,440
+Like, the same meal
+at McDonald's can
+
+1013
+00:44:59,440 --> 00:45:01,023
+cost a different
+amount depending on--
+
+1014
+00:45:01,023 --> 00:45:02,300
+JONATHAN GRUBER: Exactly, or--
+
+1015
+00:45:02,300 --> 00:45:03,320
+that's exactly right.
+
+1016
+00:45:03,320 --> 00:45:05,910
+Restaurants or supermarkets.
+
+1017
+00:45:05,910 --> 00:45:10,760
+Now here's what's interesting,
+if you look at a McDonald's,
+
+1018
+00:45:10,760 --> 00:45:12,880
+OK, its prices--
+
+1019
+00:45:12,880 --> 00:45:14,450
+no, it's true for both.
+
+1020
+00:45:14,450 --> 00:45:17,270
+Basically, if you look
+like, like if I buy--
+
+1021
+00:45:17,270 --> 00:45:21,220
+when I buy McDonald's on the
+highway out in the suburbs
+
+1022
+00:45:21,220 --> 00:45:24,140
+it's more expensive than I
+would buy here in Cambridge.
+
+1023
+00:45:24,140 --> 00:45:25,610
+Why is that?
+
+1024
+00:45:25,610 --> 00:45:27,768
+Why is-- why is a big so-- yeah?
+
+1025
+00:45:27,768 --> 00:45:29,310
+AUDIENCE: Not a lot
+of other options.
+
+1026
+00:45:29,310 --> 00:45:29,670
+JONATHAN GRUBER: Yeah.
+
+1027
+00:45:29,670 --> 00:45:30,570
+I'm like, I'm driving.
+
+1028
+00:45:30,570 --> 00:45:31,210
+Where am I going to go?
+
+1029
+00:45:31,210 --> 00:45:33,630
+I can't say, oh, it's too
+expensive, I'm going next door.
+
+1030
+00:45:33,630 --> 00:45:34,770
+So that's an example.
+
+1031
+00:45:34,770 --> 00:45:39,150
+Inner city price-- supermarkets
+charge much higher prices
+
+1032
+00:45:39,150 --> 00:45:41,940
+in the city than
+out of the city.
+
+1033
+00:45:41,940 --> 00:45:44,348
+Now you might think that's
+sort of strange, OK?
+
+1034
+00:45:44,348 --> 00:45:45,890
+But that's because
+in the city people
+
+1035
+00:45:45,890 --> 00:45:46,670
+have to walk to get there.
+
+1036
+00:45:46,670 --> 00:45:47,650
+They don't have
+a lot of options.
+
+1037
+00:45:47,650 --> 00:45:48,900
+There's not a lot of shopping.
+
+1038
+00:45:48,900 --> 00:45:51,980
+Outside, they can drive from
+supermarket to supermarket, OK?
+
+1039
+00:45:51,980 --> 00:45:55,100
+So there's all these complicated
+things that go into it.
+
+1040
+00:45:55,100 --> 00:45:57,470
+One of my-- let me
+sort of tell you
+
+1041
+00:45:57,470 --> 00:45:59,340
+a couple of my
+favorite examples.
+
+1042
+00:45:59,340 --> 00:46:02,325
+One of my favorite examples
+is early bird specials.
+
+1043
+00:46:02,325 --> 00:46:03,950
+Now you guys might
+not know about this,
+
+1044
+00:46:03,950 --> 00:46:05,950
+but you might've hung out
+with your grandparents
+
+1045
+00:46:05,950 --> 00:46:08,270
+and known that, like, if
+you go to a restaurant
+
+1046
+00:46:08,270 --> 00:46:11,660
+sometimes before 5 o'clock
+or 5:30, it's cheaper.
+
+1047
+00:46:11,660 --> 00:46:15,820
+Or if you go to a matinee
+movie, a movie during the day
+
+1048
+00:46:15,820 --> 00:46:18,030
+is cheaper than
+a movie at night.
+
+1049
+00:46:18,030 --> 00:46:19,900
+Same movie, why?
+
+1050
+00:46:19,900 --> 00:46:22,400
+Why is a movie during the day
+cheaper than a movie at night?
+
+1051
+00:46:25,400 --> 00:46:25,968
+Yeah.
+
+1052
+00:46:25,968 --> 00:46:27,426
+AUDIENCE: Because
+in the night time
+
+1053
+00:46:27,426 --> 00:46:28,920
+you probably want
+to go to the movies
+
+1054
+00:46:28,920 --> 00:46:31,212
+more because you're off work
+and you have things to do.
+
+1055
+00:46:31,212 --> 00:46:32,960
+And so there's like--
+
+1056
+00:46:32,960 --> 00:46:34,880
+like, if you went
+early you're purposely
+
+1057
+00:46:34,880 --> 00:46:36,350
+looking for a cheaper option.
+
+1058
+00:46:36,350 --> 00:46:37,440
+So you [INAUDIBLE].
+
+1059
+00:46:37,440 --> 00:46:38,900
+JONATHAN GRUBER: You're
+more elastic during the day
+
+1060
+00:46:38,900 --> 00:46:40,610
+because basically you're
+an old retired person's
+
+1061
+00:46:40,610 --> 00:46:42,410
+who's got nothing but
+time in their hands.
+
+1062
+00:46:42,410 --> 00:46:44,327
+It's like, you can shop
+around movie theaters,
+
+1063
+00:46:44,327 --> 00:46:47,600
+you decide to go to movie
+or take a nap, et cetera.
+
+1064
+00:46:47,600 --> 00:46:49,400
+Same thing with early
+dinner specials.
+
+1065
+00:46:49,400 --> 00:46:52,070
+People who have more time
+to shop are more elastic.
+
+1066
+00:46:52,070 --> 00:46:53,940
+At night you're going
+out to see the movie.
+
+1067
+00:46:53,940 --> 00:46:55,275
+These are people, you know--
+
+1068
+00:46:55,275 --> 00:46:56,900
+in some sense it's
+sort of interesting.
+
+1069
+00:46:56,900 --> 00:46:57,810
+You think midnight movies--
+
+1070
+00:46:57,810 --> 00:46:59,600
+I don't know if this is
+true, midnight movies
+
+1071
+00:46:59,600 --> 00:47:00,830
+should charge and most of all.
+
+1072
+00:47:00,830 --> 00:47:02,570
+Because that's a bunch of
+insane fans, right, who
+
+1073
+00:47:02,570 --> 00:47:03,743
+have to see the movie first.
+
+1074
+00:47:03,743 --> 00:47:06,160
+It seems like the midnight
+showing should charge the most.
+
+1075
+00:47:06,160 --> 00:47:06,780
+I don't know if that's true.
+
+1076
+00:47:06,780 --> 00:47:08,550
+That would be
+interesting to look at.
+
+1077
+00:47:08,550 --> 00:47:09,990
+OK, that's one example.
+
+1078
+00:47:09,990 --> 00:47:12,500
+Another example I
+love is Disneyland.
+
+1079
+00:47:12,500 --> 00:47:15,320
+Disneyland and Disney
+World charge less
+
+1080
+00:47:15,320 --> 00:47:18,770
+if you live within 20
+or so miles of the park.
+
+1081
+00:47:18,770 --> 00:47:20,863
+Why?
+
+1082
+00:47:20,863 --> 00:47:22,030
+Because you can go whenever.
+
+1083
+00:47:22,030 --> 00:47:24,420
+So when I took my kids to Disney
+World, if I went up and said,
+
+1084
+00:47:24,420 --> 00:47:26,378
+I'm sorry kids, it was
+$10 more than I thought,
+
+1085
+00:47:26,378 --> 00:47:29,500
+we're not going, I would
+have had a riot on my hands.
+
+1086
+00:47:29,500 --> 00:47:31,202
+Once you're there,
+you're inelastic.
+
+1087
+00:47:31,202 --> 00:47:32,410
+You're going to Disney World.
+
+1088
+00:47:32,410 --> 00:47:33,993
+There's nothing else
+to do in Orlando.
+
+1089
+00:47:33,993 --> 00:47:36,280
+I mean, but there's
+other parks, I guess.
+
+1090
+00:47:36,280 --> 00:47:38,200
+But like, but if you
+live locally you can
+
+1091
+00:47:38,200 --> 00:47:40,570
+decide whether to go or not.
+
+1092
+00:47:40,570 --> 00:47:43,450
+And then probably the most
+interesting recent example
+
+1093
+00:47:43,450 --> 00:47:45,710
+is Tesla.
+
+1094
+00:47:45,710 --> 00:47:48,430
+So during-- I feel like, did
+I tell you guys the Tesla
+
+1095
+00:47:48,430 --> 00:47:49,990
+hurricane story yet?
+
+1096
+00:47:49,990 --> 00:47:50,990
+I don't think so, right?
+
+1097
+00:47:50,990 --> 00:47:53,160
+OK, so during the
+hurricane in Florida--
+
+1098
+00:47:53,160 --> 00:47:55,190
+Irma, I guess it was?
+
+1099
+00:47:55,190 --> 00:48:00,350
+In Florida, Tesla-- so Tesla
+so two cars, two models,
+
+1100
+00:48:00,350 --> 00:48:03,350
+the cheaper model and
+the more expensive model.
+
+1101
+00:48:03,350 --> 00:48:05,780
+And the more expensive
+model had some nice doodads,
+
+1102
+00:48:05,780 --> 00:48:09,020
+but most importantly the
+battery lasted longer.
+
+1103
+00:48:09,020 --> 00:48:11,060
+The cheaper model
+was like 300 miles,
+
+1104
+00:48:11,060 --> 00:48:13,610
+the more expensive model
+was like 500 miles.
+
+1105
+00:48:13,610 --> 00:48:19,460
+During hurricane Irma, Tesla
+as a gesture of goodwill said,
+
+1106
+00:48:19,460 --> 00:48:21,740
+hey guys who drive
+the cheap car,
+
+1107
+00:48:21,740 --> 00:48:23,720
+you can now drive 500 miles.
+
+1108
+00:48:23,720 --> 00:48:26,420
+And they're like, what the
+hell, it's the same battery?
+
+1109
+00:48:26,420 --> 00:48:30,250
+Tesla said, well it turns
+out, it's the same battery.
+
+1110
+00:48:30,250 --> 00:48:32,000
+The only difference
+is a piece of software
+
+1111
+00:48:32,000 --> 00:48:34,710
+that we can turn off or on.
+
+1112
+00:48:34,710 --> 00:48:36,920
+So why did Tesla do that?
+
+1113
+00:48:36,920 --> 00:48:41,810
+Why did Tesla have a piece of
+software they turn off or on
+
+1114
+00:48:41,810 --> 00:48:45,230
+and turn it off for some
+people to make them drive less?
+
+1115
+00:48:45,230 --> 00:48:46,660
+Why did they do that?
+
+1116
+00:48:46,660 --> 00:48:47,950
+There's someone else involved.
+
+1117
+00:48:47,950 --> 00:48:49,592
+Can anyone tell me
+about what Tesla
+
+1118
+00:48:49,592 --> 00:48:51,800
+thought, meaning besides
+the, oh, must be an asshole.
+
+1119
+00:48:51,800 --> 00:48:52,300
+What else?
+
+1120
+00:48:52,300 --> 00:48:53,930
+What's the other--
+what's the kind of--
+
+1121
+00:48:53,930 --> 00:48:55,520
+what's Tesla's thought process?
+
+1122
+00:48:55,520 --> 00:48:58,270
+Actually, it was
+perfect economics.
+
+1123
+00:48:58,270 --> 00:48:58,780
+Yeah?
+
+1124
+00:48:58,780 --> 00:48:59,300
+AUDIENCE: Price discrimination.
+
+1125
+00:48:59,300 --> 00:49:00,670
+JONATHAN GRUBER: Right,
+it's price discrimination.
+
+1126
+00:49:00,670 --> 00:49:01,697
+But how?
+
+1127
+00:49:01,697 --> 00:49:04,030
+How are you price discriminating
+by making some people--
+
+1128
+00:49:04,030 --> 00:49:05,170
+yeah?
+
+1129
+00:49:05,170 --> 00:49:09,018
+AUDIENCE: You can make a
+500 mile car more expensive.
+
+1130
+00:49:09,018 --> 00:49:10,060
+JONATHAN GRUBER: Exactly.
+
+1131
+00:49:10,060 --> 00:49:11,743
+It's like first class.
+
+1132
+00:49:11,743 --> 00:49:13,660
+You're basically saying,
+I want to charge more
+
+1133
+00:49:13,660 --> 00:49:15,112
+for a better product.
+
+1134
+00:49:15,112 --> 00:49:16,820
+I can't charge more
+for the same product,
+
+1135
+00:49:16,820 --> 00:49:19,840
+so if I give everyone 500
+miles I can't charge more.
+
+1136
+00:49:19,840 --> 00:49:23,950
+But by making one product
+better I can separate demand.
+
+1137
+00:49:23,950 --> 00:49:26,620
+I can sell the expensive product
+to the low elasticity of demand
+
+1138
+00:49:26,620 --> 00:49:28,480
+consumers and the less
+expensive to the high
+
+1139
+00:49:28,480 --> 00:49:29,470
+elasticity of demand.
+
+1140
+00:49:29,470 --> 00:49:33,370
+But it's actually the same damn
+product, I just did it as a way
+
+1141
+00:49:33,370 --> 00:49:35,090
+to price discriminate.
+
+1142
+00:49:35,090 --> 00:49:37,930
+So Tesla, in an
+effort to be nice,
+
+1143
+00:49:37,930 --> 00:49:40,760
+screwed themselves by revealing
+that they had been actually
+
+1144
+00:49:40,760 --> 00:49:42,625
+falsely screw-- you
+know screwing consumers.
+
+1145
+00:49:42,625 --> 00:49:44,500
+It's not [INAUDIBLE]----
+it's good economics.
+
+1146
+00:49:44,500 --> 00:49:46,190
+It makes total sense.
+
+1147
+00:49:46,190 --> 00:49:48,950
+OK, this actually
+follows one last example.
+
+1148
+00:49:48,950 --> 00:49:52,120
+When the first laser
+printers came out,
+
+1149
+00:49:52,120 --> 00:49:54,320
+OK, it turned out
+that you could buy one
+
+1150
+00:49:54,320 --> 00:49:57,740
+for home that was like half
+the price one for office.
+
+1151
+00:49:57,740 --> 00:49:59,990
+And someone took them apart
+and found the one for home
+
+1152
+00:49:59,990 --> 00:50:02,600
+was the one for the office
+plus an extra piece that
+
+1153
+00:50:02,600 --> 00:50:03,500
+made it go slower.
+
+1154
+00:50:06,540 --> 00:50:08,113
+And they did that
+simply because they
+
+1155
+00:50:08,113 --> 00:50:10,530
+knew the office guys were less
+price elastic than the home
+
+1156
+00:50:10,530 --> 00:50:11,270
+guys.
+
+1157
+00:50:11,270 --> 00:50:12,810
+So they wanted an expensive
+one-- so they said,
+
+1158
+00:50:12,810 --> 00:50:13,810
+the office one's faster.
+
+1159
+00:50:13,810 --> 00:50:14,580
+Isn't this cool?
+
+1160
+00:50:14,580 --> 00:50:16,955
+It was faster because they
+didn't add an extra piece that
+
+1161
+00:50:16,955 --> 00:50:18,247
+made to go slower, OK?
+
+1162
+00:50:18,247 --> 00:50:19,330
+And that's the same thing.
+
+1163
+00:50:19,330 --> 00:50:21,512
+So let's stop there,
+and we'll come back
+
+1164
+00:50:21,512 --> 00:50:22,470
+and talk more monopoly.
+
+1165
+00:50:22,470 --> 00:50:26,310
+Good luck tomorrow night
+and we'll talk more
+
+1166
+00:50:26,310 --> 00:50:28,760
+about monopoly on Wednesday.
