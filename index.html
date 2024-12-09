@@ -65,6 +65,25 @@
         .btn-acceder:hover {
             background-color: #218838;
         }
+        .btn-study-plan {
+            display: inline-block;
+            padding: 12px 25px;
+            background-color: #ff7f50;
+            color: white;
+            font-size: 16px;
+            text-decoration: none;
+            border-radius: 5px;
+            transition: background-color 0.3s ease;
+        }
+
+        .btn-study-plan:hover {
+            background-color: #e66b3d; /* Change color when hovered */
+        }
+
+        /* Styling for the button container */
+        .btn-study-plan {
+            background-color: #28a745; /* Green background */
+        }
     </style>
 </head>
 <body>
@@ -73,6 +92,11 @@
         <p>Selecciona un curso para acceder</p>
         <a href="https://www.edx.org" class="btn-edx" target="_blank">Ir a EDX</a>
     </header>
+
+        <!-- Button to access the study plan -->
+        <div style="text-align: center; margin-top: 20px;">
+            <a href="studyplan.html" class="btn-study-plan">Acceder al Plan de Estudio</a>
+        </div>
 
     <div class="cursos-container" id="cursosContainer"></div>
 
@@ -94,5 +118,6 @@
             })
             .catch(error => console.error('Error al cargar los cursos:', error));
     </script>
+    
 </body>
 </html>
